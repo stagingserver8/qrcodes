@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/tabler.min.css"> <!-- Assuming Tabler CSS is used globally -->
+   
+    <style>
+        body {
+            display: flex;
+            min-height: 100vh;
+            overflow-x: hidden; /* Prevent horizontal scroll */
+            padding: 0; /* Reset default padding */
+            margin: 0; /* Reset default margin */
+        }
+
+        .navbar-vertical {
+            width: 200px; /* Set the sidebar width to 250px or adjust according to your design */
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 1040; /* Ensure sidebar is above other content */
+            background-color: rgba(255, 255, 255, 0.8);
+            overflow-y: auto; /* Allows scrolling within the sidebar */
+        }
+
+        .main-content {
+            margin-left: 200px; /* Ensure this matches the width of your sidebar */
+            width: calc(100% - 200px); /* Adjust width to account for sidebar */
+            flex-grow: 1;
+            padding: 10px;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <aside class="navbar navbar-vertical navbar-expand-lg fixed-left">
+        <div class="container-fluid" style="height: 100vh; overflow-y: auto;">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar-menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="sidebar-menu">
+                <ul class="navbar-nav pt-lg-3">
+                    <li class="nav-item">
+                        <a href="/" class="nav-link">
+                            <span class="nav-link-title">
+                                 Customers
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/qr" class="nav-link">
+                            <span class="nav-link-title">
+                                 QR Code
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/customer-form" class="nav-link">
+                            <span class="nav-link-title">
+                                 Form
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </aside>
+
+</body>
+</html>

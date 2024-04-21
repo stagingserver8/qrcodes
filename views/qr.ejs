@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/tabler.min.css">
+    <title>My QR Code</title>
+</head>
+<body>
+    <div class="main-content">
+    <%- include('partials/sidebar') %> <!-- Updated include syntax -->
+
+
+    <div class="container mt-5">
+        <h1>Scan QR Code to Access Customer Form</h1>
+        <div id="qr-code-container">
+            <img src="/generate-qr" alt="QR Code" style="width: 200px; height: 200px;">
+        </div>
+    </div>
+</div>
+    <script src="/js/main.js"></script>
+</body>
+</html>

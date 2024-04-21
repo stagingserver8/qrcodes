@@ -1,0 +1,22 @@
+.select2-selection__rendered {
+  white-space: wrap !important;
+}
+
+
+
+ .dataTables_wrapper .dataTables_filter {
+  float: left;
+}
+
+/*.dataTables_wrapper .dataTables_length {
+  float: right;
+} */
+
+/* div.dataTables_wrapper div.dataTables_filter select {
+  width: 25%; 
+} */
+div.dataTables_filter   {
+  float: left;
+  width: 100%;
+  /* background-color: aquamarine; */
+}
