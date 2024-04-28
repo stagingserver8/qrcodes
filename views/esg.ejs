@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/tabler.min.css">
+    <title>Comparison</title>
+
+
+    <!-- Include CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Include JS (Popper and Bootstrap) -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+    <div class="main-content">
+    <%- include('partials/sidebar') %> <!-- Updated include syntax -->
+    <br>
+    <br>
+    <br>
+    <div class="mb-3">
+      <br>
+      <label class="form-label">Reporting year</label>
+      <div class="form-selectgroup">
+        <label class="form-selectgroup-item">
+          <input type="radio" name="name" value="HTML" class="form-selectgroup-input" checked />
+          <span class="form-selectgroup-label">2022</span>
+        </label>
+        <label class="form-selectgroup-item">
+          <input type="radio" name="name" value="CSS" class="form-selectgroup-input" />
+          <span class="form-selectgroup-label">2023</span>
+        </label>
+        <label class="form-selectgroup-item">
+          <input type="radio" name="name" value="PHP" class="form-selectgroup-input" />
+          <span class="form-selectgroup-label">2024</span>
+        </label>
+     
+      </div>
+    </div>
+
+
+
+<br>
+<div class="mb-3">
+  <label class="form-label">Item</label>
+  <div class="form-selectgroup">
+      <label class="form-selectgroup-item">
+          <input type="radio" name="item" value="Governance" class="form-selectgroup-input" id="Governance" onchange="updateCardTitles(this.value); clearStandardSelection();" checked />
+          <span class="form-selectgroup-label">Governance</span>
+      </label>
+      <label class="form-selectgroup-item">
+          <input type="radio" name="item" value="Employment" class="form-selectgroup-input" id="Employment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
+          <span class="form-selectgroup-label">Employment</span>
+      </label>
+      <label class="form-selectgroup-item">
+          <input type="radio" name="item" value="Environment" class="form-selectgroup-input" id="Environment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
+          <span class="form-selectgroup-label">Environment</span>
+      </label>
+  </div>
+</div>
+
+
+
+
+<div class="mb-3">
+  <label class="form-label">Standard</label>
+  <div class="form-selectgroup">
+      <label class="form-selectgroup-item">
+          <input type="radio" name="esgStandard" value="GRI" class="form-selectgroup-input" id="GRI" onchange="updateSubOptions('GRI'); clearItemSelection();" />
+          <span class="form-selectgroup-label">GRI</span>
+      </label>
+      <label class="form-selectgroup-item">
+          <input type="radio" name="esgStandard" value="SASB" class="form-selectgroup-input" id="SASB" onchange="updateSubOptions('SASB'); clearItemSelection();" />
+          <span class="form-selectgroup-label">SASB</span>
+      </label>
+      <label class="form-selectgroup-item">
+          <input type="radio" name="esgStandard" value="ESRS" class="form-selectgroup-input" id="ESRS" onchange="updateSubOptions('ESRS'); clearItemSelection();" />
+          <span class="form-selectgroup-label">ESRS</span>
+      </label>
+      <br>
+
+      <br>
+  </div>
+  <br>
+  <br>
+  <div id="subOptionsContainer" class="mb-3"></div>
+</div>
+
+
+
+    <Br>
+ 
+</div>
+
+
+
+
+  </p>
+  <div class="hr-text">Peer Comparison</div>
+  <p>
+
+  <br>
+
+<!-- Cards with tabs component -->
+<div class="card-tabs">
+  <!-- Cards navigation -->
+  <ul class="nav nav-tabs">
+    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab">Asseco</a></li>
+    <li class="nav-item"><a href="#tab-top-2" class="nav-link" data-bs-toggle="tab">Comarch</a></li>
+    <li class="nav-item"><a href="#tab-top-3" class="nav-link" data-bs-toggle="tab">Software AG</a></li>
+   
+  </ul>
+  <div class="tab-content">
+    <div id="tab-top-1" class="card tab-pane active show">
+        <div class="card-body">
+            <div class="card-title"></div>
+            <p class="text-secondary"></p>
+        </div>
+    </div>
+    <div id="tab-top-2" class="card tab-pane">
+        <div class="card-body">
+            <div class="card-title"></div>
+            <p class="text-secondary"></p>
+        </div>
+    </div>
+    <div id="tab-top-3" class="card tab-pane">
+        <div class="card-body">
+            <div class="card-title"></div>
+            <p class="text-secondary"></p>
+        </div>
+    </div>
+</div>
+</div>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</p>
+
+<div class="hr-text">analytics</div>
+
+</body>
+</html>
+
+
+ <script>
+
+      function updateSubOptions(selectedStandard) {
+  const container = document.getElementById('subOptionsContainer');
+  container.innerHTML = '';
+  const subOptions = {
+      'SASB': ['SASB-1', 'SASB-2', 'SASB-3'],
+      'GRI': ['GRI-1', 'GRI-2', 'GRI-3'],
+      'ESRS': ['ESRS-1', 'ESRS-2', 'ESRS-3']
+  }[selectedStandard] || [];
+
+  subOptions.forEach(option => {
+      const badge = document.createElement('span');
+      badge.className = 'badge bg-blue-lt me-2 cursor-pointer';
+      badge.textContent = option;
+      badge.onclick = function() { alert(option + ' clicked'); };
+      container.appendChild(badge);
+  });
+}
+
+function clearStandardSelection() {
+  document.querySelectorAll('input[name="esgStandard"]').forEach(input => input.checked = false);
+  document.getElementById('subOptionsContainer').innerHTML = '';
+}
+
+function clearItemSelection() {
+  document.querySelectorAll('input[name="item"]').forEach(input => input.checked = false);
+}
+
+function updateCardTitles(selectedItem) {
+            // Update all card titles
+            document.querySelectorAll('.card-title').forEach(function(cardTitle) {
+                cardTitle.textContent = selectedItem;
+            });
+        }
+
+        function clearStandardSelection() {
+            document.querySelectorAll('input[name="esgStandard"]').forEach(input => input.checked = false);
+            document.getElementById('subOptionsContainer').innerHTML = '';
+        }
+
+        function clearItemSelection() {
+            document.querySelectorAll('input[name="item"]').forEach(input => input.checked = false);
+        }
+
+        window.onload = function() {
+            // Set initial card titles and select Governance by default
+            updateCardTitles(document.getElementById('Governance').value);
+        };
+</script>

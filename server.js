@@ -38,41 +38,10 @@ router.get('/', async (req, res) => {
 // Use the router
 app.use('/', router); // This line applies the router to the app
 
-// Other routes
-app.post('/api/add-customer', async (req, res) => {
-    const { name, email } = req.body;
-    try {
-        const newCustomer = new Customer({ name, email });
-        await newCustomer.save();
-        res.json({ message: 'Customer added successfully', customer: newCustomer });
-    } catch (error) {
-        console.error("Failed to add customer:", error);
-        res.status(500).send("Failed to add customer");
-    }
-});
-
-app.get('/generate-qr', (req, res) => {
-    const formUrl = `${req.protocol}://${req.get('host')}/customer-form`;
-    QRCode.toDataURL(formUrl, { margin: 1, width: 200 }, (err, url) => {
-        if (err) {
-            console.log("Error generating QR code", err);
-            return res.status(500).send("Failed to generate QR code");
-        }
-        const data = url.split(',')[1]; // Split the URL to remove the data URL header
-        const imgBuffer = Buffer.from(data, 'base64');
-        res.writeHead(200, {
-          'Content-Type': 'image/png',
-          'Content-Length': imgBuffer.length
-        });
-        res.end(imgBuffer); // Send the buffer as response
-    });
-});
-
 // Route for QR Code page
 app.get('/qr', (req, res) => {
     res.render('qr'); // This will render a view called 'qr.ejs' from your views folder
 });
-
 
 app.post('/register', async (req, res) => {
     try {
@@ -87,6 +56,11 @@ app.post('/register', async (req, res) => {
 // Route to serve the Customer Form page
 app.get('/customer-form', (req, res) => {
     res.render('customer-form'); // This will render the customer-form.ejs from your views folder
+});
+
+// Route to serve the Customer Form page
+app.get('/esg', (req, res) => {
+    res.render('esg'); // This will render the customer-form.ejs from your views folder
 });
 
 
@@ -110,3 +84,4 @@ app.delete('/delete-customer/:id', async (req, res) => {
         res.status(500).json({ message: 'Error deleting customer' });
     }
 });
+

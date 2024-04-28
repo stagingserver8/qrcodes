@@ -15,7 +15,7 @@
         }
 
         .navbar-vertical {
-            width: 200px; /* Set the sidebar width to 250px or adjust according to your design */
+            width: 80px !important; /* Reduced width of the sidebar and ensure it applies */
             position: fixed;
             top: 0;
             bottom: 0;
@@ -26,48 +26,77 @@
         }
 
         .main-content {
-            margin-left: 200px; /* Ensure this matches the width of your sidebar */
+            margin-left: 100px; /* Ensure this matches the width of your sidebar */
             width: calc(100% - 200px); /* Adjust width to account for sidebar */
             flex-grow: 1;
             padding: 10px;
-            padding-left: 20px;
+            padding-left: 15px;
         }
+
+        .nav-link .icon {
+    width: 120px;  /* Increase from 25px to 36px for 75% increase */
+    height: 120px;  /* Same increase for height */
+}
+
+.navbar-vertical .navbar-nav .nav-item {
+    margin-bottom: -32px; /* Reduce the bottom margin to decrease the gap */
+    margin-top: -50px;
+}
+
+
+    
+
     </style>
 </head>
 <body>
-    <!-- Sidebar -->
-    <aside class="navbar navbar-vertical navbar-expand-lg fixed-left">
-        <div class="container-fluid" style="height: 100vh; overflow-y: auto;">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar-menu">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="sidebar-menu">
-                <ul class="navbar-nav pt-lg-3">
-                    <li class="nav-item">
-                        <a href="/" class="nav-link">
-                            <span class="nav-link-title">
-                                 Customers
-                            </span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="/qr" class="nav-link">
-                            <span class="nav-link-title">
-                                 QR Code
-                            </span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="/customer-form" class="nav-link">
-                            <span class="nav-link-title">
-                                 Form
-                            </span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </aside>
 
+
+    <div class="page-header">
+        <div class="row align-items-center">
+          <div class="col">
+            <div class="page-pretitle">
+              Asseco
+            </div>
+            <h2 class="page-title">
+              Dashboard
+            </h2>
+          </div>
+        
+        <br>
+              </span>
+
+
+              <aside class="navbar navbar-vertical navbar-expand-lg fixed-left">
+                <div class="container-fluid" style="height: 100vh; overflow-y: auto;">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar-menu">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="sidebar-menu">
+                        <ul class="navbar-nav pt-lg-3">
+                            <li class="nav-item">
+                                <a href="/customers" class="nav-link">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-compass">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                                        <path d="M8 16l2 -6l6 -2l-2 6l-6 2" />
+                                        <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+                                        <path d="M12 3l0 2" />
+                                        <path d="M12 19l0 2" />
+                                        <path d="M3 12l2 0" />
+                                        <path d="M19 12l2 0" />
+                                    </svg>
+                                </a>
+                                
+                                
+                            </li>
+                            <li class="nav-item">
+                                <a href="/esg" class="nav-link">
+                                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-report"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h5.697" /><path d="M18 14v4h4" /><path d="M18 11v-4a2 2 0 0 0 -2 -2h-2" /><path d="M8 3m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v0a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z" /><path d="M18 18m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" /><path d="M8 11h4" /><path d="M8 15h3" /></svg>
+                                    <span class="nav-link-title"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </aside>
 </body>
 </html>
