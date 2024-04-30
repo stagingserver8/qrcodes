@@ -1,0 +1,69 @@
+{
+  "company": "Asseco",
+  "country": "Poland",
+  "year": 2022,
+  "category": "Corporate Governance",
+  "BoardOfDirectors": {
+      "GRI_Codes": ["2-9", "2-10", "2-11", "2-13", "2-14", "2-15", "2-18", "2-20"],
+      "TotalMembers": 8,
+      "TotalMen": 7,
+      "TotalWomen": 1,
+      "Members": [
+          {
+              "name": "Jacek Duch",
+              "title": "Chairman of the Supervisory Board"
+          },
+          {
+              "name": "Adam Noga",
+              "title": "Vice Chairman of the Supervisory Board"
+          },
+          {
+              "name": "Izabela Albrycht",
+              "title": "Member of the Supervisory Board"
+          },
+          {
+              "name": "Piotr Augustyniak",
+              "title": "Member of the Supervisory Board"
+          },
+          {
+              "name": "Dariusz Brzeski",
+              "title": "Member of the Supervisory Board"
+          },
+          {
+              "name": "Artur Gabor",
+              "title": "Member of the Supervisory Board"
+          },
+          {
+              "name": "Piotr Maciąg",
+              "title": "Member of the Supervisory Board"
+          },
+          {
+              "name": "Tobias Solorz",
+              "title": "Member of the Supervisory Board"
+          },
+          {
+              "name": "Piotr Żak",
+              "title": "Member of the Supervisory Board"
+          }
+      ]
+  },
+  "AuditCommittee": {
+      "GRI_Codes": ["2-16"],
+      "Members": [
+          {
+              "name": "Artur Gabor",
+              "title": "Chairman of the Audit Committee"
+          },
+          {
+              "name": "Piotr Augustyniak",
+              "title": "Member of the Audit Committee"
+          },
+          {
+              "name": "Jacek Duch",
+              "title": "Member of the Audit Committee"
+          }
+      ],
+      "MeetingDate": "2022-01-11",
+      "Description": "The Committee was elected at the January 11, 2022 Supervisory Board meeting. In connection with the appointment of the Audit Committee for the new term of the Supervisory Board, the Board, acting pursuant to Article 129 of the Act on Statutory Auditors, Audit Firms and Public Supervision and § 8 of the Regulations of the Supervisory Board - assessed the fulfillment of the requirements for the Audit Committee such that: Knowledge and skills in accounting or auditing resulting from Art. 129 para. 1 are held by Artur Gabor, as evidenced by his education obtained at the Faculty of Economics at University College London and the Faculty of Law at the University of Warsaw, the professional course 'International Accounting Standards' (BDO, Warsaw, Poland), numerous additional courses and seminars on corporate governance and effectiveness of supervisory boards organized by the Polish Institute of Directors, the Warsaw Stock Exchange, the Ministry of Treasury, the Gdańsk Academy of Banking, PwC and KPMG, as well as extensive professional experience gained in Polish and foreign companies, including as a Member of Supervisory Boards and Audit Committees. Independence criterion under Art. 129 para. 3 is met by: Piotr Augustyniak and Artur Gabor. Knowledge and skills in the industry in which Asseco Poland operates, resulting from Art. 129 para. 5, are held by: Jacek Duch (a graduate of the Warsaw University of Technology with a specialization in computer science) and Piotr Augustyniak, confirmed by their multi-annual professional experience gained in IT companies, including those of the Asseco Group. The description of the Audit Committee's operations, in addition to the scope explicitly described in the mandatory provisions of law, is contained in the Regulations of the Supervisory Board, which is published on the company's website."
+  }
+}
