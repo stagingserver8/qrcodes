@@ -1,69 +1,214 @@
 {
-  "company": "Asseco",
-  "country": "Poland",
-  "year": 2022,
-  "category": "Corporate Governance",
-  "BoardOfDirectors": {
-      "GRI_Codes": ["2-9", "2-10", "2-11", "2-13", "2-14", "2-15", "2-18", "2-20"],
-      "TotalMembers": 8,
-      "TotalMen": 7,
-      "TotalWomen": 1,
-      "Members": [
-          {
-              "name": "Jacek Duch",
-              "title": "Chairman of the Supervisory Board"
+    "reports": [
+      {
+        "companyName": "Asseco",
+        "reportYear": 2022,
+        "sections": {
+          "Environment": {
+            "Climate": {
+              "description": "Description of Climate initiatives and outcomes.",
+              "tag": "2-3"
+            },
+            "Energy": {
+              "description": "Details on energy consumption and energy efficiency measures.",
+              "tag": "2-4"
+            },
+            "Emissions": {
+              "description": "Emissions data and reduction strategies.",
+              "tag": "2-5"
+            },
+             "Water": {
+              "description": "Water usage and conservation efforts.",
+              "tag": "2-6"
+            }
           },
-          {
-              "name": "Adam Noga",
-              "title": "Vice Chairman of the Supervisory Board"
+          "Social": {
+            "People": {
+              "description": "Information about workforce dynamics and policies.",
+              "tag": "3-1"
+            },
+            "Pay": {
+              "description": "Pay structures and disparities.",
+              "tag": "3-2"
+            },
+            "Equality": {
+              "description": "Efforts and outcomes in promoting workplace equality.",
+              "tag": "3-3"
+            }
           },
-          {
-              "name": "Izabela Albrycht",
-              "title": "Member of the Supervisory Board"
+          "Governance": {
+            "BoardOfDirectors": {
+              "description": "Composition and responsibilities of the Board.",
+              "tag": "1-1",
+              "TotalMembers": 8,
+              "TotalMen": 7,
+              "TotalWomen": 1,
+              "Members": [
+                {"name": "Jacek Duch", "title": "Chairman of the Supervisory Board"},
+                {"name": "Adam Noga", "title": "Vice Chairman of the Supervisory Board"},
+                {"name": "Izabela Albrycht", "title": "Member of the Supervisory Board"},
+                {"name": "Piotr Augustyniak", "title": "Member of the Supervisory Board"},
+                {"name": "Dariusz Brzeski", "title": "Member of the Supervisory Board"},
+                {"name": "Artur Gabor", "title": "Member of the Supervisory Board"},
+                {"name": "Piotr Maciąg", "title": "Member of the Supervisory Board"},
+                {"name": "Tobias Solorz", "title": "Member of the Supervisory Board"},
+                {"name": "Piotr Żak", "title": "Member of the Supervisory Board"}
+              ]
+            },
+            "AuditCommittee": {
+              "description": "Audit Committee's role and meeting highlights.",
+              "tag": "1-2",
+              "TotalMembers": 3,
+              "MeetingDate": "2022-01-11",
+              "Members": [
+                {"name": "Artur Gabor", "title": "Chairman of the Audit Committee"},
+                {"name": "Piotr Augustyniak", "title": "Member of the Audit Committee"},
+                {"name": "Jacek Duch", "title": "Member of the Audit Committee"}
+              ]
+            },
+            "Management": {
+              "description": "Management strategies and executive decisions.",
+              "tag": "1-3"
+            }
           },
-          {
-              "name": "Piotr Augustyniak",
-              "title": "Member of the Supervisory Board"
-          },
-          {
-              "name": "Dariusz Brzeski",
-              "title": "Member of the Supervisory Board"
-          },
-          {
-              "name": "Artur Gabor",
-              "title": "Member of the Supervisory Board"
-          },
-          {
-              "name": "Piotr Maciąg",
-              "title": "Member of the Supervisory Board"
-          },
-          {
-              "name": "Tobias Solorz",
-              "title": "Member of the Supervisory Board"
-          },
-          {
-              "name": "Piotr Żak",
-              "title": "Member of the Supervisory Board"
+          "Other": {
+            "description": "Additional relevant information not covered in other sections.",
+            "tag": "4-1"
           }
-      ]
-  },
-  "AuditCommittee": {
-      "GRI_Codes": ["2-16"],
-      "Members": [
-          {
-              "name": "Artur Gabor",
-              "title": "Chairman of the Audit Committee"
+        }
+      },
+      {
+        "companyName": "Comarch",
+        "reportYear": 2022,
+        "sections": {
+          "Environment": {
+            "Climate": {
+              "description": "Comarch's approach to mitigating climate impact through sustainable practices.",
+              "tag": "2-3"
+            },
+            "Energy": {
+              "description": "Energy management and optimization strategies at Comarch.",
+              "tag": "2-4"
+            },
+            "Emissions": {
+              "description": "Overview of Comarch's emissions footprint and reduction initiatives.",
+              "tag": "2-5"
+            }
           },
-          {
-              "name": "Piotr Augustyniak",
-              "title": "Member of the Audit Committee"
+          "Social": {
+            "People": {
+              "description": "Human resources policies and employee welfare initiatives at Comarch.",
+              "tag": "3-1"
+            },
+            "Pay": {
+              "description": "Compensation structures and transparency at Comarch.",
+              "tag": "3-2"
+            },
+            "Equality": {
+              "description": "Diversity and equality practices within Comarch.",
+              "tag": "3-3"
+            }
           },
-          {
-              "name": "Jacek Duch",
-              "title": "Member of the Audit Committee"
+          "Governance": {
+            "BoardOfDirectors": {
+              "description": "Governance and oversight by Comarch's Board of Directors.",
+              "tag": "1-1",
+              "TotalMembers": 5,
+              "TotalMen": 3,
+              "TotalWomen": 2,
+              "Members": [
+                {"name": "Jan Kowalski", "title": "Chairman of the Board"},
+                {"name": "Ewa Nowak", "title": "Board Member"},
+                {"name": "Tomasz Baran", "title": "Board Member"}
+              ]
+            },
+            "AuditCommittee": {
+              "description": "Function and responsibilities of Comarch's Audit Committee.",
+              "tag": "1-2",
+              "TotalMembers": 2,
+              "MeetingDate": "2022-05-15",
+              "Members": [
+                {"name": "Ewa Nowak", "title": "Chairperson of the Audit Committee"},
+                {"name": "Tomasz Baran", "title": "Member of the Audit Committee"}
+              ]
+            },
+            "Management": {
+              "description": "Strategic management and operational decisions at Comarch.",
+              "tag": "1-3"
+            }
+          },
+          "Other": {
+            "description": "Other essential information about Comarch not categorized elsewhere.",
+            "tag": "4-1"
           }
-      ],
-      "MeetingDate": "2022-01-11",
-      "Description": "The Committee was elected at the January 11, 2022 Supervisory Board meeting. In connection with the appointment of the Audit Committee for the new term of the Supervisory Board, the Board, acting pursuant to Article 129 of the Act on Statutory Auditors, Audit Firms and Public Supervision and § 8 of the Regulations of the Supervisory Board - assessed the fulfillment of the requirements for the Audit Committee such that: Knowledge and skills in accounting or auditing resulting from Art. 129 para. 1 are held by Artur Gabor, as evidenced by his education obtained at the Faculty of Economics at University College London and the Faculty of Law at the University of Warsaw, the professional course 'International Accounting Standards' (BDO, Warsaw, Poland), numerous additional courses and seminars on corporate governance and effectiveness of supervisory boards organized by the Polish Institute of Directors, the Warsaw Stock Exchange, the Ministry of Treasury, the Gdańsk Academy of Banking, PwC and KPMG, as well as extensive professional experience gained in Polish and foreign companies, including as a Member of Supervisory Boards and Audit Committees. Independence criterion under Art. 129 para. 3 is met by: Piotr Augustyniak and Artur Gabor. Knowledge and skills in the industry in which Asseco Poland operates, resulting from Art. 129 para. 5, are held by: Jacek Duch (a graduate of the Warsaw University of Technology with a specialization in computer science) and Piotr Augustyniak, confirmed by their multi-annual professional experience gained in IT companies, including those of the Asseco Group. The description of the Audit Committee's operations, in addition to the scope explicitly described in the mandatory provisions of law, is contained in the Regulations of the Supervisory Board, which is published on the company's website."
+        }
+      },
+      {
+        "companyName": "Software AG",
+        "reportYear": 2022,
+        "sections": {
+          "Environment": {
+            "Climate": {
+              "description": "Software AG's climate change strategies and carbon neutrality goals.",
+              "tag": "2-3"
+            },
+            "Energy": {
+              "description": "Details on Software AG's energy usage and sustainability efforts.",
+              "tag": "2-4"
+            },
+            "Emissions": {
+              "description": "Reduction of greenhouse gas emissions at Software AG.",
+              "tag": "2-5"
+            }
+          },
+          "Social": {
+            "People": {
+              "description": "Employee engagement and development programs at Software AG.",
+              "tag": "3-1"
+            },
+            "Pay": {
+              "description": "Pay equity and bonus structures at Software AG.",
+              "tag": "3-2"
+            },
+            "Equality": {
+              "description": "Initiatives to ensure equality and prevent discrimination at Software AG.",
+              "tag": "3-3"
+            }
+          },
+          "Governance": {
+            "BoardOfDirectors": {
+              "description": "Corporate governance practices and board structure at Software AG.",
+              "tag": "1-1",
+              "TotalMembers": 7,
+              "TotalMen": 5,
+              "TotalWomen": 2,
+              "Members": [
+                {"name": "Hans Müller", "title": "Chairman"},
+                {"name": "Maria Schmidt", "title": "Vice Chairwoman"},
+                {"name": "John Doe", "title": "Board Member"}
+              ]
+            },
+            "AuditCommittee": {
+              "description": "Audit processes and compliance at Software AG.",
+              "tag": "1-2",
+              "TotalMembers": 3,
+              "MeetingDate": "2022-03-20",
+              "Members": [
+                {"name": "Maria Schmidt", "title": "Audit Committee Chair"},
+                {"name": "John Doe", "title": "Audit Committee Member"}
+              ]
+            },
+            "Management": {
+              "description": "Management strategies and leadership at Software AG.",
+              "tag": "1-3"
+            }
+          },
+          "Other": {
+            "description": "Additional significant insights into Software AG's operations.",
+            "tag": "4-1"
+          }
+        }
+      }
+    ]
   }
-}
+  

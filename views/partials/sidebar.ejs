@@ -8,14 +8,15 @@
     <style>
         body {
             display: flex;
+            flex-direction: column; /* Change layout to vertical stacking */
             min-height: 100vh;
             overflow-x: hidden; /* Prevent horizontal scroll */
             padding: 0; /* Reset default padding */
             margin: 0; /* Reset default margin */
         }
-
+    
         .navbar-vertical {
-            width: 80px !important; /* Reduced width of the sidebar and ensure it applies */
+            width: 250px; /* Adjusted width for better fit */
             position: fixed;
             top: 0;
             bottom: 0;
@@ -24,30 +25,42 @@
             background-color: rgba(255, 255, 255, 0.8);
             overflow-y: auto; /* Allows scrolling within the sidebar */
         }
-
+    
         .main-content {
-            margin-left: 100px; /* Ensure this matches the width of your sidebar */
-            width: calc(100% - 200px); /* Adjust width to account for sidebar */
+            margin-left: 260px; /* Adjusted to new sidebar width */
+            width: calc(100% - 260px); /* Adjust width to account for sidebar */
             flex-grow: 1;
-            padding: 10px;
+            padding: 10px; /* Adjust padding as needed */
             padding-left: 15px;
+
+        }
+    
+        /* Ensure that the tabs and other elements in the main content do not get pushed aside by the navbar */
+        .card-tabs {
+            width: 100%; /* Ensure card tabs take full width of the container */
+            padding-top: 20px; /* Add some space at the top if needed */
         }
 
-        .nav-link .icon {
-    width: 120px;  /* Increase from 25px to 36px for 75% increase */
-    height: 120px;  /* Same increase for height */
-    color: grey;
-}
-
-.navbar-vertical .navbar-nav .nav-item {
-    margin-bottom: -32px; /* Reduce the bottom margin to decrease the gap */
-    margin-top: -50px;
-}
+        .nav-link {
+            display: flex; /* Flex layout for icon and text */
+            align-items: center; /* Center items vertically */
+            gap: 10px; /* Space between icon and text */
+        }
 
 
-    
+        .icon {
+            width: 25px;  /* Icon width */
+            height: 25px;  /* Icon height */
+        }
+
+        .nav-link .nav-link-title {
+            display: inline; /* Ensures text is aligned next to icon */
+        }
+
+
 
     </style>
+    
 </head>
 <body>
 
