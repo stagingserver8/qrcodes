@@ -2,44 +2,46 @@
     "reports": [
       {
         "companyName": "Asseco",
-        "reportYear": 2022,
+        "reportYear": 2023,
+        "reportname": "Asseco Group Integrated Report 2023",
+        "link": "https://www.asseco.com/annual-report-2023/",
         "sections": {
           "Environment": {
             "Climate": {
               "description": "Description of Climate initiatives and outcomes.",
-              "tag": "2-3"
+              "tag": "GRI 2-1"
             },
             "Energy": {
               "description": "Details on energy consumption and energy efficiency measures.",
-              "tag": "2-4"
+              "tag": "GRI 2-4"
             },
             "Emissions": {
               "description": "Emissions data and reduction strategies.",
-              "tag": "2-5"
+              "tag": "GRI 2-5"
             },
              "Water": {
               "description": "Water usage and conservation efforts.",
-              "tag": "2-6"
+              "tag": "GRI 2-6"
             }
           },
           "Social": {
             "People": {
               "description": "Information about workforce dynamics and policies.",
-              "tag": "3-1"
+              "tag": "GRI 3-1"
             },
             "Pay": {
               "description": "Pay structures and disparities.",
-              "tag": "3-2"
+              "tag": "GRI 3-2"
             },
             "Equality": {
               "description": "Efforts and outcomes in promoting workplace equality.",
-              "tag": "3-3"
+              "tag": "GRI 2-1"
             }
           },
           "Governance": {
             "BoardOfDirectors": {
               "description": "Composition and responsibilities of the Board.",
-              "tag": "1-1",
+              "tag": "GRI 1-1",
               "TotalMembers": 8,
               "TotalMen": 7,
               "TotalWomen": 1,
@@ -57,7 +59,7 @@
             },
             "AuditCommittee": {
               "description": "Audit Committee's role and meeting highlights.",
-              "tag": "1-2",
+              "tag": "GRI 1-2",
               "TotalMembers": 3,
               "MeetingDate": "2022-01-11",
               "Members": [
@@ -68,51 +70,66 @@
             },
             "Management": {
               "description": "Management strategies and executive decisions.",
-              "tag": "1-3"
+              "tag": "GRI 1-3"
             }
           },
           "Other": {
-            "description": "Additional relevant information not covered in other sections.",
-            "tag": "4-1"
+            "About": {
+              "description": "Description about the company.",
+              "tag": "GRI 4-1"
+            },
+            "BusinessModel": {
+              "description": "Information about the company's business model.",
+              "tag": "GRI 4-2"
+            },
+            "MaterialityAssessment": {
+               "description": "<br><br> 1- Corporate governance: Structure and composition of supervisory bodies, criteria for the selection of members of the top management body, the role of the top management body in overseeing management, delegation of responsibility, communication of significant issues reported to the supervisory body, evaluation of the performance of the top management body, and additionally information on the remuneration policy (division into fixed, variable parts, how the remuneration policy is determined).<br>2- Economic performance: Information on the creation and distribution of economic value is a key indicator of how the organization has created value for stakeholders. In addition, opportunities and risks for the organization related to climate change, pension obligations and financial support received from the state (e.g., tax breaks, grants, subsidies).<br>3- Preventing corruption: Confirmed cases of corruption, measures taken to prevent corruption, communication and training on the organization's anti-corruption policies and procedures.<br>4- Anti-competitive behavior: Cases of anti-competitive and antitrust behavior, legal steps taken if identified.<br>5- Stakeholder engagement: Approach to engaging groups that influence or are influenced by the organization - identifying stakeholders and ensuring satisfactory engagement.<br>6- Data protection: Protection of personal data of employees, co-workers and personal data entrusted to Asseco for processing by customers in the course of services provided.<br>7- Taxes: Approaches to taxation, tax governance management, and tax risk control and management (by country of operation).<br>8- Prevention of discrimination: Identification of cases of discrimination and types of corrective actions taken.<br>9- Management of risks associated with interruptions to information systems: Risks associated with IT system downtime (for the organization and its customers).<br>10- Activities and employees: The company's value chain (business sectors, supply chain, beneficiaries, business relationships), breakdown of employees in the group (by gender, region of employment), information on the form of employment (e.g., employment agreements, contracts, full-time, part-time) by gender and region of employment.<br>11- Employment: Hiring of new employees and turnover (by age group, gender and region), employee benefits, impact of parental leave on employees' return to work.<br>12- Diversity and equal opportunities: Salaries and composition of supervisory departments by gender, age and ethnicity.<br>13- Strategy, policies and practices: Possessed and implemented strategies and policies (e.g., sustainable development strategies) – the implementation of obligations arising from them, opportunities to influence their content. Good practices at the level of compliance with laws and regulations and membership in associations and organizations.<br>14- Environmental impact of network infrastructure: Include environmental considerations in strategic planning of data center needs (p. energy, water).<br>15- Waste: Level of waste generation, waste management, waste diverted for recycling and disposal, waste reduction measures.<br>16- Energy: The amount of energy consumed internally and externally in the organization including energy sources (renewable/non-renewable), the intensity of energy consumption, plans and their implementation on how to reduce energy consumption including reducing the energy demand of products and services.<br>17- Emissions: Indirect and direct emissions of greenhouse gases (GHG) and other harmful gases and substances generated by the organization, emission intensity (e.g., the amount of emissions per product or employee), and plans for reducing emissions.<br>18- Development activities and education: Average number of training hours per employee and description of development programs available to employees.<br>19- Environmental assessment of suppliers: Checking product and service suppliers for compliance with environmental requirements.<br>20- Data privacy and freedom of expression: Privacy of user data and related procedures, use of user information for secondary purposes, censorship or monitoring of primary products or services by governments (in countries of operation of organizations).<br>21- Consumer privacy: Complaints about violations of customer privacy.<br>22- Activity indicators – licenses, subscriptions: Figures for licenses, subscriptions, and data processing capacity, including cloud.<br>23- Public policy: Support given to political parties, lobbying.<br>24- Local community: Community engagement programs and activities that have a negative impact on communities.<br>25- Occupational health and safety: Health and safety system, hazard identification, identification and investigation of causes of accidents, health and safety training, access to occupational health services, promotion of healthy lifestyles among employees, information on existing occupational diseases among the organization's employees.<br>26- Purchasing practices: Consideration of local suppliers (at the national level) in procurement.<br>27- Forced or compulsory labor: Identification of the risk of incidents of forced or compulsory labor and actions taken to effectively eliminate forced or compulsory labor (including at suppliers).<br>28- Indirect economic impact: Significant positive and negative indirect economic impacts of the organization (e.g., infrastructure investment, economic development in high-poverty areas, change in productivity of the organization, sectors or the economy as a whole).<br>29- Social evaluation of the supplier: Checking product and service suppliers for compliance with social requirements (e.g., employment, including in the supply chain).<br>30- Water and wastewater: Water and wastewater management, water intake and discharge, impacts on water stress areas, management of impacts related to water discharge.<br>31- Relationships between employees and management: Minimum notice periods in connection with operational changes in the organization, the minimum period between the communication of operational changes in the organization affecting individual and/or collectively bargained employees and their entry into force.<br>32- Market presence: For the organization's main locations of operations - how employment presents itself in the context of the local market (the percentage of senior executives hired from local communities and the ratio of the average salary to the local minimum wage). <br><br>",
+               "image": "images/matass.png",
+               "page" : "23-22",
+
+
+              "tag": ["GRI 2-1", "GRI 2-29", "GRI 3-1", "GRI 3-2"]	
+            }
+          
           }
         }
       },
       {
         "companyName": "Comarch",
-        "reportYear": 2022,
+        "reportYear": 2023,
         "sections": {
           "Environment": {
             "Climate": {
               "description": "Comarch's approach to mitigating climate impact through sustainable practices.",
-              "tag": "2-3"
+              "tag": "GRI 2-1"
             },
             "Energy": {
               "description": "Energy management and optimization strategies at Comarch.",
-              "tag": "2-4"
+              "tag": "GRI 2-4"
             },
             "Emissions": {
               "description": "Overview of Comarch's emissions footprint and reduction initiatives.",
-              "tag": "2-5"
+              "tag": "GRI 2-5"
             }
           },
           "Social": {
             "People": {
               "description": "Human resources policies and employee welfare initiatives at Comarch.",
-              "tag": "3-1"
+              "tag": "GRI 3-1"
             },
             "Pay": {
               "description": "Compensation structures and transparency at Comarch.",
-              "tag": "3-2"
+              "tag": "GRI 2-1"
             },
             "Equality": {
               "description": "Diversity and equality practices within Comarch.",
-              "tag": "3-3"
+              "tag": "GRI 3-3"
             }
           },
           "Governance": {
             "BoardOfDirectors": {
               "description": "Governance and oversight by Comarch's Board of Directors.",
-              "tag": "1-1",
+              "tag": "GRI 1-1",
               "TotalMembers": 5,
               "TotalMen": 3,
               "TotalWomen": 2,
@@ -124,7 +141,7 @@
             },
             "AuditCommittee": {
               "description": "Function and responsibilities of Comarch's Audit Committee.",
-              "tag": "1-2",
+              "tag": "GRI 1-2",
               "TotalMembers": 2,
               "MeetingDate": "2022-05-15",
               "Members": [
@@ -134,51 +151,62 @@
             },
             "Management": {
               "description": "Strategic management and operational decisions at Comarch.",
-              "tag": "1-3"
+              "tag": "GRI 1-3"
             }
           },
           "Other": {
-            "description": "Other essential information about Comarch not categorized elsewhere.",
-            "tag": "4-1"
+            "About": {
+              "description": "Description about the company.",
+              "tag": "GRI 4-1"
+            },
+            "BusinessModel": {
+              "description": "Information about the company's business model.",
+              "tag": "GRI 4-2"
+            },
+            "MaterialityAssessment": {
+              "description": "<br> 1- Business profile and market environment <br> 2- the branch in which Comarch operates, <br> 3- Impact on the community and the natural environment, <br> 4- Stakeholders expectations.",
+              "tag": "GRI 4-3"
+            }
+          
           }
         }
       },
       {
         "companyName": "Software AG",
-        "reportYear": 2022,
+        "reportYear": 2023,
         "sections": {
           "Environment": {
             "Climate": {
               "description": "Software AG's climate change strategies and carbon neutrality goals.",
-              "tag": "2-3"
+              "tag": "GRI 2-1"
             },
             "Energy": {
               "description": "Details on Software AG's energy usage and sustainability efforts.",
-              "tag": "2-4"
+              "tag": "GRI 2-4"
             },
             "Emissions": {
               "description": "Reduction of greenhouse gas emissions at Software AG.",
-              "tag": "2-5"
+              "tag": "GRI 2-5"
             }
           },
           "Social": {
             "People": {
               "description": "Employee engagement and development programs at Software AG.",
-              "tag": "3-1"
+              "tag": "GRI 3-1"
             },
             "Pay": {
               "description": "Pay equity and bonus structures at Software AG.",
-              "tag": "3-2"
+              "tag": "GRI 3-2"
             },
             "Equality": {
               "description": "Initiatives to ensure equality and prevent discrimination at Software AG.",
-              "tag": "3-3"
+              "tag": "GRI 3-3"
             }
           },
           "Governance": {
             "BoardOfDirectors": {
               "description": "Corporate governance practices and board structure at Software AG.",
-              "tag": "1-1",
+              "tag": "GRI 1-1",
               "TotalMembers": 7,
               "TotalMen": 5,
               "TotalWomen": 2,
@@ -190,7 +218,7 @@
             },
             "AuditCommittee": {
               "description": "Audit processes and compliance at Software AG.",
-              "tag": "1-2",
+              "tag": "GRI 1-2",
               "TotalMembers": 3,
               "MeetingDate": "2022-03-20",
               "Members": [
@@ -200,12 +228,12 @@
             },
             "Management": {
               "description": "Management strategies and leadership at Software AG.",
-              "tag": "1-3"
+              "tag": "GRI 1-3"
             }
           },
           "Other": {
             "description": "Additional significant insights into Software AG's operations.",
-            "tag": "4-1"
+            "tag": "GRI 4-1"
           }
         }
       }

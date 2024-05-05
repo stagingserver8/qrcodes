@@ -25,25 +25,24 @@
     <br>
     <div class="mb-3">
       <br>
-      <label class="form-label">Reporting year</label>
-      <div class="form-selectgroup">
-        <label class="form-selectgroup-item">
-          <input type="radio" name="name" value="HTML" class="form-selectgroup-input" checked />
-          <span class="form-selectgroup-label">2022</span>
-        </label>
-        <label class="form-selectgroup-item">
-          <input type="radio" name="name" value="CSS" class="form-selectgroup-input" />
-          <span class="form-selectgroup-label">2023</span>
-        </label>
-        <label class="form-selectgroup-item">
-          <input type="radio" name="name" value="PHP" class="form-selectgroup-input" />
-          <span class="form-selectgroup-label">2024</span>
-        </label>
+
+     <label class="form-label">Reporting year</label>
+<div class="form-selectgroup">
+    <label class="form-selectgroup-item">
+        <input type="radio" name="reportingYear" value="2022" class="form-selectgroup-input" checked />
+        <span class="form-selectgroup-label">2022</span>
+    </label>
+    <label class="form-selectgroup-item">
+        <input type="radio" name="reportingYear" value="2023" class="form-selectgroup-input" />
+        <span class="form-selectgroup-label">2023</span>
+    </label>
+    <label class="form-selectgroup-item">
+        <input type="radio" name="reportingYear" value="2024" class="form-selectgroup-input" />
+        <span class="form-selectgroup-label">2024</span>
+    </label>
      
       </div>
     </div>
-
-
 
 <br>
 <div class="mb-3">
@@ -90,6 +89,13 @@
   <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Pay')">Pay</span>
   <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Equality')">Equality</span>
 </div>
+
+<div id="OtherSubheadings" class="mb-3" style="display: none;">
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'About')">About</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'BusinessModel')">Business Model</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'MaterialityAssessment')">Materiality Assessment</span>
+  </div>
+  
 
 
 
@@ -181,39 +187,39 @@
 
 
  <script>
-
 function loadData(section, subSection) {
+    const selectedYear = document.querySelector('input[name="reportingYear"]:checked').value;
+
     fetch('reports.json')
     .then(response => response.json())
     .then(data => {
-        // Loop through each tab and update the content
-        data.reports.forEach((company, index) => {
-            const sectionData = company.sections[section][subSection];
-            const description = sectionData.description;
+        const tabs = document.querySelectorAll('.tab-content .card');
+        tabs.forEach(tab => {
+            tab.querySelector('.card-title').textContent = '';
+            tab.querySelector('.text-secondary').innerHTML = '';
+        });
 
-            let content = `<strong>Description:</strong> ${description}<br>`;
+        data.reports.forEach((report, index) => {
+            if (report.reportYear.toString() === selectedYear) {
+                const sectionData = report.sections[section]?.[subSection];
+                if (sectionData) {
+                    let content = "";
+                    // If there is an image, add it first
+                    if (sectionData.image) {
+                        content += `<img src="${sectionData.image}" alt="Materiality Assessment Image" style="max-width:100%; height:auto;"><br>`;
+                    }
+                    // Add the description after the image
+                    content += `<strong>Description:</strong> ${sectionData.description}<br>`;
 
-            // Check if Members exists and if it's an array with length
-            if (sectionData.Members && sectionData.Members.length > 0) {
-                content += `<strong>Total Members:</strong> ${sectionData.TotalMembers || 'N/A'}<br>
-                            <strong>Total Men:</strong> ${sectionData.TotalMen || 'N/A'}<br>
-                            <strong>Total Women:</strong> ${sectionData.TotalWomen || 'N/A'}<br><br>
-                            <strong>Members:</strong><ul>`;
-                sectionData.Members.forEach(member => {
-                    content += `<li>${member.name} - ${member.title}</li>`;
-                });
-                content += "</ul>";
+                    const tabPane = document.getElementById(`tab-top-${index + 1}`);
+                    tabPane.querySelector('.card-title').textContent = subSection.replace(/([A-Z])/g, ' $1').trim(); // Capitalize and format subsection name
+                    tabPane.querySelector('.text-secondary').innerHTML = content;
+                }
             }
-
-            // Set the content for the specific tab
-            const tabPane = document.getElementById(`tab-top-${index + 1}`);
-            tabPane.querySelector('.card-title').textContent = subSection.replace(/([A-Z])/g, ' $1').trim();
-            tabPane.querySelector('.text-secondary').innerHTML = content;
         });
     })
     .catch(error => {
         console.error('Error loading data:', error);
-        // Display error in all tabs in case of failure
         data.reports.forEach((_, index) => {
             const tabPane = document.getElementById(`tab-top-${index + 1}`);
             tabPane.querySelector('.card-title').textContent = 'Error';
@@ -224,118 +230,86 @@ function loadData(section, subSection) {
 
 
 
-function loadBoardMembersChart() {
-    fetch('reports.json')
-    .then(response => response.json())
-    .then(data => {
-        const totalMembers = data.BoardOfDirectors.TotalMembers;
-        
-        var options = {
-            series: [{
-                name: 'Board Members',
-                data: [[1, totalMembers]]
-            }],
-            chart: {
-                height: 350,
-                type: 'scatter',
-                zoom: {
-                    enabled: true,
-                    type: 'xy'
-                }
-            },
-            title: {
-                text: 'Nr of Board Members',
-                align: 'center',
-                style: {
-                    fontSize: '20px',
-                    color: '#333'
-                }
-            },
-            xaxis: {
-                tickAmount: 1,
-                labels: {
-                    formatter: function(val) {
-                        return val.toFixed(0);
-                    }
-                }
-            },
-            yaxis: {
-                tickAmount: 1
-            },
-            markers: {
-                size: 10
-            },
-            tooltip: {
-                x: {
-                    show: false
-                },
-                y: {
-                    title: {
-                        formatter: (seriesName) => 'Total Members:'
-                    }
-                }
-            }
-        };
-
-        var chart = new ApexCharts(document.querySelector("#boardMembersChart"), options);
-        chart.render();
-    })
-    .catch(error => console.error('Error loading the board members data:', error));
-}
-
 window.onload = function() {
     updateCardTitles(document.querySelector('input[name="item"]:checked').value);
     loadBoardMembersChart(); // Load the chart when the page loads
 }
 
 
-function loadBoardOfDirectorsData() {
-    const activeTab = document.querySelector('.nav-link.active');
-    const activeTabIndex = activeTab.getAttribute('data-index'); // Get the index
+function updateSubOptions(selectedStandard) {
+    const container = document.getElementById('subOptionsContainer');
+    container.innerHTML = '';
+    const subOptions = {
+        'SASB': ['SASB-1', 'SASB-2', 'SASB-3'],
+        'GRI': ['GRI 2-1', 'GRI 2-2', 'GRI 2-3'],
+        'ESRS': ['ESRS-1', 'ESRS-2', 'ESRS-3']
+    }[selectedStandard] || [];
+
+    subOptions.forEach(option => {
+        const badge = document.createElement('span');
+        badge.className = 'badge bg-blue-lt me-2 cursor-pointer';
+        badge.textContent = option;
+        badge.onclick = () => loadStandardData(option);
+        container.appendChild(badge);
+    });
+}
+
+function loadStandardData(subOption) {
+    const selectedYear = document.querySelector('input[name="reportingYear"]:checked').value;
 
     fetch('reports.json')
     .then(response => response.json())
     .then(data => {
-        const boardData = data.reports[activeTabIndex].sections.Governance.BoardOfDirectors;
-        const description = boardData.description;
-        let content = `<strong>Description:</strong> ${description}<br><br>
-                       <strong>Total Members:</strong> ${boardData.TotalMembers}<br>
-                       <strong>Total Men:</strong> ${boardData.TotalMen}<br>
-                       <strong>Total Women:</strong> ${boardData.TotalWomen}<br><br>
-                       <strong>Members:</strong><ul>`;
-        boardData.Members.forEach(member => {
-            content += `<li>${member.name} - ${member.title}</li>`;
+        const tabs = document.querySelectorAll('.tab-content .card');
+        tabs.forEach(tab => {
+            tab.querySelector('.card-title').textContent = '';
+            tab.querySelector('.text-secondary').innerHTML = '';
         });
-        content += "</ul>";
-        const tabContent = document.querySelector('#tab-top-' + (parseInt(activeTabIndex) + 1) + ' .text-secondary');
-        document.querySelector('#tab-top-' + (parseInt(activeTabIndex) + 1) + ' .card-title').textContent = "Board of Directors";
-        tabContent.innerHTML = content;
+
+        data.reports.forEach((report, index) => {
+            if (report.reportYear.toString() === selectedYear) {
+                let content = '';
+                Object.keys(report.sections).forEach(sectionKey => {
+                    const section = report.sections[sectionKey];
+                    Object.keys(section).forEach(itemKey => {
+                        const item = section[itemKey];
+                        // Adjusting for both single and multiple tags
+                        const tags = Array.isArray(item.tag) ? item.tag : [item.tag]; // Ensure tags are always an array
+                        if (tags.includes(subOption)) {  // Check if the array of tags includes the subOption
+                            content += `<strong>${itemKey}</strong><br>${item.description}<br><br>`;
+                        }
+                    });
+                });
+
+                if (content === '') {
+                    content = 'No data available for this tag.';
+                }
+
+                const tabPane = document.getElementById(`tab-top-${index + 1}`);
+                tabPane.querySelector('.card-title').textContent = subOption;
+                tabPane.querySelector('.text-secondary').innerHTML = content;
+            }
+        });
     })
     .catch(error => {
-        console.error('Error loading the board data:', error);
-        document.querySelector('#tab-top-' + (parseInt(activeTabIndex) + 1) + ' .card-title').textContent = 'Error';
-        document.querySelector('#tab-top-' + (parseInt(activeTabIndex) + 1) + ' .text-secondary').textContent = 'Failed to load data.';
+        console.error('Error loading data:', error);
+        data.reports.forEach((_, index) => {
+            const tabPane = document.getElementById(`tab-top-${index + 1}`);
+            tabPane.querySelector('.card-title').textContent = 'Error';
+            tabPane.querySelector('.text-secondary').textContent = 'Failed to load data.';
+        });
     });
 }
 
 
-    function updateSubOptions(selectedStandard) {
-  const container = document.getElementById('subOptionsContainer');
-  container.innerHTML = '';
-  const subOptions = {
-      'SASB': ['SASB-1', 'SASB-2', 'SASB-3'],
-      'GRI': ['GRI-1', 'GRI-2', 'GRI-3'],
-      'ESRS': ['ESRS-1', 'ESRS-2', 'ESRS-3']
-  }[selectedStandard] || [];
-
-  subOptions.forEach(option => {
-      const badge = document.createElement('span');
-      badge.className = 'badge bg-blue-lt me-2 cursor-pointer';
-      badge.textContent = option;
-      badge.onclick = function() { alert(option + ' clicked'); };
-      container.appendChild(badge);
-  });
+function updateContentBasedOnYear() {
+    // This function can be called whenever the year changes to refresh the content.
+    const currentTag = document.querySelector('.card-title').textContent;
+    if (currentTag) {
+        loadStandardData(currentTag); // Reload data for the current tag and new year
+    }
 }
+
 
 function clearStandardSelection() {
   document.querySelectorAll('input[name="esgStandard"]').forEach(input => input.checked = false);
@@ -345,30 +319,29 @@ function clearStandardSelection() {
 function clearItemSelection() {
   document.querySelectorAll('input[name="item"]').forEach(input => input.checked = false);
 }
-
 function updateCardTitles(selectedItem) {
     const governanceSubheadings = document.getElementById('governanceSubheadings');
     const envSubheadings = document.getElementById('EnvSubheadings');
-    const socialSubheadings = document.getElementById('socialSubheadings'); // Ensure this ID matches your HTML
+    const socialSubheadings = document.getElementById('socialSubheadings');
+    const otherSubheadings = document.getElementById('OtherSubheadings'); // Ensure this ID matches your HTML
 
     // Hide all subheadings initially
     governanceSubheadings.style.display = 'none';
     envSubheadings.style.display = 'none';
     socialSubheadings.style.display = 'none';
+    otherSubheadings.style.display = 'none'; // Adding this line
 
     // Display the appropriate subheadings based on the selected item
     if (selectedItem === 'Governance') {
         governanceSubheadings.style.display = 'block';
-        document.getElementById('boardOfDirectorsBadge').click(); // Auto-load first subheading data
     } else if (selectedItem === 'Environment') {
         envSubheadings.style.display = 'block';
-        document.getElementById('diversityBadge').click(); // Assuming 'diversityBadge' is the first badge under Environment
     } else if (selectedItem === 'Social') {
         socialSubheadings.style.display = 'block';
-        document.getElementById('peopleBadge').click(); // Assuming 'peopleBadge' is the first badge under Social
+    } else if (selectedItem === 'Other') { // Adding this case
+        otherSubheadings.style.display = 'block';
     }
 }
-
 
 
 function highlightSubheading(subheadingId) {
@@ -387,8 +360,6 @@ window.onload = function() {
     loadBoardMembersChart(); // Load the chart when the page loads
     loadBoardOfDirectorsData(); // Also load Board of Directors data if needed
 }
-
-
 
 
 </script>
