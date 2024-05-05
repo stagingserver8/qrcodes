@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sidebar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/tabler-icons/icons/tabler-icons.min.css" rel="stylesheet">
+
+    <style>
+         body {
+            display: flex;
+            flex-direction: column; /* Change layout to vertical stacking */
+            min-height: 100vh;
+            overflow-x: hidden; /* Prevent horizontal scroll */
+            padding: 0; /* Reset default padding */
+            margin: 0; /* Reset default margin */
+        }
+    
+
+        :root {
+            --primary-color: #4299e1;
+            --secondary-color: #f0f2f7;
+            --text-color: #212529;
+            --bg-color: #ffffff;
+            --divider: #f0f0f0;
+        }
+
+        .sidebar {
+            height: 100vh;
+            width: 60px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding-top: 20px;
+            transition: width 0.3s;
+            overflow: hidden;
+            background-color: var(--bg-color);
+            border-right: 1px solid var(--divider);
+            box-shadow: 0 0 30px #0003;
+        }
+
+        .sidebar ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .sidebar ul li {
+            padding: 10px 12px;
+            margin-left: 6px;
+            margin-right: 6px;
+            border-radius: 8px;
+            color: var(--text-color);
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: left;
+            display: flex;
+            align-items: center;
+            color: gray;
+        }
+
+        .sidebar ul li .icon {
+            /* Increase the icon size */
+            width: 24px;
+            height: 24px;
+        }
+
+        .sidebar ul li span {
+            display: none;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 1px;
+            margin-left: 10px;
+        }
+
+        .sidebar:hover {
+            width: 250px;
+        }
+
+        .sidebar:hover ul li span {
+            display: inline;
+        }
+
+        .sidebar ul li:hover {
+            background-color: var(--secondary-color);
+            color: var(--text-color);
+        }
+
+        .sidebar ul li.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .main-content {
+            margin-left: 260px; /* Adjusted to new sidebar width */
+            width: calc(100% - 260px); /* Adjust width to account for sidebar */
+            flex-grow: 1;
+            padding: 20px; /* Adjust padding as needed */
+            padding-left: 15px;
+
+        }
+    
+        /* Ensure that the tabs and other elements in the main content do not get pushed aside by the navbar */
+        .card-tabs {
+            width: 100%; /* Ensure card tabs take full width of the container */
+            padding-top: 20px; /* Add some space at the top if needed */
+        }
+
+        .nav-link {
+            display: flex; /* Flex layout for icon and text */
+            align-items: center; /* Center items vertically */
+            gap: 10px; /* Space between icon and text */
+        }
+
+
+        .icon {
+            width: 25px;  /* Icon width */
+            height: 25px;  /* Icon height */
+        }
+
+         .nav-link .nav-link-title {
+            display: inline; /* Ensures text is aligned next to icon */
+        }
+
+        .nav-tabs .nav-item .nav-link {
+    /* Example of increasing specificity */
+    font-family: your-font-family, sans-serif;
+    font-size: 16px; /* Set your desired size */
+    color: #333; /* Ensure visibility */
+}
+.card-tabs .nav-tabs {
+    padding-left: 0;
+    margin: 0; /* Reset margin to align correctly */
+}
+
+
+
+    </style>
+</head>
+
+<body>
+
+    <div class="sidebar">
+        <ul>
+            <li>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"  fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="icon icon-tabler icons-tabler-outline icon-tabler-home-check">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2" />
+                    <path d="M19 13.488v-1.488h2l-9 -9l-9 9h2v7a2 2 0 0 0 2 2h4.525" />
+                    <path d="M15 19l2 2l4 -4" />
+                </svg>
+                <span> Home</span>
+            </li>
+            <li>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"  fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="icon icon-tabler icons-tabler-outline icon-tabler-file-analytics">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+                    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z" />
+                    <path d="M9 17l0 -5" />
+                    <path d="M12 17l0 -1" />
+                    <path d="M15 17l0 -3" />
+                </svg>
+                <span> Benchmark</span>
+            </li>
+
+            <li>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"  fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="icon icon-tabler icons-tabler-outline icon-tabler-email">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <rect x="3" y="5" width="18" height="14" rx="2" />
+                    <polyline points="3 7 12 13 21 7" />
+                </svg>
+                <span> Reports</span>
+            </li>
+
+            <li>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"  fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="icon icon-tabler icons-tabler-outline icon-tabler-settings">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path
+                        d="M10.325 4.317c.426 -1.756 2.924 -1.756 3.35 0a1.724 1.724 0 0 0 2.573 1.066c1.543 -.94 3.31 .826 2.37 2.37a1.724 1.724 0 0 0 1.065 2.572c1.756 .426 1.756 2.924 0 3.35a1.724 1.724 0 0 0 -1.066 2.573c.94 1.543 -.826 3.31 -2.37 2.37a1.724 1.724 0 0 0 -2.572 1.065c-.426 1.756 -2.924 1.756 -3.35 0a1.724 1.724 0 0 0 -2.573 -1.066c-1.543 .94 -3.31 -.826 -2.37 -2.37a1.724 1.724 0 0 0 -1.065 -2.572c-1.756 -.426 -1.756 -2.924 0 -3.35a1.724 1.724 0 0 0 1.066 -2.573c-.94 -1.543 .826 -3.31 2.37 -2.37c1 .608 2.296 .07 2.572 -1.065z" />
+                    <path d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+                </svg>
+                <span> Settings</span>
+            </li>
+
+          
+
+        </ul>
+    </div>
+
+    <div class="main-content">
+    </div>
+</body>
+
+
+    <script>
+        const sidebarItems = document.querySelectorAll('.sidebar ul li');
+        sidebarItems.forEach(item => {
+            item.addEventListener('click', function () {
+                sidebarItems.forEach(otherItem => otherItem.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+    </script>
+
+</body>
+
+</html>

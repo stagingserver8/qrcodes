@@ -15,16 +15,60 @@
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
 
+<style>
+
+
+.badge {
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.bg-blue-lt {
+    background-color: #f0f2f7; /* Light blue background */
+}
+
+.bg-blue {
+    background-color: #0054a6; /* Blue background */
+    color: white; /* White text */
+}
+
+.badge:hover {
+    background-color: #0054a6; /* Blue background on hover */
+    color: white; /* White text on hover */
+}
+
+
+</style>
 
 </head>
+
+
 <body>
+
+ 
+    
+
     <div class="main-content">
+        <div class="page-header">
+            <div class="row align-items-center">
+              <div class="col">
+                <div class="page-pretitle">
+                  Asseco
+                </div>
+                <h2 class="page-title">
+                  Peer Benchmarking
+                </h2>
+              </div>
+            
     <%- include('partials/sidebar') %> <!-- Updated include syntax -->
     <br>
     <br>
     <br>
     <div class="mb-3">
       <br>
+
+      
+   
 
      <label class="form-label">Reporting year</label>
 <div class="form-selectgroup">
@@ -68,36 +112,30 @@
   </div>
 </div>
 
-<!-- Add data attributes to your badges for the section and which type of data to load -->
 <div id="governanceSubheadings" class="mb-3" style="display: none;">
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'BoardOfDirectors')">Board of Directors</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'AuditCommittee')">Audit Committee</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'Management')">Management</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'BoardOfDirectors'); handleBadgeClick(event)">Board of Directors</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'AuditCommittee'); handleBadgeClick(event)">Audit Committee</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'Management'); handleBadgeClick(event)">Management</span>
 </div>
 
-
 <div id="EnvSubheadings" class="mb-3" style="display: none;">
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Climate')">Climate</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Energy')">Energy</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Emissions')">Emissions</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Water')">Water</span>
-
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Climate'); handleBadgeClick(event)">Climate</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Energy'); handleBadgeClick(event)">Energy</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Emissions'); handleBadgeClick(event)">Emissions</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Water'); handleBadgeClick(event)">Water</span>
 </div>
 
 <div id="socialSubheadings" class="mb-3" style="display: none;">
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'People')">People</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Pay')">Pay</span>
-  <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Equality')">Equality</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'People'); handleBadgeClick(event)">People</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Pay'); handleBadgeClick(event)">Pay</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Equality'); handleBadgeClick(event)">Equality</span>
 </div>
 
 <div id="OtherSubheadings" class="mb-3" style="display: none;">
-    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'About')">About</span>
-    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'BusinessModel')">Business Model</span>
-    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'MaterialityAssessment')">Materiality Assessment</span>
-  </div>
-  
-
-
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'About'); handleBadgeClick(event)">About</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'BusinessModel'); handleBadgeClick(event)">Business Model</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'MaterialityAssessment'); handleBadgeClick(event)">Materiality Assessment</span>
+</div>
 
 <div class="mb-3">
   <label class="form-label">Standard</label>
@@ -119,10 +157,9 @@
       <br>
   </div>
   <br>
-  <br>
   <div id="subOptionsContainer" class="mb-3"></div>
 </div>
-    <Br>
+ 
  
 </div>
 
@@ -130,8 +167,6 @@
   <div class="hr-text">Peer Comparison</div>
   <p>
     
-
-  <br>
 
 <!-- Cards with tabs component -->
 <div class="card-tabs">
@@ -165,6 +200,7 @@
     </div>
 </div>
 </div>
+<br>
 <div class="hr-text">Analytics</div>
 <div id="boardMembersChart"></div> <!-- Container for the ApexCharts chart -->
 
@@ -232,7 +268,6 @@ function loadData(section, subSection) {
 
 window.onload = function() {
     updateCardTitles(document.querySelector('input[name="item"]:checked').value);
-    loadBoardMembersChart(); // Load the chart when the page loads
 }
 
 
@@ -357,8 +392,22 @@ function highlightSubheading(subheadingId) {
 
 window.onload = function() {
     updateCardTitles(document.querySelector('input[name="item"]:checked').value);
-    loadBoardMembersChart(); // Load the chart when the page loads
     loadBoardOfDirectorsData(); // Also load Board of Directors data if needed
+}
+
+function handleBadgeClick(event) {
+    // Get all badges within the parent container of the clicked badge
+    const badges = event.currentTarget.parentNode.querySelectorAll('.badge');
+
+    // Remove 'bg-blue' class from all badges
+    badges.forEach(badge => {
+        badge.classList.remove('bg-blue');
+        badge.classList.add('bg-blue-lt');
+    });
+
+    // Add 'bg-blue' class to the clicked badge
+    event.currentTarget.classList.remove('bg-blue-lt');
+    event.currentTarget.classList.add('bg-blue');
 }
 
 
