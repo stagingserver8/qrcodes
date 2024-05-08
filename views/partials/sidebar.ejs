@@ -8,14 +8,15 @@
     <style>
         body {
             display: flex;
+            flex-direction: column; /* Change layout to vertical stacking */
             min-height: 100vh;
             overflow-x: hidden; /* Prevent horizontal scroll */
             padding: 0; /* Reset default padding */
             margin: 0; /* Reset default margin */
         }
-
+    
         .navbar-vertical {
-            width: 80px !important; /* Reduced width of the sidebar and ensure it applies */
+            width: 80px!important ; /* Adjusted width for better fit */
             position: fixed;
             top: 0;
             bottom: 0;
@@ -24,44 +25,62 @@
             background-color: rgba(255, 255, 255, 0.8);
             overflow-y: auto; /* Allows scrolling within the sidebar */
         }
-
+    
         .main-content {
-            margin-left: 100px; /* Ensure this matches the width of your sidebar */
-            width: calc(100% - 200px); /* Adjust width to account for sidebar */
+            margin-left: 150px; /* Adjusted to new sidebar width */
+            width: calc(100% - 260px); /* Adjust width to account for sidebar */
             flex-grow: 1;
-            padding: 10px;
+            padding: 10px; /* Adjust padding as needed */
             padding-left: 15px;
+
+        }
+    
+        /* Ensure that the tabs and other elements in the main content do not get pushed aside by the navbar */
+        .card-tabs {
+            width: 100%; /* Ensure card tabs take full width of the container */
+            padding-top: 20px; /* Add some space at the top if needed */
         }
 
-        .nav-link .icon {
-    width: 32px;  /* Increase from 25px to 36px for 75% increase */
-    height: 32px;  /* Same increase for height */
+
+ 
+
+        .nav-link:hover {
+            color: #0054a6; /* Color on hover */
+        }
+
+        .nav-link.active {
+    color: #0054a6; /* Blue color for active state */
 }
 
-.navbar-vertical .navbar-nav .nav-item {
-    margin-bottom: 5px; /* Reduce the bottom margin to decrease the gap */
-    margin-top: -10px;
+
+        .icon {
+            width: 30px;  /* Icon width */
+            height: 30px;  /* Icon height */
+            stroke: #6c7a91;
+        }
+
+
+
+        .nav-link:hover .icon {
+    stroke: #0054a6; /* Blue color on hover */
 }
 
-
+   
     
+        .navbar-nav {
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center navigation items */
+            width: 100%;
+        }
+
+
 
     </style>
+    
 </head>
 <body>
 
-
-    <div class="page-header">
-        <div class="row align-items-center">
-          <div class="col">
-            <div class="page-pretitle">
-              Asseco
-            </div>
-            <h2 class="page-title">
-              Dashboard
-            </h2>
-          </div>
-        
         <br>
               </span>
 
@@ -74,7 +93,7 @@
                     <div class="collapse navbar-collapse" id="sidebar-menu">
                         <ul class="navbar-nav pt-lg-3">
                             <li class="nav-item">
-                                <a href="/customers" class="nav-link">
+                                <a href="/esg" class="nav-link" onclick="selectNavItem(event)">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-compass">
                                         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
                                         <path d="M8 16l2 -6l6 -2l-2 6l-6 2" />
@@ -89,7 +108,7 @@
                                 
                             </li>
                             <li class="nav-item">
-                                <a href="/esg" class="nav-link">
+                                <a href="/reports" class="nav-link" id="nav-reports" onclick="selectNavItem(event)">
                                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-report"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h5.697" /><path d="M18 14v4h4" /><path d="M18 11v-4a2 2 0 0 0 -2 -2h-2" /><path d="M8 3m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v0a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z" /><path d="M18 18m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" /><path d="M8 11h4" /><path d="M8 15h3" /></svg>
                                     <span class="nav-link-title"></span>
                                 </a>
@@ -100,3 +119,26 @@
             </aside>
 </body>
 </html>
+
+<script>
+    function selectNavItem(event) {
+        const navLinks = document.querySelectorAll('.nav-link');
+        navLinks.forEach(link => {
+            link.classList.remove('active'); // Remove active from all links
+        });
+        event.currentTarget.classList.add('active'); // Add active to clicked link
+        localStorage.setItem('activeNav', event.currentTarget.getAttribute('href')); // Save active state
+    }
+
+    // Set the active class based on stored item
+    window.onload = () => {
+        const activeNav = localStorage.getItem('activeNav');
+        if (activeNav) {
+            const activeElement = document.querySelector(`a[href="${activeNav}"]`);
+            if (activeElement) {
+                activeElement.classList.add('active');
+            }
+        }
+    }
+
+</script>

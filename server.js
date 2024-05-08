@@ -63,6 +63,11 @@ app.get('/esg', (req, res) => {
     res.render('esg'); // This will render the customer-form.ejs from your views folder
 });
 
+app.get('/reports', (req, res) => {
+    res.render('reports'); // This will render the customer-form.ejs from your views folder
+});
+
+
 
 app.post('/edit-customer/:id', async (req, res) => {
     const { id } = req.params;

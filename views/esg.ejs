@@ -4,45 +4,89 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/tabler.min.css">
-    <title>Comparison</title>
+    <title>Benchmark</title>
 
 
     <!-- Include CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 
 <!-- Include JS (Popper and Bootstrap) -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
 
+<style>
+
+
+.badge {
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.bg-blue-lt {
+    background-color: #f0f2f7; /* Light blue background */
+}
+
+.bg-blue {
+    background-color: #0054a6; /* Blue background */
+    color: white; /* White text */
+}
+
+.badge:hover {
+    background-color: #0054a6; /* Blue background on hover */
+    color: white; /* White text on hover */
+}
+
+
+</style>
 
 </head>
+
+
 <body>
+
+ 
+    
+
     <div class="main-content">
+        <div class="page-header">
+            <div class="row align-items-center">
+              <div class="col">
+                <div class="page-pretitle">
+                  Asseco
+                </div>
+                <h2 class="page-title">
+                  Peer Benchmarking
+                </h2>
+              </div>
+            
     <%- include('partials/sidebar') %> <!-- Updated include syntax -->
     <br>
     <br>
     <br>
     <div class="mb-3">
       <br>
-      <label class="form-label">Reporting year</label>
-      <div class="form-selectgroup">
-        <label class="form-selectgroup-item">
-          <input type="radio" name="name" value="HTML" class="form-selectgroup-input" checked />
-          <span class="form-selectgroup-label">2022</span>
-        </label>
-        <label class="form-selectgroup-item">
-          <input type="radio" name="name" value="CSS" class="form-selectgroup-input" />
-          <span class="form-selectgroup-label">2023</span>
-        </label>
-        <label class="form-selectgroup-item">
-          <input type="radio" name="name" value="PHP" class="form-selectgroup-input" />
-          <span class="form-selectgroup-label">2024</span>
-        </label>
+
+      
+   
+
+     <label class="form-label">Reporting year</label>
+<div class="form-selectgroup">
+    <label class="form-selectgroup-item">
+        <input type="radio" name="reportingYear" value="2022" class="form-selectgroup-input" checked />
+        <span class="form-selectgroup-label">2022</span>
+    </label>
+    <label class="form-selectgroup-item">
+        <input type="radio" name="reportingYear" value="2023" class="form-selectgroup-input" />
+        <span class="form-selectgroup-label">2023</span>
+    </label>
+    <label class="form-selectgroup-item">
+        <input type="radio" name="reportingYear" value="2024" class="form-selectgroup-input" />
+        <span class="form-selectgroup-label">2024</span>
+    </label>
      
       </div>
     </div>
-
-
 
 <br>
 <div class="mb-3">
@@ -53,18 +97,45 @@
           <span class="form-selectgroup-label">Governance</span>
       </label>
       <label class="form-selectgroup-item">
-          <input type="radio" name="item" value="Employment" class="form-selectgroup-input" id="Employment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
-          <span class="form-selectgroup-label">Employment</span>
+          <input type="radio" name="item" value="Social" class="form-selectgroup-input" id="Employment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
+          <span class="form-selectgroup-label">Social</span>
       </label>
       <label class="form-selectgroup-item">
           <input type="radio" name="item" value="Environment" class="form-selectgroup-input" id="Environment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
           <span class="form-selectgroup-label">Environment</span>
       </label>
+
+      <label class="form-selectgroup-item">
+        <input type="radio" name="item" value="Other" class="form-selectgroup-input" id="Other" onchange="updateCardTitles(this.value); clearStandardSelection();" />
+        <span class="form-selectgroup-label">Other</span>
+    </label>
   </div>
 </div>
 
+<div id="governanceSubheadings" class="mb-3" style="display: none;">
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'BoardOfDirectors'); handleBadgeClick(event)">Board of Directors</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'AuditCommittee'); handleBadgeClick(event)">Audit Committee</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Governance', 'Management'); handleBadgeClick(event)">Management</span>
+</div>
 
+<div id="EnvSubheadings" class="mb-3" style="display: none;">
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Climate'); handleBadgeClick(event)">Climate</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Energy'); handleBadgeClick(event)">Energy</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Emissions'); handleBadgeClick(event)">Emissions</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Environment', 'Water'); handleBadgeClick(event)">Water</span>
+</div>
 
+<div id="socialSubheadings" class="mb-3" style="display: none;">
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'People'); handleBadgeClick(event)">People</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Pay'); handleBadgeClick(event)">Pay</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Social', 'Equality'); handleBadgeClick(event)">Equality</span>
+</div>
+
+<div id="OtherSubheadings" class="mb-3" style="display: none;">
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'About'); handleBadgeClick(event)">About</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'BusinessModel'); handleBadgeClick(event)">Business Model</span>
+    <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'MaterialityAssessment'); handleBadgeClick(event)">Materiality Assessment</span>
+</div>
 
 <div class="mb-3">
   <label class="form-label">Standard</label>
@@ -86,41 +157,35 @@
       <br>
   </div>
   <br>
-  <br>
   <div id="subOptionsContainer" class="mb-3"></div>
 </div>
-
-
-
-    <Br>
+ 
  
 </div>
-
-
-
 
   </p>
   <div class="hr-text">Peer Comparison</div>
   <p>
-
-  <br>
+    
 
 <!-- Cards with tabs component -->
 <div class="card-tabs">
   <!-- Cards navigation -->
   <ul class="nav nav-tabs">
-    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab">Asseco</a></li>
-    <li class="nav-item"><a href="#tab-top-2" class="nav-link" data-bs-toggle="tab">Comarch</a></li>
-    <li class="nav-item"><a href="#tab-top-3" class="nav-link" data-bs-toggle="tab">Software AG</a></li>
+    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab" data-index="0">Asseco</a></li>
+    <li class="nav-item"><a href="#tab-top-2" class="nav-link" data-bs-toggle="tab" data-index="1">Comarch</a></li>
+    <li class="nav-item"><a href="#tab-top-3" class="nav-link" data-bs-toggle="tab" data-index="2">Software AG</a></li>
+    
    
   </ul>
   <div class="tab-content">
     <div id="tab-top-1" class="card tab-pane active show">
-        <div class="card-body">
-            <div class="card-title"></div>
-            <p class="text-secondary"></p>
-        </div>
-    </div>
+      <div class="card-body">
+          <div class="card-title"></div>
+          <p class="text-secondary"></p>
+      </div>
+  </div>
+
     <div id="tab-top-2" class="card tab-pane">
         <div class="card-body">
             <div class="card-title"></div>
@@ -135,6 +200,11 @@
     </div>
 </div>
 </div>
+<br>
+<div class="hr-text">Analytics</div>
+<div id="boardMembersChart"></div> <!-- Container for the ApexCharts chart -->
+
+
         </p>
       </div>
     </div>
@@ -143,31 +213,138 @@
 
 </p>
 
-<div class="hr-text">analytics</div>
+
 
 </body>
+
 </html>
 
 
+
+
  <script>
+function loadData(section, subSection) {
+    const selectedYear = document.querySelector('input[name="reportingYear"]:checked').value;
 
-      function updateSubOptions(selectedStandard) {
-  const container = document.getElementById('subOptionsContainer');
-  container.innerHTML = '';
-  const subOptions = {
-      'SASB': ['SASB-1', 'SASB-2', 'SASB-3'],
-      'GRI': ['GRI-1', 'GRI-2', 'GRI-3'],
-      'ESRS': ['ESRS-1', 'ESRS-2', 'ESRS-3']
-  }[selectedStandard] || [];
+    fetch('reports.json')
+    .then(response => response.json())
+    .then(data => {
+        const tabs = document.querySelectorAll('.tab-content .card');
+        tabs.forEach(tab => {
+            tab.querySelector('.card-title').textContent = '';
+            tab.querySelector('.text-secondary').innerHTML = '';
+        });
 
-  subOptions.forEach(option => {
-      const badge = document.createElement('span');
-      badge.className = 'badge bg-blue-lt me-2 cursor-pointer';
-      badge.textContent = option;
-      badge.onclick = function() { alert(option + ' clicked'); };
-      container.appendChild(badge);
-  });
+        data.reports.forEach((report, index) => {
+            if (report.reportYear.toString() === selectedYear) {
+                const sectionData = report.sections[section]?.[subSection];
+                if (sectionData) {
+                    let content = "";
+                    // If there is an image, add it first
+                    if (sectionData.image) {
+                        content += `<img src="${sectionData.image}" alt="Materiality Assessment Image" style="max-width:100%; height:auto;"><br>`;
+                    }
+                    // Add the description after the image
+                    content += `<strong>Description:</strong> ${sectionData.description}<br>`;
+
+                    const tabPane = document.getElementById(`tab-top-${index + 1}`);
+                    tabPane.querySelector('.card-title').textContent = subSection.replace(/([A-Z])/g, ' $1').trim(); // Capitalize and format subsection name
+                    tabPane.querySelector('.text-secondary').innerHTML = content;
+                }
+            }
+        });
+    })
+    .catch(error => {
+        console.error('Error loading data:', error);
+        data.reports.forEach((_, index) => {
+            const tabPane = document.getElementById(`tab-top-${index + 1}`);
+            tabPane.querySelector('.card-title').textContent = 'Error';
+            tabPane.querySelector('.text-secondary').textContent = 'Failed to load data.';
+        });
+    });
 }
+
+
+
+window.onload = function() {
+    updateCardTitles(document.querySelector('input[name="item"]:checked').value);
+}
+
+
+function updateSubOptions(selectedStandard) {
+    const container = document.getElementById('subOptionsContainer');
+    container.innerHTML = '';
+    const subOptions = {
+        'SASB': ['SASB-1', 'SASB-2', 'SASB-3'],
+        'GRI': ['GRI 2-1', 'GRI 2-2', 'GRI 2-3'],
+        'ESRS': ['ESRS-1', 'ESRS-2', 'ESRS-3']
+    }[selectedStandard] || [];
+
+    subOptions.forEach(option => {
+        const badge = document.createElement('span');
+        badge.className = 'badge bg-blue-lt me-2 cursor-pointer';
+        badge.textContent = option;
+        badge.onclick = () => loadStandardData(option);
+        container.appendChild(badge);
+    });
+}
+
+function loadStandardData(subOption) {
+    const selectedYear = document.querySelector('input[name="reportingYear"]:checked').value;
+
+    fetch('reports.json')
+    .then(response => response.json())
+    .then(data => {
+        const tabs = document.querySelectorAll('.tab-content .card');
+        tabs.forEach(tab => {
+            tab.querySelector('.card-title').textContent = '';
+            tab.querySelector('.text-secondary').innerHTML = '';
+        });
+
+        data.reports.forEach((report, index) => {
+            if (report.reportYear.toString() === selectedYear) {
+                let content = '';
+                Object.keys(report.sections).forEach(sectionKey => {
+                    const section = report.sections[sectionKey];
+                    Object.keys(section).forEach(itemKey => {
+                        const item = section[itemKey];
+                        // Adjusting for both single and multiple tags
+                        const tags = Array.isArray(item.tag) ? item.tag : [item.tag]; // Ensure tags are always an array
+                        if (tags.includes(subOption)) {  // Check if the array of tags includes the subOption
+                            content += `<strong>${itemKey}</strong><br>${item.description}<br><br>`;
+                        }
+                    });
+                });
+
+                if (content === '') {
+                    content = 'No data available for this tag.';
+                }
+
+                const tabPane = document.getElementById(`tab-top-${index + 1}`);
+                tabPane.querySelector('.card-title').textContent = subOption;
+                tabPane.querySelector('.text-secondary').innerHTML = content;
+            }
+        });
+    })
+    .catch(error => {
+        console.error('Error loading data:', error);
+        data.reports.forEach((_, index) => {
+            const tabPane = document.getElementById(`tab-top-${index + 1}`);
+            tabPane.querySelector('.card-title').textContent = 'Error';
+            tabPane.querySelector('.text-secondary').textContent = 'Failed to load data.';
+        });
+    });
+}
+
+
+function updateContentBasedOnYear() {
+    // This function can be called whenever the year changes to refresh the content.
+    const currentTag = document.querySelector('.card-title').textContent;
+    if (currentTag) {
+        loadStandardData(currentTag); // Reload data for the current tag and new year
+    }
+}
+
 
 function clearStandardSelection() {
   document.querySelectorAll('input[name="esgStandard"]').forEach(input => input.checked = false);
@@ -177,25 +354,61 @@ function clearStandardSelection() {
 function clearItemSelection() {
   document.querySelectorAll('input[name="item"]').forEach(input => input.checked = false);
 }
-
 function updateCardTitles(selectedItem) {
-            // Update all card titles
-            document.querySelectorAll('.card-title').forEach(function(cardTitle) {
-                cardTitle.textContent = selectedItem;
-            });
-        }
+    const governanceSubheadings = document.getElementById('governanceSubheadings');
+    const envSubheadings = document.getElementById('EnvSubheadings');
+    const socialSubheadings = document.getElementById('socialSubheadings');
+    const otherSubheadings = document.getElementById('OtherSubheadings'); // Ensure this ID matches your HTML
 
-        function clearStandardSelection() {
-            document.querySelectorAll('input[name="esgStandard"]').forEach(input => input.checked = false);
-            document.getElementById('subOptionsContainer').innerHTML = '';
-        }
+    // Hide all subheadings initially
+    governanceSubheadings.style.display = 'none';
+    envSubheadings.style.display = 'none';
+    socialSubheadings.style.display = 'none';
+    otherSubheadings.style.display = 'none'; // Adding this line
 
-        function clearItemSelection() {
-            document.querySelectorAll('input[name="item"]').forEach(input => input.checked = false);
-        }
+    // Display the appropriate subheadings based on the selected item
+    if (selectedItem === 'Governance') {
+        governanceSubheadings.style.display = 'block';
+    } else if (selectedItem === 'Environment') {
+        envSubheadings.style.display = 'block';
+    } else if (selectedItem === 'Social') {
+        socialSubheadings.style.display = 'block';
+    } else if (selectedItem === 'Other') { // Adding this case
+        otherSubheadings.style.display = 'block';
+    }
+}
 
-        window.onload = function() {
-            // Set initial card titles and select Governance by default
-            updateCardTitles(document.getElementById('Governance').value);
-        };
+
+function highlightSubheading(subheadingId) {
+    document.querySelectorAll('#governanceSubheadings .badge').forEach(badge => {
+        badge.classList.remove('bg-blue');
+        badge.classList.add('bg-blue');
+    });
+
+    const selectedBadge = document.getElementById(subheadingId);
+    selectedBadge.classList.add('bg-blue'); // Highlight the selected badge
+    selectedBadge.classList.remove('bg-blue');
+}
+
+window.onload = function() {
+    updateCardTitles(document.querySelector('input[name="item"]:checked').value);
+    loadBoardOfDirectorsData(); // Also load Board of Directors data if needed
+}
+
+function handleBadgeClick(event) {
+    // Get all badges within the parent container of the clicked badge
+    const badges = event.currentTarget.parentNode.querySelectorAll('.badge');
+
+    // Remove 'bg-blue' class from all badges
+    badges.forEach(badge => {
+        badge.classList.remove('bg-blue');
+        badge.classList.add('bg-blue-lt');
+    });
+
+    // Add 'bg-blue' class to the clicked badge
+    event.currentTarget.classList.remove('bg-blue-lt');
+    event.currentTarget.classList.add('bg-blue');
+}
+
+
 </script>
