@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="/css/tabler.min.css">
     <title>Benchmark</title>
 
+    <link rel="stylesheet" href="styles.css">
 
     <!-- Include CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -38,6 +39,16 @@
 }
 
 
+
+        /* New styles for making table rows thinner */
+        .table th, .table td {
+            padding: 3px 2px !important; /* Smaller padding */
+            font-size: 14px; /* Smaller font size */
+        }
+
+
+
+
 </style>
 
 </head>
@@ -68,25 +79,40 @@
       <br>
 
       
-   
-
-     <label class="form-label">Reporting year</label>
-<div class="form-selectgroup">
-    <label class="form-selectgroup-item">
-        <input type="radio" name="reportingYear" value="2022" class="form-selectgroup-input" checked />
-        <span class="form-selectgroup-label">2022</span>
-    </label>
-    <label class="form-selectgroup-item">
-        <input type="radio" name="reportingYear" value="2023" class="form-selectgroup-input" />
-        <span class="form-selectgroup-label">2023</span>
-    </label>
-    <label class="form-selectgroup-item">
-        <input type="radio" name="reportingYear" value="2024" class="form-selectgroup-input" />
-        <span class="form-selectgroup-label">2024</span>
-    </label>
-     
-      </div>
+      <div class="row">
+        <div class="col-md-2">
+            <div class="mb-2">
+                <label class="form-label">Reporting year</label>
+                <div class="form-selectgroup">
+                    <label class="form-selectgroup-item">
+                        <input type="radio" name="reportingYear" value="2023" class="form-selectgroup-input" checked /> <!-- Set 2023 as checked by default -->
+                        <span class="form-selectgroup-label">2023</span>
+                    </label>
+                    <label class="form-selectgroup-item">
+                        <input type="radio" name="reportingYear" value="2024" class="form-selectgroup-input" />
+                        <span class="form-selectgroup-label">2024</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="mb-2">
+                <label class="form-label">Language</label>
+                <div class="form-selectgroup">
+                    <label class="form-selectgroup-item">
+                        <input type="radio" name="language" value="Polish" class="form-selectgroup-input" /> <!-- Not checked by default -->
+                        <span class="form-selectgroup-label">Polish</span>
+                    </label>
+                    <label class="form-selectgroup-item">
+                        <input type="radio" name="language" value="English" class="form-selectgroup-input" checked /> <!-- Set English as checked by default -->
+                        <span class="form-selectgroup-label">English</span>
+                    </label>
+                </div>
+            </div>
+        </div>
     </div>
+    
+    
 
 <br>
 <div class="mb-3">
@@ -153,57 +179,89 @@
           <span class="form-selectgroup-label">ESRS</span>
       </label>
       <br>
-
+      <br>
       <br>
   </div>
-  <br>
+
   <div id="subOptionsContainer" class="mb-3"></div>
 </div>
- 
+<div class="hr-text"></div>
+
  
 </div>
 
   </p>
-  <div class="hr-text">Peer Comparison</div>
-  <p>
-    
 
-<!-- Cards with tabs component -->
-<div class="card-tabs">
-  <!-- Cards navigation -->
-  <ul class="nav nav-tabs">
-    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab" data-index="0">Asseco</a></li>
-    <li class="nav-item"><a href="#tab-top-2" class="nav-link" data-bs-toggle="tab" data-index="1">Comarch</a></li>
-    <li class="nav-item"><a href="#tab-top-3" class="nav-link" data-bs-toggle="tab" data-index="2">Software AG</a></li>
-    
-   
-  </ul>
-  <div class="tab-content">
-    <div id="tab-top-1" class="card tab-pane active show">
-      <div class="card-body">
-          <div class="card-title"></div>
-          <p class="text-secondary"></p>
-      </div>
-  </div>
 
-    <div id="tab-top-2" class="card tab-pane">
-        <div class="card-body">
-            <div class="card-title"></div>
-            <p class="text-secondary"></p>
+
+    <br>
+
+    <div class="row">
+        <!-- Left Column: Data Table -->
+        <div class="col-lg-6">
+            <table class="table table-responsive">
+                <thead>
+                    <tr id="table-headings">
+                        <th>Company</th>
+                        <!-- Headings will be inserted here dynamically -->
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Company rows will be inserted here dynamically -->
+                </tbody>
+            </table>
+        </div>
+
+
+        <!-- Right Column: Tab Content -->
+        <div class="col-lg-6">
+            
+            
+            <div class="card-tabs">
+                <ul class="nav nav-tabs">
+                    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab" data-index="0">Pekao</a></li>
+                    <li class="nav-item"><a href="#tab-top-2" class="nav-link" data-bs-toggle="tab" data-index="1">Data</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div id="tab-top-1" class="card tab-pane active show">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <p class="text-secondary"></p>
+                        </div>
+                    </div>
+                    <div id="tab-top-2" class="card tab-pane">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <p class="text-secondary"></p>
+
+
+                            
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    <div id="tab-top-3" class="card tab-pane">
+
+<!-- Right Column: Tab Content -->
+<div class="col-lg-6">
+    <div class="card-tabs">
+        <!-- Existing tabs here -->
+    </div>
+    <!-- Placeholder for the explainer card -->
+    <div id="explainerCard" class="card explainer-card" style="display: none;"> <!-- Initially hidden -->
+        <div class="card-header">
+            <h3 class="card-title">Explainer of </h3>
+        </div>
         <div class="card-body">
-            <div class="card-title"></div>
-            <p class="text-secondary"></p>
+            <p class="text-secondary">Details related to the selected standard will appear here.</p>
         </div>
     </div>
 </div>
-</div>
-<br>
-<div class="hr-text">Analytics</div>
-<div id="boardMembersChart"></div> <!-- Container for the ApexCharts chart -->
 
+    <br>
 
         </p>
       </div>
@@ -214,6 +272,7 @@
 </p>
 
 
+<script src="script.js"></script>
 
 </body>
 
@@ -221,194 +280,3 @@
 
 
 
-
- <script>
-function loadData(section, subSection) {
-    const selectedYear = document.querySelector('input[name="reportingYear"]:checked').value;
-
-    fetch('reports.json')
-    .then(response => response.json())
-    .then(data => {
-        const tabs = document.querySelectorAll('.tab-content .card');
-        tabs.forEach(tab => {
-            tab.querySelector('.card-title').textContent = '';
-            tab.querySelector('.text-secondary').innerHTML = '';
-        });
-
-        data.reports.forEach((report, index) => {
-            if (report.reportYear.toString() === selectedYear) {
-                const sectionData = report.sections[section]?.[subSection];
-                if (sectionData) {
-                    let content = "";
-                    // If there is an image, add it first
-                    if (sectionData.image) {
-                        content += `<img src="${sectionData.image}" alt="Materiality Assessment Image" style="max-width:100%; height:auto;"><br>`;
-                    }
-                    // Add the description after the image
-                    content += `<strong>Description:</strong> ${sectionData.description}<br>`;
-
-                    const tabPane = document.getElementById(`tab-top-${index + 1}`);
-                    tabPane.querySelector('.card-title').textContent = subSection.replace(/([A-Z])/g, ' $1').trim(); // Capitalize and format subsection name
-                    tabPane.querySelector('.text-secondary').innerHTML = content;
-                }
-            }
-        });
-    })
-    .catch(error => {
-        console.error('Error loading data:', error);
-        data.reports.forEach((_, index) => {
-            const tabPane = document.getElementById(`tab-top-${index + 1}`);
-            tabPane.querySelector('.card-title').textContent = 'Error';
-            tabPane.querySelector('.text-secondary').textContent = 'Failed to load data.';
-        });
-    });
-}
-
-
-
-window.onload = function() {
-    updateCardTitles(document.querySelector('input[name="item"]:checked').value);
-}
-
-
-function updateSubOptions(selectedStandard) {
-    const container = document.getElementById('subOptionsContainer');
-    container.innerHTML = '';
-    const subOptions = {
-        'SASB': ['SASB-1', 'SASB-2', 'SASB-3'],
-        'GRI': ['GRI 2-1', 'GRI 2-2', 'GRI 2-3'],
-        'ESRS': ['ESRS-1', 'ESRS-2', 'ESRS-3']
-    }[selectedStandard] || [];
-
-    subOptions.forEach(option => {
-        const badge = document.createElement('span');
-        badge.className = 'badge bg-blue-lt me-2 cursor-pointer';
-        badge.textContent = option;
-        badge.onclick = () => loadStandardData(option);
-        container.appendChild(badge);
-    });
-}
-
-function loadStandardData(subOption) {
-    const selectedYear = document.querySelector('input[name="reportingYear"]:checked').value;
-
-    fetch('reports.json')
-    .then(response => response.json())
-    .then(data => {
-        const tabs = document.querySelectorAll('.tab-content .card');
-        tabs.forEach(tab => {
-            tab.querySelector('.card-title').textContent = '';
-            tab.querySelector('.text-secondary').innerHTML = '';
-        });
-
-        data.reports.forEach((report, index) => {
-            if (report.reportYear.toString() === selectedYear) {
-                let content = '';
-                Object.keys(report.sections).forEach(sectionKey => {
-                    const section = report.sections[sectionKey];
-                    Object.keys(section).forEach(itemKey => {
-                        const item = section[itemKey];
-                        // Adjusting for both single and multiple tags
-                        const tags = Array.isArray(item.tag) ? item.tag : [item.tag]; // Ensure tags are always an array
-                        if (tags.includes(subOption)) {  // Check if the array of tags includes the subOption
-                            content += `<strong>${itemKey}</strong><br>${item.description}<br><br>`;
-                        }
-                    });
-                });
-
-                if (content === '') {
-                    content = 'No data available for this tag.';
-                }
-
-                const tabPane = document.getElementById(`tab-top-${index + 1}`);
-                tabPane.querySelector('.card-title').textContent = subOption;
-                tabPane.querySelector('.text-secondary').innerHTML = content;
-            }
-        });
-    })
-    .catch(error => {
-        console.error('Error loading data:', error);
-        data.reports.forEach((_, index) => {
-            const tabPane = document.getElementById(`tab-top-${index + 1}`);
-            tabPane.querySelector('.card-title').textContent = 'Error';
-            tabPane.querySelector('.text-secondary').textContent = 'Failed to load data.';
-        });
-    });
-}
-
-
-function updateContentBasedOnYear() {
-    // This function can be called whenever the year changes to refresh the content.
-    const currentTag = document.querySelector('.card-title').textContent;
-    if (currentTag) {
-        loadStandardData(currentTag); // Reload data for the current tag and new year
-    }
-}
-
-
-function clearStandardSelection() {
-  document.querySelectorAll('input[name="esgStandard"]').forEach(input => input.checked = false);
-  document.getElementById('subOptionsContainer').innerHTML = '';
-}
-
-function clearItemSelection() {
-  document.querySelectorAll('input[name="item"]').forEach(input => input.checked = false);
-}
-function updateCardTitles(selectedItem) {
-    const governanceSubheadings = document.getElementById('governanceSubheadings');
-    const envSubheadings = document.getElementById('EnvSubheadings');
-    const socialSubheadings = document.getElementById('socialSubheadings');
-    const otherSubheadings = document.getElementById('OtherSubheadings'); // Ensure this ID matches your HTML
-
-    // Hide all subheadings initially
-    governanceSubheadings.style.display = 'none';
-    envSubheadings.style.display = 'none';
-    socialSubheadings.style.display = 'none';
-    otherSubheadings.style.display = 'none'; // Adding this line
-
-    // Display the appropriate subheadings based on the selected item
-    if (selectedItem === 'Governance') {
-        governanceSubheadings.style.display = 'block';
-    } else if (selectedItem === 'Environment') {
-        envSubheadings.style.display = 'block';
-    } else if (selectedItem === 'Social') {
-        socialSubheadings.style.display = 'block';
-    } else if (selectedItem === 'Other') { // Adding this case
-        otherSubheadings.style.display = 'block';
-    }
-}
-
-
-function highlightSubheading(subheadingId) {
-    document.querySelectorAll('#governanceSubheadings .badge').forEach(badge => {
-        badge.classList.remove('bg-blue');
-        badge.classList.add('bg-blue');
-    });
-
-    const selectedBadge = document.getElementById(subheadingId);
-    selectedBadge.classList.add('bg-blue'); // Highlight the selected badge
-    selectedBadge.classList.remove('bg-blue');
-}
-
-window.onload = function() {
-    updateCardTitles(document.querySelector('input[name="item"]:checked').value);
-    loadBoardOfDirectorsData(); // Also load Board of Directors data if needed
-}
-
-function handleBadgeClick(event) {
-    // Get all badges within the parent container of the clicked badge
-    const badges = event.currentTarget.parentNode.querySelectorAll('.badge');
-
-    // Remove 'bg-blue' class from all badges
-    badges.forEach(badge => {
-        badge.classList.remove('bg-blue');
-        badge.classList.add('bg-blue-lt');
-    });
-
-    // Add 'bg-blue' class to the clicked badge
-    event.currentTarget.classList.remove('bg-blue-lt');
-    event.currentTarget.classList.add('bg-blue');
-}
-
-
-</script>

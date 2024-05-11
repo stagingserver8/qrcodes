@@ -1,0 +1,68 @@
+/* Additional styling can be added here */
+.table-responsive {
+    max-width: 100%;
+    overflow-x: auto;
+   
+}
+
+
+
+/* Additional space between table and tab content */
+.col-lg-6:first-child {
+    padding-right: 20px; /* Increase right padding on the table column */
+    padding-top: 20px;
+}
+
+.col-lg-6:last-child {
+    padding-left: 55px; /* Increase left padding on the tabs column */
+}
+
+
+.table th, .table td {
+    text-align: left; /* or center, depending on your design */
+    padding: 8px; /* consistent padding */
+    vertical-align: middle; /* ensures content is centered vertically */
+}
+
+.table {
+    width: 100%; /* ensures the table stretches appropriately */
+    border-collapse: collapse; /* ensures borders between cells are merged */
+}
+
+
+.highlight {
+    background-color: #e9f0f9
+    /* Light gray background for highlighted row */
+}
+
+.explainer-card {
+    position: absolute; 
+    top: -600px;
+    left: 105%;
+    width: 550px !important;
+    margin-left: 20px; 
+}
+
+
+
+
+
+
+
+
+/* Ensuring proper alignment with the card-tabs */
+.card-tabs, .explainer-card {
+    float: left; /* Make sure they align horizontally when in a flex or grid container */
+    width: calc(50% - 10px); /* Adjust the width to take up half the container minus a small gap */
+    margin-right: 10px; /* Optional: adds a small gap between the tabs and the card */
+}
+
+/* Clear float to ensure no layout issues */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+

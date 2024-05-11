@@ -1,0 +1,19 @@
+{
+    "GRI": [
+        {"name": "GRI 2-1", "explainer": "hello 2-1"},
+        {"name": "GRI 2-2", "explainer": "Description for GRI 2-2"},
+        {"name": "GRI 2-3", "explainer": "Description for GRI 2-3"},
+        {"name": "GRI 2-4", "explainer": "Description for GRI 2-4"}
+    ],
+    "SASB": [
+        {"name": "SASB-1", "explainer": "Description for SASB-1"},
+        {"name": "SASB-2", "explainer": "Description for SASB-2"},
+        {"name": "SASB-3", "explainer": "Description for SASB-3"},
+        {"name": "SASB-4", "explainer": "Description for SASB-4"}
+    ],
+    "ESRS": [
+        {"name": "ESRS-1", "explainer": "Description for ESRS-1"},
+        {"name": "ESRS-2", "explainer": "Description for ESRS-2"},
+        {"name": "ESRS-3", "explainer": "Description for ESRS-3"}
+    ]
+}
