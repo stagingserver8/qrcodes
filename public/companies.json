@@ -4,7 +4,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -14,7 +14,7 @@
         "language": "English",
         "country": "Spain",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "None",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -24,7 +24,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -34,7 +34,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -44,7 +44,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "Some",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -54,7 +54,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -64,7 +64,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -74,7 +74,7 @@
         "language": "English",
         "country": "Netherlands",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -84,7 +84,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -94,7 +94,7 @@
         "language": "English",
         "country": "France",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }
@@ -104,7 +104,7 @@
         "language": "English",
         "country": "Poland",
         "data": {
-            "Heading 1": "Value1",
+            "Reported": "All",
             "Heading 2": "Value2",
             "Heading 3": "Value3"
         }

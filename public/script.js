@@ -66,11 +66,35 @@ function handleBadgeClick(badge) {
     }
 }
 
-function showExplainerCard(title) {
-    const explainerCard = document.getElementById('explainerCard');
-    explainerCard.style.display = 'block'; // Show the card
-    explainerCard.querySelector('.card-title').textContent = `Explainer of ${title}`; // Set the title
+async function showExplainerCard(subOptionName) {
+    try {
+        const response = await fetch('standards.json');
+        const standards = await response.json();
+
+        // Find the right explainer text by searching through all standards
+        let foundExplainer = "";
+        for (let key in standards) {
+            const option = standards[key].find(o => o.name === subOptionName);
+            if (option) {
+                foundExplainer = option.explainer; // Set the explainer if found
+                break; // Exit the loop once the correct suboption is found
+            }
+        }
+
+        if (foundExplainer) {
+            const explainerCard = document.getElementById('explainerCard');
+            explainerCard.querySelector('.card-title').textContent = `Explainer of ${subOptionName}`;
+            explainerCard.querySelector('.text-secondary').innerHTML = foundExplainer; // Change to innerHTML to parse HTML tags
+            explainerCard.style.display = 'block'; // Show the card with explainer text
+        } else {
+            hideExplainerCard(); // Hide the card if no explainer is found
+        }
+    } catch (error) {
+        console.error('Error loading standards data:', error);
+    }
 }
+
+
 
 
 function hideExplainerCard() {

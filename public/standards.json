@@ -1,13 +1,17 @@
 {
     "GRI": [
-        {"name": "GRI 2-1", "explainer": "hello 2-1"},
+        {
+            "name": "GRI 2-1",
+            "explainer": "<strong>2-1-a: Legal Name:</strong> If the organization uses a commonly known trading name or business name that is different from its legal name, it should report this in addition to its legal name.<br><br><strong>2-1-b: Nature of ownership and legal form:</strong> The nature of ownership and the legal form of the organization refers to whether it is publicly or privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or another type of entity such as a nonprofit, an association, or a charity.<br><br><strong>2-1-c: Location of its headquarters:</strong> Headquarters are an organization’s global administrative center, the place from which it is controlled or directed.<br><br><strong>2-1-d: Countries of operation:</strong> If the organization has reported its countries of operation elsewhere, such as in its audited consolidated financial statements or financial information filed on public record, the organization can provide a link or reference to this information. The organization can also report the regions or specific locations within countries (e.g., states, cities) where it has operations, if this provides contextual information for understanding the organization’s impacts."
+        },
         {"name": "GRI 2-2", "explainer": "Description for GRI 2-2"},
         {"name": "GRI 2-3", "explainer": "Description for GRI 2-3"},
         {"name": "GRI 2-4", "explainer": "Description for GRI 2-4"}
     ],
+    
     "SASB": [
         {"name": "SASB-1", "explainer": "Description for SASB-1"},
-        {"name": "SASB-2", "explainer": "Description for SASB-2"},
+        {"name": "SASB-2", "explainer": "Description for SASB- sdfsdfsdf sd fsdsf sdf sf  asdf asdf  asdf sadf sd fsad f2 escription for SASB- sdfsdfsdf sd fsdsf sdf sf  asdf asdf  asdf sadf sd fsad f2 escription for SASB- sdfsdfsdf sd fsdsf sdf sf  asdf asdf  asdf sadf sd fsad f2 escription for SASB- sdfsdfsdf sd fsdsf sdf sf  asdf asdf  asdf sadf sd fsad f2"},
         {"name": "SASB-3", "explainer": "Description for SASB-3"},
         {"name": "SASB-4", "explainer": "Description for SASB-4"}
     ],
@@ -17,3 +21,6 @@
         {"name": "ESRS-3", "explainer": "Description for ESRS-3"}
     ]
 }
+
+
+

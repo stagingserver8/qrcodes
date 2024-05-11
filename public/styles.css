@@ -37,12 +37,17 @@
 
 .explainer-card {
     position: absolute; 
-    top: -600px;
+    top: -800px;
     left: 105%;
     width: 550px !important;
     margin-left: 20px; 
 }
 
+.text-secondary {
+    max-height: 220px; /* Set a maximum height */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 10px; /* Optional: adds padding inside the text area */
+}
 
 
 
