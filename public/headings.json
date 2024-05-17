@@ -1,0 +1,24 @@
+{
+    "GRI": [
+        {
+            "name": "GRI 2-1",
+            "headers": ["Country", "Ownership", "HQ"]
+        },
+        {
+            "name": "GRI 2-2",
+            "headers": ["Michael", "Zhneya", "Clara"]
+        },
+        {
+            "name": "GRI 2-3",
+            "headers": ["Apple", "Banana", "Monday"]
+        },
+        {
+            "name": "GRI 2-4",
+            "headers": ["January", "February", "March"]
+        },
+        {
+            "name": "GRI 2-5",
+            "headers": ["April", "February", "March", "December"]
+        }
+    ]
+}

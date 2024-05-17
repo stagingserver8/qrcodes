@@ -2,7 +2,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const selectedItem = document.querySelector('input[name="item"]:checked').value;
     updateCardTitles(selectedItem);
     attachListenersToItemsAndStandards();
-    populateTable();  // Ensure the table is populated when the document is ready
+    setupBadges();  // Ensure badges are set up after DOM is fully loaded
+});
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    updateSubOptions('GRI'); // Automatically load GRI options on load
+    attachListenersToItemsAndStandards(); // Set up listeners
 });
 
 function updateCardTitles(selectedItem) {
@@ -22,34 +28,38 @@ function updateCardTitles(selectedItem) {
     }
 }
 
-async function updateSubOptions(selectedStandard) {
-    try {
-        const response = await fetch('standards.json');
-        const data = await response.json();
+function updateSubOptions(selectedStandard) {
+    fetch('standards.json')
+    .then(response => response.json())
+    .then(data => {
         const subOptions = data[selectedStandard] || [];
-
         const container = document.getElementById('subOptionsContainer');
         container.innerHTML = ''; // Clear existing content
 
         subOptions.forEach(option => {
-            container.appendChild(createBadge(option.name)); // Assume each option has a 'name' property
+            const badge = createBadge(option.name);
+            container.appendChild(badge);
         });
 
         updateBadgeEventListeners(container);
-    } catch (error) {
-        console.error('Error loading standard data:', error);
-        // Handle errors, e.g., display a message or log to console
-    }
+    })
+    .catch(error => console.error('Error loading standard data:', error));
 }
-
 
 function createBadge(text) {
     const badge = document.createElement('span');
     badge.className = 'badge bg-blue-lt cursor-pointer';
     badge.textContent = text;
-    badge.onclick = () => handleBadgeClick(badge);
+    badge.onclick = () => {
+        resetBadgeSelection(document.body);  // Clear previous selections
+        badge.classList.add('bg-blue');  // Highlight the selected badge
+        badge.classList.remove('bg-blue-lt');
+        populateTable(text);  // Call populateTable with the badge text
+    };
     return badge;
 }
+
+
 function handleBadgeClick(badge) {
     // Reset all badges across the entire document first
     resetBadgeSelection(document.body);
@@ -117,9 +127,10 @@ function resetBadgeSelection(container) {
 function updateBadgeEventListeners(container) {
     const badges = container.querySelectorAll('.badge');
     badges.forEach(badge => {
-        badge.onclick = () => handleBadgeClick(badge);
+        badge.addEventListener('click', () => handleBadgeClick(badge));
     });
 }
+
 
 function attachListenersToItemsAndStandards() {
     document.querySelectorAll('input[name="item"], input[name="esgStandard"]').forEach(input => {
@@ -129,65 +140,164 @@ function attachListenersToItemsAndStandards() {
     });
 }
 
-
-
-
-
-
-
-// TABLE STUFF /// 
-function populateTable() {
-    fetch('companies.json')
+function populateTable(selectedGRI) {
+    // Fetch headers based on selected GRI from headings.json
+    fetch('headings.json')
     .then(response => response.json())
-    .then(data => {
-        const headings = ["Country", "Heading 1", "Heading 2", "Heading 3", "Heading 4"];
+    .then(headingsData => {
+        const griHeaders = headingsData.GRI.find(gri => gri.name === selectedGRI);
+        if (!griHeaders) {
+            console.error('No header data found for:', selectedGRI);
+            return;
+        }
+
+        // Set up table headers
+        const dynamicHeaders = ["Company"].concat(griHeaders.headers);
         const tableHeadings = document.getElementById('table-headings');
-        tableHeadings.innerHTML = ''; // Clear existing headings
-        headings.forEach(heading => {
+        tableHeadings.innerHTML = ''; // Clear existing headers
+        dynamicHeaders.forEach(header => {
             const th = document.createElement('th');
-            th.className = 'text-nowrap';
-            th.textContent = heading;
+            th.textContent = header;
             tableHeadings.appendChild(th);
         });
 
-        const tableBody = document.getElementById('table-body');
-        tableBody.innerHTML = ''; // Clear existing rows
-        data.forEach(company => {
-            const tr = document.createElement('tr');
-            tr.className = 'table-row'; // Added class for easier selection later
-            const th = document.createElement('th');
-            const link = document.createElement('a');
-            link.href = "#";
-            link.className = "company-name";
-            link.dataset.company = company.name;
-            link.textContent = company.name;
-            link.addEventListener('click', function(event) {
-                event.preventDefault();
-                updateFirstTabLabel(this.textContent); // Update the first tab's label when clicked
-                highlightRow(tr); // Call function to highlight the row
+
+    
+        // Fetch and display company data
+        fetch('companies.json')
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.getElementById('table-body');
+            tableBody.innerHTML = ''; // Clear existing company data
+            data.forEach(company => {
+                const tr = document.createElement('tr');
+
+                // Create a cell for the company name with clickable link
+                const tdCompany = document.createElement('td');
+                const link = document.createElement('a');
+                link.href = "#";
+                link.className = "company-name";
+                link.textContent = company.name;
+                link.addEventListener('click', function() {
+                    updateCard(company, selectedGRI); // Update the card when company name is clicked
+                });
+                tdCompany.appendChild(link);
+                tr.appendChild(tdCompany);
+
+                // Create cells for dynamic headers based on GRI selection
+                griHeaders.headers.forEach(header => {
+                    const td = document.createElement('td');
+                    td.textContent = (company.standards && company.standards.GRI && company.standards.GRI[selectedGRI] && company.standards.GRI[selectedGRI].metrics && company.standards.GRI[selectedGRI].metrics[header])
+                                     ? company.standards.GRI[selectedGRI].metrics[header]
+                                     : "-";
+                    tr.appendChild(td);
+                });
+
+                tableBody.appendChild(tr);
             });
-            th.appendChild(link);
-            tr.appendChild(th);
-
-            // Country column
-            const tdCountry = document.createElement('td');
-            tdCountry.textContent = company.country || "-";
-            tr.appendChild(tdCountry);
-
-            // Additional data columns
-            ["Heading 1", "Heading 2", "Heading 3"].forEach(heading => {
-                const td = document.createElement('td');
-                td.textContent = company.data[heading] || "-"; // Use data from the company object or default to "-"
-                tr.appendChild(td);
-            });
-
-            tableBody.appendChild(tr);
+        })
+        .catch(error => {
+            console.error('Error loading company data:', error);
+            alert('Failed to load company data.');
         });
     })
-    .catch(error => console.error('Error loading company data:', error));
+    .catch(error => {
+        console.error('Error loading headers data:', error);
+        alert('Failed to load header data.');
+    });
+}
+
+function updateCard(company, selectedGRI) {
+    // Reference the tab-top-1 card directly
+    const card = document.getElementById('tab-top-1');
+    const cardTitle = card.querySelector('.card-title');
+    const textContent = card.querySelector('.text-secondary');
+
+    // Set the card title to the company name
+    //cardTitle.textContent = company.name;
+
+    // Set the content to the 'Text' data from the company metrics for the selected GRI standard
+    textContent.innerHTML = (company.standards && company.standards.GRI && company.standards.GRI[selectedGRI] && company.standards.GRI[selectedGRI].metrics)
+                            ? company.standards.GRI[selectedGRI].metrics['Text'] // Display the 'Text' from the metrics if available
+                            : 'No details available for this standard.'; // Default text if not available
+
+    // Change the tab's header to the company's name
+    const firstTabLink = document.querySelector('a[href="#tab-top-1"]');
+    if (firstTabLink) {
+        firstTabLink.textContent = company.name;
+    }
+
+
+    const dataTab = document.getElementById('tab-top-2').querySelector('.text-secondary');
+    dataTab.innerHTML = '';  // Clear previous content
+
+    Object.keys(company.standards.GRI[selectedGRI]).forEach(key => {
+        if (key.startsWith('attachment')) {
+            let img = document.createElement('img');
+            img.src = company.standards.GRI[selectedGRI][key];
+            img.alt = "Relevant Attachment";
+            img.style.width = '100%'; // Fit within the tab
+            img.style.cursor = 'pointer'; // Indicate image is clickable
+            img.classList.add('img-thumbnail'); // Bootstrap class for image styling
+
+            img.addEventListener('click', function() {
+                const modalImage = document.getElementById('modalImage');
+                modalImage.src = img.src; // Set the modal image source to the clicked image source
+                const modal = new bootstrap.Modal(document.getElementById('imageModal'));
+                modal.show(); // Show the modal
+            });
+
+            dataTab.appendChild(img);
+        }
+    });
+
+
+
+    // Programmatically click to ensure the tab shows updated content
+    firstTabLink.click();
 }
 
 
+// Function to update the label of the first tab based on the clicked company name
+function updateFirstTabLabel(companyName) {
+    const firstTabLink = document.querySelector('a[href="#tab-top-1"]');
+    if (firstTabLink) {
+        firstTabLink.textContent = companyName;  // Update the text of the first tab
+    }
+}
+
+
+function handleBadgeClick(selectedBadge) {
+    // Reset all badges first
+    const allBadges = document.querySelectorAll('.badge');
+    allBadges.forEach(badge => {
+        badge.classList.remove('bg-blue');
+        badge.classList.add('bg-blue-lt');
+    });
+
+    // Highlight the clicked badge
+    selectedBadge.classList.add('bg-blue');
+    selectedBadge.classList.remove('bg-blue-lt');
+
+    // Call to populate the table or handle other logic
+    populateTable(selectedBadge.textContent);
+    showExplainerCard(selectedBadge.textContent);
+}
+// Add this to set up your badges initially or when you dynamically create them
+function setupBadges() {
+    const badges = document.querySelectorAll('.badge');
+    badges.forEach(badge => {
+        badge.addEventListener('click', () => handleBadgeClick(badge));
+    });
+}
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    loadSubheadings(); // Load subheadings when the page loads
+});
+
+// Example to trigger table population manually for testing
+populateTable("GRI 2-1"); // Adjust this as needed based on your actual use case
 
 
 function highlightRow(selectedRow) {
@@ -204,5 +314,4 @@ function updateFirstTabLabel(companyName) {
         firstTabLink.textContent = companyName;
     }
 }
-
 

@@ -3,12 +3,62 @@
         "name": "Bank Gospodarstwa Krajowego",
         "language": "English",
         "country": "Poland",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
+        "standards": {
+            "GRI": {
+                "GRI 2-1": {
+                  "metrics": {
+                    "Country": "Poland",
+                    "Ownership": "Government",
+                    "HQ": "Warsaw",
+                    "Text": "hello me"
+                  },
+                  "attachment_1": "images/sup/Pekao_1.png",
+                  "attachment_2": "images/sup/Pekao_2.png"
+                },
+
+
+                "GRI 2-2": {
+                  "metrics": {
+                    "Michael": "1",
+                    "Zhenya": "2",
+                    "Clara": "3",
+                    "Text": "helloehlloe"
+                  },
+                  "attachment": "URL_or_Path_To_Attachment"
+                },
+                "GRI 2-3": {
+                  "metrics": {
+                    "Apple": "1",
+                    "Banana": "2",
+                    "Monday": "3"
+                  
+                  },
+                  "attachment": "URL_or_Path_To_Attachment"
+                },
+                "GRI 2-4": {
+                  "metrics": {
+                    "January": "1",
+                    "February": "2",
+                    "March": "2"
+                   
+                  },
+                  "attachment": "URL_or_Path_To_Attachment"
+                },
+                "GRI 2-5": {
+                  "metrics": {
+                    "April": "Value1",
+                    "February": "Value2",
+                    "March": "Value3",
+                    "December": "Value4"
+                   
+                  },
+                  "attachment": "URL_or_Path_To_Attachment"
+                }
+            }
         }
     },
+
+    
     {
         "name": "Santander",
         "language": "English",

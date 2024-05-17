@@ -49,8 +49,11 @@
     padding: 10px; /* Optional: adds padding inside the text area */
 }
 
-
-
+#subOptionsContainer .badge {
+    margin: 0.1em; 
+    flex-grow: 1;  
+    text-align: center;  
+}
 
 
 
