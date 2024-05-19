@@ -2,7 +2,7 @@
     "GRI": [
         {
             "name": "GRI 2-1",
-            "headers": ["Country", "Ownership", "HQ"]
+            "headers": ["Disclosing", "Country", "Ownership", "HQ"]
         },
         {
             "name": "GRI 2-2",

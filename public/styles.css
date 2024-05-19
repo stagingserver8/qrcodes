@@ -6,6 +6,16 @@
 }
 
 
+.highlight-row {
+    background-color: #e9f0f9;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+
+
 
 /* Additional space between table and tab content */
 .col-lg-6:first-child {
@@ -30,11 +40,6 @@
 }
 
 
-.highlight {
-    background-color: #e9f0f9
-    /* Light gray background for highlighted row */
-}
-
 .explainer-card {
     position: absolute; 
     top: -800px;
@@ -54,7 +59,6 @@
     flex-grow: 1;  
     text-align: center;  
 }
-
 
 
 

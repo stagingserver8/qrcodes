@@ -141,7 +141,6 @@ function attachListenersToItemsAndStandards() {
 }
 
 function populateTable(selectedGRI) {
-    // Fetch headers based on selected GRI from headings.json
     fetch('headings.json')
     .then(response => response.json())
     .then(headingsData => {
@@ -151,49 +150,81 @@ function populateTable(selectedGRI) {
             return;
         }
 
-        // Set up table headers
         const dynamicHeaders = ["Company"].concat(griHeaders.headers);
         const tableHeadings = document.getElementById('table-headings');
-        tableHeadings.innerHTML = ''; // Clear existing headers
+        tableHeadings.innerHTML = '';
         dynamicHeaders.forEach(header => {
             const th = document.createElement('th');
             th.textContent = header;
             tableHeadings.appendChild(th);
         });
 
-
-    
-        // Fetch and display company data
         fetch('companies.json')
         .then(response => response.json())
         .then(data => {
             const tableBody = document.getElementById('table-body');
-            tableBody.innerHTML = ''; // Clear existing company data
+            tableBody.innerHTML = '';
             data.forEach(company => {
                 const tr = document.createElement('tr');
 
-                // Create a cell for the company name with clickable link
                 const tdCompany = document.createElement('td');
                 const link = document.createElement('a');
                 link.href = "#";
                 link.className = "company-name";
                 link.textContent = company.name;
-                link.addEventListener('click', function() {
-                    updateCard(company, selectedGRI); // Update the card when company name is clicked
-                });
                 tdCompany.appendChild(link);
                 tr.appendChild(tdCompany);
 
-                // Create cells for dynamic headers based on GRI selection
                 griHeaders.headers.forEach(header => {
                     const td = document.createElement('td');
-                    td.textContent = (company.standards && company.standards.GRI && company.standards.GRI[selectedGRI] && company.standards.GRI[selectedGRI].metrics && company.standards.GRI[selectedGRI].metrics[header])
-                                     ? company.standards.GRI[selectedGRI].metrics[header]
-                                     : "-";
+                    let content = company.standards && company.standards.GRI && company.standards.GRI[selectedGRI] && company.standards.GRI[selectedGRI].metrics && company.standards.GRI[selectedGRI].metrics[header] ? company.standards.GRI[selectedGRI].metrics[header] : "-";
+                    // Check if the content is one of Yes, Partial, or No and replace it with a colored circle
+                    if (content === "Yes" || content === "Partial" || content === "No") {
+                        const span = document.createElement('span');
+                        span.className = 'status-circle';
+                        span.style.display = 'inline-block';
+                        span.style.width = '10px';
+                        span.style.height = '10px';
+                        span.style.borderRadius = '50%';
+                        span.style.marginRight = '5px';
+
+                        switch (content) {
+                            case "Yes":
+                                span.style.backgroundColor = '#2fb344'; // Green
+                                break;
+                            case "Partial":
+                                span.style.backgroundColor = '#f59f00'; // Yellow
+                                break;
+                            case "No":
+                                span.style.backgroundColor = '#d63939'; // Red
+                                break;
+                        }
+                        td.appendChild(span);
+                        td.appendChild(document.createTextNode(content)); // Optional: show text beside the circle
+                    } else {
+                        td.textContent = content;
+                    }
                     tr.appendChild(td);
                 });
 
                 tableBody.appendChild(tr);
+            });
+
+            // Event delegation for handling row and link clicks
+            tableBody.addEventListener('click', function(event) {
+                const target = event.target;
+                if (target.tagName === 'A' && target.classList.contains('company-name')) {
+                    event.stopPropagation(); // Prevent triggering row click event
+                    const tr = target.closest('tr'); // Find the parent row
+                    highlightRow(tr);
+                    const companyName = target.textContent;
+                    const companyData = data.find(comp => comp.name === companyName);
+                    updateCard(companyData, selectedGRI);
+                    updateFirstTabLabel(companyName);
+                } else if (target.tagName === 'TD') {
+                    const tr = target.closest('tr'); // Find the parent row if a TD is clicked
+                    highlightRow(tr);
+                }
             });
         })
         .catch(error => {
@@ -206,6 +237,24 @@ function populateTable(selectedGRI) {
         alert('Failed to load header data.');
     });
 }
+
+function highlightRow(row) {
+    const rows = document.querySelectorAll('#table-body tr');
+    rows.forEach(r => {
+        r.classList.remove('highlight-row');
+        if (r.firstChild.firstChild.classList) {
+            r.firstChild.firstChild.classList.remove('bold-text');
+        }
+    });
+
+    row.classList.add('highlight-row');
+    if (row.firstChild.firstChild.classList) {
+        row.firstChild.firstChild.classList.add('bold-text');
+    }
+}
+
+
+
 
 function updateCard(company, selectedGRI) {
     // Reference the tab-top-1 card directly
@@ -300,13 +349,6 @@ document.addEventListener('DOMContentLoaded', function() {
 populateTable("GRI 2-1"); // Adjust this as needed based on your actual use case
 
 
-function highlightRow(selectedRow) {
-    const rows = document.querySelectorAll('.table-row');
-    rows.forEach(row => {
-        row.classList.remove('highlight'); // Remove highlight from all rows
-    });
-    selectedRow.classList.add('highlight'); // Add highlight to the selected row
-}
 
 function updateFirstTabLabel(companyName) {
     const firstTabLink = document.querySelector('a[href="#tab-top-1"]');
