@@ -6,19 +6,68 @@
         },
         {
             "name": "GRI 2-2",
-            "headers": ["Michael", "Zhneya", "Clara"]
+            "headers": ["Disclosing"]
         },
         {
             "name": "GRI 2-3",
-            "headers": ["Apple", "Banana", "Monday"]
+            "headers": ["Disclosing"]
         },
         {
             "name": "GRI 2-4",
-            "headers": ["January", "February", "March"]
+            "headers": ["Disclosing"]
+        },
+
+        {
+            "name": "GRI 2-6",
+            "explainer": "Description for GRI 2-6",
+            "headers": ["Disclosing"] 
+        },
+
+
+        {
+            "name": "GRI 2-9",
+            "explainer": "Description for GRI 2-6",
+            "headers": ["Disclosing"] 
+        },
+
+
+        {
+            "name": "GRI 2-10",
+            "explainer": "Description for GRI 2-6",
+            "headers": ["Disclosing"] 
+        },
+
+
+        {
+            "name": "GRI 2-11",
+            "explainer": "Description for GRI 2-6",
+            "headers": ["Disclosing"] 
+        },
+
+
+
+
+        
+        {
+            "name": "GRI 2-28",
+            "explainer": "Description for GRI 2-28",
+            "headers": ["Disclosing"] 
+        },
+
+
+
+
+        {
+            "name": "GRI 2-14",
+            "headers": ["Disclosing"]
         },
         {
-            "name": "GRI 2-5",
-            "headers": ["April", "February", "March", "December"]
+            "name": "GRI 3-1",
+            "headers": ["Disclosing"]
+        },
+        {
+            "name": "GRI 3-2",
+            "headers": ["Disclosing"]
         }
     ]
 }

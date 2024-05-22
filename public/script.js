@@ -28,6 +28,39 @@ function updateCardTitles(selectedItem) {
     }
 }
 
+function updateBadgeEventListeners(container) {
+    const badges = container.querySelectorAll('.badge');
+    badges.forEach(badge => {
+        badge.addEventListener('click', () => handleBadgeClick(badge));
+    });
+}
+
+function handleBadgeClick(selectedBadge) {
+    // Reset all badges first
+    const allBadges = document.querySelectorAll('.badge');
+    allBadges.forEach(badge => {
+        badge.classList.remove('bg-blue');
+        badge.classList.add('bg-blue-lt');
+    });
+
+    // Highlight the clicked badge
+    selectedBadge.classList.add('bg-blue');
+    selectedBadge.classList.remove('bg-blue-lt');
+
+    // Call to populate the table or handle other logic
+    populateTable(selectedBadge.textContent);
+    showExplainerCard(selectedBadge.textContent);
+}
+
+
+// Add this to set up your badges initially or when you dynamically create them
+function setupBadges() {
+    const badges = document.querySelectorAll('.badge');
+    badges.forEach(badge => {
+        badge.addEventListener('click', () => handleBadgeClick(badge));
+    });
+}
+
 function updateSubOptions(selectedStandard) {
     fetch('standards.json')
     .then(response => response.json())
@@ -37,14 +70,40 @@ function updateSubOptions(selectedStandard) {
         container.innerHTML = ''; // Clear existing content
 
         subOptions.forEach(option => {
-            const badge = createBadge(option.name);
-            container.appendChild(badge);
+            const dropdownItem = createDropdownItem(option.name);
+            container.appendChild(dropdownItem);
         });
-
-        updateBadgeEventListeners(container);
     })
     .catch(error => console.error('Error loading standard data:', error));
 }
+
+function createDropdownItem(text) {
+    const item = document.createElement('li');
+    const link = document.createElement('a');
+    link.className = 'dropdown-item';
+    link.href = '#';
+    link.textContent = text;
+    link.onclick = () => {
+        populateTable(text);  // Call populateTable with the option text
+        showExplainerCard(text); // Show details related to the selected option
+        // Highlight the clicked item
+        document.querySelectorAll('.dropdown-item').forEach(item => item.classList.remove('active'));
+        link.classList.add('active');
+    };
+    item.appendChild(link);
+    return item;
+}
+
+function populateTable(optionText) {
+    // Function to populate a table or handle other logic based on the selected option
+    console.log('Populating table with data related to:', optionText);
+}
+
+function showExplainerCard(optionText) {
+    // Function to display detailed information about the selected option
+    console.log('Showing explainer card for:', optionText);
+}
+
 
 function createBadge(text) {
     const badge = document.createElement('span');
@@ -124,13 +183,6 @@ function resetBadgeSelection(container) {
 }
 
 
-function updateBadgeEventListeners(container) {
-    const badges = container.querySelectorAll('.badge');
-    badges.forEach(badge => {
-        badge.addEventListener('click', () => handleBadgeClick(badge));
-    });
-}
-
 
 function attachListenersToItemsAndStandards() {
     document.querySelectorAll('input[name="item"], input[name="esgStandard"]').forEach(input => {
@@ -139,6 +191,11 @@ function attachListenersToItemsAndStandards() {
         };
     });
 }
+
+
+
+
+
 
 function populateTable(selectedGRI) {
     fetch('headings.json')
@@ -316,29 +373,7 @@ function updateFirstTabLabel(companyName) {
 }
 
 
-function handleBadgeClick(selectedBadge) {
-    // Reset all badges first
-    const allBadges = document.querySelectorAll('.badge');
-    allBadges.forEach(badge => {
-        badge.classList.remove('bg-blue');
-        badge.classList.add('bg-blue-lt');
-    });
 
-    // Highlight the clicked badge
-    selectedBadge.classList.add('bg-blue');
-    selectedBadge.classList.remove('bg-blue-lt');
-
-    // Call to populate the table or handle other logic
-    populateTable(selectedBadge.textContent);
-    showExplainerCard(selectedBadge.textContent);
-}
-// Add this to set up your badges initially or when you dynamically create them
-function setupBadges() {
-    const badges = document.querySelectorAll('.badge');
-    badges.forEach(badge => {
-        badge.addEventListener('click', () => handleBadgeClick(badge));
-    });
-}
 
 
 document.addEventListener('DOMContentLoaded', function() {

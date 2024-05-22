@@ -24,6 +24,61 @@
             "name": "GRI 2-5",
             "explainer": "Description for GRI 2-5",
             "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 2-9",
+            "explainer": "Description" ,
+            "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 2-10",
+            "explainer": "Description ",
+            "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 2-11",
+            "explainer": "Description ",
+            "headers": ["January", "February", "March"] 
+        },
+
+
+
+
+        {
+            "name": "GRI 2-6",
+            "explainer": "Description for GRI 2-6",
+            "headers": ["January", "February", "March"] 
+        },
+
+
+
+
+
+        {
+            "name": "GRI 2-14",
+            "explainer": "Empty space",
+            "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 2-28",
+            "explainer": "Empty space",
+            "headers": ["January", "February", "March"] 
+        },
+
+
+        {
+            "name": "GRI 3-1",
+            "explainer": "Empty space",
+            "headers": ["January", "February", "March"] 
+        },
+        {
+            "name": "GRI 3-2",
+            "explainer": "Empty Space",
+            "headers": ["January", "February", "March"] 
         }
     ]
 }

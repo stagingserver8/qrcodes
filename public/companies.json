@@ -7,14 +7,14 @@
             "GRI": {
                 "GRI 2-1": {
                   "metrics": {
-                    "Disclosing":"Partial",
+                    "Disclosing":"Yes",
                     "Country": "Poland",
                     "Ownership": "Government",
                     "HQ": "Warsaw",
                     "Text": "hello me"
                   },
-                  "attachment_1": "images/sup/Pekao_1.png",
-                  "attachment_2": "images/sup/Pekao_2.png"
+                  "attachment_1": "",
+                  "attachment_2": ""
                 },
 
 
@@ -80,16 +80,112 @@
             "Heading 3": "Value3"
         }
     },
-    {
+
+
+ {
         "name": "Pekao",
         "language": "English",
         "country": "Poland",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
+        "year": "2022",
+        "standards": {
+            "GRI": {
+                "GRI 2-1": {
+                  "metrics": {
+                    "Disclosing":"Yes",
+                    "Country": "Poland",
+                    "Ownership": "Public",
+                    "HQ": "Warsaw",
+                    "Text": "Bank Polska Kasa Opieki Spółka Akcyjna (dalej: „Bank”, „Bank Pekao”) jest bankiem zorganizowanym w formie spółki akcyjnej, działającym na podstawie obowiązujących przepisów prawa, w szczególności ustawy Prawo bankowe oraz przepisów Kodeksu spółek handlowych i postanowień Statutu Banku Polska Opieki Pekao Spółka Akcyjna (dalej: „Statut Banku Pekao” – tekst jednolity dostępny na stronie.Bank działa na terytorium Rzeczypospolitej Polskiej. Główna siedziba mieści się w Warszawie, przy ul. Grzybowskiej 53/57 (kod pocztowy 00-950). Dodatkowa siedziba znajduje się przy ul. Żwirki i Wigury 31 w Warszawie (kod pocztowy 02-091). <br> <br> Na rok 2023 zaplanowane zostało przeniesienie siedzib Banku do nowej lokalizacji w Warszawie przy ul. Burakowskiej 14 (kod pocztowy 01-066). Nadzór nad działalnością Banku Pekao sprawuje Komisja Nadzoru Finansowego (dalej „KNF”). Od 1998 roku Bank Pekao jest notowany na Giełdzie Papierów Wartościowych w Warszawie. Począwszy od 2017 roku, Bank Pekao jest częścią Grupy Kapitałowej PZU S.A. (dalej: „Grupa PZU”), największej instytucji finansowej w Europie Środkowo-Wschodniej."
+                  },
+                  "attachment_1": "images/sup/Pekao_3.png",
+                  "attachment_2": "images/sup/Pekao_4.png",
+                    "attachment_3": "images/sup/Pekao_5.png"
+                },
+
+
+                "GRI 2-2": {
+                  "metrics": {
+                    "Disclosing": "Yes",
+                    "Text": "Raportowaniem zrównoważonego rozwoju objęte zostały następujące podmioty: Bank Pekao, Pekao Bank Hipoteczny S.A.; Centrum Kart S.A.; Pekao Direct Sp. z o.o.; Pekao Faktoring Sp. z o.o.; Pekao Financial Services Sp. z o.o.; Pekao Investment Banking S.A.; Pekao Investment Management S.A. (w tym: Pekao TFI S.A.) oraz Pekao Leasing Sp. z o.o. (w tym PEUF Sp. z o.o.). Dane zostały skonsolidowane metodą pełną."
+                  }
+                },
+
+
+
+                "GRI 2-3": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Raport sporządzono zgodnie ze standardem GRI Standards (GRI 1: Foundation 2021) za okres od 01.01.2022 roku do 31.12.2022 roku. Grupa Pekao raportuje dane niefinansowe w cyklu rocznym. <br><br> Kontakt w sprawie raportu: <br><Br> Joanna Brancewicz, menedżer Zespołu ds. ESG w Departamencie Relacji Inwestorskich i Strategii ESG <br> Marta Mazek, ekspert ds. ESG w Departamencie Relacji Inwestorskich i Strategii ESG <br> Iwona Hlebko-Zwierz, ekspert ds. ESG w Departamencie Relacji Inwestorskich i Strategii ESG <br><br> Adres mailowy: esg@pekao.com.pl"
+                    }
+                  },
+
+                  "GRI 2-4": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "W raportowanym okresie nie odnotowano żadnych istotnych zmian"
+                    }
+                  },
+
+                  "GRI 2-14": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Oświadczenie o danych niefinansowych, jako część sprawozdania z rocznej działalności, jest przekazywane do oceny i akceptacji wszystkim członkom Zarządu Banku.."
+                    }
+                  },
+
+                  "GRI 2-5": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Oświadczenie nie było poddawane zewnętrznej weryfikacji ani audytowi. Poprzednie Oświadczenie zostało opublikowane 2 marca 2022 roku."
+                    }
+                  },
+
+
+                  "GRI 2-6": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Bank Polska Kasa Opieki S.A., założony w 1929 roku, jest jedną z największych instytucji finansowych w regionie Europy Środkowo-Wschodniej i drugim największym bankiem uniwersalnym w Polsce z ponad 200 mld zł aktywów. Bank prowadzi operacje zarówno w złotych polskich, jak i w walutach obcych oraz aktywnie uczestniczy w obrocie na krajowym i zagranicznych rynkach finansowych. Oferuje pełen zakres usług bankowych na rzecz klientów indywidualnych oraz instytucjonalnych. Jako bank korporacyjny Bank Pekao obsługuje co drugą korporację w Polsce. Bank posiada ugruntowaną pozycję lidera rynku w obszarze private banking, zarządzania aktywami i działalności maklerskiej. Zróżnicowany profil działalności Banku Pekao jest wspierany przez silną pozycję kapitałową i płynnościową przy zachowaniu najwyższych standardów w zakresie zarządzania ryzykiem. Bank oferuje konkurencyjne na rynku polskim produkty i usługi, wysoki poziom obsługi klientów oraz rozwiniętą sieć dystrybucji. Szeroka oferta produktowa, nowatorskie rozwiązania i indywidualne podejście do klienta zapewniają kompleksową obsługę finansową, a zintegrowany model obsługi dostarcza najwyższej jakości usługi klientom oraz zapewnia optymalne dopasowanie do zmieniających się potrzeb. Bank systematycznie umacnia pozycję rynkową w strategicznych obszarach działalności. Szczegółowy katalog czynności wykonywanych w obrocie krajowym i zagranicznym został ujęty w paragrafie 6 Statutu Banku. <br> Bank Pekao aktywnie działa w stowarzyszeniach i organizacjach branżowych. Zaangażowanie w tym zakresie można podzielić na cztery główne obszary: <ul><li>Związek Banków Polskich wraz z Komitetami i Radami, w tym: Komitet Bankowe Centrum Cyberbezpieczeństwa, Komitet ds. Finansowania Nieruchomości, Komitet Agentów Rozliczeniowych, Rada Wydawców Kart Bankowych, Rada Bankowości Elektronicznej,</li> <li> Stowarzyszenia i organizacje o zasięgu międzynarodowym, w tym: International Swaps and Derivatives Association (ISDA), International Project Finance Association (IPFA), United Nations Global Compact,</li> <li> Stowarzyszenia i organizacje o zasięgu ogólnopolskim, w tym: Stowarzyszenie Emitentów Giełdowych, Izba Domów Maklerskich, Polskie Stowarzyszenie Zarządzania Kadrami, Stowarzyszenie Dealerów Bankowych ACI Polska, Polskie Stowarzyszenie Inwestorów Kapitałowych</li> <li> Stowarzyszenia i organizacje o zasięgu lokalnym: Lubelski Klub Biznesu, Podkarpacki Klub Biznesu.</li> </ul>"
+                    },
+                    "attachment_1": "images/sup/Pekao_6.png"
+                  },
+
+                  "GRI 2-28": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Bank Polska Kasa Opieki S.A., założony w 1929 roku, jest jedną z największych instytucji finansowych w regionie Europy Środkowo-Wschodniej i drugim największym bankiem uniwersalnym w Polsce z ponad 200 mld zł aktywów. Bank prowadzi operacje zarówno w złotych polskich, jak i w walutach obcych oraz aktywnie uczestniczy w obrocie na krajowym i zagranicznych rynkach finansowych. Oferuje pełen zakres usług bankowych na rzecz klientów indywidualnych oraz instytucjonalnych. Jako bank korporacyjny Bank Pekao obsługuje co drugą korporację w Polsce. Bank posiada ugruntowaną pozycję lidera rynku w obszarze private banking, zarządzania aktywami i działalności maklerskiej. Zróżnicowany profil działalności Banku Pekao jest wspierany przez silną pozycję kapitałową i płynnościową przy zachowaniu najwyższych standardów w zakresie zarządzania ryzykiem. Bank oferuje konkurencyjne na rynku polskim produkty i usługi, wysoki poziom obsługi klientów oraz rozwiniętą sieć dystrybucji. Szeroka oferta produktowa, nowatorskie rozwiązania i indywidualne podejście do klienta zapewniają kompleksową obsługę finansową, a zintegrowany model obsługi dostarcza najwyższej jakości usługi klientom oraz zapewnia optymalne dopasowanie do zmieniających się potrzeb. Bank systematycznie umacnia pozycję rynkową w strategicznych obszarach działalności. Szczegółowy katalog czynności wykonywanych w obrocie krajowym i zagranicznym został ujęty w paragrafie 6 Statutu Banku. <br> Bank Pekao aktywnie działa w stowarzyszeniach i organizacjach branżowych. Zaangażowanie w tym zakresie można podzielić na cztery główne obszary: <ul><li>Związek Banków Polskich wraz z Komitetami i Radami, w tym: Komitet Bankowe Centrum Cyberbezpieczeństwa, Komitet ds. Finansowania Nieruchomości, Komitet Agentów Rozliczeniowych, Rada Wydawców Kart Bankowych, Rada Bankowości Elektronicznej,</li> <li> Stowarzyszenia i organizacje o zasięgu międzynarodowym, w tym: International Swaps and Derivatives Association (ISDA), International Project Finance Association (IPFA), United Nations Global Compact,</li> <li> Stowarzyszenia i organizacje o zasięgu ogólnopolskim, w tym: Stowarzyszenie Emitentów Giełdowych, Izba Domów Maklerskich, Polskie Stowarzyszenie Zarządzania Kadrami, Stowarzyszenie Dealerów Bankowych ACI Polska, Polskie Stowarzyszenie Inwestorów Kapitałowych</li> <li> Stowarzyszenia i organizacje o zasięgu lokalnym: Lubelski Klub Biznesu, Podkarpacki Klub Biznesu.</li> </ul>"
+                    },
+                    "attachment_1": "images/sup/Pekao_6.png"
+                  },
+
+
+
+                  "GRI 2-9": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Bank Pekao oraz podmioty Grupy Pekao posiadają strukturę organizacyjną dostosowaną do wielkości i specyfiki prowadzonej przez nie działalności. Zakres kompetencji organów spółek jest określony w przepisach prawa, a w szczególności w Kodeksie spółek handlowych, ustawie Prawo bankowe, w rekomendacjach nadzorczych organów nadzoru, w Statucie Banku oraz statutach/umowach spółek i regulacjach wewnętrznych podmiotów Grupy Pekao <br><br>Stały nadzór nad działalnością Banku Pekao sprawuje Rada Nadzorcza. W jej skład wchodzi od siedmiu do dziewięciu członków powoływanych przez Walne Zgromadzenie na okres wspólnej kadencji, trwającej trzy lata. Organizację i sposób działania Rady określa Regulamin Rady Nadzorczej Banku Polska Opieki Pekao Spółka Akcyjna.<br>Rada Nadzorcza wykonuje swoje obowiązki kolegialne, jednakże dla wykonania określonych czynności lub w celu usprawnienia prac może powołać spośród swoich członków komitety oraz zespoły. Ponadto Rada może delegować jednego lub kilku członków Rady Nadzorczej do samodzielnego pełnienia nadzoru w zakresie określonym przez Radę Nadzorczą. W ramach Rady Nadzorczej Banku Pekao funkcjonują: Komitet ds. Audytu, Komitet ds. Nominacji i Wynagrodzeń oraz Komitet ds. Ryzyka. Powołane przez Radę Nadzorczą komitety przedkładają Radzie Nadzorczej roczne raporty z działalności.<br><br>Zarząd Banku<br><br> Zarząd Banku Pekao prowadzi sprawy Banku i reprezentuje Bank. Wszystkie sprawy niezastrzeżone, na mocy przepisów prawa lub Statutu Banku, do kompetencji innych organów, należą do zakresu działania Zarządu Banku. W skład Zarządu wchodzi od pięciu do dziewięciu członków, powoływanych na wspólną trzyletnią kadencję. Rada Nadzorcza Banku, działając na podstawie Kodeksu spółek handlowych oraz uwzględniając ocenę spełniania wymogów odpowiedniości, 14 czerwca 2022 roku jednogłośnie powołała, z dniem następującym po odbyciu Zwyczajnego Walnego Zgromadzenia Banku zatwierdzającego sprawozdanie finansowe Banku za rok obrotowy 2021, członków Zarządu Banku na nową wspólną kadencję trwającą 3 lata.W skład Zarządu Banku na kolejną trzyletnią wspólną kadencję zostały powołane następujące osoby:Leszek Skiba na Prezesa Zarządu Banku, Marcin Gadomski na Wiceprezesa Zarządu Banku nadzorującego zarządzanie ryzykiem istotnym w działalności Banku, Jarosław Fuchs na Wiceprezesa Zarządu Banku, Jerzy Kwieciński na Wiceprezesa Zarządu Banku, Paweł Strączyński na Wiceprezesa Zarządu Banku, Błażej Szczecki na Wiceprezesa Zarządu Banku, Wojciech Werochowski na Wiceprezesa Zarządu Banku, Piotr Zborowski na Wiceprezesa Zarządu Banku, Magdalena Zmitrowicz na Wiceprezesa Zarządu Banku. Rada Nadzorcza Banku, w wyniku przeprowadzonych ocen, stwierdziła, że wszyscy członkowie Zarządu Banku oraz Zarząd Banku jako całość spełniają wymogi, o których mowa w art. 22aa Ustawa z dnia 29 sierpnia 1997 roku – Prawo Bankowe oraz wymogi odpowiedniości, o których mowa w Polityce doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji oraz oceny odpowiedniości proponowanych i powoływanych członków zarządu, rady nadzorczej oraz osób pełniących kluczowe funkcje w Banku Polska Kasa Opieki Spółka Akcyjna.Żadna z powyższych osób powołanych w skład Zarządu Banku, zgodnie ze złożonymi oświadczeniami, nie prowadzi działalności konkurencyjnej wobec Banku, nie uczestniczy w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej, spółki kapitałowej, ani nie uczestniczy w konkurencyjnej osobie prawnej jako członek jej organu. Ponadto żadna z powołanych osób nie figuruje również w Rejestrze Dłużników Niewypłacalnych prowadzonym na podstawie ustawy z dnia 20 sierpnia 1997 roku o Krajowym Rejestrze Sądowym."
+                    },
+                    "attachment_1": "images/sup/Pekao_7.png",
+                    "attachment_2": "images/sup/Pekao_9.png"
+                  },
+
+
+                  "GRI 3-1": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "W określeniu wpływu Banku na środowisko, otoczenie ekonomiczne i społeczeństwo wzięto pod uwagę przede wszystkim: analizy i informacje zwrotne otrzymywane od interesariuszy (w tym: akcjonariuszy, inwestorów, analityków finansowych, analityków agencji ratingowych oraz analityków giełdowych). Podstawą analizy były zapisy Strategii ESG oraz strategii biznesowej Banku, oraz wymogi regulacyjne, w tym <ul> <li> Wymogi Dyrektywy Parlamentu Europejskiego i Rady 2014/95/UE z 22 października 2014 roku zmieniającej dyrektywę 2013/34/UE w odniesieniu do ujawniania informacji niefinansowych i informacji dotyczących różnorodności przez niektóre duże spółki oraz grupy (zaimplementowanej do prawa polskiego w postaci zmian do Ustawy o Rachunkowości) </li> <li>Wymogi Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 roku w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych,</li><li> Dobre Praktyki Spółek Notowanych na GPW 2021,</li><li> Wytyczne do raportowania ESG wydane przez GPW,</li> <li> Wytyczne European Securities and Markets Authority (ESMA),</li> <li> Wymogi wynikające z zasad raportowania w ramach Grupy Kapitałowej PZU. </li> </ul>"
+                    }
+                  },
+                  "GRI 3-2": {
+                    "metrics": {
+                      "Disclosing": "Yes",
+                      "Text": "Na podstawie analizy zidentyfikowano następujące tematy, które zostały uznane za istotne do zaraportowania w Oświadczeniu: <ul> <li> Czynniki mające wpływ na działalność Banku</li> <li>Wsparcie transformacji energetycznej</li> <li>Produkty o charakterze „zielonym” i „zrównoważonym”</li> <li>Zmiany regulacyjne dotyczące obszaru „sustainable finance”</li> <li>Ograniczenie śladu węglowego, ochrona zasobów środowiska naturalnego</li> <li>Zaangażowanie społeczne</li> <li>Odpowiedzialna sprzedaż, zarządzanie jakością usług</li> <li>Kapitał ludzki, warunki pracy i rozwój pracowników</li> <li>Etyka w biznesie i ład korporacyjny</li> <li>Inkluzywna organizacja – rozwój, różnorodność i równośćv <li>Przestrzeganie praw człowieka i pracownika, odpowiedzialność w łańcuchu dostaw</li> <li>Rozwój innowacji w działalności biznesowej </li> </ul>"
+                    }
+                  }
+            }
         }
     },
+
+
     {
         "name": "Bank Millennium",
         "language": "English",

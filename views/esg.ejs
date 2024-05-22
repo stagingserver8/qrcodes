@@ -43,9 +43,29 @@
         /* New styles for making table rows thinner */
         .table th, .table td {
             padding: 3px 2px !important; /* Smaller padding */
-            font-size: 14px; /* Smaller font size */
+            font-size: 14px !important; /* Smaller font size */
         }
 
+
+
+    .btn-secondary {
+    background-color: white !important; /* Match background to your form's style */
+    color: rgba(102, 102, 102, 0.863) !important; /* Text color */
+    border: 2px solid #646464ec !important;  /* Similar to default Bootstrap gray border */
+    border-radius: 0.25rem !important; /* Rounded borders like Bootstrap buttons */
+}
+
+.btn-secondary:hover, .btn-secondary:focus {
+    background-color: #e2e6ea !important; /* Light gray background on hover/focus */
+    color: black; /* Keep text color consistent */
+    border-color: #dae0e5; /* Slightly lighter border on hover/focus */
+}
+
+/* To keep the styling consistent when the dropdown is active or open */
+.btn-secondary.dropdown-toggle.show {
+    background-color: #e2e6ea !important; /* Keep hover color when active */
+    color: black !important; /* Keep text color when active */
+} 
 
 
 
@@ -53,12 +73,7 @@
 
 </head>
 
-
 <body>
-
- 
-    
-
     <div class="main-content">
         <div class="page-header">
             <div class="row align-items-center">
@@ -79,39 +94,8 @@
       <br>
 
       
-      <div class="row">
-        <div class="col-md-2">
-            <div class="mb-2">
-                <label class="form-label">Reporting year</label>
-                <div class="form-selectgroup">
-                    <label class="form-selectgroup-item">
-                        <input type="radio" name="reportingYear" value="2023" class="form-selectgroup-input" checked /> <!-- Set 2023 as checked by default -->
-                        <span class="form-selectgroup-label">2023</span>
-                    </label>
-                    <label class="form-selectgroup-item">
-                        <input type="radio" name="reportingYear" value="2024" class="form-selectgroup-input" />
-                        <span class="form-selectgroup-label">2024</span>
-                    </label>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-2">
-            <div class="mb-2">
-                <label class="form-label">Language</label>
-                <div class="form-selectgroup">
-                    <label class="form-selectgroup-item">
-                        <input type="radio" name="language" value="Polish" class="form-selectgroup-input" /> <!-- Not checked by default -->
-                        <span class="form-selectgroup-label">Polish</span>
-                    </label>
-                    <label class="form-selectgroup-item">
-                        <input type="radio" name="language" value="English" class="form-selectgroup-input" checked /> <!-- Set English as checked by default -->
-                        <span class="form-selectgroup-label">English</span>
-                    </label>
-                </div>
-            </div>
-        </div>
-    </div>
-    
+        
+     
     
 
 <br>
@@ -164,30 +148,23 @@
 </div>
 
 <br>
-
 <div class="mb-3">
-  <label class="form-label">Standard</label>
-  <div class="form-selectgroup">
-      <label class="form-selectgroup-item">
-          <input type="radio" name="esgStandard" value="GRI" class="form-selectgroup-input" id="GRI" onchange="updateSubOptions('GRI'); clearItemSelection();" />
-          <span class="form-selectgroup-label">GRI</span>
-      </label>
-      <label class="form-selectgroup-item">
-          <input type="radio" name="esgStandard" value="SASB" class="form-selectgroup-input" id="SASB" onchange="updateSubOptions('SASB'); clearItemSelection();" />
-          <span class="form-selectgroup-label">SASB</span>
-      </label>
-      <label class="form-selectgroup-item">
-          <input type="radio" name="esgStandard" value="ESRS" class="form-selectgroup-input" id="ESRS" onchange="updateSubOptions('ESRS'); clearItemSelection();" />
-          <span class="form-selectgroup-label">ESRS</span>
-      </label>
-      <br>
-      <br>
-      <br>
-  </div>
+    <label for="subOptionsDropdown" class="form-label">GRI</label>
+    <div class="dropdown">
+        <a href="#" class="btn btn-secondary dropdown-toggle" id="subOptionsDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            Choose option
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="subOptionsDropdown" id="subOptionsContainer">
+            <!-- Sub-options will be dynamically added here -->
+        </ul>
+    </div>
+</div>
 
-  
+
 
   <div id="subOptionsContainer" class="mb-3"></div>
+
+
 
 </div>
 <div class="hr-text"></div>
