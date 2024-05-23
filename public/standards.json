@@ -3,11 +3,12 @@
         {
             "name": "GRI 2-1",
             "explainer": "<strong>2-1-a: Legal Name:</strong> If the organization uses a commonly known trading name or business name that is different from its legal name, it should report this in addition to its legal name.<br><br><strong>2-1-b: Nature of ownership and legal form:</strong> The nature of ownership and the legal form of the organization refers to whether it is publicly or privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or another type of entity such as a nonprofit, an association, or a charity.<br><br><strong>2-1-c: Location of its headquarters:</strong> Headquarters are an organization’s global administrative center, the place from which it is controlled or directed.<br><br><strong>2-1-d: Countries of operation:</strong> If the organization has reported its countries of operation elsewhere, such as in its audited consolidated financial statements or financial information filed on public record, the organization can provide a link or reference to this information. The organization can also report the regions or specific locations within countries (e.g., states, cities) where it has operations, if this provides contextual information for understanding the organization’s impacts.",
+            "subheading":"General Information",
             "headers": ["Country", "Ownership", "HQ"]
         },
         {
             "name": "GRI 2-2",
-            "explainer": " List all organisations ... ",
+            "explainer": " mmmmm",
             "headers": ["Michael", "Zhneya", "Clara"] 
         },
         {
@@ -28,20 +29,47 @@
 
         {
             "name": "GRI 2-9",
-            "explainer": "Description" ,
-            "headers": ["January", "February", "March"] 
+            "explainer": "The organization shall: <br> Describe its governance structure, including committees of the highest governance body, list the committees of the highest governance body that are responsible for decision- making on and overseeing the management of the organization’s impacts on the economy, environment, and people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held by each member, and the nature of the commitments, gender, under-represented social groups, competencies relevant to the impacts of the organization, stakeholder representation" ,
+            "headers": ["Liczba", "Liczba Kobiet"] 
         },
 
         {
             "name": "GRI 2-10",
-            "explainer": "Description ",
+            "explainer": "people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held ",
             "headers": ["January", "February", "March"] 
         },
+
+
+        {
+            "name": "GRI 201-1",
+            "explainer": "Direct economic value generated and distributed (EVG&D) on an accruals basis, including the basic components for the organization’s global operations as listed below. If data are presented on a cash basis, report the justification for this decision in addition to reporting the following basic components: Direct economic value generated: revenues,Economic value distributed: operating costs, employee wages and benefits, payments to providers of capital, payments to government by country, and community investments, Economic value retained: ‘direct economic value generated’ less ‘economic value distributed’.  Where significant, report EVG&D separately at country, regional, or market levels, and the criteria used for defining significance. hen compiling the information specified in Disclosure 201-1, the reporting organization shall, if applicable, compile the EVG&D from data in the organization’s audited financial or profit and loss (P&L) statement, or its internally audited management accounts. "
+        
+        },
+
+
 
         {
             "name": "GRI 2-11",
             "explainer": "Description ",
             "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 2-19",
+            "explainer": "corp gov "
+            
+        },
+
+        {
+            "name": "GRI 2-20",
+            "explainer": "corp gov "
+            
+        },
+
+        {
+            "name": "GRI 2-21",
+            "explainer": "Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual). Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); ",
+            "headers": ["Highest Paid / Median", "Increase of Highest Paid / Increase all"] 
         },
 
 
@@ -63,6 +91,35 @@
             "headers": ["January", "February", "March"] 
         },
 
+
+        {
+            "name": "GRI 2-18",
+            "explainer": "Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people; <br> report whether the evaluations are independent or not, and the frequency of the evaluations <br> describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices.",
+            "headers": ["Disclosing"] 
+        },
+
+
+        {
+            "name": "GRI 2-19",
+            "explainer": "",
+            "headers": ["Disclosing"] 
+        },
+
+        {
+            "name": "GRI 2-20",
+            "explainer": "",
+            "headers": ["Disclosing"] 
+        },
+
+
+
+
+
+
+
+
+
+
         {
             "name": "GRI 2-28",
             "explainer": "Empty space",
@@ -79,6 +136,12 @@
             "name": "GRI 3-2",
             "explainer": "Empty Space",
             "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 302-1",
+            "explainer": "Energy consumption within the organization"
+        
         }
     ]
 }

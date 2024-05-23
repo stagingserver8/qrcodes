@@ -6,7 +6,7 @@
         },
         {
             "name": "GRI 2-2",
-            "headers": ["Disclosing"]
+            "headers": ["Full", "Half", "Country"]
         },
         {
             "name": "GRI 2-3",
@@ -19,35 +19,63 @@
 
         {
             "name": "GRI 2-6",
-            "explainer": "Description for GRI 2-6",
             "headers": ["Disclosing"] 
         },
 
 
         {
             "name": "GRI 2-9",
-            "explainer": "Description for GRI 2-6",
-            "headers": ["Disclosing"] 
+            "headers": ["Disclosing", "Liczba Członków", "Liczba Kobiet"] 
         },
 
 
         {
             "name": "GRI 2-10",
-            "explainer": "Description for GRI 2-6",
             "headers": ["Disclosing"] 
         },
 
 
         {
             "name": "GRI 2-11",
-            "explainer": "Description for GRI 2-6",
             "headers": ["Disclosing"] 
         },
 
 
+        {
+            "name": "GRI 2-18",
+            "headers": ["Disclosing"] 
+        },
 
 
-        
+        {
+            "name": "GRI 2-21",
+            "headers": ["Disclosing", "Highest Paid / Median", "Increase of Highest Paid / All"] 
+        },
+
+        {
+            "name": "GRI 201-1",
+            "headers": ["Disclosing", "Dochody", "Dywidenda", "Wynik Netto"] 
+        },
+
+        {
+            "name": "GRI 302-1",
+            "headers": ["Disclosing", "Konsumpcja Energii"]
+        },
+
+
+
+        {
+            "name": "GRI 2-19",
+            "headers": ["Disclosing"] 
+        },
+
+        {
+            "name": "GRI 2-20",
+            "headers": ["Disclosing"]
+        },
+
+   
+       
         {
             "name": "GRI 2-28",
             "explainer": "Description for GRI 2-28",

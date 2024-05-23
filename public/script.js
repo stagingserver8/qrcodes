@@ -392,3 +392,17 @@ function updateFirstTabLabel(companyName) {
     }
 }
 
+document.addEventListener('DOMContentLoaded', function () {
+    const dropdownContainer = document.getElementById('subOptionsContainer');
+    const dropdownButton = document.getElementById('subOptionsDropdown');
+
+    // Event delegation to handle clicks on dynamically added dropdown items
+    dropdownContainer.addEventListener('click', function(event) {
+        if (event.target.tagName === 'A') {  // Ensure the target is an <a> element
+            dropdownButton.textContent = event.target.textContent;  // Change the button text to the clicked item's text
+            dropdownButton.style.color = '#0054a6';  // Change the text color to blue (#0054a6)
+            event.preventDefault();  // Prevent the default anchor click behavior
+        }
+    });
+});
+

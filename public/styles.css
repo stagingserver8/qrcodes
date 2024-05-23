@@ -5,7 +5,6 @@
    
 }
 
-
 .highlight-row {
     background-color: #e9f0f9;
 }
@@ -13,8 +12,6 @@
 .bold-text {
     font-weight: bold;
 }
-
-
 
 
 /* Additional space between table and tab content */
@@ -42,9 +39,9 @@
 
 .explainer-card {
     position: absolute; 
-    top: -800px;
+    top: -750px !important;
     left: 105%;
-    width: 550px !important;
+    width: 600px !important;
     margin-left: 20px; 
 }
 
@@ -59,7 +56,6 @@
     flex-grow: 1;  
     text-align: center;  
 }
-
 
 
 /* Ensuring proper alignment with the card-tabs */

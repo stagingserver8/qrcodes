@@ -8,13 +8,6 @@
 
     <link rel="stylesheet" href="styles.css">
 
-    <!-- Include CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
-
-<!-- Include JS (Popper and Bootstrap) -->
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
 
 <style>
 
@@ -23,6 +16,8 @@
     cursor: pointer;
     transition: background-color 0.3s;
 }
+
+
 
 .bg-blue-lt {
     background-color: #f0f2f7; /* Light blue background */
@@ -39,41 +34,28 @@
 }
 
 
-
         /* New styles for making table rows thinner */
         .table th, .table td {
             padding: 3px 2px !important; /* Smaller padding */
-            font-size: 14px !important; /* Smaller font size */
         }
-
-
-
-    .btn-secondary {
-    background-color: white !important; /* Match background to your form's style */
-    color: rgba(102, 102, 102, 0.863) !important; /* Text color */
-    border: 2px solid #646464ec !important;  /* Similar to default Bootstrap gray border */
-    border-radius: 0.25rem !important; /* Rounded borders like Bootstrap buttons */
-}
-
-.btn-secondary:hover, .btn-secondary:focus {
-    background-color: #e2e6ea !important; /* Light gray background on hover/focus */
-    color: black; /* Keep text color consistent */
-    border-color: #dae0e5; /* Slightly lighter border on hover/focus */
-}
-
-/* To keep the styling consistent when the dropdown is active or open */
-.btn-secondary.dropdown-toggle.show {
-    background-color: #e2e6ea !important; /* Keep hover color when active */
-    color: black !important; /* Keep text color when active */
-} 
-
 
 
 </style>
 
 </head>
 
+
+<div class="page"> 
 <body>
+
+
+
+
+  
+          
+
+
+
     <div class="main-content">
         <div class="page-header">
             <div class="row align-items-center">
@@ -85,13 +67,15 @@
                   Peer Benchmarking
                 </h2>
               </div>
-            
+
+           
+
+
     <%- include('partials/sidebar') %> <!-- Updated include syntax -->
     <br>
     <br>
     <br>
-    <div class="mb-3">
-      <br>
+    <br>
 
       
         
@@ -99,6 +83,7 @@
     
 
 <br>
+
 <div class="mb-3">
   <label class="form-label">Item</label>
   <div class="form-selectgroup">
@@ -147,11 +132,14 @@
     <span class="badge bg-blue-lt cursor-pointer" onclick="loadData('Other', 'MaterialityAssessment'); handleBadgeClick(event)">Materiality Assessment</span>
 </div>
 
+
+
+
 <br>
 <div class="mb-3">
-    <label for="subOptionsDropdown" class="form-label">GRI</label>
+    <label for="subOptionsDropdown" class="form-label">Standard</label>
     <div class="dropdown">
-        <a href="#" class="btn btn-secondary dropdown-toggle" id="subOptionsDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+        <a href="#" class="btn dropdown-toggle" id="subOptionsDropdown" data-bs-toggle="dropdown" aria-expanded="false">
             Choose option
         </a>
         <ul class="dropdown-menu" aria-labelledby="subOptionsDropdown" id="subOptionsContainer">
@@ -164,16 +152,20 @@
 
   <div id="subOptionsContainer" class="mb-3"></div>
 
-
+</p>
+<br>
+<br>
+<br>
+<br>
 
 </div>
 <div class="hr-text"></div>
 
 
- 
+
 </div>
 
-  </p>
+
 
 
     <div class="row">
@@ -264,11 +256,12 @@
     </div>
   </div>
 
-  
+</div>
   
 
 
-<script src="script.js"></script>
+<script src="script.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
