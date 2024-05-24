@@ -2,76 +2,192 @@
     "GRI": [
         {
             "name": "GRI 2-1",
-            "headers": ["Disclosing", "Country", "Ownership", "HQ"]
+            "headers": ["Opis", "Country", "Ownership", "HQ"]
         },
         {
             "name": "GRI 2-2",
-            "headers": ["Full", "Half", "Country"]
+            "headers": ["Opis"]
         },
         {
             "name": "GRI 2-3",
-            "headers": ["Disclosing"]
+            "headers": ["Opis"]
         },
         {
             "name": "GRI 2-4",
-            "headers": ["Disclosing"]
+            "headers": ["Opis"]
+        },
+
+        {
+            "name": "GRI 2-30",
+            "headers": ["Opis"]
         },
 
         {
             "name": "GRI 2-6",
-            "headers": ["Disclosing"] 
+            "headers": ["Opis"] 
         },
 
 
         {
+            "name": "GRI 418-1",
+            "headers": ["Opis", "Skargi", "Wycieki"] 
+        },
+
+
+        {
+            "name": "GRI 403-2",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 417-2",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 417-3",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 403-9",
+            "headers": ["Opis", "Liczba Wypadków"] 
+        },
+
+
+        {
+            "name": "GRI 2-7",
+            "headers": ["Opis", "Liczba Procowników", "Liczba Kobiet", "Liczba Mezczyzn","Sredni Wiek"] 
+        },
+
+        {
+            "name": "GRI 401-1",
+            "headers": ["Opis", "Liczba Procowników", "Liczba Kobiet", "Liczba Mezczyzn","Sredni Wiek"] 
+        },
+
+
+
+        {
             "name": "GRI 2-9",
-            "headers": ["Disclosing", "Liczba Członków", "Liczba Kobiet"] 
+            "headers": ["Opis", "Liczba Członków", "Liczba Kobiet"] 
         },
 
 
         {
             "name": "GRI 2-10",
-            "headers": ["Disclosing"] 
+            "headers": ["Opis"] 
         },
 
 
         {
             "name": "GRI 2-11",
-            "headers": ["Disclosing"] 
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 2-12",
+            "headers": ["Opis"] 
+        },
+        {
+            "name": "GRI 407-1",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 401-2",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 2-13",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 2-16",
+            "headers": ["Opis", "Liczba Przypadków"] 
         },
 
 
         {
             "name": "GRI 2-18",
-            "headers": ["Disclosing"] 
+            "headers": ["Opis"] 
         },
 
 
         {
             "name": "GRI 2-21",
-            "headers": ["Disclosing", "Highest Paid / Median", "Increase of Highest Paid / All"] 
+            "headers": ["Opis", "Highest Paid / Median", "Increase of Highest Paid / All"] 
         },
 
         {
+            "name": "GRI 2-22",
+            "headers": ["Opis", "Cele"] 
+        },
+
+        {
+            "name": "GRI 2-23",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 2-29",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 205-1",
+            "headers": ["Opis"]
+        },
+
+
+        {
+            "name": "GRI 205-3",
+            "headers": ["Opis", "Liczba Przypadków"] 
+        },
+
+        {
+            "name": "GRI 206-1",
+            "headers": ["Opis"] 
+        },
+
+
+       {
             "name": "GRI 201-1",
-            "headers": ["Disclosing", "Dochody", "Dywidenda", "Wynik Netto"] 
+            "headers": ["Opis", "Dochody", "Dywidenda", "Wynik Netto"] 
         },
 
         {
             "name": "GRI 302-1",
-            "headers": ["Disclosing", "Konsumpcja Energii"]
+            "headers": ["Opis", "Konsumpcja Energii"]
         },
 
 
 
         {
             "name": "GRI 2-19",
-            "headers": ["Disclosing"] 
+            "headers": ["Opis"] 
         },
 
         {
             "name": "GRI 2-20",
-            "headers": ["Disclosing"]
+            "headers": ["Opis"]
+        },
+
+
+        {
+            "name": "GRI 402-1",
+            "headers": ["Opis", "Liczba Org Związkowych", "Uzwiązkowienie", "Liczba czł. Rady Pracow.", "Liczba dni strajków"]
+        },
+
+
+        {
+            "name": "GRI 414-1",
+            "headers": ["Opis"]
         },
 
    
@@ -79,7 +195,7 @@
         {
             "name": "GRI 2-28",
             "explainer": "Description for GRI 2-28",
-            "headers": ["Disclosing"] 
+            "headers": ["Opis"] 
         },
 
 
@@ -87,15 +203,50 @@
 
         {
             "name": "GRI 2-14",
-            "headers": ["Disclosing"]
+            "headers": ["Opis"]
         },
         {
             "name": "GRI 3-1",
-            "headers": ["Disclosing"]
+            "headers": ["Opis"]
         },
+
+        {
+            "name": "GRI 404-1",
+            "headers": ["Opis", "Liczba godzin szkolenia (K)", "Liczba godzin szkolenia (M)"] 
+        },
+
+        {
+            "name": "GRI 405-2",
+            "headers": ["Opis", "Luka Płacowa", "Zrów. Poziom na stan. manadz"] 
+        },
+
+        {
+            "name": "GRI 406-1",
+            "headers": ["Opis", "Liczba Spraw"] 
+        },
+
+        {
+            "name": "GRI 305-1",
+            "headers": ["Opis", "Emisje tCO2e", "% Zakres 1", "Zakres 1", "% Zakres 1+2"] 
+        },
+
+        {
+            "name": "GRI 305-2",
+            "headers": ["Opis", "Zakres 2", "% Zakres 1+2", "Zakres 1+2"] 
+        },
+
+
+        {
+            "name": "GRI 413-1",
+            "headers": ["Opis", "Liczba Godzin", "Liczba Partnerów", "Liczba Pracowników"]
+
+
+        },
+
+
         {
             "name": "GRI 3-2",
-            "headers": ["Disclosing"]
+            "headers": ["Opis"]
         }
     ]
 }

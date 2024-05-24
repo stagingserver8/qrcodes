@@ -1,30 +1,65 @@
 {
     "GRI": [
+
+        {
+            "name": "GRI 205-1",
+            "explainer": "curruption sexplainer"
+            
+        },
+
+        {
+            "name": "GRI 205-3",
+            "explainer": "bla bla"
+           
+        },
+
+
+        {
+            "name": "GRI 206-1",
+            "explainer": "anticompetition"
+            
+        },
+
         {
             "name": "GRI 2-1",
             "explainer": "<strong>2-1-a: Legal Name:</strong> If the organization uses a commonly known trading name or business name that is different from its legal name, it should report this in addition to its legal name.<br><br><strong>2-1-b: Nature of ownership and legal form:</strong> The nature of ownership and the legal form of the organization refers to whether it is publicly or privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or another type of entity such as a nonprofit, an association, or a charity.<br><br><strong>2-1-c: Location of its headquarters:</strong> Headquarters are an organization’s global administrative center, the place from which it is controlled or directed.<br><br><strong>2-1-d: Countries of operation:</strong> If the organization has reported its countries of operation elsewhere, such as in its audited consolidated financial statements or financial information filed on public record, the organization can provide a link or reference to this information. The organization can also report the regions or specific locations within countries (e.g., states, cities) where it has operations, if this provides contextual information for understanding the organization’s impacts.",
-            "subheading":"General Information",
-            "headers": ["Country", "Ownership", "HQ"]
+            "subheading":"General Information"
+            
         },
         {
             "name": "GRI 2-2",
-            "explainer": " mmmmm",
-            "headers": ["Michael", "Zhneya", "Clara"] 
+            "explainer": " mmmmm"
         },
         {
             "name": "GRI 2-3",
-            "explainer": "Description for GRI 2-3",
-            "headers": ["Apple", "Banana", "Monday" ]
+            "explainer": "Description for GRI 2-3"
         },
         {
             "name": "GRI 2-4",
             "explainer": "Description for GRI 2-4",
             "headers": ["January", "February", "March"] 
         },
+
+     
+
+
         {
             "name": "GRI 2-5",
             "explainer": "Description for GRI 2-5",
             "headers": ["January", "February", "March"] 
+        },
+
+        {
+            "name": "GRI 2-6",
+            "explainer": "value chain"
+            
+        },
+
+
+        {
+            "name": "GRI 2-7",
+            "explainer": "HR"
+            
         },
 
         {
@@ -39,6 +74,116 @@
             "headers": ["January", "February", "March"] 
         },
 
+        {
+            "name": "GRI 2-11",
+            "explainer": "Description ",
+            "headers": ["January", "February", "March"] 
+        },
+
+
+        {
+            "name": "GRI 2-19",
+            "explainer": "corp gov "
+            
+        },
+
+        {
+            "name": "GRI 2-28",
+            "explainer": "Empty space",
+            "headers": ["January", "February", "March"] 
+        },
+
+
+
+
+    
+
+        {
+            "name": "GRI 2-30",
+            "explainer": "bla"
+            
+        },
+
+
+
+        {
+            "name": "GRI 401-1",
+            "explainer": "bla"
+            
+        },
+
+        {
+            "name": "GRI 401-2",
+            "explainer": "bla"
+            
+        },
+
+        {
+            "name": "GRI 403-2",
+            "explainer": "bla"
+            
+        },
+        
+        {
+            "name": "GRI 403-9",
+            "explainer": "bla"
+            
+        },  
+
+
+        {
+            "name": "GRI 407-1",
+            "explainer": "bla"
+            
+        },
+
+        
+     
+      
+
+        {
+            "name": "GRI 417-2",
+            "explainer": "bla"
+            
+        },
+
+     
+
+        {
+            "name": "GRI 417-3",
+            "explainer": "bla"
+            
+        },
+        {
+            "name": "GRI 418-1",
+            "explainer": "bla"
+            
+        },
+
+
+
+
+
+  
+
+
+        {
+            "name": "GRI 402-1",
+            "explainer": "Unions"
+            
+        },
+
+
+        {
+            "name": "GRI 414-1",
+            "explainer": "suppliers"
+            
+        },
+
+
+
+
+     
 
         {
             "name": "GRI 201-1",
@@ -46,19 +191,28 @@
         
         },
 
+    
 
 
-        {
-            "name": "GRI 2-11",
-            "explainer": "Description ",
-            "headers": ["January", "February", "March"] 
-        },
 
         {
-            "name": "GRI 2-19",
+            "name": "GRI 2-12",
             "explainer": "corp gov "
             
         },
+
+        {
+            "name": "GRI 2-13",
+            "explainer": "corp gov "
+            
+        },
+
+        {
+            "name": "GRI 2-16",
+            "explainer": "Whistleblowing"
+            
+        },
+
 
         {
             "name": "GRI 2-20",
@@ -68,17 +222,22 @@
 
         {
             "name": "GRI 2-21",
-            "explainer": "Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual). Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); ",
-            "headers": ["Highest Paid / Median", "Increase of Highest Paid / Increase all"] 
+            "explainer": "Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual). Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); "
         },
 
+
+        {
+            "name": "GRI 2-16",
+            "explainer": "check"
+           
+        },
 
 
 
         {
             "name": "GRI 2-6",
-            "explainer": "Description for GRI 2-6",
-            "headers": ["January", "February", "March"] 
+            "explainer": "Description for GRI 2-6"
+            
         },
 
 
@@ -94,8 +253,8 @@
 
         {
             "name": "GRI 2-18",
-            "explainer": "Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people; <br> report whether the evaluations are independent or not, and the frequency of the evaluations <br> describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices.",
-            "headers": ["Disclosing"] 
+            "explainer": "Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people; <br> report whether the evaluations are independent or not, and the frequency of the evaluations <br> describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices."
+           
         },
 
 
@@ -111,19 +270,63 @@
             "headers": ["Disclosing"] 
         },
 
+        {
+            "name": "GRI 2-22",
+            "explainer": "Sustainability Goals"
+           
+        },
 
+        {
+            "name": "GRI 2-23",
+            "explainer": "Describe its policy commitments for responsible business conduct, including: i. the authoritative intergovernmental instruments that the commitments reference; ii. whether the commitments stipulate conducting due diligence; iii. whether the commitments stipulate applying the precautionary principle; iv. whether the commitments stipulate respecting human rights; a. describe its specific policy commitment to respect human rights, including: i. the internationally recognized human rights that the commitment covers; the categories of stakeholders, including at-risk or vulnerable groups, that the organization gives particular attention to in the commitment; ii. b. provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, explain the reason for this; c. report the level at which each of the policy commitments was approved within the organization, including whether this is the most senior level; d. report the extent to which the policy commitments apply to the organization’s activities and to its business relationships; e. describe how the policy commitments are communicated to workers, business partners, and other relevant parties."
+           
+        },
 
-
-
-
-
-
+        {
+            "name": "GRI 2-29",
+            "explainer": "bla bla"
+           
+        },
 
 
         {
-            "name": "GRI 2-28",
-            "explainer": "Empty space",
-            "headers": ["January", "February", "March"] 
+            "name": "GRI 405-2",
+            "explainer": "bla bla"
+           
+        },
+
+        {
+            "name": "GRI 413-1",
+            "explainer": "social programmes"
+           
+        },
+
+
+        {
+            "name": "GRI 406-1",
+            "explainer": "mobbing"
+           
+        },
+
+    
+
+        {
+            "name": "GRI 305-1",
+            "explainer": "test test test"
+            
+        },
+
+        {
+            "name": "GRI 305-2",
+            "explainer": "test test test"
+            
+        },
+
+
+        {
+            "name": "GRI 404-1",
+            "explainer": "Liczba godzin szkolenia",
+            "headers": ["Disclosing"] 
         },
 
 

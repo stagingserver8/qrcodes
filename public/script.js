@@ -192,11 +192,6 @@ function attachListenersToItemsAndStandards() {
     });
 }
 
-
-
-
-
-
 function populateTable(selectedGRI) {
     fetch('headings.json')
     .then(response => response.json())
@@ -236,7 +231,7 @@ function populateTable(selectedGRI) {
                     const td = document.createElement('td');
                     let content = company.standards && company.standards.GRI && company.standards.GRI[selectedGRI] && company.standards.GRI[selectedGRI].metrics && company.standards.GRI[selectedGRI].metrics[header] ? company.standards.GRI[selectedGRI].metrics[header] : "-";
                     // Check if the content is one of Yes, Partial, or No and replace it with a colored circle
-                    if (content === "Yes" || content === "Partial" || content === "No") {
+                    if (content === "Pełny" || content === "Cześćiowy" || content === "Brak") {
                         const span = document.createElement('span');
                         span.className = 'status-circle';
                         span.style.display = 'inline-block';
@@ -246,13 +241,13 @@ function populateTable(selectedGRI) {
                         span.style.marginRight = '5px';
 
                         switch (content) {
-                            case "Yes":
+                            case "Pełny":
                                 span.style.backgroundColor = '#2fb344'; // Green
                                 break;
-                            case "Partial":
+                            case "Cześćiowy":
                                 span.style.backgroundColor = '#f59f00'; // Yellow
                                 break;
-                            case "No":
+                            case "Brak":
                                 span.style.backgroundColor = '#d63939'; // Red
                                 break;
                         }
@@ -405,4 +400,28 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
+
+
+   // Simulated titles.json content
+   const titles = {
+    "GRI 2-1": "Dane podstawowe",
+    "GRI 2-2": "Podmioty uwzględnione w raporcie",
+    "GRI 2-18": "Ocena pracy najwyższego organu zarządzającego",
+    // Add other entries similarly...
+};
+
+$(document).ready(function() {
+    // Populate dropdown from JSON
+    Object.keys(titles).forEach(function(key) {
+        $('#subOptionsContainer').append(`<li><a class="dropdown-item" href="#" data-key="${key}">${key}</a></li>`);
+    });
+
+    // Bind click event to dropdown items
+    $(document).on('click', '.dropdown-item', function(e) {
+        e.preventDefault();
+        const selectedKey = $(this).data('key');
+        $('#dynamicHeading').text(titles[selectedKey]);
+    });
+});
+
 
