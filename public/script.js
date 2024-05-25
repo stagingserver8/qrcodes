@@ -6,6 +6,13 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
+
+// Global variable to keep track of the last clicked company
+let lastClickedCompany = null;
+
+
+
+
 document.addEventListener('DOMContentLoaded', function() {
     updateSubOptions('GRI'); // Automatically load GRI options on load
     attachListenersToItemsAndStandards(); // Set up listeners
@@ -98,6 +105,8 @@ function populateTable(optionText) {
     // Function to populate a table or handle other logic based on the selected option
     console.log('Populating table with data related to:', optionText);
 }
+
+
 
 function showExplainerCard(optionText) {
     // Function to display detailed information about the selected option
@@ -192,6 +201,8 @@ function attachListenersToItemsAndStandards() {
     });
 }
 
+
+
 function populateTable(selectedGRI) {
     fetch('headings.json')
     .then(response => response.json())
@@ -202,6 +213,8 @@ function populateTable(selectedGRI) {
             return;
         }
 
+        
+
         const dynamicHeaders = ["Company"].concat(griHeaders.headers);
         const tableHeadings = document.getElementById('table-headings');
         tableHeadings.innerHTML = '';
@@ -210,6 +223,8 @@ function populateTable(selectedGRI) {
             th.textContent = header;
             tableHeadings.appendChild(th);
         });
+
+ 
 
         fetch('companies.json')
         .then(response => response.json())
@@ -260,6 +275,8 @@ function populateTable(selectedGRI) {
                 });
 
                 tableBody.appendChild(tr);
+
+                
             });
 
             // Event delegation for handling row and link clicks
@@ -289,6 +306,9 @@ function populateTable(selectedGRI) {
         alert('Failed to load header data.');
     });
 }
+
+
+
 
 function highlightRow(row) {
     const rows = document.querySelectorAll('#table-body tr');
@@ -389,17 +409,38 @@ function updateFirstTabLabel(companyName) {
 
 document.addEventListener('DOMContentLoaded', function () {
     const dropdownContainer = document.getElementById('subOptionsContainer');
+
+    // Pre-fetch standards data and store it
+    fetch('standards.json')
+    .then(response => response.json())
+    .then(standards => {
+        attachDropdownListener(standards.GRI);  // Attach listener with pre-fetched standards
+    })
+    .catch(error => console.error('Failed to load standards:', error));
+});
+
+function attachDropdownListener(standards) {
+    const dropdownContainer = document.getElementById('subOptionsContainer');
     const dropdownButton = document.getElementById('subOptionsDropdown');
 
-    // Event delegation to handle clicks on dynamically added dropdown items
     dropdownContainer.addEventListener('click', function(event) {
-        if (event.target.tagName === 'A') {  // Ensure the target is an <a> element
-            dropdownButton.textContent = event.target.textContent;  // Change the button text to the clicked item's text
-            dropdownButton.style.color = '#0054a6';  // Change the text color to blue (#0054a6)
-            event.preventDefault();  // Prevent the default anchor click behavior
+        if (event.target.tagName === 'A') {  
+            const selectedText = event.target.textContent;
+            const shortExplainer = getShortExplainer(standards, selectedText);
+            document.getElementById('dynamicHeading').innerText = shortExplainer;  
+            dropdownButton.textContent = selectedText;  
+            event.preventDefault();
         }
     });
-});
+}
+
+function getShortExplainer(standards, selectedText) {
+    // Find the matching standard and return its short_explainer
+    const standard = standards.find(s => s.name === selectedText);
+    return standard ? standard.short_explainer : 'No explainer available';
+}
+
+
 
 
    // Simulated titles.json content

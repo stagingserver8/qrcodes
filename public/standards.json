@@ -3,13 +3,15 @@
 
         {
             "name": "GRI 205-1",
-            "explainer": "curruption sexplainer"
+            "explainer": "Operations assessed for risks related to corruption <br> Total number and percentage of operations assessed for risks related to corruption., Significant risks related to corruption identified through the risk assessmen",
+            "short_explainer": "Procent i całkowita liczba jednostek biznesowych poddanych analizie pod kątem ryzyka związanego z korupcją oraz zidentyfikowane ryzyka"
             
         },
 
         {
             "name": "GRI 205-3",
-            "explainer": "bla bla"
+            "explainer": "bla bla",
+            "short_explainer": "Potwierdzone przypadki korupcji w 2018 roku"
            
         },
 
@@ -161,8 +163,6 @@
             "explainer": "Description for GRI 2-6"
             
         },
-
-
 
 
 
