@@ -2,6 +2,7 @@
     "GRI": [
 
         {
+            "header" : "Governance",
             "name": "GRI 205-1",
             "explainer": "Operations assessed for risks related to corruption <br> Total number and percentage of operations assessed for risks related to corruption., Significant risks related to corruption identified through the risk assessmen",
             "short_explainer": "Procent i całkowita liczba jednostek biznesowych poddanych analizie pod kątem ryzyka związanego z korupcją oraz zidentyfikowane ryzyka"
@@ -9,6 +10,7 @@
         },
 
         {
+            "header" : "Governance",
             "name": "GRI 205-3",
             "explainer": "bla bla",
             "short_explainer": "Potwierdzone przypadki korupcji w 2018 roku"
@@ -17,88 +19,178 @@
 
 
         {
+            "header" : "Social",
             "name": "GRI 206-1",
             "explainer": "anticompetition"
             
         },
 
         {
+            "header" : "Organizacja i Praktyki",
             "name": "GRI 2-1",
             "explainer": "<strong>2-1-a: Legal Name:</strong> If the organization uses a commonly known trading name or business name that is different from its legal name, it should report this in addition to its legal name.<br><br><strong>2-1-b: Nature of ownership and legal form:</strong> The nature of ownership and the legal form of the organization refers to whether it is publicly or privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or another type of entity such as a nonprofit, an association, or a charity.<br><br><strong>2-1-c: Location of its headquarters:</strong> Headquarters are an organization’s global administrative center, the place from which it is controlled or directed.<br><br><strong>2-1-d: Countries of operation:</strong> If the organization has reported its countries of operation elsewhere, such as in its audited consolidated financial statements or financial information filed on public record, the organization can provide a link or reference to this information. The organization can also report the regions or specific locations within countries (e.g., states, cities) where it has operations, if this provides contextual information for understanding the organization’s impacts.",
-            "subheading":"General Information"
+            "short_explainer":"Dane Organizacji"
             
         },
         {
+            "header" : "Organizacja i Praktyki",
             "name": "GRI 2-2",
-            "explainer": " mmmmm"
+            "explainer": " mmmmm",
+            "short_explainer":"Podmioty uwzględnione w ramach raportowania kwestii zrównoważonego rozwoju"
+    
+
         },
         {
+            "header" : "Organizacja i Praktyki",
             "name": "GRI 2-3",
-            "explainer": "Description for GRI 2-3"
+            "explainer": "Description for GRI 2-3",
+            "short_explainer": "Okres raportowania, częstotliwość i dane kontaktowe"
+            
         },
         {
+            "header" : "Organizacja i Praktyki",
             "name": "GRI 2-4",
             "explainer": "Description for GRI 2-4",
-            "headers": ["January", "February", "March"] 
+            "short_explainer": "Korekty informacji"
         },
 
      
 
 
         {
+            "header" : "Organizacja i Praktyki",
             "name": "GRI 2-5",
             "explainer": "Description for GRI 2-5",
-            "headers": ["January", "February", "March"] 
+            "short_explainer": "Weryfikacja zewnętrzna"
         },
 
+
+
         {
+            "header" : "Działalność i pracownicy",
             "name": "GRI 2-6",
-            "explainer": "value chain"
-            
+            "explainer": "value chain",
+            "short_explainer": "Działalności, łańcuch wartości i inne relacje biznesowe"
         },
 
-
         {
+            "header" : "Działalność i pracownicy",
             "name": "GRI 2-7",
-            "explainer": "HR"
+            "explainer": "HR",
+            "short_explainer": "Pracownicy"
             
         },
 
+
         {
+            "header" : "Działalność i pracownicy",
+            "name": "GRI 2-8",
+            "explainer": "HR",
+            "short_explainer": "Osoby świadczące pracę na rzecz organizacji, ktore nie są jej pracownikami"
+            
+        },
+
+
+
+        {
+            "header" : "Ład korporacyjny",
             "name": "GRI 2-9",
             "explainer": "The organization shall: <br> Describe its governance structure, including committees of the highest governance body, list the committees of the highest governance body that are responsible for decision- making on and overseeing the management of the organization’s impacts on the economy, environment, and people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held by each member, and the nature of the commitments, gender, under-represented social groups, competencies relevant to the impacts of the organization, stakeholder representation" ,
-            "headers": ["Liczba", "Liczba Kobiet"] 
-        },
-
-        {
-            "name": "GRI 2-10",
-            "explainer": "people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held ",
-            "headers": ["January", "February", "March"] 
-        },
-
-        {
-            "name": "GRI 2-11",
-            "explainer": "Description ",
-            "headers": ["January", "February", "March"] 
-        },
-
-
-        {
-            "name": "GRI 2-19",
-            "explainer": "corp gov "
+            "short_explainer": "Struktura zarządcza i skład organów zarządczych"
             
         },
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-10",
+            "explainer": "people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held ",
+            "short_explainer": "Nominacja i wybór członków najwyższych organów zarządczych"
+        
+        },
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-11",
+            "explainer": "Description ",
+            "short_explainer": "Przewodniczący najwyższego organu zarządczego"
+            
+        },
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-13",
+            "explainer": "corp gov",
+            "short_explainer": "Delegowanie odpowiedzialności w zakresie zarządzania wpływem"
+            
+        },
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-15",
+            "explainer": "Description ",
+            "short_explainer": "Konflikt interesów"
+            
+        },
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-16",
+            "explainer": "Whistleblowing",
+            "short_explainer": "Komunikowanie problemów krytycznych"
+            
+        },
+
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-17",
+            "explainer": "corp gov",
+            "short_explainer": "Zbiorowa wiedza najwyższego organu zarządczego"
+            
+        },
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-18",
+            "explainer": "corp gov",
+            "short_explainer": "Ewaluacja wyników najwyższego organu zarządczego"
+            
+        },
+
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-19",
+            "explainer": "corp gov",
+            "short_explainer": "Polityka wynagradzania"
+            
+        },
+
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-20",
+            "explainer": "corp gov ",
+            "short_explainer": "Proces ustalania wynagrodzeń"
+            
+        },
+
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-21",
+            "explainer": "Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual). Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); ",
+            "short_explainer": "Całkowity roczny wskaźnik wynagrodzenia"
+            
+        },
+
+
 
         {
             "name": "GRI 2-28",
-            "explainer": "Empty space",
-            "headers": ["January", "February", "March"] 
+            "explainer": "Empty space"
         },
 
-
-
-
-    
 
         {
             "name": "GRI 2-30",
@@ -131,18 +223,7 @@
             
         },
 
-        {
-            "name": "GRI 2-16",
-            "explainer": "Whistleblowing"
-            
-        },
-
-
-        {
-            "name": "GRI 2-20",
-            "explainer": "corp gov "
-            
-        },
+    
 
         {
             "name": "GRI 2-21",

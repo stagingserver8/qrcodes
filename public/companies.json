@@ -11,7 +11,25 @@
                     "Country": "Poland",
                     "Ownership": "Government",
                     "HQ": "Warsaw",
-                    "Text": "hello me"
+                    "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                  }
+            
+                },
+
+                "GRI 2-20": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                        
+                    "Text": "TO ADD"
+                  }
+            
+                },
+
+
+                "GRI 2-19": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Text": "Wynagrodzenia pracowników składają się z wynagrodzeń stałych i wynagrodzeń zmiennych. Część stała obejmuje wynagrodzenie zasadnicze wypłacane za powierzoną pracę oraz świadczenia pieniężne przyznawane na podstawie przepisów powszechnie obowiązującego prawa. Wynagrodzenia zmienne obejmują wynagrodzenia, których wysokość zależna jest od wyników pracownika i Banku. Głównym składnikiem wynagrodzeń zmiennych jest premia roczna tzw. Premia POP oraz Premia Top up za szczególne osiągnięcia w danym roku objętym premią. Wysokość premii POP ustalana jest na podstawie indywidualnych wyników pracy pracownika, tj. poziomu realizacji celów oraz oceny postawy zgodniej z wartościami banku. Do wynagrodzeń zmiennych mogą również zostać zaliczone świadczenia przypadające z tytułu rozwiązania umowy o pracę w zakresie w jakim odzwierciedla nakład pracy pracownika. Bank nie przyznaje gwarantowanego wynagrodzenia zmiennego. <br> <br> Z uwagi na formę prawną BGK, charakter prowadzonej działalności oraz indywidualny profil ryzyka, bank nie dokonuje wypłaty zmiennej części wynagrodzenia w akcjach i instrumentach innych niż akcje. W przypadku wynagrodzenia Członków Zarządu Banku Gospodarstwa Krajowego zastosowanie mają odrębne regulacje. Wynagrodzenie całkowite Członka Zarządu Banku składa się z części stałej, stanowiącej wynagrodzenie miesięczne podstawowe, określonej kwotowo, oraz z części zmiennej, stanowiącej wynagrodzenie uzupełniające za rok obrotowy Banku.<br> <br> Wynagrodzenie miesięczne podstawowe poszczególnych Członków Zarządu Banku ustalone jest przez Radę Nadzorczą Banku w formie odrębnych uchwał.<br> <br> Wynagrodzenie uzupełniające Członka Zarządu Banku za rok obrotowy uzależnione jest od poziomu realizacji celów zarządczych, związanych z wynikami finansowymi Banku i realizacją podstawowych celów działalności Banku, wspierających strategię, zrównoważony rozwój, długoterminowe interesy i stabilność Banku oraz efektywność pracy poszczególnych Członków Zarządu Banku. <br> <br> Bank nie przyznaje bonusów i premii motywacyjnych za dołączenie do organizacji<br> <br> Bank wypłaca odprawy zgodnie z zasadami Kodeksu pracy.<br> <br> Bank ma prawo wstrzymać, obniżyć lub ograniczyć wypłatę odroczonego wynagrodzenia zmiennego w przypadku wystąpienia sytuacji, w których pracownik MRT uczestniczył, a które spowodowały znaczne straty banku, w tym m.in. istotne nieprawidłowości w zakresie zarządzania ryzykiem po stronie Banku, negatywne wyniki finansowe Banku, istotną zmianę w funduszach własnych lub profilu ryzyka Banku, istotny wzrost wymogów kapitałowych lub kapitału wewnętrznego, w szczególności powodujący przekroczenie akceptowalnego poziomu ryzyka. Warunki powodujące redukcję wynagrodzenia określone zostały w Polityce zmiennych składników wynagrodzeń.<br> <br> W biegłym roku nie dokonano zmniejszeń ani nie podjęto decyzji o utracie prawa do odroczonego wynagrodzenia zmiennego przyznanego w ramach Polityki wynagrodzeń zmiennych.<br> <br> Pracownikowi banku spełniającemu warunki uprawniające do renty z tytułu niezdolności do pracy lub emerytury, którego stosunek pracy ustał w związku z przejściem na rentę lub emeryturę, przysługuje jednorazowa odprawa w wysokości uzależnionej od stażu pracy."
                   }
             
                 },
@@ -19,66 +37,165 @@
 
                 "GRI 2-2": {
                   "metrics": {
-                    "Michael": "1",
-                    "Zhenya": "2",
-                    "Clara": "3",
-                    "Text": "helloehlloe"
-                  },
-                  "attachment": "URL_or_Path_To_Attachment"
+                    "Opis":"Pełny",
+                  "Text":  "Istotne tematy zdefiniowane zostały dla banku jako podmiotu dominującego w GK. Kwestie raportowania zrównoważonego rozwoju również raportowane są dla banku (jako podmiotu dominującego w GK). <br> <br> Wymogi dot. sprawozdawczości finansowej dotyczą zarówno Banku Gospodarstwa Krajowego jako jednostki dominującej (sprawozdanie jednostkowe), jak również Grupy kapitałowej BGK (sprawozdanie skonsolidowane). <br> <br> Bank Gospodarstwa Krajowego, jako podmiot funkcjonujący w formule prawnej banku państwowego, nie składa w ramach sprawozdania z działalności oświadczenia na temat informacji niefinansowych zgodnie z art. 49b ust. 1 UoR. Bank raportuje kwestie zrównoważonego rozwoju w odniesieniu do jednostki dominującej Grupy kapitałowej czyli jedynie w zakresie działalności BGK."
+                  }
                 },
                 "GRI 2-3": {
                   "metrics": {
-                    "Apple": "1",
-                    "Banana": "2",
-                    "Monday": "3"
-                  
-                  },
-                  "attachment": "URL_or_Path_To_Attachment"
+                    "Opis":"Pełny",
+                    "Text": "BGK przedstawia ujawnienia raportów dotyczących zrównoważonego rozwoju za rok kalendarzowy 2022. Na stronie internetowej. Cykl sprawozdawczy BGK  w sprawie zrównoważonego rozwoju i ujawnień dotyczących zrównoważonego rozwoju jest roczny, trwa od 1 stycznia do 31 grudnia, zrównany ze sprawozdawczością finansową. Wszelkie pytania lub komentarze dotyczące raportowania zrównoważonego rozwoju prosimy kierować na adres csr@bgk.pl"
+                    
+                 
+      
+                  }
                 },
                 "GRI 2-4": {
                   "metrics": {
-                    "January": "1",
-                    "February": "2",
-                    "March": "2"
+                    "Opis":"Brak",
+                    "Text":""
                    
-                  },
-                  "attachment": "URL_or_Path_To_Attachment"
+                  }
                 },
+
                 "GRI 2-5": {
                   "metrics": {
-                    "April": "Value1",
-                    "February": "Value2",
-                    "March": "Value3",
-                    "December": "Value4"
-                   
-                  },
+                    "Opis":"Pełny",
+                    "Text": "Bank zlecił zewnętrzną atestację raportu zintegrowanego za 2022 r. Weryfikacja dotyczyła w szczególności: <br> <br> 1. Adekwatności, dokładności oraz jakości informacji w nim zawartych (wg standardów GRI 2021 i wytycznych IIRC). Audytor przeprowadził procedury audytowe zgodnie z ISAE 3000 <br> <br> 2. Oceny raportu pod względem istotności, uwzględnienia interesariuszy, kontekstu zrównoważonego rozwoju, przystępności zawartych informacji, przejrzystości i porównywalności, a także aktualności danych. <br> <br> 3. Weryfikacji śladu węglowego z podziałem na organizację (GRI 305-1, 305-2 zgodnie ze standardem ISAE 3410) oraz przegląd procesów BGK dotyczących zbierania i agregowania danych w tym zakresie."
+
+                                },
                   "attachment": "URL_or_Path_To_Attachment"
+                },
+
+                "GRI 2-6": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Text": "W Banku obowiązują wewnętrzne regulacje min. Kodeks postępowania dla Partnerów Biznesowych BGK, Instrukcje wewnętrzne „Zasady dokonywania zakupów i udzielania Zamówień w Banku Gospodarstwa Krajowego” obejmującą ”Zasady realizacji zakupów w Banku Gospodarstwa Krajowego, których wartość nie przekracza progów unijnych” oraz „Zasady i tryb postępowania przy udzielaniu Zamówień w Banku Gospodarstwa Krajowego, których wartość jest równa lub przekracza progi unijne” oraz „Zasady bezpieczeństwa informacji dla partnerów biznesowych BGK”, które ścisle regulują proces realizacji zakupów w BGK. <Br> <br> W 2022 roku mieliśmy 981 aktywnych dostawców, z czego: 879 w obszarze dostaw, usług i produktów (umowy długo i krótko terminowe)  oraz 102 w obszarze pośredników finansowych (dystrybucja środków z programów rządowych oraz środki z UE) Wartość pieniężna płatności dokonanych na rzecz dostawców w 2022 roku wyniosła 398 mln zł."
+                    
+
+                                }
+                
+                },
+
+                "GRI 2-7": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Licz. Pracow.":"2,029",
+                    "Licz. Kob.": "1,245",
+                    "Licz. Mez.": "784",
+                    "Srd. Wiek": "",
+                    "Text": "Zatrudnienie w banku na koniec 2022 r. wzrosło względem 2021 r. o 7,4% i spowodowane jest to m.in. rozwojem obszaru 3W - Woda, Wodór, Węgiel oraz szeroko rozumianego obszaru ryzyka ESG."
+                  }
+             
+                            
+                },
+
+
+                "GRI 2-8": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Licz. Współ.": "67",
+                    "Text": "We wskazanej liczbie współpracowników podana została liczba osób zatrudnionych na umowę zlecenie. Umowy zlecenia stanowią stały element doraźnego uzupełniania i wspierania pracowników w bieżącej pracy. Główne obszary, w których zatrudniani są pracownicy na umowę zlecenie to: IT, administracja i bezpieczeństwo. <br> <br> w obszarze IT to m.in.: tworzenie zleconego oprogramowania, monitorowanie wydajności aplikacji , testowanie aplikacji, pisanie scenariuszy testowych. W obszarze administracji: prace biurowo - archiwistyczne. W obszarze bezpieczeństwa: wsparcie przy opracowaniu i wdrażaniu rozwiązań organizacyjnych i technicznych niezbędnych do zapewniania zgodności w obszarze bezpieczeństwa informacji."
+                  }
+             
+                            
+                },
+
+                "GRI 2-9": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Liczba Członków": "9",
+                      "Liczba Kobiet": "5",
+                "Text": "Organami Banku są Rada Nadzorcza i Zarząd. Zarząd w ramach swoich uprawnień powołał dwa komitety o charakterze obligatoryjnym: Komitet Finansowy Banku oraz Komitet Kredytowy Banku, a także xxx komitetów zajmujących się określonymi dziedzinami działalności Banku."
+                  }
+             
+                            
+                },
+
+                "GRI 2-10": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                "Text": "Zgodnie z ustawą o BGK, zarząd składa się z 6 członków, w tym prezesa, pierwszego wiceprezesa i wiceprezesa. Prezesa, pierwszego wiceprezesa, wiceprezesa oraz pozostałych członków zarządu powołuje i odwołuje Prezes Rady Ministrów, na wniosek właściwych ministrów. Ponadto powołanie prezesa zarządu i jednego członka zarządu, któremu powierzone zostanie zarządzanie ryzykiem istotnym w działalności BGK, następuje za zgodą Komisji Nadzoru Finansowego. Przepisy art. 22a ust. 2 i art. 22b Ustawy z dnia 29 sierpnia 1997r. - Prawo bankowe stosuje się odpowiednio. Wiedza, umiejętności i doświadczenie, odpowiednie do pełnionych funkcji i powierzonych obowiązków, oraz rękojmia należytego wykonywania obowiązków. Rękojmia, o której mowa w zdaniu pierwszym, odnosi się w szczególności do reputacji, uczciwości i rzetelności danej osoby oraz zdolności do prowadzenia spraw banku, finansowej spółki holdingowej i finansowej spółki holdingowej o działalności mieszanej w sposób ostrożny i stabilny. <br> <br> "
+                  }
+             
+                            
+                },
+
+                "GRI 2-13": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Komitet ESG został utworzony na początku 2023 r. w celu koordynacji działań w zakresie zrównoważonego rozwój, zarządzania czynnikami ESG oraz rozwoju centrum kompetencji ESG w Banku. Do najważniejszych zadań Komitetu należy: 1) podejmowanie decyzji dotyczących działań operacyjnych w zakresie zrównoważonego rozwoju i ESG oraz rekomendowanie Zarządowi Banku decyzji kierunkowych i strategicznych w tym zakresie; 2) monitorowanie realizacji celów strategicznych w zakresie zrównoważonego rozwoju i ESG; 3) inicjowanie działań mających na celu podniesienie świadomości pracowników BGK w kwestii zrównoważonego rozwoju oraz ESG; 4) formułowanie zaleceń w zakresie zrównoważonego rozwoju i ESG dla innych komitetów, jednostek lub komórek organizacyjnych Banku; 5) opiniowanie i decydowanie o działaniach zmierzających do utrzymania ryzyka ESG dla działalności kredytowej i inwestycyjnej na akceptowalnym poziomie. W skład Komitetu, poza przedstawicielami jednostek kluczowych z perspektywy zarządzania kwestiami ESG, wchodzą liderzy odpowiedzialni za koordynację działań banku w obszarze środowiskowym, społecznym i ładu korporacyjnego: 1. Główny Lider ESG (Chief ESG Officer) - w randze członka zarządu; 2. Lider ds. środowiskowych (Environmental Officer); 3. Lider ds. społecznych (Social Officer); 4. Lider ds. ładu korporacyjnego (Governance Officer)."
+
+                  }
+             
+                            
+                },
+
+                "GRI 2-15": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Zgodnie z § 16 ust. 3a statutu BGK stanowiącego załącznik do rozporządzenia Ministra Rozwoju z dnia 16 września 2016 r. w sprawie nadania statutu BGK Członek Zarządu obowiązany jest poinformować prezesa Zarządu, a w przypadku prezesa Zarządu - członka Zarządu przewodniczącego obradom, o zaistniałym konflikcie interesów albo uzasadnionym ryzyku jego wystąpienia. W przypadku konfliktu interesów członek Zarządu, którego konflikt dotyczy, nie może przewodniczyć obradom na czas podejmowania decyzji w sprawie oraz jest zobowiązany do powstrzymania się od wszelkich działań mogących wpłynąć na treść decyzji w sprawie oraz do opuszczenia posiedzenia Zarządu na czas dokonywania wyżej wskazanych czynności. Uchwały dotyczące spraw dotkniętych konfliktem interesów podejmowane są w głosowaniu tajnym. Zgodnie z regulaminem Zarządu BGK wszelkie sytuacje noszące znamiona konfliktu interesów, członkowie Zarządu powinni ujawnić i zgłosić komórce do spraw zgodności w Banku. W banku wdrożyliśmy Politykę zarządzania konfliktem interesów, która jest dostępna na stronie internetowej BGK pod linkiem."
+
+                  }
+             
+                            
+                },
+
+
+
+                "GRI 2-11": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Prezes Zarządu reprezentuje Bank na zewnątrz, przewodniczy posiedzeniom zarządu, organizuje działalność Banku, a także zapewnia wykonywanie uchwał zarządu. Prezes zarządu jest przełożonym wszystkich pracowników BGK. Kompetencje prezesa, pierwszego wiceprezesa i wiceprezesa oraz członków zarządu wynikają z ustawy o BGK, statutu BGK  oraz z wewnętrznego podziału kompetencji w zarządzie."
+
+                  }
+             
+                            
+                },
+
+
+                "GRI 2-17": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "W 2022 r. odbyły się warsztaty dla Zarządu z zakresu zrównoważonego rozwoju. Celem warsztatu było uspójnienie wiedzy i nadanie priorytetów zarządu w zakresie zrównoważonego rozwoju. Rezultatem było określenie priorytetów BGK w zakresie zrównoważonego rozwoju, które stanowiły bazę do roboczych dyskusji w ramach opracowywania kolejnych rozwiązań w organizacji."
+
+                  }
+             
+                            
+                },
+
+
+
+                "GRI 2-18": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Cele roczne członków zarządu banku określane są przez radę nadzorczą BGK. Rada nadzorcza podejmuje również stosowne uchwały w sprawie ich rozliczenia, które następuje po zatwierdzeniu sprawozdania z działalności zarządu banku oraz sprawozdania finansowego za dany rok obrotowy. Cele zarządcze obejmują te związane z wynikami finansowymi, a także związane z realizacją podstawowych celów działalności banku. Poziom realizacji tych celów oparty jest o niezależną ocenę, przeprowadzoną w ramach ww. sprawozdań.  Podstawą do definiowania celów zarządu jest strategia banku. Obejmuje ona m.in. konkretne wskaźniki, których realizacja jest zgodna z rolą BGK jako polskiego banku rozwoju. Odpowiadamy na główne wyzwania gospodarcze, współpracujemy z rynkiem i stabilizujemy go, a także poprzez filary strategii oraz programy modelu biznesowego dostosowujemy swoje działania do pojawiających się potrzeb i trendów rynkowych. Jednym z najważniejszych zagadnień podejmowanych w obecnej perspektywie strategicznej BGK na lata 2021-25 jest realizacja filaru zrównoważony rozwój. Filar ten został odzwierciedlony również w misji i wizji banku oraz jest sukcesywnie wdrażany w życie. Wybrane cele oraz kluczowe kamienie milowe wynikające ze strategii stanowią cele wybranych członków zarządu i podlegają regularnemu monitoringowi. Od stycznia 2023 r. Członek zarządu odpowiedzialny za ryzyko jest przewodniczącym Komitetu ESG i jest rozliczany z efektów pracy tego komitetu. Jednocześnie Radosław Kwiecień jest w zarządzie banku liderem filaru zrównoważony rozwój. W 2022 r. w banku nie było zmian najwyższego organu zarządczego w wyniku monitoringu ww. celów."
+
+                  }
+             
+                            
+                },
+
+
+                "GRI 2-16": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Na problemy krytyczne w BGK według klasyfikacji wewnętrznej banku składają się: <br>1. Awarie powodujące przekroczenie wskaźników krytycznych np. Kluczowy Wskaźnik Ryzyka (KRI), w ramach których wpłynęły zasadne reklamacje, <br>2. Incydenty bezpieczeństwa informacji na poziomie krytycznym<br>3. Incydent uznany za poważny zgodnie z definicją w Ustawie o Krajowym Systemie Cyberbezpieczeństwa (UKSC), rozporządzeniami wykonawczymi i PSD2<br>4. Incydenty braku zgodności na poziomie krytycznym, <br>5. Krytyczne zgłoszenia pracowników związane np. z mobbingiem czy dyskryminacją w pracy, uznane przez komisję antymobbingową za zasadne<br>6. Krytyczne zdarzenia operacyjne – liczba zdarzeń krytycznych zarejestrowanych w Rejestrze Ryzyka Operacyjnego (RRO)<br>7. Nieprawidłowości krytyczne zidentyfikowane w ramach Funkcji Kontroli<br>8. Nieprawidłowości krytyczne zidentyfikowane w ramach testów zgodności przeprowadzanych przez Departament Zgodności (DZ)<br>9. Nieprawidłowości krytyczne zidentyfikowane w ramach audytów wewnętrznych<br>Zarząd jest informowany o tego typu zdarzeniach, incydentach, przekroczeniach wskaźników np. Kluczowy Wskaźnik Ryzyka KRI, poprzez raporty ryzyka operacyjnego, ryzyka braku zgodności i ryzyka utraty reputacji oraz na posiedzeniach Zarządu Banku (ZB), Komitetu Ryzyka Operacyjnego i Kontroli Wewnętrznej (KRO). W sytuacjach krytycznych może zostać zwołane spotkanie Sztabu Kryzysowego. <br>a) W sytuacji wykrycia nieprawidłowości krytycznych w ramach Funkcji Kontroli informowany jest Zarząd Banku, Komitet ds. Audytu Rada Nadzorcza.<br>b) W przypadku zidentyfikowania nieprawidłowości krytycznej przez Departament Zgodności (DZ), informacje do Zarządu Banku i Komitetu ds. Audytu przekazuje Dyrektor DZ lub wyznaczony przez niego pracownik.<br>c) W przypadku zidentyfikowania nieprawidłowości krytycznych w ramach audytów wewnętrznych dyrektor Departamentu Audytu Wewnętrznego (DAW) niezwłocznie informuje o nich Zarząd Banku i Komitet ds. Audytu.",
+
+
+
+                    "Liczba Przypadków": "4"
+                  },
+                  "attachment_1": "images/sup/Pekao_19.png"
                 }
+
+
+
             }
         }
     },
 
     
-    {
-        "name": "Santander",
-        "language": "English",
-        "country": "Spain",
-        "data": {
-            "Reported": "None",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
-    {
-        "name": "PKOBP",
-        "language": "English",
-        "country": "Poland",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
 
 
  {
@@ -127,6 +244,16 @@
                 },
 
 
+
+                "GRI 2-15": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Obowiązująca Polityka zarządzania konfliktami interesów w Grupie Pekao określa zasady zarządzania konfliktami interesów oraz definiuje okoliczności powodujące lub mogące spowodować w działalności Banku powstanie konfliktu interesów. <br> <br> Środkami zarządzania konfliktami interesów stosowanymi przez Bank na wypadek wystąpienia potencjalnego konfliktu interesów są m.in. środki oparte na: Strukturze organizacyjnej i polegające na: ustanowieniu barier informacyjnych (tzw. chińskich murów), wprowadzeniu podziału zadań uwzględniającego rozdzielenie fizyczne i kompetencyjne różnych jednostek organizacyjnych Banku oraz podmiotów Grupy w działaniach, z których może wynikać konflikt interesów, w szczególności wyodrębnienie jednostek organizacyjnych Banku, wprowadzeniu niezależności strukturalnej polegającej na przyporządkowaniu każdej jednostce organizacyjnej Banku określonych kompetencji, opisu metod, rodzaju działań i zachowań operacyjnych umożliwiających niezależne podejmowanie decyzji oraz nadzoru nad pracownikami Banku, zapobieganiu jednoczesnemu lub następującemu bezpośrednio po sobie zaangażowaniu pracowników Banku w świadczenie usług, jeżeli takie zaangażowanie może negatywnie wpływać na efektywność zarządzania konfliktami interesów, Regulacjach wewnętrznych wprowadzających reguły dotyczące wynagradzania pracowników Banku, polegające na zdefiniowaniu: zasad wynagradzania tak, aby nie miały negatywnego wpływu na interesy Interesariusza i eliminowały bezpośrednie zależności pomiędzy zmienną częścią wynagrodzenia a celami biznesowymi, zawierania transakcji własnych, wprowadzających procedury zapobiegające nadużyciom związanym z wykonywaniem transakcji własnych na instrumentach finansowych polegające na ustanowieniu ograniczeń dotyczących wykonywania transakcji na rachunek własny pracownika lub Banku, przenoszenia pracowników Banku na inne stanowiska w przypadku powstania podległości służbowej pomiędzy osobami bliskimi. Wprowadzeniu i przestrzeganiu przez pracowników zasad etyki i kultury korporacyjnej oraz przeprowadzaniu odpowiednich szkoleń. <br> <br> W przypadku gdy istnieje ryzyko naruszenia interesów interesariusza, którego konflikt dotyczy lub istnieje znaczące ryzyko utraty reputacji, następuje ujawnienie konfliktu interesów interesariuszowi. Ujawnienie każdorazowo zawiera opis konfliktu interesów będącego podstawą ujawnienia, dostosowany do wiedzy i doświadczenia interesariusza, pozwalający mu na podjęcie świadomej decyzji odnośnie do konkretnej usługi oraz informacje o zastosowanych przez Bank środkach zarządzania konfliktem interesów w celu ograniczenia ryzyk związanych z konfliktem interesów. Ujawnienie konfliktu interesów nie zwalnia Banku z obowiązku stosowania wszelkich możliwych środków zarządzania konfliktem interesów. <Br> <Br> W Banku obowiązuje ponadto Regulamin zarządzania konfliktami interesów w Banku Pekao S.A. (dalej „Regulamin”). Regulamin określa zasady zarządzania konfliktami interesów oraz definiuje okoliczności powodujące lub mogące spowodować w działalności Banku powstanie konfliktu interesów na wszystkich szczeblach organizacji. Regulamin ustanawia reżim postępowania Banku, nakładając ogólny obowiązek ujawniania także w sytuacjach zasiadania w wielu organach zarządczych, powiązaniami kapitałowymi z dostawcami i innymi interesariuszami, istnieniem akcjonariuszy posiadających pakiet kontrolny, relacjami i transakcjami z podmiotami powiązanymi. Bank zapewnia publiczne ujawnianie odpowiednich informacji dotyczących przyjętej w Banku Polityki zarządzania konfliktami interesów. Ujawnienia te zgodnie z Regulaminem powinny obejmować informacje na temat sposobu zarządzania przez Bank istotnymi konfliktami interesów oraz konfliktami, które mogłyby powstać z powodu przynależności Banku do grupy kapitałowej lub transakcji zawieranych przez Bank z innymi podmiotami w grupie kapitałowej. <br> <br> Publicznemu ujawnieniu nie mogą podlegać informacje objęte ochroną: stanowiące dane osobowe, tajemnicę bankową lub tajemnicę przedsiębiorstwa. Powyższe informacje, a także informacje o istnieniu w Banku takich potencjalnych konfliktów oraz ich zakresie, powinny być także przekazywane do Komisji Nadzoru Finansowego. Ponadto, w odniesieniu do potencjalnych konfliktów interesów wynikających z istnienia akcjonariuszy posiadających pakiet kontrolny Bank posiada i stosuje regulację Zasady postępowania w zakresie obowiązków informacyjnych związanych z nabywaniem lub zbywaniem znacznych pakietów akcji – Polityka Grupy Banku Pekao S.A. "
+
+                  }
+                },
+
+
                 "GRI 2-13": {
                   "metrics": {
                     "Opis": "Pełny",
@@ -164,10 +291,10 @@
                   "GRI 2-7": {
                     "metrics": {
                       "Opis": "Pełny",
-                      "Liczba Procowników":"14,462",
-                      "Liczba Kobiet": "9,853",
-                      "Liczba Mezczyzn": "4,451",
-                      "Sredni Wiek": "45,6",
+                      "Licz. Pracow.":"14,462",
+                      "Licz. Kob.": "9,853",
+                      "Licz. Mez.": "4,451",
+                      "Srd. Wiek": "45,6",
                       "Text": "Dbałość o rozwój pracowników z poszanowaniem różnorodności i tworzenie atrakcyjnego miejsca pracy pozostanie fundamentem działania Grupy Pekao. W kwietniu 2021 roku, równolegle z nową strategią biznesową, w Banku przyjęto wypracowane wspólnie z pracownikami wartości: #prosto, #razem, #odważnie i #odpowiedzialnie. Są one filarami kultury organizacyjnej, wyznaczając kierunek działań i styl pracy. Równocześnie z określeniem czterech nowych wartości, ich definicjami i przypisanymi im zachowaniami, powstało także 10 zasad dla menedżerów – Wartościowych Zasad Zarządzania Zespołem. Są one drogowskazem dla kadry zarządzającej, jak pracować ze swoimi zespołami w oparciu o nowe wartości."
                     },
                     "attachment_1": "images/sup/Pekao_28.png",
@@ -181,6 +308,41 @@
                     "attachment_10": "images/sup/Pekao_36.png",
                     "attachment_11": "images/sup/Pekao_37.png"
                               
+                  },
+
+                  "GRI 2-8": {
+                    "metrics": {
+                      "Opis": "Pełny",
+                      "Licz. Współ.": "232",
+                      "Text": "Dbałość o rozwój pracowników z poszanowaniem różnorodności i tworzenie atrakcyjnego miejsca pracy pozostanie fundamentem działania Grupy Pekao. W kwietniu 2021 roku, równolegle z nową strategią biznesową, w Banku przyjęto wypracowane wspólnie z pracownikami wartości: #prosto, #razem, #odważnie i #odpowiedzialnie. Są one filarami kultury organizacyjnej, wyznaczając kierunek działań i styl pracy. Równocześnie z określeniem czterech nowych wartości, ich definicjami i przypisanymi im zachowaniami, powstało także 10 zasad dla menedżerów – Wartościowych Zasad Zarządzania Zespołem. Są one drogowskazem dla kadry zarządzającej, jak pracować ze swoimi zespołami w oparciu o nowe wartości."
+                    },
+                    "attachment_1": "images/sup/Pekao_28.png",
+                    "attachment_2": "images/sup/Pekao_29.png",
+                    "attachment_3": "images/sup/Pekao_30.png",
+                    "attachment_4": "images/sup/Pekao_31.png",
+                    "attachment_5": "images/sup/Pekao_32.png",
+                    "attachment_6": "images/sup/Pekao_33.png",
+                    "attachment_7": "images/sup/Pekao_34.png",
+                    "attachment_9": "images/sup/Pekao_35.png",
+                    "attachment_10": "images/sup/Pekao_36.png",
+                    "attachment_11": "images/sup/Pekao_37.png"
+                              
+                  },
+
+                  "GRI 2-17": {
+                    "metrics": {
+                      "Opis": "Pełny",
+                      "Text": "Zarząd Banku Pekao w codziennej komunikacji z pracownikami podkreśla rolę ESG w budowie zrównoważonej organizacji, poprzez utrzymanie wysokich standardów ładu korporacyjnego, etyczne podejście do biznesu, działania na rzecz społeczeństwa i środowiska, wsparcie rozwoju kapitału ludzkiego. W oficjalnych wypowiedziach najważniejszych przedstawicieli Banku podkreślana jest rola instytucji finansowych w procesie transformacji energetycznej i finansowania zielonych projektów. Analogicznie Bank postrzega swoją rolę w zakresie rozszerzania oferty produktów i usług uwzględniających czynniki ESG, a także edukacji ekologicznej. W strategię Banku wpisana jest odpowiedzialność wobec klientów i kontrahentów. Oprócz licznych wypowiedzi dla mediów, wystąpień w debatach eksperckich i aktywności na profilach społecznościowych w 2022 roku przedstawiciele Zarządu wzięli udział w ważnych wydarzeniach powiązanych tematycznie z aspektami środowiskowymi, społecznymi i korporacyjnymi. Były to m.in.: Światowe Forum Ekonomiczne w Davos, Europejski Kongres Gospodarczy w Katowicach, Forum Ekonomiczne w Karpaczu, Ogólnopolski Szczyt Gospodarczy Lublin, konferencja Idea – Biznes – Klimat, Euro POWER & OZE POWER; Kongres 590, czy Kongres Bankowości Korporacyjnej i Inwestycyjnej."
+                    }
+                
+                  },
+
+                  "GRI 2-18": {
+                    "metrics": {
+                      "Opis": "Pełny",
+                      "Text": "W Banku obowiązuje Polityka doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji oraz oceny odpowiedniości proponowanych i powoływanych członków zarządu, rady nadzorczej oraz osób pełniących kluczowe funkcje w Banku Polska Kasa Opieki Spółka Akcyjna zatwierdzona przez Radę Nadzorczą Banku 30 grudnia 2020 roku. Jej celem jest zagwarantowanie optymalnego i jednolitego procesu doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji w Banku, tak aby zapewnić wykonywanie zadań związanych z realizacją planów i strategii biznesowej Banku przez osoby posiadające niezbędną wiedzę, doświadczenie oraz umiejętności, a także cieszące się dobrą reputacją. <br> <Br> Polityka doboru i oceny odpowiedniości określa również kryteria oceny odpowiedniości indywidualnej i kolektywnej kandydatów i członków Zarządu, Rady Nadzorczej oraz osób pełniących kluczowe funkcje w Banku na etapie powoływania i w toku sprawowania funkcji, jak również zdarzenia skutkujące koniecznością przeprowadzenia oceny odpowiedniości, przebieg procesu oceny odpowiedniości, w tym role i zadania w procesie oraz skutki oceny, w tym środki naprawcze mające zastosowanie w celu zapewnienia spełnienia wymogów odpowiedniości. <br> <br> W 2022 roku przeprowadzona została wtórna ocena odpowiedniości indywidualnej i kolektywnej członków Rady Nadzorczej Banku oraz wtórna ocena odpowiedniości indywidualnej i kolektywnej członków Zarządu Banku, jak również oceny odpowiedniości wynikające ze zmian dodatkowo pełnionych funkcji przez członków organów Banku. <br> <br> Spółki zależne wdrożyły Polityki Oceny Odpowiedniości zgodnie z obowiązującymi przepisami prawa."
+                    }
+                
                   },
 
 
@@ -247,12 +409,6 @@
                   },
 
 
-                  "GRI 2-18": {
-                    "metrics": {
-                      "Opis": "Pełny",
-                      "Text": " W Banku obowiązuje Polityka doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji oraz oceny odpowiedniości proponowanych i powoływanych członków zarządu, rady nadzorczej oraz osób pełniących kluczowe funkcje w Banku Polska Kasa Opieki Spółka Akcyjna zatwierdzona przez Radę Nadzorczą Banku 30 grudnia 2020 roku. Jej celem jest zagwarantowanie optymalnego i jednolitego procesu doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji w Banku, tak aby zapewnić wykonywanie zadań związanych z realizacją planów i strategii biznesowej Banku przez osoby posiadające niezbędną wiedzę, doświadczenie oraz umiejętności, a także cieszące się dobrą reputacją. Polityka doboru i oceny odpowiedniości określa również kryteria oceny odpowiedniości indywidualnej i kolektywnej kandydatów i członków Zarządu, Rady Nadzorczej oraz osób pełniących kluczowe funkcje w Banku na etapie powoływania i w toku sprawowania funkcji, jak również zdarzenia skutkujące koniecznością przeprowadzenia oceny odpowiedniości, przebieg procesu oceny odpowiedniości, w tym role i zadania w procesie oraz skutki oceny, w tym środki naprawcze mające zastosowanie w celu zapewnienia spełnienia wymogów odpowiedniości. W 2022 roku przeprowadzona została wtórna ocena odpowiedniości indywidualnej i kolektywnej członków Rady Nadzorczej Banku oraz wtórna ocena odpowiedniości indywidualnej i kolektywnej członków Zarządu Banku, jak również oceny odpowiedniości wynikające ze zmian dodatkowo pełnionych funkcji przez członków organów Banku. Spółki zależne wdrożyły Polityki Oceny Odpowiedniości zgodnie z obowiązującymi przepisami prawa."
-                    }
-                  },
 
                   "GRI 2-19": {
                     "metrics": {
@@ -419,13 +575,35 @@
                   "GRI 2-9": {
                     "metrics": {
                       "Opis": "Pełny",
-                      "Liczba Członków": "9",
-                      "Liczba Kobiet": "5",
+                      "Liczba Członków": "6",
+                      "Liczba Kobiet": "1",
                       "Text": "Bank Pekao oraz podmioty Grupy Pekao posiadają strukturę organizacyjną dostosowaną do wielkości i specyfiki prowadzonej przez nie działalności. Zakres kompetencji organów spółek jest określony w przepisach prawa, a w szczególności w Kodeksie spółek handlowych, ustawie Prawo bankowe, w rekomendacjach nadzorczych organów nadzoru, w Statucie Banku oraz statutach/umowach spółek i regulacjach wewnętrznych podmiotów Grupy Pekao <br><br>Stały nadzór nad działalnością Banku Pekao sprawuje Rada Nadzorcza. W jej skład wchodzi od siedmiu do dziewięciu członków powoływanych przez Walne Zgromadzenie na okres wspólnej kadencji, trwającej trzy lata. Organizację i sposób działania Rady określa Regulamin Rady Nadzorczej Banku Polska Opieki Pekao Spółka Akcyjna.<br>Rada Nadzorcza wykonuje swoje obowiązki kolegialne, jednakże dla wykonania określonych czynności lub w celu usprawnienia prac może powołać spośród swoich członków komitety oraz zespoły. Ponadto Rada może delegować jednego lub kilku członków Rady Nadzorczej do samodzielnego pełnienia nadzoru w zakresie określonym przez Radę Nadzorczą. W ramach Rady Nadzorczej Banku Pekao funkcjonują: Komitet ds. Audytu, Komitet ds. Nominacji i Wynagrodzeń oraz Komitet ds. Ryzyka. Powołane przez Radę Nadzorczą komitety przedkładają Radzie Nadzorczej roczne raporty z działalności.<br><br>Zarząd Banku<br><br> Zarząd Banku Pekao prowadzi sprawy Banku i reprezentuje Bank. Wszystkie sprawy niezastrzeżone, na mocy przepisów prawa lub Statutu Banku, do kompetencji innych organów, należą do zakresu działania Zarządu Banku. W skład Zarządu wchodzi od pięciu do dziewięciu członków, powoływanych na wspólną trzyletnią kadencję. Rada Nadzorcza Banku, działając na podstawie Kodeksu spółek handlowych oraz uwzględniając ocenę spełniania wymogów odpowiedniości, 14 czerwca 2022 roku jednogłośnie powołała, z dniem następującym po odbyciu Zwyczajnego Walnego Zgromadzenia Banku zatwierdzającego sprawozdanie finansowe Banku za rok obrotowy 2021, członków Zarządu Banku na nową wspólną kadencję trwającą 3 lata.W skład Zarządu Banku na kolejną trzyletnią wspólną kadencję zostały powołane następujące osoby:Leszek Skiba na Prezesa Zarządu Banku, Marcin Gadomski na Wiceprezesa Zarządu Banku nadzorującego zarządzanie ryzykiem istotnym w działalności Banku, Jarosław Fuchs na Wiceprezesa Zarządu Banku, Jerzy Kwieciński na Wiceprezesa Zarządu Banku, Paweł Strączyński na Wiceprezesa Zarządu Banku, Błażej Szczecki na Wiceprezesa Zarządu Banku, Wojciech Werochowski na Wiceprezesa Zarządu Banku, Piotr Zborowski na Wiceprezesa Zarządu Banku, Magdalena Zmitrowicz na Wiceprezesa Zarządu Banku. Rada Nadzorcza Banku, w wyniku przeprowadzonych ocen, stwierdziła, że wszyscy członkowie Zarządu Banku oraz Zarząd Banku jako całość spełniają wymogi, o których mowa w art. 22aa Ustawa z dnia 29 sierpnia 1997 roku – Prawo Bankowe oraz wymogi odpowiedniości, o których mowa w Polityce doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji oraz oceny odpowiedniości proponowanych i powoływanych członków zarządu, rady nadzorczej oraz osób pełniących kluczowe funkcje w Banku Polska Kasa Opieki Spółka Akcyjna.Żadna z powyższych osób powołanych w skład Zarządu Banku, zgodnie ze złożonymi oświadczeniami, nie prowadzi działalności konkurencyjnej wobec Banku, nie uczestniczy w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej, spółki kapitałowej, ani nie uczestniczy w konkurencyjnej osobie prawnej jako członek jej organu. Ponadto żadna z powołanych osób nie figuruje również w Rejestrze Dłużników Niewypłacalnych prowadzonym na podstawie ustawy z dnia 20 sierpnia 1997 roku o Krajowym Rejestrze Sądowym."
                     },
                     "attachment_1": "images/sup/Pekao_7.png",
                     "attachment_2": "images/sup/Pekao_9.png"
                   },
+
+
+                  "GRI 2-10": {
+                    "metrics": {
+                      "Opis": "Pełny",
+                      "Text": "Bank Pekao oraz podmioty Grupy Pekao posiadają strukturę organizacyjną dostosowaną do wielkości i specyfiki prowadzonej przez nie działalności. Zakres kompetencji organów spółek jest określony w przepisach prawa, a w szczególności w Kodeksie spółek handlowych, ustawie Prawo bankowe, w rekomendacjach nadzorczych organów nadzoru, w Statucie Banku oraz statutach/umowach spółek i regulacjach wewnętrznych podmiotów Grupy Pekao <br><br>Stały nadzór nad działalnością Banku Pekao sprawuje Rada Nadzorcza. W jej skład wchodzi od siedmiu do dziewięciu członków powoływanych przez Walne Zgromadzenie na okres wspólnej kadencji, trwającej trzy lata. Organizację i sposób działania Rady określa Regulamin Rady Nadzorczej Banku Polska Opieki Pekao Spółka Akcyjna.<br>Rada Nadzorcza wykonuje swoje obowiązki kolegialne, jednakże dla wykonania określonych czynności lub w celu usprawnienia prac może powołać spośród swoich członków komitety oraz zespoły. Ponadto Rada może delegować jednego lub kilku członków Rady Nadzorczej do samodzielnego pełnienia nadzoru w zakresie określonym przez Radę Nadzorczą. W ramach Rady Nadzorczej Banku Pekao funkcjonują: Komitet ds. Audytu, Komitet ds. Nominacji i Wynagrodzeń oraz Komitet ds. Ryzyka. Powołane przez Radę Nadzorczą komitety przedkładają Radzie Nadzorczej roczne raporty z działalności.<br><br>Zarząd Banku<br><br> Zarząd Banku Pekao prowadzi sprawy Banku i reprezentuje Bank. Wszystkie sprawy niezastrzeżone, na mocy przepisów prawa lub Statutu Banku, do kompetencji innych organów, należą do zakresu działania Zarządu Banku. W skład Zarządu wchodzi od pięciu do dziewięciu członków, powoływanych na wspólną trzyletnią kadencję. Rada Nadzorcza Banku, działając na podstawie Kodeksu spółek handlowych oraz uwzględniając ocenę spełniania wymogów odpowiedniości, 14 czerwca 2022 roku jednogłośnie powołała, z dniem następującym po odbyciu Zwyczajnego Walnego Zgromadzenia Banku zatwierdzającego sprawozdanie finansowe Banku za rok obrotowy 2021, członków Zarządu Banku na nową wspólną kadencję trwającą 3 lata.W skład Zarządu Banku na kolejną trzyletnią wspólną kadencję zostały powołane następujące osoby:Leszek Skiba na Prezesa Zarządu Banku, Marcin Gadomski na Wiceprezesa Zarządu Banku nadzorującego zarządzanie ryzykiem istotnym w działalności Banku, Jarosław Fuchs na Wiceprezesa Zarządu Banku, Jerzy Kwieciński na Wiceprezesa Zarządu Banku, Paweł Strączyński na Wiceprezesa Zarządu Banku, Błażej Szczecki na Wiceprezesa Zarządu Banku, Wojciech Werochowski na Wiceprezesa Zarządu Banku, Piotr Zborowski na Wiceprezesa Zarządu Banku, Magdalena Zmitrowicz na Wiceprezesa Zarządu Banku. Rada Nadzorcza Banku, w wyniku przeprowadzonych ocen, stwierdziła, że wszyscy członkowie Zarządu Banku oraz Zarząd Banku jako całość spełniają wymogi, o których mowa w art. 22aa Ustawa z dnia 29 sierpnia 1997 roku – Prawo Bankowe oraz wymogi odpowiedniości, o których mowa w Polityce doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji oraz oceny odpowiedniości proponowanych i powoływanych członków zarządu, rady nadzorczej oraz osób pełniących kluczowe funkcje w Banku Polska Kasa Opieki Spółka Akcyjna.Żadna z powyższych osób powołanych w skład Zarządu Banku, zgodnie ze złożonymi oświadczeniami, nie prowadzi działalności konkurencyjnej wobec Banku, nie uczestniczy w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej, spółki kapitałowej, ani nie uczestniczy w konkurencyjnej osobie prawnej jako członek jej organu. Ponadto żadna z powołanych osób nie figuruje również w Rejestrze Dłużników Niewypłacalnych prowadzonym na podstawie ustawy z dnia 20 sierpnia 1997 roku o Krajowym Rejestrze Sądowym."
+                    },
+                    "attachment_1": "images/sup/Pekao_7.png",
+                    "attachment_2": "images/sup/Pekao_9.png"
+                  },
+
+                  "GRI 2-11": {
+                    "metrics": {
+                      "Opis": "Pełny",
+                    
+                      "Text": "Bank Pekao oraz podmioty Grupy Pekao posiadają strukturę organizacyjną dostosowaną do wielkości i specyfiki prowadzonej przez nie działalności. Zakres kompetencji organów spółek jest określony w przepisach prawa, a w szczególności w Kodeksie spółek handlowych, ustawie Prawo bankowe, w rekomendacjach nadzorczych organów nadzoru, w Statucie Banku oraz statutach/umowach spółek i regulacjach wewnętrznych podmiotów Grupy Pekao <br><br>Stały nadzór nad działalnością Banku Pekao sprawuje Rada Nadzorcza. W jej skład wchodzi od siedmiu do dziewięciu członków powoływanych przez Walne Zgromadzenie na okres wspólnej kadencji, trwającej trzy lata. Organizację i sposób działania Rady określa Regulamin Rady Nadzorczej Banku Polska Opieki Pekao Spółka Akcyjna.<br>Rada Nadzorcza wykonuje swoje obowiązki kolegialne, jednakże dla wykonania określonych czynności lub w celu usprawnienia prac może powołać spośród swoich członków komitety oraz zespoły. Ponadto Rada może delegować jednego lub kilku członków Rady Nadzorczej do samodzielnego pełnienia nadzoru w zakresie określonym przez Radę Nadzorczą. W ramach Rady Nadzorczej Banku Pekao funkcjonują: Komitet ds. Audytu, Komitet ds. Nominacji i Wynagrodzeń oraz Komitet ds. Ryzyka. Powołane przez Radę Nadzorczą komitety przedkładają Radzie Nadzorczej roczne raporty z działalności.<br><br>Zarząd Banku<br><br> Zarząd Banku Pekao prowadzi sprawy Banku i reprezentuje Bank. Wszystkie sprawy niezastrzeżone, na mocy przepisów prawa lub Statutu Banku, do kompetencji innych organów, należą do zakresu działania Zarządu Banku. W skład Zarządu wchodzi od pięciu do dziewięciu członków, powoływanych na wspólną trzyletnią kadencję. Rada Nadzorcza Banku, działając na podstawie Kodeksu spółek handlowych oraz uwzględniając ocenę spełniania wymogów odpowiedniości, 14 czerwca 2022 roku jednogłośnie powołała, z dniem następującym po odbyciu Zwyczajnego Walnego Zgromadzenia Banku zatwierdzającego sprawozdanie finansowe Banku za rok obrotowy 2021, członków Zarządu Banku na nową wspólną kadencję trwającą 3 lata.W skład Zarządu Banku na kolejną trzyletnią wspólną kadencję zostały powołane następujące osoby:Leszek Skiba na Prezesa Zarządu Banku, Marcin Gadomski na Wiceprezesa Zarządu Banku nadzorującego zarządzanie ryzykiem istotnym w działalności Banku, Jarosław Fuchs na Wiceprezesa Zarządu Banku, Jerzy Kwieciński na Wiceprezesa Zarządu Banku, Paweł Strączyński na Wiceprezesa Zarządu Banku, Błażej Szczecki na Wiceprezesa Zarządu Banku, Wojciech Werochowski na Wiceprezesa Zarządu Banku, Piotr Zborowski na Wiceprezesa Zarządu Banku, Magdalena Zmitrowicz na Wiceprezesa Zarządu Banku. Rada Nadzorcza Banku, w wyniku przeprowadzonych ocen, stwierdziła, że wszyscy członkowie Zarządu Banku oraz Zarząd Banku jako całość spełniają wymogi, o których mowa w art. 22aa Ustawa z dnia 29 sierpnia 1997 roku – Prawo Bankowe oraz wymogi odpowiedniości, o których mowa w Polityce doboru kandydatów do pełnienia funkcji członka Zarządu oraz Kluczowej Funkcji oraz oceny odpowiedniości proponowanych i powoływanych członków zarządu, rady nadzorczej oraz osób pełniących kluczowe funkcje w Banku Polska Kasa Opieki Spółka Akcyjna.Żadna z powyższych osób powołanych w skład Zarządu Banku, zgodnie ze złożonymi oświadczeniami, nie prowadzi działalności konkurencyjnej wobec Banku, nie uczestniczy w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej, spółki kapitałowej, ani nie uczestniczy w konkurencyjnej osobie prawnej jako członek jej organu. Ponadto żadna z powołanych osób nie figuruje również w Rejestrze Dłużników Niewypłacalnych prowadzonym na podstawie ustawy z dnia 20 sierpnia 1997 roku o Krajowym Rejestrze Sądowym."
+                    },
+                    "attachment_1": "images/sup/Pekao_7.png",
+                    "attachment_2": "images/sup/Pekao_9.png"
+                  },
+
+
 
 
                   "GRI 3-1": {
@@ -701,6 +879,28 @@
           "Heading 2": "Value2",
           "Heading 3": "Value3"
       }
-  }
+  },
+
+  {
+    "name": "Santander",
+    "language": "English",
+    "country": "Spain",
+    "data": {
+        "Reported": "None",
+        "Heading 2": "Value2",
+        "Heading 3": "Value3"
+    }
+},
+{
+    "name": "PKOBP",
+    "language": "English",
+    "country": "Poland",
+    "data": {
+        "Reported": "All",
+        "Heading 2": "Value2",
+        "Heading 3": "Value3"
+    }
+}
+
  
 ]

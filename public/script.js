@@ -7,6 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
+
+
+
+
 // Global variable to keep track of the last clicked company
 let lastClickedCompany = null;
 
@@ -64,7 +68,10 @@ function handleBadgeClick(selectedBadge) {
 function setupBadges() {
     const badges = document.querySelectorAll('.badge');
     badges.forEach(badge => {
-        badge.addEventListener('click', () => handleBadgeClick(badge));
+        // Assuming `data-gri-item` is an attribute containing the target GRI item
+        badge.addEventListener('click', function() {
+            handleBadgeClick(badge, badge.getAttribute('data-gri-item'));
+        });
     });
 }
 
@@ -76,20 +83,28 @@ function updateSubOptions(selectedStandard) {
         const container = document.getElementById('subOptionsContainer');
         container.innerHTML = ''; // Clear existing content
 
+        let lastHeader = null;
         subOptions.forEach(option => {
-            const dropdownItem = createDropdownItem(option.name);
-            container.appendChild(dropdownItem);
+            if (lastHeader !== option.header) {
+                const headerItem = document.createElement('li');
+                headerItem.className = 'dropdown-header';
+                headerItem.textContent = option.header;
+                container.appendChild(headerItem);
+                lastHeader = option.header; // Update lastHeader to current
+            }
+            container.appendChild(createDropdownItem(option.name, option.short_explainer)); // Include short explainer if needed
         });
     })
     .catch(error => console.error('Error loading standard data:', error));
 }
 
-function createDropdownItem(text) {
+function createDropdownItem(text, short_explainer) {
     const item = document.createElement('li');
     const link = document.createElement('a');
     link.className = 'dropdown-item';
     link.href = '#';
     link.textContent = text;
+    link.title = short_explainer; // Optionally set title attribute to short explainer
     link.onclick = () => {
         populateTable(text);  // Call populateTable with the option text
         showExplainerCard(text); // Show details related to the selected option
@@ -128,21 +143,17 @@ function createBadge(text) {
 }
 
 
-function handleBadgeClick(badge) {
-    // Reset all badges across the entire document first
-    resetBadgeSelection(document.body);
-
-    // Then highlight the clicked badge
-    badge.classList.add('bg-blue');
+function handleBadgeClick(badge, griItem) {
+    resetBadgeSelection(document.body);  // Clear previous selections
+    badge.classList.add('bg-blue');  // Highlight the selected badge
     badge.classList.remove('bg-blue-lt');
 
-    // Determine if the clicked badge belongs to the "STANDARD" category and display the explainer card
-    if (badge.parentNode.id === 'subOptionsContainer') { // Assuming badges under STANDARD are in this container
-        showExplainerCard(badge.textContent);
-    } else {
-        hideExplainerCard();
-    }
+    selectDropdownGRIItem(griItem);  // New function to select the dropdown item
+    populateTable(griItem);  // Assuming you want to load the table based on the GRI item
+    showExplainerCard(griItem);  // Update to show details for the selected GRI item
 }
+
+
 
 async function showExplainerCard(subOptionName) {
     try {
@@ -267,7 +278,7 @@ function populateTable(selectedGRI) {
                                 break;
                         }
                         td.appendChild(span);
-                        td.appendChild(document.createTextNode(content)); // Optional: show text beside the circle
+                        //td.appendChild(document.createTextNode(content)); // Optional: show text beside the circle
                     } else {
                         td.textContent = content;
                     }
@@ -279,6 +290,11 @@ function populateTable(selectedGRI) {
                 
             });
 
+
+
+
+
+            
             // Event delegation for handling row and link clicks
             tableBody.addEventListener('click', function(event) {
                 const target = event.target;

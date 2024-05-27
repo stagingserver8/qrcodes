@@ -17,6 +17,11 @@
             "headers": ["Opis"]
         },
 
+           {
+            "name": "GRI 2-5",
+            "headers": ["Opis"]
+        },
+
         {
             "name": "GRI 2-30",
             "headers": ["Opis"]
@@ -26,6 +31,65 @@
             "name": "GRI 2-6",
             "headers": ["Opis"] 
         },
+
+        {
+            "name": "GRI 2-7",
+            "headers": ["Opis", "Licz. Pracow.", "Licz. Kob.", "Licz. Mez.","Srd. Wiek"] 
+        },
+
+        {
+            "name": "GRI 2-8",
+            "headers": ["Opis", "Licz. Współ."]
+        },
+
+
+
+        {
+            "name": "GRI 2-9",
+            "headers": ["Opis", "Liczba Członków", "Liczba Kobiet"] 
+        },
+
+
+        {
+            "name": "GRI 2-10",
+            "headers": ["Opis"] 
+        },
+
+
+
+
+        {
+            "name": "GRI 2-11",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 2-12",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 2-15",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 2-17",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 2-18",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 407-1",
+            "headers": ["Opis"] 
+        },
+
 
 
         {
@@ -56,10 +120,7 @@
         },
 
 
-        {
-            "name": "GRI 2-7",
-            "headers": ["Opis", "Liczba Procowników", "Liczba Kobiet", "Liczba Mezczyzn","Sredni Wiek"] 
-        },
+     
 
         {
             "name": "GRI 401-1",
@@ -68,32 +129,6 @@
 
 
 
-        {
-            "name": "GRI 2-9",
-            "headers": ["Opis", "Liczba Członków", "Liczba Kobiet"] 
-        },
-
-
-        {
-            "name": "GRI 2-10",
-            "headers": ["Opis"] 
-        },
-
-
-        {
-            "name": "GRI 2-11",
-            "headers": ["Opis"] 
-        },
-
-
-        {
-            "name": "GRI 2-12",
-            "headers": ["Opis"] 
-        },
-        {
-            "name": "GRI 407-1",
-            "headers": ["Opis"] 
-        },
 
         {
             "name": "GRI 401-2",
