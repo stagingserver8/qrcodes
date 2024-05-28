@@ -24,7 +24,7 @@
 
         {
             "name": "GRI 2-30",
-            "headers": ["Opis"]
+            "headers": ["Opis", "% pracowników"]
         },
 
         {
@@ -70,6 +70,11 @@
         },
 
         {
+            "name": "GRI 2-14",
+            "headers": ["Opis"]
+        },
+
+        {
             "name": "GRI 2-15",
             "headers": ["Opis"] 
         },
@@ -79,10 +84,6 @@
             "headers": ["Opis"] 
         },
 
-        {
-            "name": "GRI 2-18",
-            "headers": ["Opis"] 
-        },
 
 
         {
@@ -103,14 +104,53 @@
             "headers": ["Opis"] 
         },
 
+
         {
-            "name": "GRI 417-2",
+            "name": "GRI 403-3",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 403-4",
+            "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 403-5",
             "headers": ["Opis"] 
         },
 
         {
-            "name": "GRI 417-3",
+            "name": "GRI 403-6",
             "headers": ["Opis"] 
+        },
+
+
+        {
+            "name": "GRI 403-7",
+            "headers": ["Opis"] 
+        },
+
+
+
+        {
+            "name": "GRI 403-8",
+            "headers": ["Opis"] 
+        },
+
+
+
+
+        {
+            "name": "GRI 417-2",
+            "headers": ["Opis", "Liczba Przypadków"] 
+        },
+
+        {
+            "name": "GRI 417-3",
+            "headers": ["Opis", "Liczba Przypadków"] 
         },
 
 
@@ -128,13 +168,12 @@
         },
 
 
-
-
         {
             "name": "GRI 401-2",
             "headers": ["Opis"] 
         },
 
+        
 
         {
             "name": "GRI 2-13",
@@ -168,6 +207,16 @@
             "headers": ["Opis"] 
         },
 
+        {
+            "name": "GRI 2-26",
+            "headers": ["Opis"] 
+        },
+
+        {
+            "name": "GRI 2-27",
+            "headers": ["Opis", "Liczba Przypadków"] 
+        },
+
 
         {
             "name": "GRI 2-29",
@@ -176,7 +225,12 @@
 
         {
             "name": "GRI 205-1",
-            "headers": ["Opis"]
+            "headers": ["Opis", "% operacji"]
+        },
+
+        {
+            "name": "GRI 205-2",
+            "headers": ["Opis", "% Pracow. szkoleni"]
         },
 
 
@@ -187,18 +241,36 @@
 
         {
             "name": "GRI 206-1",
-            "headers": ["Opis"] 
+            "headers": ["Opis", "Liczb. Postępowań"] 
         },
 
 
        {
             "name": "GRI 201-1",
             "headers": ["Opis", "Dochody", "Dywidenda", "Wynik Netto"] 
+
+        },
+
+        {
+            "name": "GRI 201-2",
+            "headers": ["Opis"] 
+            
         },
 
         {
             "name": "GRI 302-1",
             "headers": ["Opis", "Konsumpcja Energii"]
+        },
+
+        {
+            "name": "GRI 303-3",
+            "headers": ["Opis", "Wody powierzchniowe"]
+        },
+
+
+        {
+            "name": "GRI 303-3",
+            "headers": ["Opis", "Zuzycie Energii", "Zuzycie Energii / Pracow."]
         },
 
 
@@ -236,10 +308,7 @@
 
 
 
-        {
-            "name": "GRI 2-14",
-            "headers": ["Opis"]
-        },
+     
         {
             "name": "GRI 3-1",
             "headers": ["Opis"]
@@ -248,6 +317,21 @@
         {
             "name": "GRI 404-1",
             "headers": ["Opis", "Liczba godzin szkolenia (K)", "Liczba godzin szkolenia (M)"] 
+        },
+
+        {
+            "name": "GRI 404-2",
+            "headers": ["Opis"]
+        },
+
+        {
+            "name": "GRI 404-3",
+            "headers": ["Opis", "% Prac. Ocenom Jakośći (M)","% Prac. Ocenom Jakośći (K)"]
+        },
+
+        {
+            "name": "GRI 405-1",
+            "headers": ["Opis", "Osób w wym. różn. (K)", "Osób w wym. różn. (M)"] 
         },
 
         {
@@ -270,15 +354,39 @@
             "headers": ["Opis", "Zakres 2", "% Zakres 1+2", "Zakres 1+2"] 
         },
 
+        {
+            "name": "GRI 305-3",
+            "headers": ["Opis", "CO2"] 
+        },
+
+        {
+            "name": "GRI 305-4",
+            "headers": ["Opis", "Wskaźnik intensywności"] 
+        },
 
         {
             "name": "GRI 413-1",
             "headers": ["Opis", "Liczba Godzin", "Liczba Partnerów", "Liczba Pracowników"]
-
-
         },
 
 
+        {
+            "name": "GRI 308-1",
+            "headers": ["Opis", "% dostawców przeanalizowanych"]
+        },
+
+
+        {
+            "name": "GRI 306-3",
+            "headers": ["Opis", "Waga Odpadów"]
+        },
+
+        {
+            "name": "GRI 401-3",
+            "headers": ["Opis", "Licz. Pracow. (M) Uprawn.","Licz. Pracow. (K) Uprawn."]
+        },
+
+       
         {
             "name": "GRI 3-2",
             "headers": ["Opis"]

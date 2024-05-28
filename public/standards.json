@@ -1,29 +1,9 @@
 {
     "GRI": [
 
-        {
-            "header" : "Governance",
-            "name": "GRI 205-1",
-            "explainer": "Operations assessed for risks related to corruption <br> Total number and percentage of operations assessed for risks related to corruption., Significant risks related to corruption identified through the risk assessmen",
-            "short_explainer": "Procent i całkowita liczba jednostek biznesowych poddanych analizie pod kątem ryzyka związanego z korupcją oraz zidentyfikowane ryzyka"
-            
-        },
+    
 
-        {
-            "header" : "Governance",
-            "name": "GRI 205-3",
-            "explainer": "bla bla",
-            "short_explainer": "Potwierdzone przypadki korupcji w 2018 roku"
-           
-        },
-
-
-        {
-            "header" : "Social",
-            "name": "GRI 206-1",
-            "explainer": "anticompetition"
-            
-        },
+     
 
         {
             "header" : "Organizacja i Praktyki",
@@ -124,6 +104,18 @@
             
         },
 
+
+        {
+            "header" : "Ład korporacyjny",
+            "name": "GRI 2-14",
+            "explainer": "Empty space",
+            "short_explainer": "Rola najwyższego organu zarządczego w raportowaniu kwestii zrównoważonego rozwoju"
+
+        },
+
+
+
+
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-15",
@@ -187,27 +179,127 @@
 
 
         {
+            "header" : "Strategia, polityki i praktyki",
+            "name": "GRI 2-22",
+            "explainer": "TO ADD",
+            "short_explainer": "Oświadczenie dotyczące strategii zrównoważonego rozwoju"
+           
+        },
+
+
+        {
+            "header" : "Strategia, polityki i praktyki",
+            "name": "GRI 2-23",
+            "explainer": "Describe its policy commitments for responsible business conduct, including: i. the authoritative intergovernmental instruments that the commitments reference; ii. whether the commitments stipulate conducting due diligence; iii. whether the commitments stipulate applying the precautionary principle; iv. whether the commitments stipulate respecting human rights; a. describe its specific policy commitment to respect human rights, including: i. the internationally recognized human rights that the commitment covers; the categories of stakeholders, including at-risk or vulnerable groups, that the organization gives particular attention to in the commitment; ii. b. provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, explain the reason for this; c. report the level at which each of the policy commitments was approved within the organization, including whether this is the most senior level; d. report the extent to which the policy commitments apply to the organization’s activities and to its business relationships; e. describe how the policy commitments are communicated to workers, business partners, and other relevant parties.",
+            "short_explainer": "Zobowiązania ujęte w politykach"
+        
+
+        },
+
+
+
+        {
+            "header" : " Strategia, polityki i praktyki",
+            "name": "GRI 2-26",
+            "explainer": "Empty space",
+            "short_explainer":"Mechanizmy zasiegania porad i zgłaszania obaw"
+        },
+
+
+        {
+            "header" : " Strategia, polityki i praktyki",
+            "name": "GRI 2-27",
+            "explainer": "Empty space",
+            "short_explainer":"Zgodność z prawem i regulacjami"
+        },
+
+
+
+
+
+
+
+        {
+            "header" : " Strategia, polityki i praktyki",
             "name": "GRI 2-28",
             "explainer": "Empty space"
         },
 
 
         {
+            "header" : "Angażowanie interesariuszy",
+            "name": "GRI 2-29",
+            "explainer": "bla bla",
+            "short_explainer":"Podejście do angażowania interesariuszy"
+
+           
+        },
+
+
+        {
+            "header" : "Angażowanie interesariuszy",
             "name": "GRI 2-30",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Procent pracowników objętych układami zbiorowymi pracy"
             
         },
 
 
-     
+
 
         {
+            "header" : "Wyniki",
             "name": "GRI 201-1",
-            "explainer": "Direct economic value generated and distributed (EVG&D) on an accruals basis, including the basic components for the organization’s global operations as listed below. If data are presented on a cash basis, report the justification for this decision in addition to reporting the following basic components: Direct economic value generated: revenues,Economic value distributed: operating costs, employee wages and benefits, payments to providers of capital, payments to government by country, and community investments, Economic value retained: ‘direct economic value generated’ less ‘economic value distributed’.  Where significant, report EVG&D separately at country, regional, or market levels, and the criteria used for defining significance. hen compiling the information specified in Disclosure 201-1, the reporting organization shall, if applicable, compile the EVG&D from data in the organization’s audited financial or profit and loss (P&L) statement, or its internally audited management accounts. "
+            "explainer": "Direct economic value generated and distributed (EVG&D) on an accruals basis, including the basic components for the organization’s global operations as listed below. If data are presented on a cash basis, report the justification for this decision in addition to reporting the following basic components: Direct economic value generated: revenues,Economic value distributed: operating costs, employee wages and benefits, payments to providers of capital, payments to government by country, and community investments, Economic value retained: ‘direct economic value generated’ less ‘economic value distributed’.  Where significant, report EVG&D separately at country, regional, or market levels, and the criteria used for defining significance. hen compiling the information specified in Disclosure 201-1, the reporting organization shall, if applicable, compile the EVG&D from data in the organization’s audited financial or profit and loss (P&L) statement, or its internally audited management accounts. ",
+            "short_explainer":"Bezpośrednia wartość ekonomiczna wytworzona i podzielona"
         
         },
 
-    
+
+        {
+            "header" : "Wyniki",
+            "name": "GRI 201-2",
+            "explainer": " ",
+            "short_explainer":"Skutki finansowe, inne ryzyka i szanse wynikające ze zmian klimatycznych"
+        
+        },
+
+
+        {
+            "header" : "Przeciwdziałanie korupcji",
+            "name": "GRI 205-1",
+            "explainer": "Operations assessed for risks related to corruption <br> Total number and percentage of operations assessed for risks related to corruption., Significant risks related to corruption identified through the risk assessmen",
+            "short_explainer": "Działania przeanalizowane pod kątem korupcji"
+            
+        },
+
+        {
+            "header" : "Przeciwdziałanie korupcji",
+            "name": "GRI 205-2",
+            "explainer": "bla bla",
+            "short_explainer": "Szkolenia dla pracowników i kadry menedżerskiej poświęcone politykom i procedurom antykorupcyjnym"
+           
+        },
+
+        {
+            "header" : "Przeciwdziałanie korupcji",
+            "name": "GRI 205-3",
+            "explainer": "bla bla",
+            "short_explainer": "Potwierdzone przypadki korupcji i działania podjęte w odpowiedzi na nie"
+           
+        },
+
+
+        {
+            "header" : "Zachowania antykonkurencyjne",
+            "name": "GRI 206-1",
+            "explainer": "anticompetition",
+            "short_explainer":"Podjęte działania prawne w dotyczące zachowań antykonkurencyjnych oraz praktyk łamania regulacji antymonopolowych"
+            
+        },
+
+
+
 
 
 
@@ -247,18 +339,9 @@
 
 
 
-        {
-            "name": "GRI 2-14",
-            "explainer": "Empty space",
-            "headers": ["January", "February", "March"] 
-        },
+    
 
-
-        {
-            "name": "GRI 2-18",
-            "explainer": "Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people; <br> report whether the evaluations are independent or not, and the frequency of the evaluations <br> describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices."
-           
-        },
+    
 
 
         {
@@ -273,80 +356,197 @@
             "headers": ["Disclosing"] 
         },
 
-        {
-            "name": "GRI 2-22",
-            "explainer": "Sustainability Goals"
-           
-        },
+     
+
+    
 
         {
-            "name": "GRI 2-23",
-            "explainer": "Describe its policy commitments for responsible business conduct, including: i. the authoritative intergovernmental instruments that the commitments reference; ii. whether the commitments stipulate conducting due diligence; iii. whether the commitments stipulate applying the precautionary principle; iv. whether the commitments stipulate respecting human rights; a. describe its specific policy commitment to respect human rights, including: i. the internationally recognized human rights that the commitment covers; the categories of stakeholders, including at-risk or vulnerable groups, that the organization gives particular attention to in the commitment; ii. b. provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, explain the reason for this; c. report the level at which each of the policy commitments was approved within the organization, including whether this is the most senior level; d. report the extent to which the policy commitments apply to the organization’s activities and to its business relationships; e. describe how the policy commitments are communicated to workers, business partners, and other relevant parties."
-           
-        },
-
-        {
-            "name": "GRI 2-29",
-            "explainer": "bla bla"
-           
-        },
-
-        {
+            "header" : "Ujawnienia dotyczące istotnych tematów",
             "name": "GRI 3-1",
             "explainer": "Empty space",
-            "headers": ["January", "February", "March"] 
+            "short_explainer":"Proces identyfikacji istotnych tematów"
+            
         },
+
+
+
+
         {
+            "header" : "Ujawnienia dotyczące istotnych tematów",
             "name": "GRI 3-2",
             "explainer": "Empty Space",
-            "headers": ["January", "February", "March"] 
+            "short_explainer":"Lista istotnych tematów"
+        
         },
 
         {
+            "header" : "Energia",
             "name": "GRI 302-1",
-            "explainer": "Energy consumption within the organization"
-        
+            "explainer": "Energy consumption within the organization",
+            "short_explainer":"Zużycie energii w organizacji"
+
+    
         },
 
 
         {
+            "header" : "Energia",
+            "name": "GRI 302-3",
+            "explainer": "Energy consumption within the organization",
+            "short_explainer":"Energochłonność"
+
+    
+        },
+
+
+        {
+            "header" : "Woda i ścieki",
+            "name": "GRI 303-3",
+            "explainer": "Energy consumption within the organization",
+            "short_explainer":"Pobór wody"
+
+    
+        },
+
+
+        {
+            "header":"Emisje",
             "name": "GRI 305-1",
-            "explainer": "test test test"
+            "explainer": "test test test",
+            "short_explainer":"Bezpośrednie emisje gazów cieplarnianych (zakres 1)"
             
         },
 
         {
+            "header":"Emisje",
             "name": "GRI 305-2",
-            "explainer": "test test test"
+            "explainer": "test test test",
+            "short_explainer":"Pośrednie emisje gazów cieplarnianych (zakres 2)"
+            
+        },
+
+
+
+        {
+            "header":"Emisje",
+            "name": "GRI 305-3",
+            "explainer": "test test test",
+            "short_explainer":"Inne pośrednie emisje gazów cieplarnianych (zakres 3)"
+            
+        },
+
+
+        {
+            "header":"Emisje",
+            "name": "GRI 305-4",
+            "explainer": "test test test",
+            "short_explainer":"Intensywność emisji gazów cieplarnianych"
+            
+        },
+
+        {
+            "header":"Odpady",
+            "name": "GRI 306-3",
+            "explainer": "test test test",
+            "short_explainer":"Wytworzone odpady"
+            
+        },
+
+
+        {
+            "header":"Ocena środowiskowa dostawców",
+            "name": "GRI 308-1",
+            "explainer": "test test test",
+            "short_explainer":"Nowi dostawcy, którzy zostali zweryfikowani przy wykorzystaniu kryteriów środowiskowychy"
             
         },
 
 
 
 
-
-
         {
+            "header":"Zatrudnienie",
             "name": "GRI 401-1",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Łączna liczba i odsetek nowych pracowników zatrudnionych oraz łączna liczba odejść w okresie raportowania"
             
         },
 
         {
+            "header":"Zatrudnienie",
             "name": "GRI 401-2",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Świadczenia dodatkowe (benefity) zapewniane pracownikom pełnoetatowym"
+            
+        },
+
+
+        {
+            "header":"Zatrudnienie",
+            "name": "GRI 401-3",
+            "explainer": "bla",
+            "short_explainer":"Urlopy rodzicielskie"
+            
+        },
+
+
+        {
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-2",
+            "explainer": "bla",
+            "short_explainer":"Procesy identyfikacji zagrożeń, ocena ryzyka oraz badania wypadków"
             
         },
 
         {
-            "name": "GRI 403-2",
-            "explainer": "bla"
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-3",
+            "explainer": "bla",
+            "short_explainer":"Jednostka (Dział) odpowiadająca za zarządzanie bezpieczeństwem pracy"
             
         },
+
+        {
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-4",
+            "explainer": "bla",
+            "short_explainer":"Udział pracowników, konsultacje i komunikacja w kwestiach bezpieczeństwa pracy"
+            
+        },
+
+        {
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-5",
+            "explainer": "bla",
+            "short_explainer":"Szkolenia pracowników w zakresie bezpieczeństwa pracy"
+            
+        },
+
+        {
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-6",
+            "explainer": "bla",
+            "short_explainer":"Promocja zdrowia wśród pracowników"
+            
+        },
+
+
+        {
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-7",
+            "explainer": "bla",
+            "short_explainer":"Profilaktyka i ograniczanie zjawisk i zdarzeń zawodowych wpływających na zdrowie i bezpieczeństwo pracowników"
+            
+        },
+
+
+
         
         {
+            "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-9",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Wskaźnik urazów związanych z pracą"
             
         },  
 
@@ -362,21 +562,27 @@
       
 
         {
+            "header":"Marketing i oznakowanie",
             "name": "GRI 417-2",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Całkowita liczba przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktach i usługach"
             
         },
 
      
 
         {
+            "header":"Marketing i oznakowanie",
             "name": "GRI 417-3",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Całkowita liczba przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej"
             
         },
         {
+            "header":"Prywatność klientów",
             "name": "GRI 418-1",
-            "explainer": "bla"
+            "explainer": "bla",
+            "short_explainer":"Całkowita liczba uzasadnionych skarg dotyczących naruszenia prywatności klientów oraz utraty danych"
             
         },
 
@@ -402,10 +608,20 @@
 
 
 
+        {
+            "header": "Różnorodność i równe traktowanie",
+            "name": "GRI 405-1",
+            "explainer": "bla bla",
+            "short_explainer":"Skład ciał nadzorczych i kadry pracowniczej w podziale na kategorie pracowników według płci, wieku, przynależności do mniejszości oraz innych wskaźników różnorodności"
+           
+        },
+
 
         {
+            "header": "Różnorodność i równe traktowanie",
             "name": "GRI 405-2",
-            "explainer": "bla bla"
+            "explainer": "bla bla",
+            "short_explainer":"Stosunek zasadniczego i całkowitego wynagrodzenia kobiet do wynagrodzenia mężczyzn według zajmowanego stanowiska"
            
         },
 
@@ -416,16 +632,39 @@
         },
 
         {
+            "header":"Szkolenia i edukacja",
             "name": "GRI 404-1",
             "explainer": "Liczba godzin szkolenia",
-            "headers": ["Disclosing"] 
+            "short_explainer":"Liczba godzin szkoleniowych w roku przypadających na pracownika według struktury zatrudnienia"
+            
+        },
+
+
+        {
+            "header":"Szkolenia i edukacja",
+            "name": "GRI 404-2",
+            "explainer": "Liczba godzin szkolenia",
+            "short_explainer":"Programy rozwoju kompetencji zawodowych"
+            
+        },
+
+
+        {
+            "header":"Szkolenia i edukacja",
+            "name": "GRI 404-3",
+            "explainer": "Liczba godzin szkolenia",
+            "short_explainer":"Odsetek pracowników podlegających regularnym ocenom jakości pracy i przeglądom rozwoju kariery zawodowej, według płci i kategorii zatrudnieniah"
+            
         },
 
 
 
         {
+            "header":"Przeciwdziałanie dyskryminacji",
             "name": "GRI 406-1",
-            "explainer": "mobbing"
+            "explainer": "mobbing",
+            "short_explainer":"Przypadki dyskryminacji i podjęte działania naprawcze"
+
            
         }
 

@@ -16,13 +16,511 @@
             
                 },
 
+
+                "GRI 418-1": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                  "Text": "",
+                  "Skargi": "0",
+                  "Wycieki":"0"
+
+                  }
+                  
+                },
+
+
+                "GRI 417-2": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                  "Text": "",
+                  "Liczba Przypadków": "0"
+
+                  }
+                  
+                },
+
+
+
+                "GRI 406-1": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Liczba Spraw":"0",                
+                    "Text": ""
+
+                    
+                  }
+                  
+                
+  
+                },
+
+                "GRI 403-9": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text":"Ze względu na przeważający charakter pracy administracyjno-biurowej i zagrożenia występujące na stanowiskach pracy, wypadki, którym ulegają osoby zatrudnione w BGK klasyfikowane są jako wypadki lekkie. <br> Podczas przeprowadzonej w 2022 r. oceny ryzyka zawodowego zidentyfikowaliśmy wszystkie zagrożenia występujące na stanowiskach pracy w BGK.<br>Nie wystąpiły zagrożenia które spowodowały lub przyczyniły się do spowodowania poważnych obrażeń pracowników w raportowanym okresie. <br> Nie wystąpiły zagrożeń które spowodowały lub przyczyniły się do spowodowania poważnych obrażeń pracowników w raportowanym okresie. <br> Każdy pracownik ponosi odpowiedzialność za wspólne bezpieczeństwo oraz ma obowiązek niezwłocznie zawiadomić przełożonego oraz pracownika służby BHP o zauważonym wypadku, a także wszystkie osoby znajdujące się w rejonie zagrożenia o grożącym im niebezpieczeństwie. Pracownicy zgłaszają zdarzenia wypadkowe poprzez aktywny formularz umieszczony w bankowym intranecie. Pracownicy mają możliwość zgłaszania wszelkich usterek na wewnętrznej platformie.<br> Wskaźnik został obliczony na podstawie wzoru: (liczba obrażeń związanych z pracą/ liczba przepracowanych godzin) x 200 000. <br> Pracownicy nieaktywni, w tym osoby na długotrwałym L4, nie świadczące pracy, przebywające na urlopie bezpłatnym, macierzyńskim, rodzicielskim, wychowawczym, rehabilitacyjnym.",
+                    "Liczba Wypadków": "0"
+
+                      }
+        
+                                   
+                },
+
+
+                "GRI 401-1": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Liczba Procowników":"",
+                    "Liczba Kobiet": "197",
+                    "Liczba Mezczyzn": "164",
+                    "Sredni Wiek": "",
+                    "Text": ""
+                  }
+               
+                            
+                },
+
+                "GRI 417-3": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Liczba Przypadków": "0",
+                  "Text": ""
+
+                  }
+                  
+                },
+
+
+                "GRI 405-1": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Osób w wym. różn. (K)": "1",
+                    "Osób w wym. różn. (M)": "5",
+                    "Text": ""
+                  }
+               
+                            
+                },
+
+                "GRI 405-2": {
+                  "metrics": {
+                    "Opis": "Brak",
+              
+                    "Text": ""
+                  }
+               
+                            
+                },
+
+
+                "GRI 403-3": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "BGK zatrudnia pracowników ds. BHP, którzy pełnią funkcje doradcze i kontrolne w zakresie bezpieczeństwa i higieny pracy. Służba BHP działa na rzecz poprawy warunków pracy inicjując i rozwijając różne form popularyzacji problematyki bezpieczeństwa i higieny pracy oraz ergonomii. W swoich działaniach zwraca szczególną uwagę na: a) środowisko fizyczne pracy (narzędzia pracy, organizację stanowisk pracy, ergonomię, otoczenie). b) zachowania pracowników (przestrzeganie przepisów bhp, współprace, postawę, odpowiedzialność). c) cechy wewnętrzne pracowników (wiedza, umiejętności, motywacja). Pracownicy ds. BHP posiadają uprawnienia, doświadczenie i wiedzę niezbędną do pełnienia funkcji służby BHP. Regularnie uczestniczą w szkoleniach podnoszących ich kompetencje."
+                  }
+               
+                            
+                },
+
+
+                "GRI 403-4": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "W BGK powołaliśmy Komisję BHP, w skład której wchodzą w równej liczbie przedstawiciele pracodawcy, w tym lekarz medycyny pracy i przedstawiciele pracowników. <br> Wszystkie osoby zatrudnione w BGK mają stały dostęp do podstawowych informacji z zakresu bezpieczeństwa i higieny pracy, w tym do instrukcji BHP na bankowej platformie intranetowej. Dokumentacja w zakresie BHP jest napisana prostym i przystępnym językiem, aby każdy mógł zrozumieć obowiązujące zasady. <br> Spotkania Komisji BHP odbywają się w cyklach kwartalnych. Komisja wspiera BGK w działaniach zapewnienia bezpieczeństwa i ochrony zdrowia. <br> W Komisji BHP pracownicy są reprezentowani przez Społecznego Inspektora Pracy, przedstawicieli Związków Zawodowych oraz przedstawicieli Rady Pracowników."
+                  }
+               
+                            
+                },
+
+
+                "GRI 403-5": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Kategoria szkoleń - 1. Szkoleni wstępne BHP 2. Szkolenia okresowe BHP 3. Szkolenia z pierwszej pomocy"
+                  }
+               
+                            
+                },
+
+
+                "GRI 403-6": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                      "Text": "W BGK zapewniamy pracownikom dodatkową abonamentową opiekę lekarską wraz z usługą 'swoboda leczenia'. Swoboda leczenia daje możliwość korzystania z usług medycznych, które są dostępne w danym abonamencie poza siecią placówek, jakie wskazał usługodawca, na zasadach kwartalnej refundacji kosztów. Dodatkowo, w zakresie opieki abonamentowej udostępniamy nielimitowany dostęp do lekarza psychiatry i psychologa. Nowością w zakresie opieki medycznej jest przeprowadzenie badań po przebyciu COVID-19. Dostęp do tych badań jest dla pracowników, którzy przeszli zakażenie wirusem SARS-CoV-2 lub podejrzewają, że przeszli takie zakażenie. Pracownik może także wykupić pakiet medyczny dla członków rodziny: pakiet partnerski, rodzinny, dla dzieci pow. 26 r.ż. oraz pakiet Senior. Prowadzimy zdrowotne akcje profilaktyczne i edukacyjne oraz dbamy o stworzenie przyjaznych warunków pracy, a także organizujemy wydarzenia, których celem jest promowanie wśród pracowników zdrowego i aktywnego stylu życia. We współpracy z trenerem personalnym organizujemy stacjonarne cykliczne treningi biegowe oraz nordic-walking wraz z układaniem planów treningowych dla pracowników banku. Prowadzimy również Akademię Zdrowia, w ramach której trzy razy w tygodniu prowadzone są różnorodne ćwiczenia online (np. joga, stretching, zdrowy kręgosłup) wspierające aktywną przerwę w pracy. Dodatkowo zajęcia psycho-ruchowe (oddechowy relaks, ćwiczenia relaksacyjne, nauka uważności, medytacja i wyciszenie). Poprzez aplikację ClickMeeting ćwiczenia dostępne są także na służbowych telefonach komórkowych. Dbamy o podnoszenie świadomości pracowników w obszarze profilaktyki zdrowotnej. Zorganizowaliśmy webinary, podczas których doświadczeni eksperci opowiadali o profilaktyce chorób cywilizacyjnych, w tym nowotworów, badaniach przesiewowych, a także metodach budowania świadomości prozdrowotnej. Ciężka choroba pracownika to test dla całej organizacji na każdym jej poziomie. Zorganizowaliśmy m.in. warsztaty 'W trosce o chorego pracownika - jak być wsparciem?' ukazujące problem z perspektywy kolegi z zespołu oraz menedżera. Dodatkowo pracownicy otrzymali vouchery na dostęp do materiałów w formie wideo na platformie zdrowiezaczynasiewglowie.pl. Z okazji Ogólnopolskiego Tygodnia Świadomości Czerniaka wspólnie z Narodowym Instytutem Onkologii zorganizowaliśmy webinar 'Baw się dobrze – #NIEspieczRAKA' – jak się przygotować skórę na wakacje – czynniki ryzyka oraz metody skutecznej profilaktyki. W październiku, miesiącu świadomości raka piersi, zorganizowaliśmy webinar 'Różowy październik'. Listopad został uznany miesiącem solidarności z mężczyznami zmagającymi się z chorobami onkologicznymi. Na spotkaniach przypominaliśmy o badaniach profilaktycznych, które ratują życie i zdrowie. Kontynuujemy Program Wsparcia Pracowników (EAP24) jako profesjonalne, poufne źródło informacji oraz wsparcia psychologicznego dla wszystkich pracowników i członków ich rodzin. Wsparcie dotyczy trudnych sytuacji zarówno w życiu zawodowym, jak i prywatnym. Pomocy udziela zespół psychologów, terapeutów, psychoterapeutów oraz coachów. Dbamy o zdrowe nawyki żywieniowe pracowników banku - raz w tygodniu oferujemy w biurach świeże owoce. Inicjatywy wdrażane w obszarze wellbeing ukierunkowaliśmy na obszary o największym potencjale pozytywnych skutków. Program wellbeingowy 'PowerBank', działający w banku, opieramy na czterech wzajemnie uzupełniających się filarach: • Przyjazne środowisko pracy; • Zdrowie fizyczne i psychiczne; • Bezpieczeństwo finansowe; • Dobre relacje – utrzymanie więzi i poczucie przynależności. Jednym z elementów budowania dobrostanu pracownika jest troska o budowanie bezpieczeństwa finansowego na przyszłość dla siebie i rodziny. Zorganizowaliśmy cykl spotkań z ekspertem z zakresu edukacji finansowej dotyczącej systemu zabezpieczenia emerytalnego w Polsce, w tym zasad gromadzenia kapitału w pracowniczym programie emerytalnym oraz zaproponowaliśmy pracownikom nowe produkty IKE Korpo i IKZE Korpo. W banku działa 10 bractw sportowych (biegowe, piłkarskie, rowerowe, strzeleckie, rakietowe, żeglarskie, narciarskie, taneczne, traperskie, samoobrony i sztuk walki) i dostępna jest rowerownia."
+
+                  }
+               
+                            
+                },
+
+                
+                "GRI 403-2": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                  
+                    "Text": "W trosce o bezpieczeństwo i zdrowie osób zatrudnionych w BGK regularnie przeprowadzamy i aktualizujemy ocenę ryzyka zawodowego dla wszystkich stanowisk pracy. W 2022 r. zaktualizowaliśmy ocenę ryzyka zawodowego z uwzględnieniem ryzyka dla zdrowia wiążącym się z kwestiami psychospołecznymi oraz pracą zdalną. Naszym podstawowym celem jest zapewnienie pracownikom skutecznej ochrony przed zagrożeniami występującymi w środowisku pracy. W ocenie ryzyka uwzględniliśmy specyficzne uwarunkowania i potrzeby różnych grup pracujących, np. osób z niepełnosprawnościami, kobiet w ciąży i karmiących piersią. Osoby zatrudnione w BGK są zobowiązane do zapoznania się z dokumentacją oceny ryzyka zawodowego podczas instruktażu stanowiskowego realizowanego w ramach szkolenia wstępnego BHP i każdorazowo w sytuacji wprowadzenia zmian na stanowisku pracy. W ramach działań wellbeingowych w BGK prowadzimy Akademię Zdrowia oraz Program Wsparcia Pracowników i członków rodziny, w tym wsparcia psychologicznego, menedżerskiego i prawno-finansowego. <br> <br> W pracach nad oceną ryzyka zawodowego brali udział m.in. służba BHP, lekarz medycyny pracy oraz przedstawiciele pracowników. Wszystkie osoby wchodzące w skład zespołu oceniającego ryzyko zawodowe znały i rozumiały zasady oceny ryzyka zawodowego, posiadały wiedzę niezbędną do identyfikowania zagrożeń na ocenianych stanowiskach, umiały ocenić szkodliwe następstwa występujących zagrożeń. Ocenę ryzyka zawodowego aktualizujemy w każdym przypadku wystąpienia na stanowisku pracy wypadku przy pracy lub zmian, mogących mieć znaczenie dla zdrowia i bezpieczeństwa pracowników w BGK. <br> <br> Wszystkie osoby zatrudnione w BGK są zaangażowane w ciągłą poprawę bezpieczeństwa. Pracownicy mogą swobodnie zgłaszać sytuacji potencjalnie niebezpiecznych i zauważone zagrożenia, a kadra kierownicza i pracownicy służby BHP aktywnie współpracują z nimi w celu znalezienia skutecznych oraz trwałych rozwiązań. W BGK reagujemy na każdy zgłoszony przez pracowników problem dotyczący potrzeb wynikających ze zdrowia. <br>  Każda osoba zatrudniona w BGK ma prawo do bezpiecznych i higienicznych warunków pracy. W razie, gdy warunki pracy nie odpowiadają przepisom bezpieczeństwa i higieny pracy oraz stwarzają bezpośrednie zagrożenie dla zdrowia lub życia albo gdy wykonywana praca grozi takim niebezpieczeństwem innym osobom, osoby zatrudnione w BGK mają prawo powstrzymać się od wykonywania pracy, zawiadamiając o tym niezwłocznie przełożonego. Jeżeli powstrzymanie się od wykonywania pracy nie usuwa zagrożenia, osoby te mają prawo oddalić się z miejsca zagrożenia, zawiadamiając o tym niezwłocznie przełożonego. Za czas powstrzymania się od wykonywania pracy lub oddalenia się z miejsca zagrożenia, osoby zatrudnione w BGK zachowują prawo do wynagrodzenia. <br> <br>Zasady bezpieczeństwa w BGK opieramy na obowiązujących zewnętrznych regulacjach prawnych i sporządzonych na ich podstawie wewnętrznych instrukcjach bankowych oraz zasadach bezpieczeństwa wynikających z wiedzy, doświadczenia, rozwoju nauki i techniki. <br> <br>  Regulacje prawne w zakresie prawa pracy chronią pracowników przed ewentualnymi represjami. <br> <br> Każde prowadzone postępowanie w BGK obejmuje czynności, które mają na celu: a) dokonanie kwalifikacji prawnej zdarzenia – ustalenie, czy zdarzenie ma cechy wypadku związanego z pracą: „wypadku przy pracy”, „wypadku traktowanego na równi z wypadkiem przy pracy”, „wypadku w okresie ubezpieczenia wypadkowego – innego wypadku przy pracy” itp.; b) ustalenie okoliczności i przyczyn wypadku; c) ustalenie, czy istnieją okoliczności wyłączające uprawnienia poszkodowanego do świadczeń odszkodowawczych; d) określenie i zastosowanie odpowiednich środków zapobiegających występowaniu podobnych zdarzeń w przyszłości."
+                    
+                    
+                    
+                  }
+               
+                            
+                },
+
+
+
+
+                "GRI 401-2": {
+                  "metrics": {
+                    "Opis": "Pełny",
+               
+                    "Text": "Ubezpieczenie na życie TAK, <br> Opieka zdrowotna- TAK, <br> Ubezpieczenia na wypadek trwałego uszczerbku na zdrowiu- TAK <br> Urlop rodzicielski- TAK <br> Odprawa emerytalna- TAK <Br>  Udziały/ akcje pracownicze- NIE"
+                    
+                  
+                  }
+               
+                            
+                },
+
+
+                "GRI 403-7": {
+                  "metrics": {
+                    "Opis": "Pełny",
+               
+                    "Text": "W BGK dbamy o zdrowie i życie nie tylko osób zatrudnionych w banku, ale także klientów banku. Dzięki sprawni funkcjonującemu systemowi pierwszej pomocy zapewniamy dostęp do apteczek, plastrów i defibrylatorów AED (automatyczne zewnętrzne defibrylatory) w budynkach BGK. W 2022 r. udostępniliśmy 7 dodatkowych urządzeń AED, służących do ratowania życia ludzkiego w przypadku nagłego zatrzymania krążenia. Obecnie na terenie całej Polski posiadamy 24 defibrylatory. W ramach podjętej praktyki zaplanowaliśmy na kolejny rok cykliczne wewnętrzne szkolenia pracowników z pierwszej pomocy, w tym z obsługi urządzeń AED, zwiększając tym samym bezpieczeństwo w miejscu pracy. Do tego celu zakupiliśmy AED treningowe oraz fantomy wyposażone w technologię umożliwiającą przekazywanie obiektywnych informacji zwrotnych. Szkolenia poprowadzą trenerzy pierwszej pomocy, którzy są ratownikami kwalifikowanej pierwszej pomocy z doświadczeniem w prowadzeniu szkoleń. Prowadzimy cykliczne kontrole stanu BHP we wszystkich pomieszczeniach pracy, mające na celu wyeliminowanie zagrożeń dla bezpieczeństwa i zdrowia pracowników. Dodatkowo każda osoba zatrudniona w BGK ma możliwość zgłoszenia zauważonej usterki na wewnętrznej platformie."
+
+                    
+                  
+                  }
+               
+                            
+                },
+
+
+                "GRI 401-3": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Licz. Pracow. (M) Uprawn." : "52",
+                    "Licz. Pracow. (K) Uprawn." : "40",
+
+          
+                    "Text": "Dane dotyczą osób, które w 2022 roku nabyły lub posiadały już uprawnienia do urlopów rodzicielskich. Osoby, którym urodziło się dziecko i po urlopie macierzyńskim nabyły prawo do urlopu rodzicielskiego. Praco to nabywa oboje rodziców w wymiarze 32 tygodni - może być dzielone miedzy rodziców dlatego. <br> Całkowita liczba osób, które skorzystały z urlopu rodzicielskiego w raportowanym okresie: K: 53, M:2. <br> <br> Całkowita liczba pracowników, którzy wrócili do pracy po urlopie rodzicielskim, w raportowanym okresie: K:30, M:2 <br> <Br> Całkowita liczba pracowników, którzy wrócili do pracy po urlopie rodzicielskim i po 12. miesiącach od powrotu do pracy nadal byli zatrudnieni w organizacji: K:22, M: 1 <br> <br> Wskaźnik powrotu do pracy pracowników, którzy skorzystali z urlopu rodzicielskiego: K: 81.8, M: 100. <br> Wskaźnik zatrzymania pracowników, którzy skorzystali z urlopu rodzicielskiego: K: 95.5, M: 100"
+                    
+                  
+                  }
+               
+                            
+                },
+
+
+
+
+
+
+                "GRI 201-1": {
+                  "metrics": {
+                    "Opis":"Brak"
+                   
+                  }
+            
+                },
+
+                "GRI 308-1": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "% dostawców przeanalizowanych": "88.64"
+
+                    
+                  }
+                },
+
+                "GRI 306-3": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Waga Odpadów":"35.96"
+                   
+                  }
+            
+                },
+
+                "GRI 305-4": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Wskaźnik intensywności":"1.085",
+                  "Text": "Wyniki dla poszczególnych gazów, które zostały ujęte w obliczeniach: CO2 : 3757.279"
+
+                  }
+                  
+                },
+
+
+                "GRI 404-1": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Liczba godzin szkolenia (K)": "41.69",
+                    "Liczba godzin szkolenia (M)" : "40.51",
+                    "Text": ""
+                  }
+          
+                },
+
+
+                "GRI 404-2": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                
+                    "Text": "programy dla menedżerów (kompetencje przywódcze): Przywództwo Przyszłości – 3 ścieżki rozwojowe Akademia Maxwella – 4 modułowy program rozwojowy ocena kompetencji metodą 360 stopni ABC Menedżera –program wdrożeniowy dla nowych menedżerów programy talentowe, np. Bank Talentów (ścieżka: Start up i Lider 3.0) <br> <br> programy dla pracowników: Kompetencje przyszłości – 3 moduły szkoleniowe Bank Staży – rozwój kompetencji poza swoim stanowiskiem pracy. programy dla pracowników: Kompetencje przyszłości – 3 moduły szkoleniowe, Bank Staży – rozwój kompetencji poza swoim stanowiskiem pracy"
+                  }
+          
+                },
+
+
+                "GRI 404-3": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                
+                    "% Prac. Ocenom Jakośći (M)": "60.99",
+                    "% Prac. Ocenom Jakośći (K)":"39.01",
+                    "text": ""
+                  }
+          
+                },
+
+
+
+    
+                "GRI 305-1": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Emisje tCO2e":"690.811",
+                    "Text":"Nie przeprowadzono ponownych obliczeń dla roku bazowego. Wyniki obliczeń dla 2021 r. nie obejmowały spółki zależnej Vinci S.A. <Br> <br> Zrodło: 1. Krajowy Ośrodek Bilansowania i Zarządzania Emisjami,  2. Urząd Regulacji Energetyki, 3. GWP zgodnie z 5-ym Raportem Międzyrządowego Zespołu ds. Zmian Klimatu (ang. Inter-governmental Panel on Climate Change, IPCC), 4. Bazy danych publikowane przez Departament Środowiska, Żywności i Spraw Wiejskich (DEFRA) w Wielkiej Brytanii,5. Publicznie dostępne źródła informacji dot. emisyjności, takie jak: „ScienceDirect” i „Healabel”."
+
+                  }
+            
+                },
+
+
+                "GRI 305-2": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Zakres 2":"1522.4",
+                    "Text":"Elektryczna:814.866, Cieplna: 578.846, Chłodzenie: 128.689, Emisje pośrednie (scope 2) brutto w ujęciu rynkowym, w tonach (t) ekwiwalentu CO2 lub jednostce równoważnej: 1376.791. Jest to pierwszy rok, dla którego przeprowadzono obliczenia śladu węglowego organizacji. Nie przeprowadzono ponownych obliczeń dla roku bazowego. Wyniki obliczeń dla 2021 r. nie obejmowały spółki zależnej Vinci S.A.  Inne emisje pośrednie (Scope 3) brutto w podziale na lokalizacje w tonach (t) ekwiwalentu CO2 lub jednostce równoważnej: 1544.067"
+
+                  }
+            
+                },
+
+
+                "GRI 305-3": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "CO2":"1544.067",
+                    "Text":"1. Surowce: 45,118 t eCO2, 2. Zużycie wody i wytworzone ścieki: 1,456 t eCO2, 3. Wytworzone odpady: 0,765 t eCO2, 4. Podróże służbowe: 428,284 t eCO2, 6. Dojazdy pracowników do pracy: 617,481 t eCO2, 7. Praca zdalna: 450,433 t eCO2, 8. Usługi kurierskie: 0,529 t eCO2"
+                  }
+            
+                },
+
+
+
+
+
+
+
+                "GRI 301-1": {
+                  "metrics": {
+                    "Opis":"Brak"
+                   
+                  }
+            
+                },
+
+
+                "GRI 302-1": {
+                  "metrics": {
+                    "Opis":"Brak"
+                   
+                  }
+            
+                },
+
+
+
+                "GRI 302-3": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Text": "Łączne zużycie energii w BGK to łącznie 24 963,5 GJ, energia eklektyczna zużyta na zewnątrz organizacji to 3 432 GJ w przeliczeniu na 2029 pracowników zatrudnionych to 13,99 GJ na pracownika. <br> Rodzaje energii ujęte we wskaźniku efektywności energetycznej Bank Gospodarstwa Krajowego\tPaliwa\tBank Gospodarstwa Krajowego-TAK, Energia elektryczna - TAK, Energia cieplna-TAK, Chłód-TAK, Para-NIE",
+
+                    "Zuzycie Energii": "24 963,5 GJ",
+                    "Zuzycie Energii / Pracow." : "13,99 GJ"
+                   
+                  }
+            
+                },
+
+
+                "GRI 303-3": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                  "Wody powierzchniowe": "3.459"
+            
+
+                  }
+                  
+                },
+
+
+
+
+
+                "GRI 206-1": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Liczb. Postępowań":"0"
+
+
+
+                   
+                  }
+            
+                },
+
+
+
+                "GRI 205-1": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "% operacji": "100"
+                   
+                  }
+            
+                },
+
+                "GRI 205-3": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Liczba Przypadków": "0"
+                    
+                   
+                  }
+            
+                },
+
+
+                "GRI 205-2": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "% Pracow. szkoleni": "96",
+                    "Text":"Całkowita liczba członków organu zarządzającego, którzy odbyli szkolenie dotyczące przeciwdziałania korupcji: 6, <br><br> Procent członków organu zarządzającego, którzy odbyli szkolenie dotyczące przeciwdziałania korupcji: 100 <br><br> Całkowita liczba pracowników, którzy odbyli szkolenie dotyczące przeciwdziałania korupcji: 1864 <Br> <br>Procent pracowników, którzy odbyli szkolenie dotyczące przeciwdziałania korupcji: 96 <Br><br> Całkowita liczba członków organu zarządzającego, którym zostały zakomunikowane obowiązujące w organizacji procedury antykorupcyjne: 6, <Br><br>Procent członków organu zarządzającego, którym zostały zakomunikowane obowiązujące w organizacji polityki i procedury antykorupcyjne: 100, <Br><br> Całkowita liczba pracowników, którym zostały zakomunikowane obowiązujące w organizacji polityki i procedury antykorupcyjne: 1934 <br> <br> Procent pracowników, którym zostały zakomunikowane obowiązujące w organizacji polityki i procedury antykorupcyjne: 100, <br><br> Całkowita liczba partnerów biznesowych, którym zostały zakomunikowane obowiązujące w organizacji polityki i procedury antykorupcyjne: 448 <br><br> Procent partnerów biznesowych, którym zostały zakomunikowane obowiązujące w organizacji polityki i procedury antykorupcyjne: 100 <br> <Br> Inne organizacje lub instytucje, którym zostały zakomunikowane obowiązujące w organizacji polityki i procedury antykorupcyjne: podmioty zależne i fundacje BGK <br><br>"
+                    
+                    
+    
+                   
+                  }
+            
+                },
+
+
+
+
+                "GRI 201-2": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Text": "Ryzyko ESG zostało zdefiniowane jako zagrożenie wynikające z czynników ryzyka ESG, które może mieć negatywny wpływ (bezpośrednio lub pośrednio) na bank, pracowników oraz partnerów biznesowych w tym klientów, nabywców obligacji banku, dostawców usług. <Br> Zgodnie ze Strategią banku, ryzyko ESG dzieli się na -ryzyko środowiskowe związane z wpływem prowadzonej działalności biznesowej na środowisko naturalne i poszanowaniem jego zasobów. Szczególnym przypadkiem ryzyka środowiskowego jest ryzyko związane z klimatem. <br> Ryzyko środowiskowe obejmuje: <Br> ryzyko fizyczne wynikające z fizycznych zjawisk, skutków zmian klimatu, takich jak ekstremalne zjawiska pogodowe (np. burze, powodzie, pożary lub fale upałów) jak również długookresowe zmiany warunków klimatycznych i ich konsekwencje (np. zmiany temperatury, podnoszenie się poziomu mórz, ograniczoną dostępność wody pitnej, utratę bioróżnorodności lub degradację gleby) a także zagrożeń biologicznych <br> ryzyko przejścia wynikające z przejścia na gospodarkę niskoemisyjną, odporną na zmianę klimatu, czyli gospodarkę obiegu zamkniętego (cyrkularną) oraz związanych z tym ograniczeń regulacyjnych lub podatków, nowych technologii i zmieniających się preferencji konsumentów, inwestorów lub pracowników; <br> ryzyko społeczne związane z oddziaływaniem na otoczenie społeczne wynikające z czynników takich jak (nie)równość, zdrowie i bezpieczeństwo, wykluczenie społeczne, warunki pracy, przestrzeganie praw człowieka, <br> ryzyko związane z ładem korporacyjnym wynikające z czynników takich jak struktura zarządcza, etyka biznesowa, transparentność informacji, przeciwdziałanie korupcji, nadużyciom i praniu pieniędzy, wymogi w łańcuchu dostaw czy zarządzanie ryzykiem.  "
+
+                   
+                  }
+            
+                },
+
+
+                "GRI 3-1": {
+                  "metrics": {
+                    "Opis":"Pełny",
+         
+     
+                    "Text": "W BGK zaktualizowaliśmy swoją ocenę istotności w ramach wieloetapowego procesu w 2022 roku. Obejmował on wewnętrznych i  zewnętrznych interesariuszy obejmujących szerokie spektrum wiedzy fachowej, a także ilościową ocenę różne aspekty ESG. W wyniku tego działania zidentyfikowano tematy, które są istotne dla banku w odniesieniu do zasad sprawozdawczości określonych w standardach GRI.  <br> <br> Proces<br> <br> Zidentyfikowaliśmy tematy, które mają potencjalny i rzeczywisty wpływ na gospodarkę, środowisko i społeczeństwo. Stworzyliśmy szeroką listę tematów istotnych, które odzwierciedla nasze podejście do zaangażowania społecznego, strategię banku oraz  priorytety zrównoważonego rozwoju. 1. W analizie istotności tematów raportowania ESG uwzględniliśmy wnioski z konsultacji i warsztatów z udziałem Zarządu i kadry zarządzającej. Podczas tych warsztatów zostały zidentyfikowane TOP3 tematy:  Bezpieczeństwo, Rozwój lokalnych społeczności, Zdrowie i jakość życia <br> <br>2. Przeprowadziliśmy ankietę wśród wewnętrznych interesariuszy banku. Zapytaliśmy pracowników Grupy BGK (zarządu, rady nadzorczej, fundacji oraz spółki zależnej), na które obszary otoczenia ekonomicznego, środowiskowego i społecznego mamy istotny wpływ. Określone 25 aspektów zrównoważonego rozwoju zostało ocenione pod względem, czy BGK ma wpływ na poszczególne zagadnienia. Jeśli odpowiedź była pozytywna, poprosiliśmy o wskazanie czy ten wpływ jest pozytywny czy negatywny oraz określić siłę wpływu w skali 1-5. <br> <br> 3. Przeprowadziliśmy dwa spotkania dialogowe, na które zaprosiliśmy przedstawicieli kluczowych grup interesariuszy zewnętrznych banku. W pierwszym spotkaniu wzięło udział 21 przedstawicieli kluczowych ministerstw i agend rządowych. W drugim uczestniczyło 21 menedżerów z 18 instytucji sektora komercyjnego. Uczestnicy paneli - eksperci z różnych dziedzin, podjęli otwartą dyskusję na temat działalności i strategicznych celów BGK. Podzielili się swoimi spostrzeżeniami i zgłosili szereg postulatów i usprawnień. <br> <br> Przedstawiciele interesariuszy, którzy uczestniczyli w ocenie istotności, obejmują szerokie spektrum, w tym: Klienci, partnerzy biznesowi, banki komercyjne,<br> instytucje UE i podmioty powiązane,<br> Stowarzyszenia, fundacje i ośrodki analityczne,<br> audytorzy i inne banki rozwoju,<br> Naukowcy i środowiska akademickie,<br> Eksperci ds. zrównoważonego rozwoju i CSR,<br> Przedstawiciele Ministerstw i agend rządowych, <br> <br> W wyniku wieloetapowej analizy istotności, zidentyfikowaliśmy 6 priorytetowych tematów raportowania ESG Grupy BGK za 2022 r. W procesie tym zastosowaliśmy zasadę podwójnej istotności (double materiality). Oznacza to, że na etapie określania wagi tematów ESG dla BGK wzięliśmy pod uwagę wiele czynników składających się na  1. oddziaływanie biznesowe, społeczne i środowiskowe działalności BGK na otoczenie;  2. oddziaływanie otoczenia (w tym czynników środowiskowych i społecznych) na działalność BGK.  <br> <br> Zestawiliśmy tematy istotne zgłoszone w warsztacie zarządu banku, tematy istotne zgodne GRI2021, na które zgodnie z ankietą interesariuszy wewnętrznych BGK ma wpływ powyżej 3 (w skali od 1 do 5) oraz tematy zasygnalizowane przez interesariuszy zewnętrznych.  Jako tematy istotne uznaliśmy te, które powtarzały się co najmniej dwukrotnie oraz były zgodne ze strategią banku."
+                  }
+            
+                },
+
+
+
+                "GRI 2-27": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Liczba Przypadków": "0",
+              
+                    "Text": "Tematy istotne w 2021: określone ekspercko: <Br> Zgłaszanie naruszeń, <Br> Polityka antykorupcyjna, <Br> Ochrona środowiska w BGK, <br> Działalność społeczna i charytatywna – fundacje, <br> Dbałość o pracowników,<br> Bezpieczeństwo i higiena pracy,<br> Zarządzanie różnorodnością,<br>"
+                  }
+            
+                },
+
+                "GRI 3-2": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                   
+                    
+              
+                    "Text": ""
+                  }
+            
+                },
+
+
+
+                "GRI 2-29": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                   
+              
+                    "Text": "W 2019 r. zidentyfikowaliśmy mapę interesariuszy BGK, która została zaktualizowana podczas warsztatów z Dyrektorami Zarządzającymi banków 2022 r. Interesariusze którzy zostali zidentyfikowani jako kluczowi ( o największym wpływie i zainteresowaniu). <Br> <br> W identyfikacji kluczowych interesariuszy brały udział wszystkie departamenty banku. Szeroka lista ustalonych przez pracowników BGK interesariuszy została poddana ocenie wyższej kadry zarządzającej banku, która wypisała poszczególnym grupom ocenę wpływu na bank oraz zainteresowania sprawami naszego banku. Z zestawienia najwyższych ocen wpływu i zainteresowania powstała mapa kluczowych interesariuszy BGK. <br> <br> Celem angażowania interesariuszy jest omówienie ważnych zagadnień ZR z perspektywy danej grupy interesariuszy i ich potrzeb. <br> <br> W BGK prowadzimy nieustanny dialog z naszymi interesariuszami poprzez różne kanały komunikacji dostosowane do danej grupy: <Br>INTERESARIUSZE WEWNĘTRZNI <br> <br> Pracownicy BGK,  pracownicy spółek zależnych (obecnie ASI ), związki zawodowe, potencjalni pracownicy i byli pracownicy, Rada Nadzorcza,<br> Formy prowadzenia dialogu: mailingi, cykliczne spotkania z zarządem banku fizyczne oraz na MS Teams, Intranet, tablice multimedialne, Telewizja BGK, spotkania typu „Dzień Pracownika”. Z pracownikami dodatkowo kontaktujemy się przez specjalne systemy np. e-nova, z wolontariuszami e-sowa. <br> br> INTERESARIUSZE ZEWNĘTRZNI <br> <br> Otoczenie Regulacyjne: Ministerstwa, Regulatorzy rynku bankowego (KNF, EBA), Instytucje UE (Komisja Europejska, Nadzór konsumencki, Nadzór bankowy <Br> Formy prowadzenia dialogu: kontakty uzależnione od bieżących potrzeb Otoczenie Rynkowe: <br> Audytorzy, Agencje ratingowe, Fundusze inwestycyjne <br> Formy prowadzenia dialogu: regularne kontakty telefoniczne, mailowe uzależnione od bieżących potrzeb spotkania osobiste i online. Regularnie publikujemy nasze raporty okresowe i bieżące na stronie internetowej. <br> Banki komercyjne, Pośrednicy finansowi, Jednostki Samorządu Terytorialnego (JST) i związki JST, Spółki komunalne, Spółdzielnie, wspólnoty, TBS, Korporacje, MŚP <Br> Formy prowadzenia dialogu: regularne kontakty telefoniczne, mailowe uzależnione od bieżących potrzeb biznesowych, spotkania osobiste i online. Są to nasi partnerzy biznesowi, których głos jest brany pod uwagę w codziennych działaniach. M.in. Robimy badania ankietowe oraz badania satysfakcji licząc NPS. Nasi partnerzy mogą się z nami kontaktować poprzez różne kanały komunikacji.<br> <br> Instytucje publiczne, Krajowe banki rozwoju, Izby handlowe i gospodarcze, Organizacje branżowe, Organizacje pozarządowe, Grupa PFR, Globalne i regionalne instytucje finansowe i rozwoju (EBI, EBOR) <Br> <br> Formy prowadzenia dialogu: Zapraszamy na spotkania, wchodzimy w partnerstwa, angażujemy się we wspólne inicjatywy, wspólnie bierzemy udział w konferencjach, webinarach. Dodatkowo, co roku przekazujemy organizacjom pozarządowym darowizny charytatywne finansowe oraz rzeczowe. <Br> Dostawcy Od wszystkie zamówienia są robione przez specjalną platformę zakupową. Od 2021 r. dla naszych poddostawców wprowadziliśmy ankietę CSR i pracujemy obecnie nad jej rozrzedzeniem. Mamy również dedykowany Kodeks dla naszych partnerów biznesowych. <br> Otoczenie społeczne: uczelnie wyższe, Think thanki, Fundacje BGK <Br> Formy prowadzenia dialogu: Środowisko akademickie, a zwłaszcza studenci, to dla nas bardzo ważny interesariusz. Organizujemy spotkania ze  studentami oraz uczestniczymy w inicjatywach dla nich organizowanych m.in. projekt Bankowe horyzonty czy Inicjatywa 3W. Co roku organizujemy również praktyki studenckie skierowane do studentów. Fundacje BGK prowadzą liczne programy społeczne, które BGK wspiera finansowo i organizacyjnie. Część pracowników Fundacji jest jednocześnie zatrudniona w BGK. <br> <br> <br> Media: Formy prowadzenia dialogu: odpowiadamy na zapytania, dystrybuujemy informacje prasowe oraz  Organizujemy konferencje i briefingi prasowe w miarę potrzeb informacyjnych. Aktywnie prowadzimy komunikację poprzez media społecznościowe (Facebook, LinkedInn, Twitter). Więcej informacji o biurze prasowym znajduje się na naszej stronie internetowej : media.bgk.pl"
+
+                  }
+            
+                },
+
+
+                "GRI 2-30": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "% pracowników": "100",
+              
+                    "Text": ""
+                  }
+            
+                },
+
+
+
+                "GRI 2-26": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Pracujemy nad poprawą doświadczeń. Reklamacje są ważnym źródłem głosu klienta. W naszym banku proces obsługi reklamacji reguluje specjalna instrukcja, za którą odpowiedzialny jest Zespół Obsługi Reklamacji w departamencie zarządzania doświadczeniami klienta. Takie usytuowanie pomaga w spójny sposób doskonalić doświadczenia klienta i czuwać nad wdrażaniem usprawnień, płynących z jego głosu. Od 2021 r. na bieżąco badamy satysfakcję naszych partnerów biznesowych z procesu reklamacyjnego. Aż 90 % respondentów uważa, że nasze odpowiedzi na reklamacje są jasne i czytelne. Natomiast termin udzielenia odpowiedzi za odpowiedni uznaje 76%. Nasze odpowiedzi na reklamacje piszemy zgodnie z zasadami prostego języka. Przygotowaliśmy także szablony odpowiedzi dla powtarzalnych zgłoszeń, co pozwala nam skrócić czas odpowiedzi. Rejestracja reklamacji odbywa się w aplikacji, w której gromadzimy całą dokumentację reklamacyjną.  Czas na rozpatrzenie i udzielenie odpowiedzi : Obsługa reklamacji w naszym banku spełnia wymogi regulacyjne. Co najmniej raz w roku analizujemy proces obsługi reklamacji, zestawiamy go z głosem klienta i optymalizujemy tak, aby skrócić czas obsługi. Średnio ponad 60% reklamacji innych niż reklamacje usług płatniczych obsługujemy do 15 dni kalendarzowych, czyli 2 razy krócej niż wymaga ustawa. W przypadku reklamacji usług płatniczych na niemal 70% odpowiadamy w czasie nie dłuższym niż 9 dni roboczych, a wśród nich na 30% do 5 dni. Mamy bardzo niski wskaźnik odwołań od decyzji reklamacyjnych. W 2022 roku było to zaledwie 5% W 2022 obsłużyliśmy 287 skarg i reklamacji, z czego niemal 40% uznaliśmy za zasadne. <br> Kanały przyjęcia zgłoszenia <br> Umożliwiamy złożenie reklamacji lub skargi w dogodnej formie. Klienci mogą zrobić to: osobiście, telefonicznie, elektronicznie (e-mail, bankowość internetowa, formularz reklamacyjny na stronie internetowej). <br> Z naszych analiz wynika, że w 2022 klienci najczęściej (w 66%) wybierali kanały elektroniczne."
+                  }
+                },
+
+                "GRI 2-14": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Czy najwyższy organ zarządczy jest odpowiedzialny za przegląd i akceptację raportowanych danych, w tym istotnych tematów? : TAK"
+                  }
+                },
+
+            
+
+
+                "GRI 2-24": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Jednostką odpowiedzialną za ocenę misyjności jest Departament Strategii Biznesowej (Zespół Modelu Biznesowego).Weryfikacja misyjności zgodnie z nazwą nawiązuje bezpośrednio do misji Banku zatem najważniejszego elementu strategii. Misyjność jest bezpośrednio związana z działalnością Pionu Relacji - jest oceną poprzedzającą proces kredytowy. Między lipcem a październikiem DSB zorganizowało cykl 15 treningów dla jednostek Relacji, Ryzyka oraz osób chętnych z nowego procesu weryfikacji misyjności. Obecnie są planowane treningi i szkolenia celowane (te jednostki/osoby które mają nawięcej błędów lub problemów z misyjnością oraz według kryterium najczęściej pojawiających się błędów). DSB planuje nagrać e-learning, który będzie dostępny dla wszystkich pracowników niezależnie od jednostki organizacyjnej. Cyklicznie odbywają się też spotkania Pionu Relacji gdzie co pewien czas dopraszani są pracownicy DSB aby przypominali o pewnych mechanizmach związanych z misyjnością."
+                  }
+                },
+
                 "GRI 2-20": {
                   "metrics": {
                     "Opis":"Pełny",
                         
-                    "Text": "Polityka wynagrodzeń pracowników banku opracowywana jest zatwierdzana jest przez Zarząd Banku i zatwierdzana przez Radę Nadzorczą po rekomendacji Komitetu ds. Wynagrodzeń i Nominacji. Podlega niezależnemu wewnętrznemu przeglądowi, dokonywanemu przez Departament Audytu Wewnętrznego. Wyniki raportowane są Radzie Nadzorczej. <br> Bank, co do zasady przyjmuje, aby wynagrodzenia w Banku były na porównywalnym poziomie względem wynagrodzeń w sektorze finansowym, co oznacza, że Bank monitoruje poziom wynagrodzeń w banku vs wynagrodzenia rynkowe, bierze udział w badaniach wynagrodzeń realizowanych przez podmioty zewnętrzne. w sytuacji tego wymagającej np. w celu pogłębienia analiz kadrowych / płacowych korzysta z usług konsultantów zewnętrznych."
+                    "Text": "Polityka wynagrodzeń pracowników banku opracowywana jest zatwierdzana jest przez Zarząd Banku i zatwierdzana przez Radę Nadzorczą po rekomendacji Komitetu ds. Wynagrodzeń i Nominacji. Podlega niezależnemu wewnętrznemu przeglądowi, dokonywanemu przez Departament Audytu Wewnętrznego. Wyniki raportowane są Radzie Nadzorczej. <br> Bank, co do zasady przyjmuje, aby wynagrodzenia w Banku były na porównywalnym poziomie względem wynagrodzeń w sektorze finansowym, co oznacza, że Bank monitoruje poziom wynagrodzeń w banku vs wynagrodzenia rynkowe, bierze udział w badaniach wynagrodzeń realizowanych przez podmioty zewnętrzne. w sytuacji tego wymagającej np. w celu pogłębienia analiz kadrowych / płacowych korzysta z usług konsultantów zewnętrznych"
                   }
-            
                 },
 
 
@@ -221,7 +719,7 @@
 
                 "GRI 205-1": {
                   "metrics": {
-                    "Opis": "Pełny",
+                    "Opis": "Cześćiowy",
                     "Text": "Bank Pekao zdecydowanie zwalcza wszelkie przejawy korupcji lub sytuacje mogące sprzyjać jej powstaniu. Bank nie toleruje działań mających znamiona korupcji dokonywanych przez pracowników Banku, czy też przez inne osoby lub jednostki mające jakiekolwiek relacje z Bankiem. Pracownicy, którzy odmówią udziału w czynnościach noszących znamiona korupcji, oraz ci, którzy ujawnią fakt dokonania takich czynności lub ich próby przez inne osoby/podmioty, podlegają pełnej ochronie. Ponadto, Bank nie toleruje oferowania, obiecywania, żądania, dawania lub akceptowania przez pracowników Banku lub inne osoby lub podmioty mające relacje z Bankiem jakichkolwiek płatności przyśpieszających bieg sprawy (facilitation payments). Polityka przeciwdziałania korupcji w Grupie Banku Pekao S.A. (dalej: „Polityka przeciwdziałania korupcji”) obejmuje wszelkie aspekty działalności Banku. Zgodnie z jej wytycznymi w Banku przyjęto Program przeciwdziałania korupcji. Składa się on z następujących elementów:1. Zasady i procedury dotyczące: * współpracy z pośrednikami, * prezentów i rozrywki, * procesu rekrutacyjnego,n* współpracy z kontrahentami, * darowizn i sponsoringu (w tym darowizn na rzecz partii politycznych), * transakcji fuzji i przejęć, * znaczących inwestycji, * udziału Banku w procedurze zamówień publicznych, 2. Programy szkoleniowe i informacyjne dla pracowników Banku w zakresie przeciwdziałania korupcji, 3. Proces projektowania, nadzorowania wprowadzania mechanizmów kontrolnych w zakresie przeciwdziałania korupcji, samodzielnego ich stosowania oraz monitorowania ich przestrzegania przez inne jednostki organizacyjne Banku, zgodnie z obowiązującymi w Banku przepisami wewnętrznymi, 4. Szacowanie ryzyka braku zgodności dla procesu „Przeciwdziałanie korupcji”, 5. Zapewnienie bezpiecznych i łatwo dostępnych kanałów komunikacji, za pomocą których pracownicy Banku lub inne osoby mogą w trybie poufnym zgłaszać próby korupcji lub zaistniałe działania mające znamiona korupcji, 6. Raportowanie do Zarządu Banku – w ramach kwartalnego raportu z działalności Departamentu Zgodności stanu realizacji Programu przeciwdziałania korupcji, 7. Dokładna i uczciwa rejestracja wszystkich transakcji w księgach i dokumentach Banku oraz unikanie nieujawnionych lub niezarejestrowanych rachunków, funduszy, aktywów lub transakcji. <br> <br> Oficer ds. Przeciwdziałania Korupcji <br> W Departamencie Zgodności Banku Pekao powołany został Oficer ds. Przeciwdziałania Korupcji, do którego należy zgłaszać informacje o próbie korupcji lub działaniach mających znamiona korupcji. Oficer ds. Przeciwdziałania Korupcji jest upoważniony do badania podejrzanych lub faktycznych działań noszących znamiona korupcji, w tym do żądania od osoby podejrzanej o działania korupcyjne dokumentów i przeglądania ich oraz do raportowania takich przypadków zgodnie z przewidzianą procedurą. Szczegółowe zadania Oficera ds. Przeciwdziałania Korupcji, w tym opracowywanie, wdrażanie i nadzorowanie skutecznego Programu przeciwdziałania korupcji, przeprowadzanie procesu legislacyjnego w przedmiocie przepisów wewnętrznych Banku w zakresie przeciwdziałania korupcji definiuje Polityka przeciwdziałania korupcji.Stosowana przez Bank Polityka przeciwdziałania korupcji znajduje zastosowanie do każdej działalności podejmowanej przez Bank, do wszystkich pracowników Banku oraz do przeciwdziałania korupcji w Spółkach wchodzących w skład Grupy Pekao. Bank zdecydowanie zwalcza wszelkie przejawy korupcji lub sytuacje mogące sprzyjać jej powstaniu. Bank nie toleruje działań mających znamiona korupcji dokonywanych przez pracowników Banku, czy też przez inne osoby lub jednostki mające jakiekolwiek relacje z Bankiem"
                     
                   }
@@ -287,6 +785,9 @@
                       "Text": "W raportowanym okresie nie odnotowano żadnych istotnych zmian"
                     }
                   },
+
+
+               
 
                   "GRI 2-7": {
                     "metrics": {
@@ -381,17 +882,13 @@
                   },
 
 
-                  "GRI 2-30": {
+
+                  "GRI 308-1": {
                     "metrics": {
-                      "Opis": "Pełny",
-                      "Text": "Zakładowy Układ Zbiorowy Pracy (dalej: „ZUZP”) określa zasady polityki kadrowo-płacowej Banku, w  tym zasady i warunki wynagradzania pracowników Banku oraz zasady przyznawania innych świadczeń związanych z pracą, w tym m.in.: zasady polityki kadrowej,czas pracy, zasady polityki płacowej,zasady kształtowania wynagrodzeń zasadniczych,  fundusz premiowy,fundusz nagród,   bonusy,motywacyjnych, odprawy emerytalne i rentowe,odprawy związane z rozwiązywaniem stosunków pracy z przyczyn niedotyczących pracowników. <br> Aktualnie obowiązujący ZUZP został zawarty w dniu 15 grudnia 2005 roku między Bankiem Polska Kasa Opieki S.A. a zakładowymi organizacjami związkowymi działającymi w Banku. Zmiany ZUZP w formie Protokołu dodatkowego zostały zawarte kolejno w 2007 oraz 2022 roku. Zmiana ZUZP w 2022 roku dotyczyła uzgodnienia nowych zasad premiowania dla pracowników sieci sprzedaży w Pionie Bankowości Detalicznej. Protokół został zarejestrowany przez Państwową Inspekcję Pracy 13 stycznia 2023 roku. Tym samym wspomniane zasady premiowania stały się integralną częścią ZUZP. W Banku nie są stosowane dodatkowe, poza powszechnie obowiązującymi, systemy zabezpieczenia emerytalnego. Bank jako pracodawca w pełni wypełnia obowiązki wynikające z powszechnego systemu emerytalnego, nie zalegając z należnymi składkami odprowadzanymi z wynagrodzeń pracowników oraz składkami pracodawcy. W Banku stosowane są dodatkowe odprawy emerytalne i rentowe dla pracowników nabywających uprawnienia do świadczeń z powszechnego ubezpieczenia emerytalno-rentowego. W 2022 roku w Banku Pekao, analogicznie do poprzednich 12 miesięcy, odsetek pracowników objętych umową zbiorową kształtował się na poziomie 77%. W spółkach Grupy Pekao nie zawarto umów zbiorowych. W stosunku do pracowników wyłączonych z regulacji ZUZP stosowane są wszystkie zapisy ZUZP w zakresie wynagradzania oraz przyznawania innych świadczeń związanych z pracą z wyjątkiem zasad premiowania. Zasady premiowania dla tej grupy pracowników wynikają wprost z zapisów w  indywidualnych umowach o pracę (kontraktach menedżerskich). Bank planuje rozpoczęcie rokowań z organizacjami związkowymi celem włączenia tej grupy pracowników do ZUZP. <br>Restrukturyzacja zatrudnienia i zwolnienia grupowe <br> Bank, w przypadku podjęcia decyzji o przeprowadzeniu zwolnień grupowych działa zgodnie z obowiązującymi przepisami prawa powszechnie obowiązującego oraz ZUZP Pracy. Decyzja Banku jest komunikowana wszystkim pracownikom, jak również organizacjom związków zawodowych. Zgodnie z przepisami prawa, Bank prowadzi konsultacje zamiaru przeprowadzenia grupowego zwolnienia z organizacjami związkowymi w trybie ustawy z dnia 13 marca 2003 roku o szczególnych zasadach rozwiazywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników. Bank dąży, aby konsultacje zamiaru przeprowadzenia zwolnienia grupowego z organizacjami związkowymi zostały zakończone zawarciem porozumienia w sprawie zwolnienia grupowego. W zawartym porozumieniu są ustalane m.in. liczba pracowników z którymi zostanie rozwiązana umowa o pracę, kryteria doboru pracowników do zwolnienia, których umowy o pracę zostaną rozwiązane oraz których warunki zatrudnienia zostaną zmienione, warunki odpraw i dodatkowych świadczeń, np. wydłużenie opieki medycznej, zasady pomocy socjalnej,zakres programu pomocy zwalnianym pracownikom w tym pomoc finansową w celu zdobycia nowych kwalifikacji lub możliwości profesjonalnych szkoleń w przypadku znalezienia pracy w innym obszarze. <br> <br> Zgodnie z ZUZP w przypadku rozwiązania umów o pracę z przyczyn niedotyczących pracowników, pracownikom przysługują odprawy pieniężne w wysokości trzykrotnie wyższej od przysługującej im z mocy przepisów powszechnie obowiązujących. Wysokość odprawy nie może przekroczyć 36-krotnego minimalnego wynagrodzenia obowiązującego w dniu rozwiązania stosunku pracy.Dodatkowo, Bank każdorazowo dąży do zawarcia porozumienia z Urzędem Pracy w sprawie aktywizacji zawodowej zwalnianych pracowników. W 2022 roku Bank uruchomił Program Dobrowolnych Odejść (dalej: „PDO”). Pracodawca ustalił Regulamin PDO, przekazując jego postanowienia do wiadomości pracowników. Pracownicy zgłaszali się dobrowolnie do PDO i po zaakceptowaniu wniosku  przez Bank, następowało rozwiązanie umowy o pracę z pracownikiem, który otrzymywał określoną w Regulaminie PDO odprawę."
-
-
-
-
-
-
-
+                      "Opis": "Brak"
+                      
+                    }
+                  },
 
 
 
@@ -400,13 +897,8 @@
 
                      
                       
-                    
-                      
+                                        
               
-
-                      
-                    }
-                  },
 
 
 
@@ -616,6 +1108,7 @@
                   "GRI 206-1": {
                     "metrics": {
                       "Opis": "Pełny",
+                      "Liczb. Postępowań": "0",
                       "Text": "Bank oraz spółki zależne obowiązuje Polityka Grupy Banku Pekao S.A. w zakresie przeciwdziałania praktykom ograniczającym konkurencję oraz praktykom naruszającym zbiorowe interesy konsumentów. Polityka określa podstawowe zasady działania pracowników Banku zgodnie z przepisami dotyczącymi antymonopolowych i nieuczciwych praktyk rynkowych oraz główne zadania komórek organizacyjnych Banku w tym zakresie. W 2022 roku Bank nie zapłacił kar za naruszenie zbiorowych praw konsumentów oraz za naruszenie zasad wolnej konkurencji. Spółki wchodzące w 2022 roku w skład Grupy Pekao posiadały również własne regulacje w tym obszarze, m.in.: Polityka Pekao Direct w zakresie przeciwdziałania praktykom ograniczającym konkurencję oraz praktykom naruszającym zbiorowe interesy konsumentów, Polityka Pekao Banku Hipotecznego S.A. w zakresie przeciwdziałania praktykom ograniczającym konkurencję oraz praktykom naruszającym zbiorowe interesy konsumentów, Procedura Antymonopolowa. Przeciwdziałanie praktykom ograniczającym konkurencję oraz naruszającym zbiorowe interesy konsumentów (Pekao Leasing). Kwestie dotyczące ryzyka prawnego związanego z walutowymi kredytami hipotecznymi w CHF zostały ujęte w Skonsolidowanym Sprawozdaniu Finansowym Grupy Kapitałowej Banku Pekao S.A. za rok zakończony dnia 31 grudnia 2022, w podrozdziale 5.5.3."
                     }
                   },
@@ -633,10 +1126,7 @@
                     "attachment_2": "images/sup/Pekao_14.png",
                     "attachment_3": "images/sup/Pekao_15.png"
 
-                 
-                    
-                  
-
+          
                   },
 
                   "GRI 305-1": {
@@ -668,6 +1158,25 @@
     
                   },
 
+                  "GRI 201-2": {
+                    "metrics": {
+                      "Opis": "Brak",
+                      "Text":" "
+                  
+                      
+                     
+                    }
+
+                    
+                  
+
+    
+                  },
+
+
+                  
+                  
+
 
 
                   "GRI 405-2": {
@@ -681,6 +1190,13 @@
                   
 
     
+                  },
+
+                  "GRI 305-3": {
+                    "metrics": {
+                      "Opis":"Brak"
+                    }
+              
                   },
 
 
@@ -732,6 +1248,11 @@
                   },
 
 
+
+
+
+
+
                   "GRI 414-1": {
                     "metrics": {
                       "Opis": "Pełny",
@@ -745,6 +1266,7 @@
                   "GRI 417-2": {
                     "metrics": {
                       "Opis": "Pełny",
+                      "Liczba Przypadków": "0",
                     "Text": "Zgodnie z obowiązującymi powszechnie przepisami prawa zarówno w Banku, jak i w spółkach Grupy Pekao, prowadzących działalność polegającą na oferowaniu produktów i usług finansowych, funkcjonują liczne regulacje definiujące standard prowadzonej działalności, a także ustalające zasady postępowania na rzecz ochrony interesów klientów, zminimalizowania ryzyka braku zgodności i ryzyka ochrony reputacji w zakresie sprzedaży produktów i usług konsumentom. W Banku obszar ten kompleksowo reguluje Polityka Procesu Wdrażania Nowych Produktów w Banku Pekao S.A. (dalej: Polityka wdrażania nowych produktów) oraz Zasady tworzenia komunikacji marketingowej Banku Polska Kasa Opieki Spółka Akcyjna (dalej: Zasady tworzenia komunikacji marketingowej). Standardy oferowania i sprzedaży określają ponadto: Zasady sprzedaży konsumentom produktów kredytowych oraz płatniczych w Banku Polska Kasa Opieki Spółka Akcyjna oraz Polityka sprzedaży produktów inwestycyjnych. Ryzyko wprowadzenia klienta w błąd co do oznaczenia produktu jest zarządzane poprzez weryfikację bieżącą, tj. poprzez proces opiniowania materiałów marketingowych m.in. przez Departament Zgodności.Proces opiniowania materiałów marketingowych oraz instrukcji służbowych jest objęty Systemem Kontroli Wewnętrznej obowiązującym w Banku. W 2022 roku w Banku nie odnotowano przypadków nieprzestrzegania przepisów dotyczących informacji i oznakowania produktów i usług oraz przypadków niezgodności z przepisami skutkujących ostrzeżeniem."
 
                     }
@@ -762,6 +1284,19 @@
                   },
 
 
+                  "GRI 2-26": {
+                    "metrics": {
+                      "Opis": "Pełny",
+                    "Text": "Zapewnienie zgodności jest integralnym elementem prowadzenia działalności biznesowej Banku, jest zakorzenione w wartościach określonych w Karcie Zasad, Kodeksie postępowania i przyjętym Kodeksie Etyki Bankowej oraz stanowi podstawę kultury zgodności. <br> W Kodeksie Postępowania zostały poruszone najważniejsze zagadnienia, na które wszyscy pracownicy Banku zwracają uwagę w trakcie wykonywania obowiązków służbowych. Zasady w nim zawarte powinny stanowić wyznacznik w procesie podejmowania decyzji. Kodeks daje wskazówki, jak postępować w przypadku wielu sytuacji, z którymi spotykają się pracownicy na co dzień, ale nie zawiera rozwiązania dla każdej okoliczności. Jeśli odpowiedź na te pytania jest niepewna, Kodeks postępowania instruuje każdego z pracowników, by zwrócił się do swoich przełożonych lub do komórki ds. zgodności. Wniosek o opinię co do zgodności jest dostępny na stronie intranetowej. Ponadto, niezależnie od realizacji cyklicznego obowiązku raportowego w zakresie realizacji postanowień Polityki zgłaszania naruszeń, w 2022 przekazano do najwyższych organów 24 sprawy"                  
+
+                    }
+                    
+                  },
+
+
+
+
+
                   "GRI 418-1": {
                     "metrics": {
                       "Opis": "Pełny",
@@ -773,6 +1308,52 @@
                     }
                     
                   },
+
+
+
+                  "GRI 401-3": {
+                    "metrics": {
+                      "Opis": "Brak",
+                    "Text": ""
+           
+                    }
+                    
+                  },
+                
+
+                  "GRI 305-4": {
+                    "metrics": {
+                      "Opis": "Brak",
+                    "Text": ""
+
+                    }
+                    
+                  },
+
+
+
+                  "GRI 306-3": {
+                    "metrics": {
+                      "Opis": "Brak",
+                    "Text": ""
+
+                    }
+                    
+                  },
+
+
+
+
+                  "GRI 303-3": {
+                    "metrics": {
+                      "Opis": "Brak",
+                    "Text": ""
+              
+
+                    }
+                    
+                  },
+
 
 
 
@@ -789,6 +1370,49 @@
                     
                   },
 
+
+                  "GRI 205-2": {
+                    "metrics": {
+                      "Opis": "Brak",
+                    "Text": ""
+
+                    }
+                    
+                  },
+
+
+                  "GRI 302-3": {
+                    "metrics": {
+                      "Opis": "Brak",
+                    "Text": ""
+
+                    }
+                    
+                  },
+
+
+
+
+                "GRI 2-27": {
+                  "metrics": {
+                    "Opis":"Cześciowy",
+                    "Liczba Przypadków": "",
+              
+                    "Text": "Bank w codziennej działalności mierzy się ze stale rosnącymi wyzwaniami związanym z dynamicznie zmieniającym się otoczeniem regulacyjnym. W obszarze ładu korporacyjnego kluczową aktywnością pozostaje zapobieganie naruszeniom i ochrona Banku przed wszelkim niewłaściwymi postępowaniami, w zgodzie z obowiązującym przepisami prawa, regulacjami i przyjętymi standardami etycznymi. Stosowany w Banku ład korporacyjny wynika z przepisów prawa (w szczególności z Kodeksu spółek handlowych, Prawa bankowego i przepisów regulujących funkcjonowanie rynku kapitałowego), a także z zasad ujętych w „Dobrych praktykach spółek notowanych na GPW”, „Zasadach ładu korporacyjnego dla instytucji nadzorowanych” wydanych przez Komisję Nadzoru Finansowego oraz w „Kodeksie Etyki Bankowej” Związku Banków Polskich. Podstawowym aktem regulacyjnym w zakresie etyki postępowania jest dostępny publicznie Kodeks Postępowania Grupy Pekao. <br> Bank przestrzega najwyższych standardów w zakresie postępowania z informacjami poufnymi w rozumieniu Rozporządzenia Parlamentu Europejskiego i Rady z dn. 16 kwietnia 2014 roku w sprawie nadużyć na rynku (dalej: MAR). Wdrożono precyzyjną regulację w klarowny sposób określającą zasady postępowania z informacjami poufnymi w rozumieniu MAR oraz ich ochrony przed nieuprawnionym ujawnieniem lub wykorzystaniem. Regulacja określa zasady związane z dokonywaniem transakcji na instrumentach finansowych przez pracowników Banku, w tym pracowników posiadających dostęp do informacji poufnych w rozumieniu rozporządzenia MAR. Dla Banku bardzo istotne jest przestrzeganie przez osoby pełniące obowiązki zarządcze oraz osoby blisko z nimi związane ograniczeń w dokonywaniu transakcji na instrumentach finansowych związanych z tak zwanymi okresami zamkniętymi poprzedzającymi publikację raportów okresowych Banku. Z tego powodu osoby pełniące obowiązki zarządcze poza informacjami otrzymywanymi ze względu na obowiązujące przepisy prawa, regularnie otrzymują informację o każdym zbliżającym się okresie zamkniętym oraz związanych z nim ograniczeniach w dokonywaniu transakcji na instrumentach finansowych Banku. Każda informacja o dokonaniu transakcji przez osobę pełniącą obowiązki zarządcze lub osobę blisko z nią związaną jest raportowana zgodnie z obowiązującymi przepisami prawa. Bank stale monitoruje aktywność pracowników w zakresie transakcji na instrumentach finansowych" 
+                  }
+            
+                },
+
+
+                "GRI 2-30": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "% pracowników": "77",
+              
+                    "Text": "Zakładowy Układ Zbiorowy Pracy (dalej: „ZUZP”) określa zasady polityki kadrowo-płacowej Banku, w  tym zasady i warunki wynagradzania pracowników Banku oraz zasady przyznawania innych świadczeń związanych z pracą, w tym m.in.: zasady polityki kadrowej, czas pracy, zasady polityki płacowej, zasady kształtowania wynagrodzeń zasadniczych, fundusz premiowy, fundusz nagród motywacyjnych, bonusy, odprawy emerytalne i rentowe, odprawy związane z rozwiązywaniem stosunków pracy z przyczyn niedotyczących pracowników. <br> Aktualnie obowiązujący ZUZP został zawarty w dniu 15 grudnia 2005 roku między Bankiem Polska Kasa Opieki S.A. a zakładowymi organizacjami związkowymi działającymi w Banku. Zmiany ZUZP w formie Protokołu dodatkowego zostały zawarte kolejno w 2007 oraz 2022 roku. Zmiana ZUZP w 2022 roku dotyczyła uzgodnienia nowych zasad premiowania dla pracowników sieci sprzedaży w Pionie Bankowości Detalicznej. Protokół został zarejestrowany przez Państwową Inspekcję Pracy 13 stycznia 2023 roku. Tym samym wspomniane zasady premiowania stały się integralną częścią ZUZP. <br> <br> W Banku nie są stosowane dodatkowe, poza powszechnie obowiązującymi, systemy zabezpieczenia emerytalnego. Bank jako pracodawca w pełni wypełnia obowiązki wynikające z powszechnego systemu emerytalnego, nie zalegając z należnymi składkami odprowadzanymi z wynagrodzeń pracowników oraz składkami pracodawcy. W Banku stosowane są dodatkowe odprawy emerytalne i rentowe dla pracowników nabywających uprawnienia do świadczeń z powszechnego ubezpieczenia emerytalno-rentowego. <br> <Br> W 2022 roku w Banku Pekao, analogicznie do poprzednich 12 miesięcy, odsetek pracowników objętych umową zbiorową kształtował się na poziomie 77%. W spółkach Grupy Pekao nie zawarto umów zbiorowych. W stosunku do pracowników wyłączonych z regulacji ZUZP stosowane są wszystkie zapisy ZUZP w zakresie wynagradzania oraz przyznawania innych świadczeń związanych z pracą z wyjątkiem zasad premiowania. Zasady premiowania dla tej grupy pracowników wynikają wprost z zapisów w  indywidualnych umowach o pracę (kontraktach menedżerskich). Bank planuje rozpoczęcie rokowań z organizacjami związkowymi celem włączenia tej grupy pracowników do ZUZP."
+                  }
+            
+                },
 
 
 
