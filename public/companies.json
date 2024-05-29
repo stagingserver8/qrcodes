@@ -16,6 +16,17 @@
             
                 },
 
+                "GRI 2-28": {
+                  "metrics": {
+                    "Opis": "Brak",
+                  "Text": ""
+
+                  }
+                 
+              
+                },
+
+
 
                 "GRI 418-1": {
                   "metrics": {
@@ -693,9 +704,6 @@
         }
     },
 
-    
-
-
  {
         "name": "Pekao",
         "language": "English",
@@ -1220,12 +1228,6 @@
 
 
 
-
-
-
-
-
-
                   "GRI 3-2": {
                     "metrics": {
                       "Opis": "Pełny",
@@ -1433,37 +1435,62 @@
         }
     },
 
+    
 
     {
-        "name": "Bank Millennium",
-        "language": "English",
-        "country": "Poland",
-        "data": {
-            "Reported": "Some",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
-    {
-        "name": "mBank",
-        "language": "English",
-        "country": "Poland",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
-    {
-        "name": "Bank Handlowy",
-        "language": "English",
-        "country": "Poland",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
+      "name": "mBank",
+      "language": "English",
+      "country": "Poland",
+      "standards": {
+          "GRI": {
+              "GRI 2-1": {
+                  "metrics": {
+                      "Opis": "Pełny",
+                      "Country": "Poland",
+                      "Ownership": "Commerzbank (69.17%), Public (30.83%)",
+                      "HQ": "Warsaw",
+                      "Text": "Since 1992, mBank's shares have been listed on the Warsaw Stock Exchange, with a market capitalization at the end of 2022 of approximately PLN 12.3 billion. We contribute to indices such as WIG, WIG-20, WIG-Banks, and WIG-ESG. The strategic shareholder of mBank, holding 69.17% of the shares, is Germany's Commerzbank AG. The remaining shares are in free float, owned mostly by Polish pension funds as well as Polish and foreign investment funds. Our headquarters are located in Warsaw.mBank's offering includes products and services tailored to the diverse needs of users, incorporating credit products, savings, investment and insurance solutions, as well as solutions designed for businesses and corporations. Our comprehensive offering better meets the specific requirements of different customer groups. At the same time, a consistent business model across all mentioned areas allows clients to move smoothly between segments, making mBank an excellent support at all stages of their personal and professional development."
+                  }
+              },
+
+              "GRI 2-6": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Nasza oferta obejmuje: bankowość detaliczną, bankowość korporacyjną i inwestycyjną, usługi finansowe: leasing, faktoring, finansowanie nieruchomości komercyjnych, działalność maklerską, wealth management, corporate finance i doradztwo w zakresie rynków kapitałowych. <br> W 2022 roku Grupa mBanku zanotowała stratę netto na poziomie 702,7 mln zł. Istotny negatywny wpływ na wynik miały koszty ryzyka prawnego związane z portfelem walutowych kredytów hipotecznych, które wyniosły 3,1 mld zł, obciążenia publiczne w wysokości 1,9 mld zł oraz podatek bankowy na poziomie 684,2 mln zł"
+             
+
+                },
+                "attachment_1": "images/sup/mbank2.png",
+                "attachment_2": "images/sup/mbank3.png",
+                "attachment_3": "images/sup/mbank4.png",
+                "attachment_4": "images/sup/mbank5.png",
+                "attachment_5": "images/sup/mbank6.png"
+              },
+
+              "GRI 2-28": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Jako Grupa jesteśmy członkiem kilkudziesięciu polskich i międzynarodowych organizacji promujących najlepsze praktyki biznesowe w świecie finansów."
+             
+
+                },
+                "attachment_1": "images/sup/mbank7.png"
+            
+              }
+
+
+
+
+
+          }
+      }
+  },
+  
+
+
+
+
+
     {
         "name": "ING BS",
         "language": "English",
@@ -1474,6 +1501,9 @@
             "Heading 3": "Value3"
         }
     },
+
+
+
     {
         "name": "BOS",
         "language": "English",

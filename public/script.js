@@ -203,7 +203,6 @@ function resetBadgeSelection(container) {
 }
 
 
-
 function attachListenersToItemsAndStandards() {
     document.querySelectorAll('input[name="item"], input[name="esgStandard"]').forEach(input => {
         input.onchange = () => {
@@ -211,7 +210,6 @@ function attachListenersToItemsAndStandards() {
         };
     });
 }
-
 
 
 function populateTable(selectedGRI) {
@@ -459,13 +457,6 @@ function getShortExplainer(standards, selectedText) {
 
 
 
-   // Simulated titles.json content
-   const titles = {
-    "GRI 2-1": "Dane podstawowe",
-    "GRI 2-2": "Podmioty uwzględnione w raporcie",
-    "GRI 2-18": "Ocena pracy najwyższego organu zarządzającego",
-    // Add other entries similarly...
-};
 
 $(document).ready(function() {
     // Populate dropdown from JSON
