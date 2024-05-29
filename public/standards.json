@@ -56,10 +56,10 @@
 
 
         {
-            "header" : "Działalność i pracownicy",
+           
             "name": "Board",
             "explainer": "Hi",
-            "short_explainer": "Board"
+            "short_explainer": "Board Explainer"
         },
 
 

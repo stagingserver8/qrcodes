@@ -9,7 +9,7 @@
                   "metrics": {
                     "Opis":"Pełny",
                     "Country": "Poland",
-                    "Ownership": "Government",
+                    "Ownership": "Skarb Państwa (100%)",
                     "HQ": "Warsaw",
                     "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                   }
@@ -29,8 +29,8 @@
 
                 "Board": {
                   "metrics": {
-                    "Opis": "Brak",
-                  "Text": "Works"
+                    "Opis": "Pełny",
+                  "Text": "Wohallerks"
 
                   }
                  
@@ -728,7 +728,7 @@
                   "metrics": {
                     "Opis":"Pełny",
                     "Country": "Poland",
-                    "Ownership": "Public",
+                    "Ownership": "PZU (20%), PFR (12.80%), Other (67.20%)",
                     "HQ": "Warsaw",
                     "Text": "Bank Polska Kasa Opieki Spółka Akcyjna (dalej: „Bank”, „Bank Pekao”) jest bankiem zorganizowanym w formie spółki akcyjnej, działającym na podstawie obowiązujących przepisów prawa, w szczególności ustawy Prawo bankowe oraz przepisów Kodeksu spółek handlowych i postanowień Statutu Banku Polska Opieki Pekao Spółka Akcyjna (dalej: „Statut Banku Pekao” – tekst jednolity dostępny na stronie.Bank działa na terytorium Rzeczypospolitej Polskiej. Główna siedziba mieści się w Warszawie, przy ul. Grzybowskiej 53/57 (kod pocztowy 00-950). Dodatkowa siedziba znajduje się przy ul. Żwirki i Wigury 31 w Warszawie (kod pocztowy 02-091). <br> <br> Na rok 2023 zaplanowane zostało przeniesienie siedzib Banku do nowej lokalizacji w Warszawie przy ul. Burakowskiej 14 (kod pocztowy 01-066). Nadzór nad działalnością Banku Pekao sprawuje Komisja Nadzoru Finansowego (dalej „KNF”). Od 1998 roku Bank Pekao jest notowany na Giełdzie Papierów Wartościowych w Warszawie. Począwszy od 2017 roku, Bank Pekao jest częścią Grupy Kapitałowej PZU S.A. (dalej: „Grupa PZU”), największej instytucji finansowej w Europie Środkowo-Wschodniej."
                   },

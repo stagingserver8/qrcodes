@@ -1,12 +1,49 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Set up card titles based on initially selected item
     const selectedItem = document.querySelector('input[name="item"]:checked').value;
     updateCardTitles(selectedItem);
+
+    // Set up event listeners for badges and standards selections
     attachListenersToItemsAndStandards();
-    setupBadges();  // Ensure badges are set up after DOM is fully loaded
+
+    // Set up badges for interaction
+    setupBadges();
+
+    // Load sub options for the default selected standard, 'GRI' in this case
+    updateSubOptions('GRI');
+
+    document.getElementById('dynamicHeading').textContent = "Dane Organizacji";
+
+    
+     // Load GRI 2-1 by default
+     selectDefaultGRI();
+
+
 });
 
 
 
+
+function selectDefaultGRI() {
+    const defaultGRI = "GRI 2-1";
+    populateTable(defaultGRI);
+    showExplainerCard(defaultGRI);
+
+    // Optionally, update the UI to reflect that GRI 2-1 is selected
+    highlightDefaultSelection(defaultGRI);
+}
+
+function highlightDefaultSelection(defaultGRI) {
+    const dropdownItems = document.querySelectorAll('.dropdown-item');
+    dropdownItems.forEach(item => {
+        if (item.textContent.trim() === defaultGRI) {
+            item.classList.add('active'); // Assuming 'active' is your class for highlighting
+            document.getElementById('dynamicHeading').innerText = item.textContent;  // Set the heading to show GRI 2-1
+        } else {
+            item.classList.remove('active');
+        }
+    });
+}
 
 
 
@@ -16,10 +53,7 @@ let lastClickedCompany = null;
 
 
 
-document.addEventListener('DOMContentLoaded', function() {
-    updateSubOptions('GRI'); // Automatically load GRI options on load
-    attachListenersToItemsAndStandards(); // Set up listeners
-});
+
 
 function updateCardTitles(selectedItem) {
     const subheadings = {
@@ -60,25 +94,26 @@ function handleBadgeClick(badge) {
     // Get the badge name, assuming the badge's text content is the identifier
     const badgeName = badge.textContent.trim();
 
-    // Call populateTable with the badge name
-    populateTable(badgeName);
+    // Update the <h3> element's text to the name of the clicked badge
+    document.getElementById('dynamicHeading').textContent = badgeName;
 
-    // Assuming you have similar functionality for badges as for GRI standards
+    // Update content in tabs and explainer card
+    updateTabContent(badgeName);
     showExplainerCard(badgeName);
 }
+
+
 
 function setupBadges() {
     const badges = document.querySelectorAll('.badge');
     badges.forEach(badge => {
         badge.addEventListener('click', function() {
-            handleBadgeClick(badge); // Correctly pass the badge element
+            handleBadgeClick(badge);
         });
     });
 }
 
-document.addEventListener('DOMContentLoaded', function() {
-    setupBadges();  // This ensures that the badges have event listeners
-});
+
 
 
   
@@ -123,17 +158,55 @@ function createDropdownItem(text, short_explainer) {
     link.className = 'dropdown-item';
     link.href = '#';
     link.textContent = text;
-    link.title = short_explainer; // Optionally set title attribute to short explainer
+    link.title = short_explainer;  // Tooltip showing short explainer
     link.onclick = () => {
-        populateTable(text);  // Call populateTable with the option text
-        showExplainerCard(text); // Show details related to the selected option
-        // Highlight the clicked item
+        populateTable(text);  // Optional based on whether you need to repopulate the table
+        updateTabContent(text);  // Updates the content in the tabs
+        showExplainerCard(text);  // Updates the explainer card
         document.querySelectorAll('.dropdown-item').forEach(item => item.classList.remove('active'));
         link.classList.add('active');
     };
     item.appendChild(link);
     return item;
 }
+
+function updateTabContent(selectedGRI) {
+    fetch('companies.json')
+    .then(response => response.json())
+    .then(data => {
+        // Assuming "Bank Gospodarstwa Krajowego" is the company you want to display data for
+        const companyData = data.find(company => company.name === "Bank Gospodarstwa Krajowego");
+        if (!companyData || !companyData.standards || !companyData.standards.GRI || !companyData.standards.GRI[selectedGRI]) {
+            console.log('No data found for:', selectedGRI);
+            return; // If no data found, exit the function
+        }
+
+        const metrics = companyData.standards.GRI[selectedGRI].metrics;
+        const card1 = document.getElementById('tab-top-1').querySelector('.text-secondary');
+        const card2 = document.getElementById('tab-top-2').querySelector('.text-secondary');
+
+        // Update the text in Tab 1 using innerHTML to parse HTML tags
+        card1.innerHTML = metrics.Text || 'No details available.';
+
+        // Clear previous attachments in Tab 2 and update new ones
+        card2.innerHTML = ''; // Clear previous content
+        Object.keys(companyData.standards.GRI[selectedGRI]).forEach(key => {
+            if (key.startsWith('attachment')) {
+                let img = document.createElement('img');
+                img.src = companyData.standards.GRI[selectedGRI][key];
+                img.alt = "Relevant Attachment";
+                img.style.width = '100%'; // Fit within the tab
+                img.classList.add('img-thumbnail');
+                card2.appendChild(img);
+            }
+        });
+    })
+    .catch(error => {
+        console.error('Error loading company data:', error);
+    });
+}
+
+
 
 function populateTable(optionText) {
     // Function to populate a table or handle other logic based on the selected option
@@ -160,8 +233,6 @@ function createBadge(text) {
     };
     return badge;
 }
-
-
 function handleBadgeClick(badge) {
     // Clear previous selections
     const allBadges = document.querySelectorAll('.badge');
@@ -177,12 +248,9 @@ function handleBadgeClick(badge) {
     // Get the badge name, assuming the badge's text content is the identifier
     const badgeName = badge.textContent.trim();
 
-    console.log("Badge clicked:", badgeName); // Debugging to check what is captured
-
-    // Call populateTable with the badge name
-    populateTable(badgeName);
-
-    // Assuming you have similar functionality for badges as for GRI standards
+    // Update the <h3> element's text and the content in the tabs
+    document.getElementById('dynamicHeading').textContent = badgeName;
+    updateTabContent(badgeName); // Make sure this is the correct key as expected by your JSON structure
     showExplainerCard(badgeName);
 }
 
@@ -215,8 +283,6 @@ async function showExplainerCard(subOptionName) {
         console.error('Error loading standards data:', error);
     }
 }
-
-
 
 
 function hideExplainerCard() {
@@ -318,13 +384,14 @@ function populateTable(selectedGRI) {
                         td.textContent = content;
                     }
                     tr.appendChild(td);
+
+                    
                 });
 
                 tableBody.appendChild(tr);
 
                 
             });
-
 
 
 
@@ -346,6 +413,8 @@ function populateTable(selectedGRI) {
                     highlightRow(tr);
                 }
             });
+
+            
         })
         .catch(error => {
             console.error('Error loading company data:', error);

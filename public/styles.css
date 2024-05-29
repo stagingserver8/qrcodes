@@ -36,7 +36,6 @@
     border-collapse: collapse; /* ensures borders between cells are merged */
 }
 
-
 .explainer-card {
     position: absolute; 
     top: -750px !important;

@@ -18,7 +18,6 @@
 }
 
 
-
 .bg-blue-lt {
     background-color: #f0f2f7; /* Light blue background */
 }
@@ -34,8 +33,8 @@
 }
 
 
-        /* New styles for making table rows thinner */
-        .table th, .table td {
+/* New styles for making table rows thinner */
+.table th, .table td {
             padding: 3px 2px !important; /* Smaller padding */
         }
 
@@ -52,9 +51,7 @@
 
 
   
-          
-
-
+        
 
     <div class="main-content">
         <div class="page-header">
@@ -89,20 +86,20 @@
   <div class="form-selectgroup">
       <label class="form-selectgroup-item">
           <input type="radio" name="item" value="Governance" class="form-selectgroup-input" id="Governance" onchange="updateCardTitles(this.value); clearStandardSelection();" checked />
-          <span class="form-selectgroup-label">Governance</span>
+          <span class="form-selectgroup-label">Ład Korporacyjny</span>
       </label>
       <label class="form-selectgroup-item">
           <input type="radio" name="item" value="Social" class="form-selectgroup-input" id="Employment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
-          <span class="form-selectgroup-label">Social</span>
+          <span class="form-selectgroup-label">Społeczeńśtwo</span>
       </label>
       <label class="form-selectgroup-item">
           <input type="radio" name="item" value="Environment" class="form-selectgroup-input" id="Environment" onchange="updateCardTitles(this.value); clearStandardSelection();" />
-          <span class="form-selectgroup-label">Environment</span>
+          <span class="form-selectgroup-label">Środowisko</span>
       </label>
 
       <label class="form-selectgroup-item">
         <input type="radio" name="item" value="Other" class="form-selectgroup-input" id="Other" onchange="updateCardTitles(this.value); clearStandardSelection();" />
-        <span class="form-selectgroup-label">Other</span>
+        <span class="form-selectgroup-label">Inne</span>
     </label>
   </div>
 </div>
@@ -144,7 +141,7 @@
     <label for="subOptionsDropdown" class="form-label">Standard</label>
     <div class="dropdown">
         <button class="btn dropdown-toggle" id="subOptionsDropdown" data-bs-toggle="dropdown" aria-expanded="false">
-            Choose option
+            Wybierz
         </button>
         <ul class="dropdown-menu" aria-labelledby="subOptionsDropdown" id="subOptionsContainer">
             <!-- Sub-options will be dynamically added here -->
@@ -199,14 +196,16 @@
             
             <div class="card-tabs">
                 <ul class="nav nav-tabs">
-                    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab" data-index="0">Pekao</a></li>
+                    <li class="nav-item"><a href="#tab-top-1" class="nav-link active" data-bs-toggle="tab" data-index="0">Bank Gospodarstwa Krajowego</a></li>
                     <li class="nav-item"><a href="#tab-top-2" class="nav-link" data-bs-toggle="tab" data-index="1">Data</a></li>
                 </ul>
                 <div class="tab-content">
                     <div id="tab-top-1" class="card tab-pane active show">
                         <div class="card-body">
                             <div class="card-title"></div>
-                            <p class="text-secondary"></p>
+                            <p class="text-secondary">Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16 regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem).
+
+                            </p>
                         </div>
                     </div>
                     <div id="tab-top-2" class="card tab-pane">
@@ -221,6 +220,8 @@
         </div>
     </div>
 
+    
+
 <!-- Right Column: Tab Content -->
 <div class="col-lg-6">
     <div class="card-tabs">
@@ -229,7 +230,7 @@
     <!-- Placeholder for the explainer card -->
     <div id="explainerCard" class="card explainer-card" style="display: none;"> <!-- Initially hidden -->
         <div class="card-header">
-            <h3 class="card-title">Explainer of </h3>
+            <h3 class="card-title">Wyjaśnienie </h3>
         </div>
         <div class="card-body">
             <p class="text-secondary">Details related to the selected standard will appear here.</p>
