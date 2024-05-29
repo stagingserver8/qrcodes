@@ -53,6 +53,16 @@
             "short_explainer": "Działalności, łańcuch wartości i inne relacje biznesowe"
         },
 
+
+
+        {
+            "header" : "Działalność i pracownicy",
+            "name": "Board",
+            "explainer": "Hi",
+            "short_explainer": "Board"
+        },
+
+
         {
             "header" : "Działalność i pracownicy",
             "name": "GRI 2-7",

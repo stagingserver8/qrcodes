@@ -22,6 +22,13 @@
             "headers": ["Opis"]
         },
 
+
+        {
+            "name": "Board",
+            "headers": ["Opis"]
+        },
+
+
         {
             "name": "GRI 2-30",
             "headers": ["Opis", "% pracowników"]

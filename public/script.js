@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-
 // Global variable to keep track of the last clicked company
 let lastClickedCompany = null;
 
@@ -46,23 +45,43 @@ function updateBadgeEventListeners(container) {
     });
 }
 
-function handleBadgeClick(selectedBadge) {
-    // Reset all badges first
+function handleBadgeClick(badge) {
+    // Clear previous selections
     const allBadges = document.querySelectorAll('.badge');
-    allBadges.forEach(badge => {
-        badge.classList.remove('bg-blue');
-        badge.classList.add('bg-blue-lt');
+    allBadges.forEach(b => {
+        b.classList.remove('bg-blue');
+        b.classList.add('bg-blue-lt');
     });
 
     // Highlight the clicked badge
-    selectedBadge.classList.add('bg-blue');
-    selectedBadge.classList.remove('bg-blue-lt');
+    badge.classList.add('bg-blue');
+    badge.classList.remove('bg-blue-lt');
 
-    // Call to populate the table or handle other logic
-    populateTable(selectedBadge.textContent);
-    showExplainerCard(selectedBadge.textContent);
+    // Get the badge name, assuming the badge's text content is the identifier
+    const badgeName = badge.textContent.trim();
+
+    // Call populateTable with the badge name
+    populateTable(badgeName);
+
+    // Assuming you have similar functionality for badges as for GRI standards
+    showExplainerCard(badgeName);
 }
 
+function setupBadges() {
+    const badges = document.querySelectorAll('.badge');
+    badges.forEach(badge => {
+        badge.addEventListener('click', function() {
+            handleBadgeClick(badge); // Correctly pass the badge element
+        });
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    setupBadges();  // This ensures that the badges have event listeners
+});
+
+
+  
 
 // Add this to set up your badges initially or when you dynamically create them
 function setupBadges() {
@@ -143,14 +162,28 @@ function createBadge(text) {
 }
 
 
-function handleBadgeClick(badge, griItem) {
-    resetBadgeSelection(document.body);  // Clear previous selections
-    badge.classList.add('bg-blue');  // Highlight the selected badge
+function handleBadgeClick(badge) {
+    // Clear previous selections
+    const allBadges = document.querySelectorAll('.badge');
+    allBadges.forEach(b => {
+        b.classList.remove('bg-blue');
+        b.classList.add('bg-blue-lt');
+    });
+
+    // Highlight the clicked badge
+    badge.classList.add('bg-blue');
     badge.classList.remove('bg-blue-lt');
 
-    selectDropdownGRIItem(griItem);  // New function to select the dropdown item
-    populateTable(griItem);  // Assuming you want to load the table based on the GRI item
-    showExplainerCard(griItem);  // Update to show details for the selected GRI item
+    // Get the badge name, assuming the badge's text content is the identifier
+    const badgeName = badge.textContent.trim();
+
+    console.log("Badge clicked:", badgeName); // Debugging to check what is captured
+
+    // Call populateTable with the badge name
+    populateTable(badgeName);
+
+    // Assuming you have similar functionality for badges as for GRI standards
+    showExplainerCard(badgeName);
 }
 
 
@@ -212,6 +245,9 @@ function attachListenersToItemsAndStandards() {
 }
 
 
+
+
+
 function populateTable(selectedGRI) {
     fetch('headings.json')
     .then(response => response.json())
@@ -221,6 +257,7 @@ function populateTable(selectedGRI) {
             console.error('No header data found for:', selectedGRI);
             return;
         }
+
 
         
 
