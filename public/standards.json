@@ -8,14 +8,14 @@
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-1",
-            "explainer": "<strong>2-1-a: Legal Name:</strong> If the organization uses a commonly known trading name or business name that is different from its legal name, it should report this in addition to its legal name.<br><br><strong>2-1-b: Nature of ownership and legal form:</strong> The nature of ownership and the legal form of the organization refers to whether it is publicly or privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or another type of entity such as a nonprofit, an association, or a charity.<br><br><strong>2-1-c: Location of its headquarters:</strong> Headquarters are an organization’s global administrative center, the place from which it is controlled or directed.<br><br><strong>2-1-d: Countries of operation:</strong> If the organization has reported its countries of operation elsewhere, such as in its audited consolidated financial statements or financial information filed on public record, the organization can provide a link or reference to this information. The organization can also report the regions or specific locations within countries (e.g., states, cities) where it has operations, if this provides contextual information for understanding the organization’s impacts.",
+            "explainer": "The organization shall report: <strong> <Br> <br> 2-1-a: Legal Name:</strong> If the organization uses a commonly known trading name or business name that is different from its legal name, it should report this in addition to its legal name.<br><br><strong>2-1-b: Nature of ownership and legal form:</strong> The nature of ownership and the legal form of the organization refers to whether it is publicly or privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or another type of entity such as a nonprofit, an association, or a charity.<br><br><strong>2-1-c: Location of its headquarters:</strong> Headquarters are an organization’s global administrative center, the place from which it is controlled or directed.<br><br><strong>2-1-d: Countries of operation:</strong> If the organization has reported its countries of operation elsewhere, such as in its audited consolidated financial statements or financial information filed on public record, the organization can provide a link or reference to this information. The organization can also report the regions or specific locations within countries (e.g., states, cities) where it has operations, if this provides contextual information for understanding the organization’s impacts.",
             "short_explainer":"Dane Organizacji"
             
         },
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-2",
-            "explainer": " mmmmm",
+            "explainer": " The organization shall: <br>  <br> a. list all its entities included in its sustainability reporting; <Br> <br> b. if the organization has audited consolidated financial statements or financial information filed on public record, specify the differences between the list of entities included in its financial reporting and the list included in its sustainability reporting; c.if the organization consists of multiple entities, explain the approach used for consolidating the information, including: i. whether the approach involves adjustments to information for minority interests; <br> ii.how the approach takes into account mergers acquisitions, and disposal of entities or parts of entities <br> iii. whether and how the approach differs across the disclosures in this Standard and across material topics",
             "short_explainer":"Podmioty uwzględnione w ramach raportowania kwestii zrównoważonego rozwoju"
     
 
@@ -23,14 +23,14 @@
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-3",
-            "explainer": "Description for GRI 2-3",
+            "explainer": "The organization shall: <br> <br>  a. specify the reporting period for, and the frequency of, its sustainability reporting; <br> <br> specify the reporting period for its financial reporting and, if it does not align with the period for its sustainability reporting, explain the reason for this; <Br> <Br> c. report the publication date of the report or reported information; <br> <br> d. specify the contact point for questions about the report or reported information. ",
             "short_explainer": "Okres raportowania, częstotliwość i dane kontaktowe"
             
         },
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-4",
-            "explainer": "Description for GRI 2-4",
+            "explainer": "The organization shall: <br> <Br> report restatements of information made from previous reporting periods and explain: <Br> <Br> i. the reasons for the restatements; <br> ii. the effect of the restatements. ",
             "short_explainer": "Korekty informacji"
         },
 
@@ -40,7 +40,7 @@
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-5",
-            "explainer": "Description for GRI 2-5",
+            "explainer": "The organization shall: <Br> <Br> a. describe its policy and practice for seeking external assurance, including whether and how the highest governance body and senior executives are involved; <br> <br> b. if the organization’s sustainability reporting has been externally assured: i. provide a link or reference to the external assurance report(s) or assurance statement(s); <br> ii. describe what has been assured and on what basis, including the assurance standards used, the level of assurance obtained, and any limitations of the assurance process; <br> iii. describe the relationship between the organization and the assurance provider.",
             "short_explainer": "Weryfikacja zewnętrzna"
         },
 
@@ -49,7 +49,7 @@
         {
             "header" : "Działalność i pracownicy",
             "name": "GRI 2-6",
-            "explainer": "a. report the sector(s) in which it is active; <Br> b. describe its value chain, including: <br> i. the organization’s activities, products, services, and markets served;<br> ii. the organization’s supply chain; <br> iii. the entities downstream from the organization and their activities; <br> c. report other relevant business relationships; <br> d. describe significant changes in 2-6-a, 2-6-b, and 2-6-c compared to the previous reporting period.",
+            "explainer": "The organization shall <Br> <br> a. report the sector(s) in which it is active; <Br> b. describe its value chain, including: <br> i. the organization’s activities, products, services, and markets served;<br> ii. the organization’s supply chain; <br> iii. the entities downstream from the organization and their activities; <br> c. report other relevant business relationships; <br> d. describe significant changes in 2-6-a, 2-6-b, and 2-6-c compared to the previous reporting period.",
             "short_explainer": "Działalności, łańcuch wartości i inne relacje biznesowe"
         },
 
@@ -66,7 +66,7 @@
         {
             "header" : "Działalność i pracownicy",
             "name": "GRI 2-7",
-            "explainer": "HR",
+            "explainer": "The organization shall: <br> <br> a. report the total number of employees, and a breakdown of this total by gender and by region; <Br> <Br> b. report the total number of: <Br> <br> i. permanent employees, and a breakdown by gender and by region; <Br> ii. temporary employees, and a breakdown by gender and by region; <br> iii. non-guaranteed hours employees, and a breakdown by gender and by region; <br> iii. full-time employees, and a breakdown by gender and by region; <Br> part-time employees, and a breakdown by gender and by region; <br> <Br> c. describe the methodologies and assumptions used to compile the data, including whether the numbers are reported: <br> i. in head count, full-time equivalent (FTE), or using another methodology; <Br> ii. at the end of the reporting period, as an average across the reporting period, or using another methodology; <Br> <br> d. report contextual information necessary to understand the data reported under 2-7-a and 2-7-b; <br> <br> e. describe significant fluctuations in the number of employees during the reporting period and between reporting periods. ",
             "short_explainer": "Pracownicy"
             
         },
@@ -75,7 +75,7 @@
         {
             "header" : "Działalność i pracownicy",
             "name": "GRI 2-8",
-            "explainer": "HR",
+            "explainer": "The organization shall: <br> <br> a. report the total number of workers who are not employees and whose work is controlled by the organization and describe: <br> i. the most common types of worker and their contractual relationship with the organization; <Br> ii. the type of work they perform; <br> <br> b. describe the methodologies and assumptions used to compile the data, including whether the number of workers who are not employees is reported: <br> i.in head count, full-time equivalent (FTE), or using another methodology; <br> ii. at the end of the reporting period, as an average across the reporting period, or using another methodology <Br><br> c. describe significant fluctuations in the number of workers who are not employees during the reporting period and between reporting periods. ;",
             "short_explainer": "Osoby świadczące pracę na rzecz organizacji, ktore nie są jej pracownikami"
             
         },
@@ -85,7 +85,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-9",
-            "explainer": "The organization shall: <br> Describe its governance structure, including committees of the highest governance body, list the committees of the highest governance body that are responsible for decision- making on and overseeing the management of the organization’s impacts on the economy, environment, and people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held by each member, and the nature of the commitments, gender, under-represented social groups, competencies relevant to the impacts of the organization, stakeholder representation" ,
+            "explainer": "The organization shall: <br><br> a. Describe its governance structure, including committees of the highest governance body, <Br> b. list the committees of the highest governance body that are responsible for decision- making on and overseeing the management of the organization’s impacts on the economy, environment, and people, <br> c. describe the composition of the highest governance body and its committees by: <br> i. executive and non-executive members, <br> ii. independence, <br> iii.tenure of members on the governance body,<br> iv.number of other significant positions and commitments held by each member, and the nature of the commitments, <br> v.gender, <br> vi. under-represented social groups, <br> vii.competencies relevant to the impacts of the organization, <br> viii. stakeholder representation" ,
             "short_explainer": "Struktura zarządcza i skład organów zarządczych"
             
         },

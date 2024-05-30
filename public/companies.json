@@ -585,8 +585,8 @@
                     "Opis":"Pełny",
                     "Text": "Bank zlecił zewnętrzną atestację raportu zintegrowanego za 2022 r. Weryfikacja dotyczyła w szczególności: <br> <br> 1. Adekwatności, dokładności oraz jakości informacji w nim zawartych (wg standardów GRI 2021 i wytycznych IIRC). Audytor przeprowadził procedury audytowe zgodnie z ISAE 3000 <br> <br> 2. Oceny raportu pod względem istotności, uwzględnienia interesariuszy, kontekstu zrównoważonego rozwoju, przystępności zawartych informacji, przejrzystości i porównywalności, a także aktualności danych. <br> <br> 3. Weryfikacji śladu węglowego z podziałem na organizację (GRI 305-1, 305-2 zgodnie ze standardem ISAE 3410) oraz przegląd procesów BGK dotyczących zbierania i agregowania danych w tym zakresie."
 
-                                },
-                  "attachment": "URL_or_Path_To_Attachment"
+                                }
+                
                 },
 
                 "GRI 2-6": {
@@ -1489,7 +1489,104 @@
                 },
                 "attachment_1": "images/sup/mbank7.png"
             
+              },
+
+
+
+              "GRI 2-2": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Raport został przygotowany zgodnie z wymaganiami Standardów Global Reporting Initiative (GRI Standards). Nasz raport ESG obejmuje Grupę mBanku z oddziałami w Czechach i Słowacji oraz wybrane spółki Grupy mBanku. Są to: mLeasing, mFaktoring, mBank Hipoteczny i mFinanse. Wymienione spółki wybrane zostały na podstawie kryterium wielkości zatrudnienia. Raport dotyczy okresu od 1 stycznia 2022 roku do 31 grudnia 2022 roku, chyba że w tekście wskazano inaczej. W Grupie mBanku raportujemy w cyklu rocznym. Raport za rok 2022 jest jednocześnie naszym raportem Communication on Progress wymaganym  przez UN Global Compact. Wskaźniki GRI przyporządkowaliśmy także do odpowiednich Celów Zrównoważonego Rozwoju ONZ (SDG), w oparciu o dokument pt. “Linking the SDGs and the GRI Standards” opublikowany przez Global Reporting Initiative."
+             
+
+                }
+                
+          
+              },
+
+              "GRI 2-3": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Raport został przygotowany zgodnie z wymaganiami Standardów Global Reporting Initiative (GRI Standards). Nasz raport ESG obejmuje Grupę mBanku z oddziałami w Czechach i Słowacji oraz wybrane spółki Grupy mBanku. Są to: mLeasing, mFaktoring, mBank Hipoteczny i mFinanse. Wymienione spółki wybrane zostały na podstawie kryterium wielkości zatrudnienia. Raport dotyczy okresu od 1 stycznia 2022 roku do 31 grudnia 2022 roku, chyba że w tekście wskazano inaczej. W Grupie mBanku raportujemy w cyklu rocznym. Raport za rok 2022 jest jednocześnie naszym raportem Communication on Progress wymaganym  przez UN Global Compact. Wskaźniki GRI przyporządkowaliśmy także do odpowiednich Celów Zrównoważonego Rozwoju ONZ (SDG), w oparciu o dokument pt. “Linking the SDGs and the GRI Standards” opublikowany przez Global Reporting Initiative."
+             
+
+                }
+                
+          
+              },
+
+
+              "GRI 2-4": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Raport za 2022 rok nie zawiera istotnych korekt danych za rok 2021. W przypadku wybranych wskaźników w rozdziałach 3 i 4 zmieniony jednak został sposób prezentacji danych. Dane przedstawiamy w podziale na Grupę mBanku oraz spółkę mBank, z oddziałami zagranicznymi. Raport nie został poddany zewnętrznej weryfikacji."
+                }
+                
+          
+              },
+
+
+              "GRI 2-5": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Raport za 2022 rok nie zawiera istotnych korekt danych za rok 2021. W przypadku wybranych wskaźników w rozdziałach 3 i 4 zmieniony jednak został sposób prezentacji danych. Dane przedstawiamy w podziale na Grupę mBanku oraz spółkę mBank, z oddziałami zagranicznymi. Raport nie został poddany zewnętrznej weryfikacji."
+                }
+                
+          
+              },
+
+              "GRI 2-7": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "W całej Grupie na zaufanie naszych klientów codziennie pracuje ponad 8 tys. osób. Ogromna większość pracowników mBanku, ponad 7 tys. osób, to pracownicy zatrudnieni na czas nieokreślony na pełnoetatowych stanowiskach. Nasi pracownicy są stosunkowo młodzi – 37% z nich nie przekroczyło 35. roku życia. Są również dobrze wykształceni – 85% ma wyższe wykształcenia, a wielu podnosi kwalifikacje na studiach podyplomowych i MBA.",
+                "Licz. Pracow.":"7,174",
+                "Licz. Kob.": "4,279",
+                "Licz. Mez.": "2,895"
+                },
+                "attachment_1": "images/sup/mbank8.png"
+                
+          
+              },
+
+              "GRI 2-8": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Na koniec 2022 roku, w Grupie zatrudnialiśmy 1525 osób na podstawie umowy zlecenie. Większość z nich to pracownicy sieci spółki mFinanse.",
+                "Licz. Współ.":"1525"
+                }
+                
+                
+          
+              },
+
+
+              "GRI 2-9": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Zarząd mBanku musi składać się z co najmniej trzech członków powoływanych na wspólną kadencję pięciu lat. Co najmniej połowa członków zarządu, w tym prezes zarządu, musi posiadać obywatelstwo polskie, stale zamieszkiwać w Polsce, posługiwać się językiem polskim oraz posiadać doświadczenie na rynku polskim które można wykorzystać przy zarządzaniu bankiem. Członkowie zarządu kierują wydzielonymi obszarami działalności banku w zakresie wskazanym przez prezesa zarządu. Szczegółowy podział kompetencji członków zarządu jest określony w uchwałach zarządu. <Br> W marcu 2023 roku poinformowaliśmy o planach utworzenia stanowiska wiceprezeski zarządu ds. compliance, prawnych i HR. Rada nadzorcza banku zarekomendowała do tej roli Julię Nusser, dyrektorkę zarządzającą z Commerzbanku. Julia Nusser objęła stanowisko od 1 maja 2023 roku. <Br> <br> Zarząd ponosi wspólną odpowiedzialność za całokształt działalności banku. Prowadzi sprawy banku, reprezentuje bank i ustala wytyczne odnośnie do jego działalności, w szczególności obciążonej ryzykiem, w tym polityki kredytowej, inwestycyjnej, zarządzania aktywami i zobowiązaniami banku, a także polityki gwarancyjnej. Zarząd podejmuje również strategiczne decyzje w zakresie wdrażania zasad ESG w banku.",
+                "Liczba Członków":"6",
+                "Liczba Kobiet": "0"
+               
+                }
+                
+              
+          
               }
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
 
 
 
