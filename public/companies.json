@@ -665,6 +665,8 @@
 
 
 
+
+
                 "GRI 2-11": {
                   "metrics": {
                     "Opis": "Pełny",
@@ -1559,19 +1561,98 @@
           
               },
 
+              "GRI 2-10": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Osoby zasiadające w zarządzie powołuje i odwołuje rada nadzorcza zgodnie z przepisami Prawa bankowego i biorąc pod uwagę odpowiednie kwalifikacje. Komisja Nadzoru Finansowego akceptuje dwóch członków zarządu banku – prezesa i członka odpowiedzialnego za kształtowanie i realizację polityki kredytowej banku oraz zarządzanie ryzykiem. Prawo odwołania lub zawieszenia w czynnościach członka zarządu przysługuje również Walnemu Zgromadzeniu. Rada nadzorcza funkcjonuje na podstawie uchwalonego przez siebie Regulaminu i wykonuje funkcje przewidziane w statucie mBanku, Kodeksie spółek handlowych i ustawie Prawo bankowe. Rada składa się przynajmniej z pięciu członków, wybieranych przez Walne Zgromadzenie na wspólną kadencję trzech lat.",
+                "Licz. Współ.":"1525"
+                }
+                
+          
+              },
+
 
               "GRI 2-9": {
                 "metrics": {
                   "Opis": "Pełny",
                 "Text": "Zarząd mBanku musi składać się z co najmniej trzech członków powoływanych na wspólną kadencję pięciu lat. Co najmniej połowa członków zarządu, w tym prezes zarządu, musi posiadać obywatelstwo polskie, stale zamieszkiwać w Polsce, posługiwać się językiem polskim oraz posiadać doświadczenie na rynku polskim które można wykorzystać przy zarządzaniu bankiem. Członkowie zarządu kierują wydzielonymi obszarami działalności banku w zakresie wskazanym przez prezesa zarządu. Szczegółowy podział kompetencji członków zarządu jest określony w uchwałach zarządu. <Br> W marcu 2023 roku poinformowaliśmy o planach utworzenia stanowiska wiceprezeski zarządu ds. compliance, prawnych i HR. Rada nadzorcza banku zarekomendowała do tej roli Julię Nusser, dyrektorkę zarządzającą z Commerzbanku. Julia Nusser objęła stanowisko od 1 maja 2023 roku. <Br> <br> Zarząd ponosi wspólną odpowiedzialność za całokształt działalności banku. Prowadzi sprawy banku, reprezentuje bank i ustala wytyczne odnośnie do jego działalności, w szczególności obciążonej ryzykiem, w tym polityki kredytowej, inwestycyjnej, zarządzania aktywami i zobowiązaniami banku, a także polityki gwarancyjnej. Zarząd podejmuje również strategiczne decyzje w zakresie wdrażania zasad ESG w banku.",
-                "Liczba Członków":"6",
-                "Liczba Kobiet": "0"
+                "Liczba Członków":"8",
+                "Liczba Kobiet": "3"
                
                 }
-                
               
           
-              }
+              },
+
+              "GRI 2-11": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Zarząd mBanku musi składać się z co najmniej trzech członków powoływanych na wspólną kadencję pięciu lat. Co najmniej połowa członków zarządu, w tym prezes zarządu, musi posiadać obywatelstwo polskie, stale zamieszkiwać w Polsce, posługiwać się językiem polskim oraz posiadać doświadczenie na rynku polskim które można wykorzystać przy zarządzaniu bankiem. Członkowie zarządu kierują wydzielonymi obszarami działalności banku w zakresie wskazanym przez prezesa zarządu. Szczegółowy podział kompetencji członków zarządu jest określony w uchwałach zarządu. <Br> W marcu 2023 roku poinformowaliśmy o planach utworzenia stanowiska wiceprezeski zarządu ds. compliance, prawnych i HR. Rada nadzorcza banku zarekomendowała do tej roli Julię Nusser, dyrektorkę zarządzającą z Commerzbanku. Julia Nusser objęła stanowisko od 1 maja 2023 roku. <Br> <br> Zarząd ponosi wspólną odpowiedzialność za całokształt działalności banku. Prowadzi sprawy banku, reprezentuje bank i ustala wytyczne odnośnie do jego działalności, w szczególności obciążonej ryzykiem, w tym polityki kredytowej, inwestycyjnej, zarządzania aktywami i zobowiązaniami banku, a także polityki gwarancyjnej. Zarząd podejmuje również strategiczne decyzje w zakresie wdrażania zasad ESG w banku."
+          
+                }
+              
+          
+              },
+
+
+              "GRI 2-12": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Strategiczne, kierunkowe decyzje dotyczące ESG podejmuje zarząd mBanku. Poprzedzone są one konsultacjami i uzgodnieniami z różnymi interesariuszami wewnątrz organizacji. Współpracujemy też z zewnętrznymi konsultantami, którzy pomagają nam wypracować najlepsze rozwiązania z zakresu liczenia śladu węglowego czy metodyki związanej z pomiarem i zarządzaniem ryzykiem fizycznym. W proces raportowania włączeni są także przedstawiciele najwyższej kadry zarządzającej w mBanku."
+          
+                }
+              
+          
+              }, 
+
+              "GRI 2-13": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Strategiczne, kierunkowe decyzje dotyczące ESG podejmuje zarząd mBanku. Poprzedzone są one konsultacjami i uzgodnieniami z różnymi interesariuszami wewnątrz organizacji. Współpracujemy też z zewnętrznymi konsultantami, którzy pomagają nam wypracować najlepsze rozwiązania z zakresu liczenia śladu węglowego czy metodyki związanej z pomiarem i zarządzaniem ryzykiem fizycznym. W proces raportowania włączeni są także przedstawiciele najwyższej kadry zarządzającej w mBanku."
+          
+                }
+              
+          
+              }, 
+
+
+
+              "GRI 2-14": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Strategiczne, kierunkowe decyzje dotyczące ESG podejmuje zarząd mBanku. Poprzedzone są one konsultacjami i uzgodnieniami z różnymi interesariuszami wewnątrz organizacji. Współpracujemy też z zewnętrznymi konsultantami, którzy pomagają nam wypracować najlepsze rozwiązania z zakresu liczenia śladu węglowego czy metodyki związanej z pomiarem i zarządzaniem ryzykiem fizycznym. W proces raportowania włączeni są także przedstawiciele najwyższej kadry zarządzającej w mBanku."
+          
+                }
+            
+              },
+
+              "GRI 2-15": {
+                "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Skutecznie przeciwdziałamy konfliktowi interesów. Kwestię tę reguluje Polityka zarządzania konfliktami interesów w mBanku, która jednoznacznie określa zasady ich identyfikacji, unikania i zarządzania nimi. Przyjęliśmy w tej kwestii zasadę równego traktowania klientów – ani mBank, ani nasi pracownicy nie mogą uzyskiwać korzyści lub unikać strat kosztem klientów.<br><br>Prawidłowe zarządzanie konfliktami interesów jest częścią kultury korporacyjnej i stanowi obowiązek pracowników mBanku na wszystkich poziomach struktury organizacyjnej. Szczególnie istotne jest, aby członkowie zarządu i dyrektorzy poszczególnych jednostek organizacyjnych brali udział w:<br>&nbsp;&nbsp;&nbsp;&nbsp;- identyfikacji konfliktów interesów,<br>&nbsp;&nbsp;&nbsp;&nbsp;- określaniu odpowiednich środków pozwalających zapobiegać konfliktom interesów lub rozwiązywaniu takich konfliktów, gdy się pojawiają.<br><br>Dodatkowo najwyższe kierownictwo naszej organizacji – zarząd i radę nadzorczą – obowiązują szczególne zasady dotyczące konfliktu interesów. Członkowie zarządu i rady mają obowiązek ujawniać powstanie lub możliwość powstania konfliktu interesów oraz powstrzymywać się od zabierania głosu w dyskusji i głosowania nad sprawami, które mogą powodować taki konflikt w relacji z klientem mBanku lub mBankiem.<br><br>Obszar przeciwdziałania konfliktowi interesów nadzoruje Departament Compliance, który odpowiada za:<br>&nbsp;&nbsp;&nbsp;&nbsp;- wprowadzanie regulacji wewnętrznych i rozwiązań informatycznych,<br>&nbsp;&nbsp;&nbsp;&nbsp;- konsultacje udzielane jednostkom organizacyjnym,<br>&nbsp;&nbsp;&nbsp;&nbsp;- działania kontrolne i szkoleniowe oraz wydawanie rekomendacji.<br><br>Departament Compliance analizuje zgłoszone konflikty interesów, wydaje rekomendacje dotyczące sposobu postępowania w danej sprawie i monitoruje realizację zaleceń. Minimum raz w roku przegląda również Politykę pod kątem jej adekwatności i skuteczności.<br><br>Moduł poświęcony konfliktowi interesów jest częścią szkolenia dotyczącego przeciwdziałania nadużyciom i korupcji. Szkolenie w formie e-learningu jest obligatoryjne dla wszystkich pracowników, trzeba je odbyć raz w roku. Jest zakończone testem wiedzy z minimalnym progiem zaliczenia.<br><br>Dodatkowo pracownicy banku udzielający klientom informacji na temat usług inwestycyjnych lub świadczący usługę doradztwa inwestycyjnego biorą udział w webinarze dotyczącym konfliktu interesów. W 2022 roku przeszkoliliśmy 70 osób, co stanowi 100% grupy docelowej."
+                }
+            },
+
+            
+              "GRI 2-16": {
+                  "metrics": {
+                      "Opis": "Pełny",
+                      "Text": "W mBanku mamy mSygnal – elektroniczny system, który umożliwia anonimowe zgłaszanie wszelkich nadużyć (whistleblowing). Mogą z niego korzystać zarówno pracownicy, jak i klienci, z każdego urządzenia z dostępem do internetu.<br><br>mSygnal jest dostępny w trybie ciągłym, 24/7. Gwarantuje osobie zgłaszającej anonimowość, jeśli wybierze taką opcję. Można też założyć anonimową skrzynkę, na którą przyjdą informacje zwrotne na temat działań podjętych w wyniku zgłoszenia. Umożliwi to przekazanie dodatkowych informacji.<br><br>Zabronione są jakiekolwiek formy represji, dyskryminacji lub niesprawiedliwego traktowania pracowników, którzy zgłosili podejrzenie popełnienia nadużycia, nawet wtedy, gdy informacje nie zostaną potwierdzone. Wobec zgłaszających nie mogą być podejmowane żadne działania odwetowe.<br><br>Wszystkie informacje – zarówno te przekazane w zgłoszeniu, jak i te ustalone w postępowaniu wyjaśniającym – są traktowane jako poufne i chronione. Zgłoszenia w sposób obiektywny, rzetelny i bezstronny sprawdzają i analizują upoważnione osoby z Departamentu Rozwoju Pracowników i Kultury Organizacji, oddziałów zagranicznych, zespół rzeczniczki ds. etyki oraz Departament Compliance. Do systemu mSygnal i informacji o zgłoszonych nieprawidłowościach mają również dostęp przedstawiciele zarządu.<br><br>Rozpatrzenie zgłoszenia następuje w nieprzekraczalnym terminie 30 dni kalendarzowych od daty wpłynięcia. W przypadku potwierdzonych nadużyć sprawę kontynuujemy zgodnie z przepisami prawa i regulacjami wewnętrznymi banku.<br><br>W 2022 roku, w wyniku badania pracowników Pulse Check, odnotowaliśmy wzrost wiedzy na temat sposobu zgłaszania zachowań nieakceptowalnych na poziomie 8 p.p."
+                  }
+              },
+
+              "GRI 2-17": {
+                "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Zarządzamy ryzykiem, w tym ryzykiem ESG, w oparciu o wymagania nadzorcze oraz najlepsze praktyki rynkowe, formułując strategie, polityki oraz wytyczne w zakresie zarządzania ryzykiem. Proces zarządzania ryzykiem realizujemy na wszystkich poziomach struktury organizacyjnej – od rady nadzorczej (w tym komisji ds. ryzyka) i zarządu banku, poprzez wyspecjalizowane komitety oraz jednostki organizacyjne odpowiadające za identyfikację, pomiar, monitorowanie, kontrolę i redukcję ryzyka, na jednostkach biznesowych kończąc.<br><br>Role i zadania w zakresie zarządzania ryzykiem zorganizowano zgodnie ze schematem trzech linii obrony.<br><br>• Pierwszą linię obrony stanowi biznes (jednostki biznesowe), którego zadaniem jest uwzględnianie aspektów związanych z ryzykiem i kapitałem przy podejmowaniu wszystkich decyzji w granicach apetytu na ryzyko określonego dla Grupy.<br><br>• Druga linia obrony – przede wszystkim jednostki organizacyjne obszaru zarządzania ryzykiem, bezpieczeństwa, Inspektor Danych Osobowych i funkcja Compliance – tworzy ramy i wytyczne dla zarządzania poszczególnymi rodzajami ryzyka, wspiera i nadzoruje biznes w ich wdrażaniu oraz niezależnie analizuje i ocenia ryzyko. Druga linia obrony działa niezależnie od biznesu.<br><br>• Trzecią linią obrony jest audyt wewnętrzny, który dokonuje niezależnych ocen działań związanych z zarządzaniem ryzykiem realizowanych zarówno przez pierwszą, jak i drugą linię obrony.<br><br><br><br>Podczas posiedzeń w 2022 roku Komitet zatwierdził między innymi:<br><br>• mapę celów ESG dla organizacji,<br>• raport alokacji i wpływu zielonych obligacji mBanku,<br>• kryteria ekosymbolu marketingowego,<br>• kryteria zrównoważonego finansowania dla transakcji klientów korporacyjnych,<br>• program etyczny mBanku,<br>• kryteria ESG w procesie produktowym.<br><br>Podczas posiedzeń członkowie komitetu omawiali także cele strategii ESG mBanku na 2023 rok, wyniki scenariusza ryzyka greenwashingu, deklarację „Commitment to Financial Health and Inclusion” oraz normy ESG dla funduszy inwestycyjnych. Co kwartał zarząd mBanku omawia z radą nadzorczą tematy dotyczące ESG. O kwestiach ESG regularnie dyskutuje też Komisja ds. Ryzyka Rady Nadzorczej. Członkowie zarządu oraz przedstawiciele najwyższej kadry kierowniczej poszerzają swoją wiedzę i kompetencje z zakresu zrównoważonego rozwoju. Rozwój kompetencji w tym obszarze odbywa się m.in. przez udział w szkoleniach, analizę dobrych praktyk i trendów rynkowych, czy udział w konferencjach i wydarzeniach branżowych. Dodatkowo prof. Agnieszka Słomka-Gołębiowska, przewodnicząca rady nadzorczej mBanku, jest członkiną rady Chapter Zero Poland, programu rozwoju kompetencji organów zarządzających i nadzorczych spółek, któremu patronuje Forum Odpowiedzialnego Biznesu.<br><br><br><br>W grudniu 2020 roku powołaliśmy Komitet Zrównoważonego Rozwoju Grupy mBanku. Nadzoruje on wdrażanie strategii ESG, wskazuje główne kierunki działań i proponuje je zarządowi, organizuje system zarządzania ESG i nadzoruje przebieg inicjatyw z tego obszaru. Wydaje decyzje i rekomendacje dotyczące polityki i wytycznych ESG. Koordynuje też pracę różnych jednostek organizacyjnych z Grupy mBanku oraz służy jako forum dialogu na temat zrównoważonego rozwoju. Komitetowi przewodniczy wiceprezes zarządu ds. zarządzania ryzykiem (CRO), a w jego skład wchodzą przedstawiciele wszystkich pionów mBanku oraz spółek Grupy. W 2022 roku odbyło się siedem posiedzeń Komitetu."
+                }
+            }
+        
+          
+          
+
+
+
 
 
 
@@ -1583,88 +1664,11 @@
      
 
 
-
-
-
-
-
-
-
-
-
           }
       }
-  },
+  }
   
 
 
 
-
-
-    {
-        "name": "ING BS",
-        "language": "English",
-        "country": "Netherlands",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
-
-
-
-    {
-        "name": "BOS",
-        "language": "English",
-        "country": "Poland",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
-    {
-        "name": "BNP Paribas",
-        "language": "English",
-        "country": "France",
-        "data": {
-            "Reported": "All",
-            "Heading 2": "Value2",
-            "Heading 3": "Value3"
-        }
-    },
-    {
-      "name": "Alior",
-      "language": "Polish",
-      "country": "Poland",
-      "data": {
-          "Reported": "All",
-          "Heading 2": "Value2",
-          "Heading 3": "Value3"
-      }
-  },
-
-  {
-    "name": "Santander",
-    "language": "English",
-    "country": "Spain",
-    "data": {
-        "Reported": "None",
-        "Heading 2": "Value2",
-        "Heading 3": "Value3"
-    }
-},
-{
-    "name": "PKOBP",
-    "language": "English",
-    "country": "Poland",
-    "data": {
-        "Reported": "All",
-        "Heading 2": "Value2",
-        "Heading 3": "Value3"
-    }
-}
-
- 
 ]

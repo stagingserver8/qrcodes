@@ -42,6 +42,9 @@ app.use('/', router); // This line applies the router to the app
 app.get('/qr', (req, res) => {
     res.render('qr'); // This will render a view called 'qr.ejs' from your views folder
 });
+app.get('/esg2', (req, res) => {
+    res.render('esg2'); // This will render a view called 'qr.ejs' from your views folder
+});
 
 app.post('/register', async (req, res) => {
     try {

@@ -93,7 +93,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-10",
-            "explainer": "people, describe the composition of the highest governance body and its committees by: executive and non-executive members, independence, tenure of members on the governance body, number of other significant positions and commitments held ",
+            "explainer": "The organization shall: <Br> <br> a. describe the composition of the highest governance body and its committees <br> <Br> b. describe the criteria used for nominating and selecting highest governance body members, including whether and how the following are taken into consideration: <Br> i. views of stakeholders (including shareholders); <br> ii. diversity; <br> iii. independence; <br> iv. competencies relevant to the impacts of the organization",
             "short_explainer": "Nominacja i wybór członków najwyższych organów zarządczych"
         
         },
@@ -101,7 +101,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-11",
-            "explainer": "Description ",
+            "explainer": "The organization shall: <Br> <Br> a. report whether the chair of the highest governance body is also a senior executive in the organization <br> b. if the chair is also a senior executive, explain their function within the organization’s management, the reasons for this arrangement, and how conflicts of interest are prevented and mitigated.",
             "short_explainer": "Przewodniczący najwyższego organu zarządczego"
             
         },
@@ -109,7 +109,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-13",
-            "explainer": "corp gov",
+            "explainer": "The organization shall: <br><br> a. Describe how the highest governance body delegates responsibility for managing the organization’s impacts on the economy, environment, and people, including: <br> i. whether it has appointed any senior executives with responsibility for the management of impacts; <br> ii. whether it has delegated responsibility for the management of impacts to other employees;",
             "short_explainer": "Delegowanie odpowiedzialności w zakresie zarządzania wpływem"
             
         },
@@ -118,7 +118,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-14",
-            "explainer": "Empty space",
+            "explainer": "The organization shall: <br><br> a. Report whether the highest governance body is responsible for reviewing and approving the reported information, including the organization’s material topics, and if so, describe the process for reviewing and approving the information; <br> b. If the highest governance body is not responsible for reviewing and approving the reported information, including the organization’s material topics, explain the reason for this. <br><br> The organization can report whether the highest governance body has established a sustainability reporting committee to support the highest governance body’s review and approval process. The organization can also report whether the highest governance body reviews the adequacy of the organization’s internal controls to strengthen the integrity and credibility of the organization’s sustainability reporting.",
             "short_explainer": "Rola najwyższego organu zarządczego w raportowaniu kwestii zrównoważonego rozwoju"
 
         },
@@ -129,7 +129,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-15",
-            "explainer": "Description ",
+            "explainer": "The organization shall: <br><br> a. Describe the processes for the highest governance body to ensure that conflicts of interest are prevented and mitigated; <br> b. Report whether conflicts of interest are disclosed to stakeholders, including, at a minimum, conflicts of interest relating to: <br> i. cross-board membership, <br> ii. cross-shareholding with suppliers and other stakeholders, <br> iii. existence of controlling shareholders, <br> iv. related parties, their relationships, transactions, and outstanding balances. <br><br> The organization should use the definition of controlling shareholder applied in the organization’s consolidated financial statements or equivalent documents.",
             "short_explainer": "Konflikt interesów"
             
         },
@@ -137,7 +137,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-16",
-            "explainer": "Whistleblowing",
+            "explainer": "The organization shall: <br><br> a. Describe whether and how critical concerns are communicated to the highest governance body; <br> b. Report the total number and the nature of critical concerns that were communicated to the highest governance body during the reporting period. <br><br> Critical concerns include concerns about the organization’s potential and actual negative impacts on stakeholders raised through grievance mechanisms and other processes. They also include concerns identified through other mechanisms about the organization’s business conduct in its operations and its business relationships.",
             "short_explainer": "Komunikowanie problemów krytycznych"
             
         },
@@ -146,7 +146,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-17",
-            "explainer": "corp gov",
+            "explainer": "The organization shall: <br><br> a. Report measures taken to advance the collective knowledge, skills, and experience of the highest governance body on sustainable development. <br><br> This disclosure focuses on how the organization ensures that its highest governance body is well-informed and knowledgeable about issues related to sustainable development, enabling effective oversight of the organization’s strategic direction and practices.",
             "short_explainer": "Zbiorowa wiedza najwyższego organu zarządczego"
             
         },
@@ -154,7 +154,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-18",
-            "explainer": "corp gov",
+            "explainer": "The organization shall: <br><br> a. Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people; <br> b. Report whether the evaluations are independent or not, and the frequency of the evaluations; <br> c. Describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices.",
             "short_explainer": "Ewaluacja wyników najwyższego organu zarządczego"
             
         },
@@ -163,7 +163,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-19",
-            "explainer": "corp gov",
+            "explainer": "The organization shall: <br><br> a. Describe the remuneration policies for members of the highest governance body and senior executives, including: <br> i. fixed pay and variable pay, <br> ii. sign-on bonuses or recruitment incentive payments, <br> iii. termination payments, <br> iv. clawbacks, <br> v. retirement benefits. <br><br> b. Describe how the remuneration policies for members of the highest governance body and senior executives relate to their objectives and performance in relation to the management of the organization’s impacts on the economy, environment, and people.",
             "short_explainer": "Polityka wynagradzania"
             
         },
@@ -172,7 +172,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-20",
-            "explainer": "corp gov ",
+            "explainer": "The organization shall: <br><br> a. Describe the process for designing its remuneration policies and for determining remuneration, including: <br> i. whether independent highest governance body members or an independent remuneration committee oversees the process for determining remuneration; <br> ii. how the views of stakeholders (including shareholders) regarding remuneration are sought and taken into consideration; <br> iii. whether remuneration consultants are involved in determining remuneration and, if so, whether they are independent of the organization, its highest governance body and senior executives; <br><br> b. Report the results of votes of stakeholders (including shareholders) on remuneration policies and proposals, if applicable.",
             "short_explainer": "Proces ustalania wynagrodzeń"
             
         },
@@ -181,7 +181,7 @@
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-21",
-            "explainer": "Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual). Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); ",
+            "explainer": "The organization shall: <br><br> a. Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees (excluding the highest-paid individual); <br> b. Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); <br> c. Report contextual information necessary to understand the data and how the data has been compiled",
             "short_explainer": "Całkowity roczny wskaźnik wynagrodzenia"
             
         },
@@ -191,7 +191,7 @@
         {
             "header" : "Strategia, polityki i praktyki",
             "name": "GRI 2-22",
-            "explainer": "TO ADD",
+            "explainer": "The organization shall: <br><br> a. Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees (excluding the highest-paid individual); <br> b. Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); <br> c. Report contextual information necessary to understand the data and how the data has been compiled.",
             "short_explainer": "Oświadczenie dotyczące strategii zrównoważonego rozwoju"
            
         },
@@ -200,7 +200,7 @@
         {
             "header" : "Strategia, polityki i praktyki",
             "name": "GRI 2-23",
-            "explainer": "Describe its policy commitments for responsible business conduct, including: i. the authoritative intergovernmental instruments that the commitments reference; ii. whether the commitments stipulate conducting due diligence; iii. whether the commitments stipulate applying the precautionary principle; iv. whether the commitments stipulate respecting human rights; a. describe its specific policy commitment to respect human rights, including: i. the internationally recognized human rights that the commitment covers; the categories of stakeholders, including at-risk or vulnerable groups, that the organization gives particular attention to in the commitment; ii. b. provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, explain the reason for this; c. report the level at which each of the policy commitments was approved within the organization, including whether this is the most senior level; d. report the extent to which the policy commitments apply to the organization’s activities and to its business relationships; e. describe how the policy commitments are communicated to workers, business partners, and other relevant parties.",
+            "explainer": "The organization shall: <br><br> a. Describe its policy commitments for responsible business conduct, including: <br> i. the authoritative intergovernmental instruments that the commitments reference; <br> ii. whether the commitments stipulate conducting due diligence; <br> iii. whether the commitments stipulate applying the precautionary principle; <br> iv. whether the commitments stipulate respecting human rights; <br><br> b. Describe its specific policy commitment to respect human rights, including: <br> i. the internationally recognized human rights that the commitment covers; <br> ii. the categories of stakeholders, including at-risk or vulnerable groups, that the organization gives particular attention to in the commitment; <br><br> c. Provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, explain the reason for this; <br><br> d. Report the level at which each of the policy commitments was approved within the organization, including whether this is the most senior level; <br><br> e. Report the extent to which the policy commitments apply to the organization’s activities and to its business relationships; <br><br> f. Describe how the policy commitments are communicated to workers, business partners, and other relevant parties.",
             "short_explainer": "Zobowiązania ujęte w politykach"
         
 
@@ -211,7 +211,7 @@
         {
             "header" : " Strategia, polityki i praktyki",
             "name": "GRI 2-26",
-            "explainer": "Empty space",
+            "explainer": "The organization shall: <br><br> a. Describe the mechanisms for individuals to: <br> i. seek advice on implementing the organization’s policies and practices for responsible business conduct; <br> ii. raise concerns about the organization’s business conduct.",
             "short_explainer":"Mechanizmy zasiegania porad i zgłaszania obaw"
         },
 
@@ -219,7 +219,7 @@
         {
             "header" : " Strategia, polityki i praktyki",
             "name": "GRI 2-27",
-            "explainer": "Empty space",
+            "explainer": "The organization shall: <br><br> a. Report the total number of significant instances of non-compliance with laws and regulations during the reporting period, and a breakdown of this total by: <br> i. instances for which fines were incurred; <br> ii. instances for which non-monetary sanctions were incurred; <br><br> b. Report the total number and the monetary value of fines for instances of non-compliance with laws and regulations that were paid during the reporting period, and a breakdown of this total by: <br> i. fines for instances of non-compliance with laws and regulations that occurred in the current reporting period; <br> ii. fines for instances of non-compliance with laws and regulations that occurred in previous reporting periods; <br><br> c. Describe the significant instances of non-compliance; <br><br> d. Describe how it has determined significant instances of non-compliance.",
             "short_explainer":"Zgodność z prawem i regulacjami"
         },
 
@@ -240,7 +240,7 @@
         {
             "header" : "Angażowanie interesariuszy",
             "name": "GRI 2-29",
-            "explainer": "bla bla",
+            "explainer": "The organization shall: <br><br> a. Describe its approach to engaging with stakeholders, including: <br> i. the categories of stakeholders it engages with, and how they are identified; <br> ii. the purpose of the stakeholder engagement; <br> iii. how the organization seeks to ensure meaningful engagement with stakeholders.",
             "short_explainer":"Podejście do angażowania interesariuszy"
 
            
@@ -250,7 +250,7 @@
         {
             "header" : "Angażowanie interesariuszy",
             "name": "GRI 2-30",
-            "explainer": "bla",
+            "explainer": "The organization shall: <br><br> a. Report the percentage of total employees covered by collective bargaining agreements; <br><br> b. For employees not covered by collective bargaining agreements, report whether the organization determines their working conditions and terms of employment based on collective bargaining agreements that cover its other employees or based on collective bargaining agreements from other organizations.",
             "short_explainer":"Procent pracowników objętych układami zbiorowymi pracy"
             
         },
@@ -270,16 +270,19 @@
         {
             "header" : "Wyniki",
             "name": "GRI 201-2",
-            "explainer": " ",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Energy consumption outside of the organization, in joules or multiples. <br><br> b. Standards, methodologies, assumptions, and/or calculation tools used. <br><br> c. Source of the conversion factors used. <br><br> Compilation requirements <br> 2.3 When compiling the information specified in Disclosure 302-2, the reporting organization shall exclude energy consumption reported in Disclosure 302-1.",
             "short_explainer":"Skutki finansowe, inne ryzyka i szanse wynikające ze zmian klimatycznych"
         
         },
 
 
+
+
+
         {
             "header" : "Przeciwdziałanie korupcji",
             "name": "GRI 205-1",
-            "explainer": "Operations assessed for risks related to corruption <br> Total number and percentage of operations assessed for risks related to corruption., Significant risks related to corruption identified through the risk assessmen",
+    "explainer": "The reporting organization shall report the following information: <br><br> a. Total number and percentage of operations assessed for risks related to corruption; <br><br> b. Significant risks related to corruption identified through the risk assessment.",
             "short_explainer": "Działania przeanalizowane pod kątem korupcji"
             
         },
@@ -287,7 +290,7 @@
         {
             "header" : "Przeciwdziałanie korupcji",
             "name": "GRI 205-2",
-            "explainer": "bla bla",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Total number and percentage of governance body members that the organization’s anti-corruption policies and procedures have been communicated to, broken down by region; <br><br> b. Total number and percentage of employees that the organization’s anti-corruption policies and procedures have been communicated to, broken down by employee category and region; <br><br> c. Total number and percentage of business partners that the organization’s anti-corruption policies and procedures have been communicated to, broken down by type of business partner and region. Describe if the organization’s anti-corruption policies and procedures have been communicated to any other persons or organizations; <br><br> d. Total number and percentage of governance body members that have received training on anti-corruption, broken down by region; <br><br> e. Total number and percentage of employees that have received training on anti-corruption, broken down by employee category and region.",
             "short_explainer": "Szkolenia dla pracowników i kadry menedżerskiej poświęcone politykom i procedurom antykorupcyjnym"
            
         },
@@ -295,7 +298,7 @@
         {
             "header" : "Przeciwdziałanie korupcji",
             "name": "GRI 205-3",
-            "explainer": "bla bla",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Total number and nature of confirmed incidents of corruption; <br><br> b. Total number of confirmed incidents in which employees were dismissed or disciplined for corruption; <br><br> c. Total number of confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption; <br><br> d. Public legal cases regarding corruption brought against the organization or its employees during the reporting period and the outcomes of such cases.",
             "short_explainer": "Potwierdzone przypadki korupcji i działania podjęte w odpowiedzi na nie"
            
         },
@@ -341,7 +344,7 @@
         {
             "header":" Ład korporacyjny",
             "name": "GRI 2-16",
-            "explainer": "check",
+            "explainer": "The organization shall: <br><br> a. Describe whether and how critical concerns are communicated to the highest governance body; <br><br> b. Report the total number and the nature of critical concerns that were communicated to the highest governance body during the reporting period.",
             "short_explainer": "Całkowity roczny wskaźnik wynagrodzenia"
 
            
@@ -349,22 +352,15 @@
 
 
 
-
-
-    
-
-    
-
-
         {
             "name": "GRI 2-19",
-            "explainer": "",
+            "explainer": "The organization shall: <br><br> a. Describe the remuneration policies for members of the highest governance body and senior executives, including: <br> i. fixed pay and variable pay; <br> ii. sign-on bonuses or recruitment incentive payments; <br> iii. termination payments; <br> iv. clawbacks; <br> v. retirement benefits; <br><br> b. Describe how the remuneration policies for members of the highest governance body and senior executives relate to their objectives and performance in relation to the management of the organization’s impacts on the economy, environment, and people.",
             "headers": ["Disclosing"] 
         },
 
         {
             "name": "GRI 2-20",
-            "explainer": "",
+            "explainer": "The organization shall: <br><br> a. Describe the process for designing its remuneration policies and for determining remuneration, including: <br> i. whether independent highest governance body members or an independent remuneration committee oversees the process for determining remuneration; <br> ii. how the views of stakeholders (including shareholders) regarding remuneration are sought and taken into consideration; <br> iii. whether remuneration consultants are involved in determining remuneration and, if so, whether they are independent of the organization, its highest governance body and senior executives; <br><br> b. Report the results of votes of stakeholders (including shareholders) on remuneration policies and proposals, if applicable.",
             "headers": ["Disclosing"] 
         },
 
@@ -375,7 +371,7 @@
         {
             "header" : "Ujawnienia dotyczące istotnych tematów",
             "name": "GRI 3-1",
-            "explainer": "Empty space",
+            "explainer": "The organization shall: <br><br> a. Describe the process it has followed to determine its material topics, including: <br> i. how it has identified actual and potential, negative and positive impacts on the economy, environment, and people, including impacts on their human rights, across its activities and business relationships; <br> ii. how it has prioritized the impacts for reporting based on their significance; <br><br> b. Specify the stakeholders and experts whose views have informed the process of determining its material topics.",
             "short_explainer":"Proces identyfikacji istotnych tematów"
             
         },
@@ -386,7 +382,7 @@
         {
             "header" : "Ujawnienia dotyczące istotnych tematów",
             "name": "GRI 3-2",
-            "explainer": "Empty Space",
+            "explainer": "The organization shall: <br><br> a. List its material topics; <br><br> b. Report changes to the list of material topics compared to the previous reporting period.",
             "short_explainer":"Lista istotnych tematów"
         
         },
@@ -394,7 +390,7 @@
         {
             "header" : "Energia",
             "name": "GRI 302-1",
-            "explainer": "Energy consumption within the organization",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Total fuel consumption within the organization from non-renewable sources, in joules or multiples, and including fuel types used. <br><br> b. Total fuel consumption within the organization from renewable sources, in joules or multiples, and including fuel types used. <br><br> c. In joules, watt-hours or multiples, the total: <br> i. electricity consumption <br> ii. heating consumption <br> iii. cooling consumption <br> iv. steam consumption <br><br> d. In joules, watt-hours or multiples, the total: <br> i. electricity sold <br> ii. heating sold <br> iii. cooling sold <br> iv. steam sold <br><br> e. Total energy consumption within the organization, in joules or multiples. <br><br> f. Standards, methodologies, assumptions, and/or calculation tools used. <br><br> g. Source of the conversion factors used. <br><br> Compilation requirements <br> 2.1 When compiling the information specified in Disclosure 302-1, the reporting organization shall: <br> 2.1.1 avoid the double-counting of fuel consumption, when reporting self-generated energy consumption. If the organization generates electricity from a non-renewable or renewable fuel source and then consumes the generated electricity, the energy consumption shall be counted once under fuel consumption; <br> 2.1.2 report fuel consumption separately for non-renewable and renewable fuel sources; <br> 2.1.3 only report energy consumed by entities owned or controlled by the organization; <br> 2.1.4 calculate the total energy consumption within the organization in joules or multiples using the following formula:",
             "short_explainer":"Zużycie energii w organizacji"
 
     
