@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 function selectDefaultGRI() {
-    const defaultGRI = "GRI 2-1";
+    const defaultGRI = "GRI 2-2";
     populateTable(defaultGRI);
     showExplainerCard(defaultGRI);
 
@@ -114,9 +114,6 @@ function setupBadges() {
 }
 
 
-
-
-  
 
 // Add this to set up your badges initially or when you dynamically create them
 function setupBadges() {
@@ -516,7 +513,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Example to trigger table population manually for testing
-populateTable("GRI 2-1"); // Adjust this as needed based on your actual use case
+populateTable("GRI 2-2"); // Adjust this as needed based on your actual use case
 
 
 

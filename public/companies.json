@@ -643,6 +643,15 @@
                             
                 },
 
+                "GRI 2-12": {
+                  "metrics": {
+                    "Opis": "Brak",
+                "Text": " "
+                  }
+             
+                            
+                },
+
                 "GRI 2-13": {
                   "metrics": {
                     "Opis": "Pełny",
@@ -1462,7 +1471,7 @@
                   "metrics": {
                       "Opis": "Pełny",
                       "Country": "Poland",
-                      "Ownership": "Commerzbank (69.17%), Public (30.83%)",
+                      "Ownership": "Commerzbank (69.17%), Float (30.83%)",
                       "HQ": "Warsaw",
                       "Text": "Since 1992, mBank's shares have been listed on the Warsaw Stock Exchange, with a market capitalization at the end of 2022 of approximately PLN 12.3 billion. We contribute to indices such as WIG, WIG-20, WIG-Banks, and WIG-ESG. The strategic shareholder of mBank, holding 69.17% of the shares, is Germany's Commerzbank AG. The remaining shares are in free float, owned mostly by Polish pension funds as well as Polish and foreign investment funds. Our headquarters are located in Warsaw.mBank's offering includes products and services tailored to the diverse needs of users, incorporating credit products, savings, investment and insurance solutions, as well as solutions designed for businesses and corporations. Our comprehensive offering better meets the specific requirements of different customer groups. At the same time, a consistent business model across all mentioned areas allows clients to move smoothly between segments, making mBank an excellent support at all stages of their personal and professional development."
                   }
@@ -1652,23 +1661,309 @@
           
 
 
-
-
-
-
-
-
-
-
-
      
 
 
           }
-      }
-  }
-  
 
+          
+      }
+  },
+  
+  {
+    "name": "Santander Polska",
+    "language": "English",
+    "country": "Poland",
+    "standards": {
+        "GRI": {
+            "GRI 2-1": {
+              "metrics": {
+                "Opis":"Pełny",
+                "Country": "Poland",
+                "Ownership": "Banco Santander (67.41%), NN OFE (5.01%), Float (27.58%)",
+                "HQ": "Warsaw",
+                "Text": ""
+              }
+            },
+
+            "GRI 2-13": {
+              "metrics": {
+                "Opis":"Pełny",
+                "Country": "Poland",
+                "Text": "Za planowanie naszych działań wynikających ze Strategii Odpowiedzialnej Bankowości od 2021 r. odpowiada Forum ESG. W skład Forum wchodzi 11 członków reprezentujących wszystkie piony bankowe, a przewodniczy mu Prezes Zarządu Banku."
+
+                
+              }
+            },
+
+            "GRI 2-12": {
+              "metrics": {
+                "Opis":"Pełny",
+                "Country": "Poland",
+                "Text": "Za planowanie naszych działań wynikających ze Strategii Odpowiedzialnej Bankowości od 2021 r. odpowiada Forum ESG. W skład Forum wchodzi 11 członków reprezentujących wszystkie piony bankowe, a przewodniczy mu Prezes Zarządu Banku."
+
+                
+              }
+            }
+
+
+          }
+        }
+      },
+
+
+      {
+        "name": "PKO BP",
+        "language": "English",
+        "country": "Poland",
+        "standards": {
+            "GRI": {
+                "GRI 2-1": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Country": "Poland",
+                    "Ownership": "State Treasury (29.43%), NN OFE (9.25%), Allianz OFE (8.14%), Float (53.18%)",
+                    "HQ": "Warsaw",
+                    "Text": ""
+                  }
+                },
+    
+                "GRI 2-13": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Country": "Poland",
+                    "Text": "Bank stopniowo wdraża procesy i poszerza strukturę organizacyjną (governance), które mają zapewnić zintegrowane zarządzanie obszarem ESG. Część nowych zadań związanych z ESG została przypisana do istniejących jednostek, a tam, gdzie było to uzasadnione, powołano nowe jednostki, których zadania koncentrują się wyłącznie na kwestiach ESG. <br> <br> W lipcu 2023 roku w obszarze bankowości korporacyjnej i przedsiębiorstw powołano Departament Programów Publicznych ESG, do którego celów należy wspieranie rozwoju oferty dla klientów w zakresie produktów i usług powiązanych z programami publicznymi i unijnymi, w tym wspierającymi zrównoważony rozwój ESG, w szczególności transformację klimatyczną. <br> <br> W obszarze Operacji i Bankowości Międzynarodowej powołane zostało Biuro Wsparcia Operacji ESG, którego celem jest wsparcie operacyjne w pozyskiwaniu i budowie bazy danych w zakresie obsługiwanych klientów na potrzeby finansowania przez bank zrównoważonego rozwoju tych klientów oraz udział w usprawnianiu działań Banku dotyczących tego finansowania."
+    
+                    
+                  }
+                },
+    
+                "GRI 2-12": {
+                  "metrics": {
+                    "Opis":"Pełny",
+                    "Country": "Poland",
+                    "Text": "Bank stopniowo wdraża procesy i poszerza strukturę organizacyjną (governance), które mają zapewnić zintegrowane zarządzanie obszarem ESG. Część nowych zadań związanych z ESG została przypisana do istniejących jednostek, a tam, gdzie było to uzasadnione, powołano nowe jednostki, których zadania koncentrują się wyłącznie na kwestiach ESG. <br> <br> W lipcu 2023 roku w obszarze bankowości korporacyjnej i przedsiębiorstw powołano Departament Programów Publicznych ESG, do którego celów należy wspieranie rozwoju oferty dla klientów w zakresie produktów i usług powiązanych z programami publicznymi i unijnymi, w tym wspierającymi zrównoważony rozwój ESG, w szczególności transformację klimatyczną. <br> <br> W obszarze Operacji i Bankowości Międzynarodowej powołane zostało Biuro Wsparcia Operacji ESG, którego celem jest wsparcie operacyjne w pozyskiwaniu i budowie bazy danych w zakresie obsługiwanych klientów na potrzeby finansowania przez bank zrównoważonego rozwoju tych klientów oraz udział w usprawnianiu działań Banku dotyczących tego finansowania."
+    
+                    
+                  }
+                }
+    
+    
+              }
+            }
+          },
+    
+
+
+
+
+          {
+            "name": "Bank Millennium",
+            "language": "English",
+            "country": "Poland",
+            "standards": {
+                "GRI": {
+                    "GRI 2-1": {
+                      "metrics": {
+                        "Opis":"Pełny",
+                        "Country": "Poland",
+                        "Ownership": "Banco Commercial (50.10%), NN OFE (8.90%), Alliaz OFE (8.32%), OFE PZU (5.40%), Float (27.28%)",
+                        "HQ": "Warsaw",
+                        "Text": ""
+                      }
+                    },
+
+                    "GRI 2-12": {
+                      "metrics": {
+                        "Opis":"Pełny",
+                        "Country": "Poland",
+                        "Text": "Zarząd Banku odpowiada za efektywne zarządzanie obszarem zrównoważonego rozwoju w Banku, w zakresie kwestii środowiskowych, społecznych i dotyczących ładu korporacyjnego. Biorąc pod uwagę rosnące znaczenie zrównoważonego rozwoju dla działalności Grupy Banku Millennium, w 2021 roku Bank powołał Komitet Zrównoważonego Rozwoju oraz Biuro Zrównoważonego Rozwoju. Szczegółowe informacje na temat organizacji procesu zarządzania obszarem ESG zawarte są w rozdziale „Podejście do zarządzania zrównoważonym rozwojem”. "
+        
+                  }
+                      
+                    }
+                  }
+                }
+              },
+
+
+
+
+
+
+              {
+                "name": "Citi Bank Handlowy",
+                "language": "English",
+                "country": "Poland",
+                "standards": {
+                    "GRI": {
+                        "GRI 2-1": {
+                          "metrics": {
+                            "Opis":"Pełny",
+                            "Country": "Poland",
+                            "Ownership": "Citibank Europe (75%), Nationale Nederlanden PTE S.A. (5.28%), Float (19.74%)",
+                            "HQ": "Warsaw",
+                            "Text": "The strategic majority shareholder of the Bank that holds 75% of shares in equity and votes at the General Shareholders Meeting, is Citibank Europe Plc, with its registered office in Dublin, Ireland - Citigroup company that holds the group's overseas investments. Additionally, the total share of funds managed by Nationale Nederlanden PTE S.A. exceeds the threshold of 5% share in equity and votes at the General Shareholders Meeting"
+                          }
+                        }
+                      }
+                    }
+                  },
+
+                  {
+                    "name": "ING BS",
+                    "language": "English",
+                    "country": "Poland",
+                    "standards": {
+                        "GRI": {
+                            "GRI 2-1": {
+                              "metrics": {
+                                "Opis":"Pełny",
+                                "Country": "Poland",
+                                "Ownership": "ING Bank (75%), Alliaz Polska (9.30%), Float (15.70%)",
+                                "HQ": "Warsaw",
+                                "Text": "ING Bank N.V. is a member of ING Group – a global group of financial institutions offering retail and corporate banking services. ING Group companies pursue business in over 40 countries in Europe, North and South Americas, in the Near East as well as in Asia and Australia. ING Group pursues business in four areas: Market Leaders, Challengers, Growth Markets – including Poland as a well as through a global corporate banking network dedicated to strategic clients – Wholesale Banking. A Dutch financial institution, ING Groep N.V., is the ING Group’s parent company. It was incorporated in 1991 through the merger of a Dutch insurance company, Nationale-Nederlanden, with a Dutch bank, NMB Postbank Groep."
+                              }
+                            }
+                          }
+                        }
+                      },
+
+                      {
+                        "name": "BOS",
+                        "language": "English",
+                        "country": "Poland",
+                        "standards": {
+                            "GRI": {
+                                "GRI 2-1": {
+                                  "metrics": {
+                                    "Opis":"Pełny",
+                                    "Country": "Poland",
+                                    "Ownership": "NFOSiGW (58.05%), PDF Investment Fund (8.61%), State Forests (5.54%), Float (27.80%)",
+                                    "HQ": "Warsaw",
+                                    "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                  }
+                                }
+                              }
+                            }
+                          },
+
+                          {
+                            "name": "BNP Paribas",
+                            "language": "English",
+                            "country": "Poland",
+                            "standards": {
+                                "GRI": {
+                                    "GRI 2-1": {
+                                      "metrics": {
+                                        "Opis":"Pełny",
+                                        "Country": "Poland",
+                                        "Ownership": "BNP Paribas (81.28%), Float (18.72%)",
+                                        "HQ": "Warsaw",
+                                        "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+
+                              {
+                                "name": "Alior",
+                                "language": "English",
+                                "country": "Poland",
+                                "standards": {
+                                    "GRI": {
+                                        "GRI 2-1": {
+                                          "metrics": {
+                                            "Opis":"Pełny",
+                                            "Country": "Poland",
+                                            "Ownership": "PZU (31.94%), Aviva OFE (7.25%), NN OFE (7.12%), Float (53.69%)",
+                                            "HQ": "Warsaw",
+                                            "Text": ""
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+
+                                  {
+                                    "name": "KfW Development Bank",
+                                    "language": "English",
+                                    "country": "Germany",
+                                    "standards": {
+                                        "GRI": {
+                                            "GRI 2-1": {
+                                              "metrics": {
+                                                "Opis":"Pełny",
+                                                "Country": "Germany",
+                                                "Ownership": "Federal Government (80%), German States (20%)",
+                                                "HQ": "Frankfurt",
+                                                "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+
+
+
+{
+                                    "name": "CDP - Cassa Depositi e Prestiti",
+                                    "language": "English",
+                                    "country": "Italy",
+                                    "standards": {
+                                        "GRI": {
+                                            "GRI 2-1": {
+                                              "metrics": {
+                                                "Opis":"Pełny",
+                                                "Country": "Italy",
+                                                "Ownership": "Ministry of Economy and Finance (83.77%), Banking Foundations (15.93%), Treasury (1.30%)",
+                                                "HQ": "Rome",
+                                                "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "name": "European Investment Bank – EIB",
+                                        "language": "English",
+                                        "country": "Luxembourg",
+                                        "standards": {
+                                            "GRI": {
+                                                "GRI 2-1": {
+                                                  "metrics": {
+                                                    "Opis":"Pełny",
+                                                    "Country": "Luxembourg",
+                                                    "Ownership": "Member States of the European Union (100%)",
+                                                    "HQ": "Luxembourg",
+                                                    "Text": "The shareholders of the European Investment Bank are the 27 Member States of the European Union. The EU Member States are fully eligible for financing operations. Each Member State’s share in the Bank’s capital is based on its economic weight within the European Union (expressed in GDP) at the time of its accession. Under its Statute, the Bank is authorised to have maximum loans outstanding equivalent to two and a half times its subscribed capital."
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "name": "Cofides",
+                                            "language": "English",
+                                            "country": "Spain",
+                                            "standards": {
+                                                "GRI": {
+                                                    "GRI 2-1": {
+                                                      "metrics": {
+                                                        "Opis":"Pełny",
+                                                        "Country": "Spian",
+                                                        "Ownership": "ICEX, ICO, ENISA (56.68%), Banco Santander, BBVA, Bank Sabadell (46.32%",
+                                                        "HQ": "Madrid",
+                                                        "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+
+
+            
 
 
 ]

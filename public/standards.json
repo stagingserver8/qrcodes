@@ -80,8 +80,6 @@
             
         },
 
-
-
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-9",
@@ -107,6 +105,16 @@
         },
 
         {
+            "header":"Ład korporacyjny",
+            "name": "GRI 2-12",
+            "explainer": "The organization shall: <br> <br> a. describe the role of the highest governance body and of senior executives in developing, approving, and updating the organization’s purpose, value or mission statements, strategies, policies, and goals related to sustainable development; <br> b. describe the role of the highest governance body in overseeing the organization’s due diligence and other processes to identify and manage the organization’s impacts on the economy, environment, and people, including: <br> i. whether and how the highest governance body engages with stakeholders to support these processes; <br> ii. how the highest governance body considers the outcomes of these processes; <br> c. describe the role of the highest governance body in reviewing the effectiveness of the organization’s processes as described in 2-12-b, and report the frequency of this review.",
+            "short_explainer":"Rola najwyższego organu zarządczego w nadzorowaniu zarządzania wpływem            "
+            
+        },
+
+
+
+        {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-13",
             "explainer": "The organization shall: <br><br> a. Describe how the highest governance body delegates responsibility for managing the organization’s impacts on the economy, environment, and people, including: <br> i. whether it has appointed any senior executives with responsibility for the management of impacts; <br> ii. whether it has delegated responsibility for the management of impacts to other employees;",
@@ -125,7 +133,7 @@
 
 
 
-
+ 
         {
             "header" : "Ład korporacyjny",
             "name": "GRI 2-15",
@@ -314,41 +322,6 @@
 
 
 
-        {
-            "header":" Ład korporacyjny",
-            "name": "GRI 2-12",
-            "explainer": "corp gov ",
-            "short_explainer":"Rola najwyższego organu zarządczego w nadzorowaniu zarządzania wpływem            "
-            
-        },
-
-        {
-            "header":" Ład korporacyjny",
-            "name": "GRI 2-13",
-            "explainer": "describe how the highest governance body delegates responsibility for managing the organization’s impacts on the economy, environment, and people, including: whether it has appointed any senior executives with responsibility for the management of impacts; whether it has delegated responsibility for the management of impacts to other employees;",
-            "short_explainer": "Rola najwyższego organu zarządczego w nadzorowaniu zarządzania wpływem"  
-        },
-
-    
-
-        {
-            "header":" Ład korporacyjny",
-            "name": "GRI 2-21",
-            "explainer": "Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual). Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); ",
-            "short_explainer": "Całkowity roczny wskaźnik wynagrodzenia"
-    
-
-        },
-
-
-        {
-            "header":" Ład korporacyjny",
-            "name": "GRI 2-16",
-            "explainer": "The organization shall: <br><br> a. Describe whether and how critical concerns are communicated to the highest governance body; <br><br> b. Report the total number and the nature of critical concerns that were communicated to the highest governance body during the reporting period.",
-            "short_explainer": "Całkowity roczny wskaźnik wynagrodzenia"
-
-           
-        },
 
 
 
