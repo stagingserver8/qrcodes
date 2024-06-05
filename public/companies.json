@@ -1491,6 +1491,8 @@
                 "attachment_5": "images/sup/mbank6.png"
               },
 
+
+
               "GRI 2-28": {
                 "metrics": {
                   "Opis": "Pełny",
@@ -1646,7 +1648,8 @@
               "GRI 2-16": {
                   "metrics": {
                       "Opis": "Pełny",
-                      "Text": "W mBanku mamy mSygnal – elektroniczny system, który umożliwia anonimowe zgłaszanie wszelkich nadużyć (whistleblowing). Mogą z niego korzystać zarówno pracownicy, jak i klienci, z każdego urządzenia z dostępem do internetu.<br><br>mSygnal jest dostępny w trybie ciągłym, 24/7. Gwarantuje osobie zgłaszającej anonimowość, jeśli wybierze taką opcję. Można też założyć anonimową skrzynkę, na którą przyjdą informacje zwrotne na temat działań podjętych w wyniku zgłoszenia. Umożliwi to przekazanie dodatkowych informacji.<br><br>Zabronione są jakiekolwiek formy represji, dyskryminacji lub niesprawiedliwego traktowania pracowników, którzy zgłosili podejrzenie popełnienia nadużycia, nawet wtedy, gdy informacje nie zostaną potwierdzone. Wobec zgłaszających nie mogą być podejmowane żadne działania odwetowe.<br><br>Wszystkie informacje – zarówno te przekazane w zgłoszeniu, jak i te ustalone w postępowaniu wyjaśniającym – są traktowane jako poufne i chronione. Zgłoszenia w sposób obiektywny, rzetelny i bezstronny sprawdzają i analizują upoważnione osoby z Departamentu Rozwoju Pracowników i Kultury Organizacji, oddziałów zagranicznych, zespół rzeczniczki ds. etyki oraz Departament Compliance. Do systemu mSygnal i informacji o zgłoszonych nieprawidłowościach mają również dostęp przedstawiciele zarządu.<br><br>Rozpatrzenie zgłoszenia następuje w nieprzekraczalnym terminie 30 dni kalendarzowych od daty wpłynięcia. W przypadku potwierdzonych nadużyć sprawę kontynuujemy zgodnie z przepisami prawa i regulacjami wewnętrznymi banku.<br><br>W 2022 roku, w wyniku badania pracowników Pulse Check, odnotowaliśmy wzrost wiedzy na temat sposobu zgłaszania zachowań nieakceptowalnych na poziomie 8 p.p."
+                      "Text": "W mBanku mamy mSygnal – elektroniczny system, który umożliwia anonimowe zgłaszanie wszelkich nadużyć (whistleblowing). Mogą z niego korzystać zarówno pracownicy, jak i klienci, z każdego urządzenia z dostępem do internetu.<br><br>mSygnal jest dostępny w trybie ciągłym, 24/7. Gwarantuje osobie zgłaszającej anonimowość, jeśli wybierze taką opcję. Można też założyć anonimową skrzynkę, na którą przyjdą informacje zwrotne na temat działań podjętych w wyniku zgłoszenia. Umożliwi to przekazanie dodatkowych informacji.<br><br>Zabronione są jakiekolwiek formy represji, dyskryminacji lub niesprawiedliwego traktowania pracowników, którzy zgłosili podejrzenie popełnienia nadużycia, nawet wtedy, gdy informacje nie zostaną potwierdzone. Wobec zgłaszających nie mogą być podejmowane żadne działania odwetowe.<br><br>Wszystkie informacje – zarówno te przekazane w zgłoszeniu, jak i te ustalone w postępowaniu wyjaśniającym – są traktowane jako poufne i chronione. Zgłoszenia w sposób obiektywny, rzetelny i bezstronny sprawdzają i analizują upoważnione osoby z Departamentu Rozwoju Pracowników i Kultury Organizacji, oddziałów zagranicznych, zespół rzeczniczki ds. etyki oraz Departament Compliance. Do systemu mSygnal i informacji o zgłoszonych nieprawidłowościach mają również dostęp przedstawiciele zarządu.<br><br>Rozpatrzenie zgłoszenia następuje w nieprzekraczalnym terminie 30 dni kalendarzowych od daty wpłynięcia. W przypadku potwierdzonych nadużyć sprawę kontynuujemy zgodnie z przepisami prawa i regulacjami wewnętrznymi banku.<br><br>W 2022 roku, w wyniku badania pracowników Pulse Check, odnotowaliśmy wzrost wiedzy na temat sposobu zgłaszania zachowań nieakceptowalnych na poziomie 8 p.p.",
+                      "Liczba Przypadków": "-"
                   }
               },
 
@@ -1781,7 +1784,19 @@
         
                   }
                       
+                    },
+                    "GRI 2-13": {
+                      "metrics": {
+                        "Opis":"Pełny",
+                        "Country": "Poland",
+                        "Text": "Zarząd Banku odpowiada za efektywne zarządzanie obszarem zrównoważonego rozwoju w Banku, w zakresie kwestii środowiskowych, społecznych i dotyczących ładu korporacyjnego. Biorąc pod uwagę rosnące znaczenie zrównoważonego rozwoju dla działalności Grupy Banku Millennium, w 2021 roku Bank powołał Komitet Zrównoważonego Rozwoju oraz Biuro Zrównoważonego Rozwoju. Szczegółowe informacje na temat organizacji procesu zarządzania obszarem ESG zawarte są w rozdziale „Podejście do zarządzania zrównoważonym rozwojem”. "
+        
+                  }
+                      
                     }
+
+
+
                   }
                 }
               },
@@ -1805,7 +1820,32 @@
                             "HQ": "Warsaw",
                             "Text": "The strategic majority shareholder of the Bank that holds 75% of shares in equity and votes at the General Shareholders Meeting, is Citibank Europe Plc, with its registered office in Dublin, Ireland - Citigroup company that holds the group's overseas investments. Additionally, the total share of funds managed by Nationale Nederlanden PTE S.A. exceeds the threshold of 5% share in equity and votes at the General Shareholders Meeting"
                           }
+                        },
+
+    "GRI 2-12": {
+      "metrics": {
+          "Opis":"Pełny",
+            "Country": "Poland",
+          "Text": "W 2022 roku Citi Handlowy realizował przyjętą pod koniec 2021 roku strategię zrównoważonego rozwoju („ESG”), która jest integralną częścią strategii biznesowej Banku na lata 2022-2024.<br> Włączenie celów z obszaru Environmental, Social, Governance (ESG) do strategii Banku odzwierciedla wzrost znaczenia wpływu powyższych czynników na osiąganie założonych celów biznesowych Banku.<br> Jednym z filarów strategii ESG jest uwzględnienie czynników środowiskowych i społecznych w procesach kredytowych, które polega m.in. na uwzględnieniu ryzyk ESG w decyzjach kredytowych.<br> Cele z obszaru ESG są określone jako kluczowe w Strategii na lata 2022 – 2024.<br> Głównym celem działań podejmowanych przez Citi Handlowy w zakresie zrównoważonego rozwoju jest odpowiedzialne dostarczanie klientom usług finansowych, umożliwiających ich rozwój ekonomiczny, przy jednoczesnym uwzględnianiu czynników środowiskowych i społecznych w podejmowanych przez Bank procesach kredytowych.<br> Bank wspiera klientów w transformacji ich modeli biznesowych w kierunku zrównoważonego rozwoju i uwzględnienia czynników środowiskowych i społecznych w procesach decyzyjnych.<br> W tym celu Bank dokonuje oceny ryzyka klimatycznego (w tym ryzyka fizycznego i ryzyka przekształcenia) została przygotowana mapa ryzyka czynników środowiskowych dla poszczególnych branż, na które Bank posiada ekspozycje kredytowe.<br> Branżowa mapa ryzyka jest regularnie weryfikowana (przynajmniej raz w roku) w celu uwzględnienia zmian m.in. w otoczeniu regulacyjnym, trendach makroekonomicznych, czy zachowaniach społecznych.<br> Branżowa mapa ryzyk zawiera ratingi ryzyka fizycznego i ryzyka przekształcenia dla danej branży.<br> Natomiast indywidualna weryfikacja ma miejsce w przypadku ryzyka społecznego oraz ryzyka w obszarze zarządzania/ładu korporacyjnego.<br> Elementem oceny w ramach Ryzyka Zarządzania są praktyki zarządcze, w tym jakość struktur zarządzania, relacje pracownicze, zasady wynagrodzenia pracowników oraz przestrzeganie przepisów podatkowych.<br> Ponadto Bank zakłada w Strategii redukcję własnego śladu węglowego (redukcja emisji własnych gazów cieplarnianych i redukcja zużycia energii) i wspiera inicjatywy społecznej odpowiedzialności (poprzez Fundację im. Kronenberga, m.in. edukacja finansowa i w zakresie przedsiębiorczości, wolontariat pracowniczy, ochrona dziedzictwa kulturowego).<br> Adresatami działań ESG są również pracownicy Banku.<br> Poza zapewnieniem stabilności i atrakcyjnych warunków zatrudnienia Citi Handlowy nieustannie pracuje nad stworzeniem kultury organizacyjnej, w której panuje poszanowanie różnorodności oraz zapewnia wsparcie w kwestii zachowania równowagi między pracą a życiem prywatnym.<br> Całość procesu tworzenia strategii i ustanawiania celów strategicznych (zarówno celów finansowych jak celów z obszaru ESG) monitoruje Departament Strategii i Relacji Inwestorskich.<br> Poszczególne jednostki organizacyjne Banku uczestniczą w procesie przygotowania Strategii, tworząc projekcje cząstkowe strategii dla swoich zakresów działalności, które obejmują: cele finansowe, cele rynkowe, cele jakościowe, cele związane ze zrównoważonym rozwojem oraz główne inicjatywy biznesowe.<br> Za realizację celów ESG odpowiedzialne są jednostki organizacyjne Banku, w zakresie kompetencji których znajdują się poszczególne, wyznaczone w Strategii cele.<br> Ocena realizacji strategii, w tym realizacji celów z obszaru ESG, dokonywana jest przez Zarząd Banku oraz Komitet ds. Strategii i Zarządzania działający w ramach Rady Nadzorczej Banku przynajmniej dwa razy w roku.<br> Dodatkowo, monitoring celów strategicznych jest prowadzony także w ramach analizy ryzyka biznesowego, wykonywanej przez Departament Strategii i Relacji Inwestorskich, który systematycznie monitoruje poziom ryzyka biznesowego na podstawie analiz pozycji konkurencyjnej, wyników finansowych oraz otoczenia makroekonomicznego.<br> Ponadto, na bazie miesięcznej, monitorowany jest status tych projektów realizowanych w Banku, które są powiązane z obowiązującą Strategią.<br> Ryzyko związane z osiągnięciem planowanego wyniku finansowego jest monitorowane poprzez wykonywanie okresowych analiz wyników finansowych Banku w oparciu o system informacji zarządczej w odniesieniu do planu bądź w porównaniu do poszczególnych okresów sprawozdawczych.<br> Raporty dotyczące pozycji konkurencyjnej oraz raporty dotyczące wyników finansowych Banku są przekazywane Zarządowi Banku oraz szefom jednostek organizacyjnych Banku oraz spółek zależnych Banku.<br> Założenia aktualnie obowiązującej Strategii zostały zakomunikowane interesariuszom Banku poprzez komunikację na stronie internetowej Banku oraz poprzez spotkania członków Zarządu (m.in. Town-hall z pracownikami, konferencje wynikowe z inwestorami i dziennikarzami)."
+
+            
+                      }
+                          
+                        },
+
+                        "GRI 2-13": {
+                          "metrics": {
+                            "Opis":"Pełny",
+                            "Country": "Poland",
+      "Text": "W 2022 roku Citi Handlowy realizował przyjętą pod koniec 2021 roku strategię zrównoważonego rozwoju („ESG”), która jest integralną częścią strategii biznesowej Banku na lata 2022-2024.<br> Włączenie celów z obszaru Environmental, Social, Governance (ESG) do strategii Banku odzwierciedla wzrost znaczenia wpływu powyższych czynników na osiąganie założonych celów biznesowych Banku.<br> Jednym z filarów strategii ESG jest uwzględnienie czynników środowiskowych i społecznych w procesach kredytowych, które polega m.in. na uwzględnieniu ryzyk ESG w decyzjach kredytowych.<br> Cele z obszaru ESG są określone jako kluczowe w Strategii na lata 2022 – 2024.<br> Głównym celem działań podejmowanych przez Citi Handlowy w zakresie zrównoważonego rozwoju jest odpowiedzialne dostarczanie klientom usług finansowych, umożliwiających ich rozwój ekonomiczny, przy jednoczesnym uwzględnianiu czynników środowiskowych i społecznych w podejmowanych przez Bank procesach kredytowych.<br> Bank wspiera klientów w transformacji ich modeli biznesowych w kierunku zrównoważonego rozwoju i uwzględnienia czynników środowiskowych i społecznych w procesach decyzyjnych.<br> W tym celu Bank dokonuje oceny ryzyka klimatycznego (w tym ryzyka fizycznego i ryzyka przekształcenia) została przygotowana mapa ryzyka czynników środowiskowych dla poszczególnych branż, na które Bank posiada ekspozycje kredytowe.<br> Branżowa mapa ryzyka jest regularnie weryfikowana (przynajmniej raz w roku) w celu uwzględnienia zmian m.in. w otoczeniu regulacyjnym, trendach makroekonomicznych, czy zachowaniach społecznych.<br> Branżowa mapa ryzyk zawiera ratingi ryzyka fizycznego i ryzyka przekształcenia dla danej branży.<br> Natomiast indywidualna weryfikacja ma miejsce w przypadku ryzyka społecznego oraz ryzyka w obszarze zarządzania/ładu korporacyjnego.<br> Elementem oceny w ramach Ryzyka Zarządzania są praktyki zarządcze, w tym jakość struktur zarządzania, relacje pracownicze, zasady wynagrodzenia pracowników oraz przestrzeganie przepisów podatkowych.<br> Ponadto Bank zakłada w Strategii redukcję własnego śladu węglowego (redukcja emisji własnych gazów cieplarnianych i redukcja zużycia energii) i wspiera inicjatywy społecznej odpowiedzialności (poprzez Fundację im. Kronenberga, m.in. edukacja finansowa i w zakresie przedsiębiorczości, wolontariat pracowniczy, ochrona dziedzictwa kulturowego).<br> Adresatami działań ESG są również pracownicy Banku.<br> Poza zapewnieniem stabilności i atrakcyjnych warunków zatrudnienia Citi Handlowy nieustannie pracuje nad stworzeniem kultury organizacyjnej, w której panuje poszanowanie różnorodności oraz zapewnia wsparcie w kwestii zachowania równowagi między pracą a życiem prywatnym.<br> Całość procesu tworzenia strategii i ustanawiania celów strategicznych (zarówno celów finansowych jak celów z obszaru ESG) monitoruje Departament Strategii i Relacji Inwestorskich.<br> Poszczególne jednostki organizacyjne Banku uczestniczą w procesie przygotowania Strategii, tworząc projekcje cząstkowe strategii dla swoich zakresów działalności, które obejmują: cele finansowe, cele rynkowe, cele jakościowe, cele związane ze zrównoważonym rozwojem oraz główne inicjatywy biznesowe.<br> Za realizację celów ESG odpowiedzialne są jednostki organizacyjne Banku, w zakresie kompetencji których znajdują się poszczególne, wyznaczone w Strategii cele.<br> Ocena realizacji strategii, w tym realizacji celów z obszaru ESG, dokonywana jest przez Zarząd Banku oraz Komitet ds. Strategii i Zarządzania działający w ramach Rady Nadzorczej Banku przynajmniej dwa razy w roku.<br> Dodatkowo, monitoring celów strategicznych jest prowadzony także w ramach analizy ryzyka biznesowego, wykonywanej przez Departament Strategii i Relacji Inwestorskich, który systematycznie monitoruje poziom ryzyka biznesowego na podstawie analiz pozycji konkurencyjnej, wyników finansowych oraz otoczenia makroekonomicznego.<br> Ponadto, na bazie miesięcznej, monitorowany jest status tych projektów realizowanych w Banku, które są powiązane z obowiązującą Strategią.<br> Ryzyko związane z osiągnięciem planowanego wyniku finansowego jest monitorowane poprzez wykonywanie okresowych analiz wyników finansowych Banku w oparciu o system informacji zarządczej w odniesieniu do planu bądź w porównaniu do poszczególnych okresów sprawozdawczych.<br> Raporty dotyczące pozycji konkurencyjnej oraz raporty dotyczące wyników finansowych Banku są przekazywane Zarządowi Banku oraz szefom jednostek organizacyjnych Banku oraz spółek zależnych Banku.<br> Założenia aktualnie obowiązującej Strategii zostały zakomunikowane interesariuszom Banku poprzez komunikację na stronie internetowej Banku oraz poprzez spotkania członków Zarządu (m.in. Town-hall z pracownikami, konferencje wynikowe z inwestorami i dziennikarzami)."
+            
+                      }
+                          
                         }
+
+
+
+
                       }
                     }
                   },
@@ -1824,6 +1864,26 @@
                                 "HQ": "Warsaw",
                                 "Text": "ING Bank N.V. is a member of ING Group – a global group of financial institutions offering retail and corporate banking services. ING Group companies pursue business in over 40 countries in Europe, North and South Americas, in the Near East as well as in Asia and Australia. ING Group pursues business in four areas: Market Leaders, Challengers, Growth Markets – including Poland as a well as through a global corporate banking network dedicated to strategic clients – Wholesale Banking. A Dutch financial institution, ING Groep N.V., is the ING Group’s parent company. It was incorporated in 1991 through the merger of a Dutch insurance company, Nationale-Nederlanden, with a Dutch bank, NMB Postbank Groep."
                               }
+                            },
+
+                            "GRI 2-12": {
+                              "metrics": {
+                                "Opis":"Brak",
+                                "Country": "Poland",
+                                "Text": ""
+                
+                          }
+                              
+                            },
+
+                            "GRI 2-13": {
+                              "metrics": {
+                                "Opis":"Brak",
+                                "Country": "Poland",
+                                "Text": " "
+                
+                          }
+                              
                             }
                           }
                         }
@@ -1843,7 +1903,29 @@
                                     "HQ": "Warsaw",
                                     "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                                   }
+                                },
+
+                                "GRI 2-12": {
+                                  "metrics": {
+                                    "Opis":"Pełny",
+                                    "Country": "Poland",
+                                    "Text": "Zarządzanie ryzykiem realizowane jest na wszystkich poziomach struktury organizacyjnej:<br>• Rada Nadzorcza Banku sprawuje nadzór nad systemem zarządzania ryzykiem oraz ocenia adekwatność i skuteczność tego systemu,<br>• Zarząd Banku projektuje, wprowadza oraz zapewnia działanie systemu zarządzania ryzykiem,<br>• dedykowane komitety, jednostki odpowiadające za identyfikację, pomiar, monitorowanie, kontrolę i redukcję ryzyka oraz jednostki biznesowe, odpowiedzialne są za bieżące zarządzanie różnymi rodzajami ryzyka bankowego w ramach modelu ustalonego przez Zarząd Banku."
+                    
+                              }
+                                  
+                                },
+                                "GRI 2-13": {
+                                  "metrics": {
+                                    "Opis":"Pełny",
+                                    "Country": "Poland",
+                                    "Text": "Zarządzanie ryzykiem realizowane jest na wszystkich poziomach struktury organizacyjnej:<br>• Rada Nadzorcza Banku sprawuje nadzór nad systemem zarządzania ryzykiem oraz ocenia adekwatność i skuteczność tego systemu,<br>• Zarząd Banku projektuje, wprowadza oraz zapewnia działanie systemu zarządzania ryzykiem,<br>• dedykowane komitety, jednostki odpowiadające za identyfikację, pomiar, monitorowanie, kontrolę i redukcję ryzyka oraz jednostki biznesowe, odpowiedzialne są za bieżące zarządzanie różnymi rodzajami ryzyka bankowego w ramach modelu ustalonego przez Zarząd Banku."
+
+                    
+                              }
+                                  
                                 }
+                                
+                                
                               }
                             }
                           },
@@ -1862,7 +1944,31 @@
                                         "HQ": "Warsaw",
                                         "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                                       }
+                                    },
+
+                                    "GRI 2-12": {
+                                      "metrics": {
+                                        "Opis":"Brak",
+                                        "Country": "Poland",
+                                        "Ownership": "BNP Paribas (81.28%), Float (18.72%)",
+                                        "HQ": "Warsaw",
+                                        "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                      }
+                                    },
+
+                                    "GRI 2-13": {
+                                      "metrics": {
+                                        "Opis":"Brak",
+                                        "Country": "Poland",
+                                        "Ownership": "BNP Paribas (81.28%), Float (18.72%)",
+                                        "HQ": "Warsaw",
+                                        "Text": ""
+                                      }
                                     }
+
+
+
+
                                   }
                                 }
                               },
@@ -1881,7 +1987,36 @@
                                             "HQ": "Warsaw",
                                             "Text": ""
                                           }
+                                        },
+
+                                        "GRI 2-16": {
+                                          "metrics": {
+                                            "Opis":"Pełny",
+                                            "Country": "Poland"
+                                          }
+                                        },
+
+                                        "GRI 2-12": {
+                                          "metrics": {
+                                            "Opis":"Pełny",
+                                            "Country": "Poland",
+                                            "Text": "Wybrani członkowie zarządu Banku są bezpośrednio odpowiedzialni za obszar ESG oraz ryzyka ESG. Przewodniczą oni również Komitetowi ds. Zrównoważonego Rozwoju, który stanowi również platformę dialogu wewnątrz organizacji, łączącą perspektywę zrównoważonego rozwoju w różnych departamentach."
+                                          }
+                                        },
+
+
+                                        "GRI 2-13": {
+                                          "metrics": {
+                                            "Opis":"Pełny",
+                                           
+                                            "Text": "Aby wzmocnić zarządzanie ESG, powołaliśmy Zespół Strategii ESG, który aktywizuje, inspiruje i współpracuje z wszystkimi jednostkami w Banku w tematyce zrównoważonego rozwoju i ESG.<br> Wszyscy pracownicy Banku zostali objęci obowiązkowym szkoleniem wewnętrznym w obszarze ESG.<br> Ogromnym sukcesem było również przeprowadzenie Tygodnia ESG, który obejmował cykl wykładów i warsztatów.<br> Ponadto, część wyższej kadry menedżerskiej została objęta celami ESG w schemacie MBO.<br> Jesteśmy instytucją zaufania publicznego, wysoce regulowaną przez wielu krajowych i międzynarodowych regulatorów.<br> Trwałym elementem naszego DNA jest reprezentowanie najwyższych standardów odpowiedzialności wobec wszystkich stron, z którymi współpracujemy, oraz etyczne zarządzanie w organizacji.<br> Dlatego też priorytetem jest dla nas zgodność regulacyjna.<br> Bank wdrożył przepisy prawne regulujące kwestie ESG wynikające z MiFID II, SFDR oraz tzw. Taksonomii UE i przygotowuje się do wdrażania CSRD oraz przepisów dotyczących ryzyka ESG.<br> W 2023 r. poddaliśmy się również niezależnemu ratingowi Sustainalytics.<br> Wyniki ratingu zostały ogłoszone w styczniu 2024 r.<br> Agencja oceniła Alior Bank na 24,3 punkty, dzięki czemu znaleźliśmy się w grupie podmiotów o średnim ryzyku pod kątem kwestii ESG.<br> Stanowiło to poprawę względem poprzedniej oceny o 10 punktów.<br> Każdego roku poszerzamy spektrum monitorowanych wskaźników ESG, które mają wpływ na nasze decyzje strategiczne i zarządzanie ryzykiem.<br> Wskaźniki ESG monitorujemy i publikujemy od 2017 r., kiedy to Alior Bank opublikował pierwszy raport niefinansowy oparty na standardach raportowania zrównoważonego rozwoju GRI."
+                                          }
                                         }
+
+
+
+
+
                                       }
                                     }
                                   },
@@ -1900,7 +2035,30 @@
                                                 "HQ": "Frankfurt",
                                                 "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                                               }
-                                            }
+                                            },
+
+                                            
+                                        "GRI 2-12": {
+                                          "metrics": {
+                                            "Opis":"Pełny",
+                                            "Country": "Poland",
+                                            "Text": "The key role which sustainable goals and purposes play in KfW’s financing business is evident in its promotional contributions, its strategic positioning through the tranSForm project, and the incorporation of national and international standards:<br>– The SDG mapping reveals that KfW’s promotion makes a wide range of contributions to the Sustainable Development Goals of the United Nations (UN): in 2022, KfW Group again covered all 17 SDGs.<br>– The 100% mapping rate means that all new KfW financing aims to contribute to at least one SDG (→ chapter on banking business, page 66).<br>– With the implementation of the KfW Roadmap Sustainable Finance, a process launched in 2021 as part of the tranSForm project, KfW is modernising its impact and risk management, among other things, aligning its business management even more closely with sustainability objectives.<br>– KfW affirms its alignment with national and international standards by reporting, for example, in accordance with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD, → page 53) as well as through its commitment to the Principles for Responsible Investment (→ UN PRI)."
+
+                                          }
+                                        },
+
+                                        
+                                        "GRI 2-13": {
+                                          "metrics": {
+                                            "Opis":"Pełny",
+                                            "Country": "Poland",
+                                            "Text": "The key role which sustainable goals and purposes play in KfW’s financing business is evident in its promotional contributions, its strategic positioning through the tranSForm project, and the incorporation of national and international standards:<br>– The SDG mapping reveals that KfW’s promotion makes a wide range of contributions to the Sustainable Development Goals of the United Nations (UN): in 2022, KfW Group again covered all 17 SDGs.<br>– The 100% mapping rate means that all new KfW financing aims to contribute to at least one SDG (→ chapter on banking business, page 66).<br>– With the implementation of the KfW Roadmap Sustainable Finance, a process launched in 2021 as part of the tranSForm project, KfW is modernising its impact and risk management, among other things, aligning its business management even more closely with sustainability objectives.<br>– KfW affirms its alignment with national and international standards by reporting, for example, in accordance with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD, → page 53) as well as through its commitment to the Principles for Responsible Investment (→ UN PRI)."
+
+                                          }
+                                        }
+
+
+
                                           }
                                         }
                                       },
@@ -1921,7 +2079,29 @@
                                                 "HQ": "Rome",
                                                 "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                                               }
+                                            },
+
+                                            "GRI 2-12": {
+                                              "metrics": {
+                                                "Opis":"Pełny",
+                                                
+                                           
+                                              "Text": ""
+                                              }
+                                            },
+
+                                            "GRI 2-13": {
+                                              "metrics": {
+                                                "Opis":"Pełny",
+                                                
+                                              
+                                                "Text": ""
+                                              }
                                             }
+
+
+
+
                                           }
                                         }
                                       },
@@ -1938,6 +2118,24 @@
                                                     "Ownership": "Member States of the European Union (100%)",
                                                     "HQ": "Luxembourg",
                                                     "Text": "The shareholders of the European Investment Bank are the 27 Member States of the European Union. The EU Member States are fully eligible for financing operations. Each Member State’s share in the Bank’s capital is based on its economic weight within the European Union (expressed in GDP) at the time of its accession. Under its Statute, the Bank is authorised to have maximum loans outstanding equivalent to two and a half times its subscribed capital."
+                                                  }
+                                                },
+
+                                                "GRI 2-12": {
+                                                  "metrics": {
+                                                    "Opis":"Pełny",
+                                                    
+                                               
+                                                  "Text": ""
+                                                  }
+                                                },
+    
+                                                "GRI 2-13": {
+                                                  "metrics": {
+                                                    "Opis":"Pełny",
+                                                    
+                                                  
+                                                    "Text": ""
                                                   }
                                                 }
                                               }
@@ -1956,6 +2154,24 @@
                                                         "Ownership": "ICEX, ICO, ENISA (56.68%), Banco Santander, BBVA, Bank Sabadell (46.32%",
                                                         "HQ": "Madrid",
                                                         "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
+                                                      }
+                                                    },
+
+                                                    "GRI 2-12": {
+                                                      "metrics": {
+                                                        "Opis":"Pełny",
+                                                        
+                                                   
+                                                      "Text": ""
+                                                      }
+                                                    },
+        
+                                                    "GRI 2-13": {
+                                                      "metrics": {
+                                                        "Opis":"Pełny",
+                                                        
+                                                      
+                                                        "Text": ""
                                                       }
                                                     }
                                                   }
