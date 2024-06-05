@@ -38,7 +38,7 @@
 
 .explainer-card {
     position: absolute; 
-    top: -750px !important;
+    top: -900px;
     left: 105%;
     width: 600px !important;
     margin-left: 20px; 
