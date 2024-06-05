@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const QRCode = require('qrcode');
 const Customer = require('./models/customer');
 const app = express();
-const port = process.env.PORT || 3003;
+const port = process.env.PORT || 3005;
 
 // Set the view engine to ejs
 app.set('view engine', 'ejs');
@@ -64,8 +64,15 @@ app.get('/customer-form', (req, res) => {
 // Route to serve the Customer Form page
 app.get('/esg', (req, res) => {
     // res.render('esg'); // This will render the customer-form.ejs from your views folder
-    res.render('esg-test'); 
+    res.render('esg'); 
 });
+
+app.get('/esg3', (req, res) => {
+    // res.render('esg'); // This will render the customer-form.ejs from your views folder
+    res.render('esg3'); 
+});
+
+
 app.get('/esg1', (req, res) => {
     res.render('esg'); // This will render the customer-form.ejs from your views folder
     // res.render('esg-test');
