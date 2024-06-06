@@ -1,9 +1,14 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Set up card titles based on initially selected item
     // const selectedItem =  document.querySelector('input[name="item"]:checked').value;
-    const selectedItem = document.getElementById('items').value;
+    //Now that the item dropdown is a button, we can hardcode the first selected item
+    const selectedItem = 'Governance'//document.getElementById('items').value;
 
-     
+
+    //get user assigned companies 
+
+    // console.log(loggedInUser)
+
     updateCardTitles(selectedItem);
 
     // Set up event listeners for badges and standards selections
@@ -65,7 +70,17 @@ function updateCardTitles(selectedItem) {
         'Environment': 'EnvSubheadings',
         'Other': 'OtherSubheadings'
     };
-    console.log(selectedItem)
+
+    const items = {
+        'Governance': 'Ład Korporacyjny',
+        'Social': 'Społeczeńśtwo',
+        'Environment': 'Środowisko',
+        'Other': 'Inne'
+    };
+
+    //set the button text
+    var itemsBtn = document.getElementById('itemsBtn')
+    itemsBtn.innerText = items[`${selectedItem}`]
 
     Object.values(subheadings).forEach(id => document.getElementById(id).style.display = 'none');
     const selectedElement = document.getElementById(subheadings[selectedItem]);
@@ -345,7 +360,12 @@ function populateTable(selectedGRI) {
                 .then(data => {
                     const tableBody = document.getElementById('table-body');
                     tableBody.innerHTML = '';
-                    data.forEach(company => {
+                    //Only show th companies the user is assigned to  
+                    var companies = data.filter(item => loggedInUser.companies.includes(item.name));
+                    console.log(companies)
+                    //display the filtered companies only
+                    companies.forEach(company => {
+
                         const tr = document.createElement('tr');
 
                         const tdCompany = document.createElement('td');
