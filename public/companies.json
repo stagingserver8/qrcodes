@@ -1505,6 +1505,20 @@
               },
 
 
+              "GRI 2-29": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Prowadzimy szczery, transparentny i oparty na szacunku dialog z naszymi interesariuszami. Ich oczekiwania, potrzeby i opinie traktujemy jako cenny głos i wskazówki dotyczące naszych działań i planów. Rozmawiamy, dopasowując kanał i częstotliwość komunikacji do potrzeb najważniejszych grup interesariuszy. Odpowiedzialną komunikację uważamy za jeden z kluczowych sposobów budowania zaufania.<br><br>Społeczeństwo:<br>- Fundacja mBanku i jej beneficjenci,<br>- przedstawiciele organizacji społecznych,<br>- WOŚP, jej beneficjenci i wolontariusze.<br><br>Klienci:<br>- klienci indywidualni,<br>- przedsiębiorstwa, w tym mikroprzedsiębiorcy,<br>- klienci korporacyjni,<br>- instytucje rynku finansowego.<br><br>Otoczenie instytucjonalne:<br>- Komisja Nadzoru Finansowego (KNF),<br>- Narodowy Bank Polski (NBP),<br>- Rzecznik Finansowy,<br>- Urząd Ochrony Konkurencji i Konsumentów (UOKiK)."
+
+                },
+                "attachment_1": "images/sup/mbank9.png"
+              
+            
+              },
+
+
+
+
 
               "GRI 2-2": {
                 "metrics": {
@@ -1647,7 +1661,7 @@
             
               "GRI 2-16": {
                   "metrics": {
-                      "Opis": "Pełny",
+                      "Opis": "Cześćiowy",
                       "Text": "W mBanku mamy mSygnal – elektroniczny system, który umożliwia anonimowe zgłaszanie wszelkich nadużyć (whistleblowing). Mogą z niego korzystać zarówno pracownicy, jak i klienci, z każdego urządzenia z dostępem do internetu.<br><br>mSygnal jest dostępny w trybie ciągłym, 24/7. Gwarantuje osobie zgłaszającej anonimowość, jeśli wybierze taką opcję. Można też założyć anonimową skrzynkę, na którą przyjdą informacje zwrotne na temat działań podjętych w wyniku zgłoszenia. Umożliwi to przekazanie dodatkowych informacji.<br><br>Zabronione są jakiekolwiek formy represji, dyskryminacji lub niesprawiedliwego traktowania pracowników, którzy zgłosili podejrzenie popełnienia nadużycia, nawet wtedy, gdy informacje nie zostaną potwierdzone. Wobec zgłaszających nie mogą być podejmowane żadne działania odwetowe.<br><br>Wszystkie informacje – zarówno te przekazane w zgłoszeniu, jak i te ustalone w postępowaniu wyjaśniającym – są traktowane jako poufne i chronione. Zgłoszenia w sposób obiektywny, rzetelny i bezstronny sprawdzają i analizują upoważnione osoby z Departamentu Rozwoju Pracowników i Kultury Organizacji, oddziałów zagranicznych, zespół rzeczniczki ds. etyki oraz Departament Compliance. Do systemu mSygnal i informacji o zgłoszonych nieprawidłowościach mają również dostęp przedstawiciele zarządu.<br><br>Rozpatrzenie zgłoszenia następuje w nieprzekraczalnym terminie 30 dni kalendarzowych od daty wpłynięcia. W przypadku potwierdzonych nadużyć sprawę kontynuujemy zgodnie z przepisami prawa i regulacjami wewnętrznymi banku.<br><br>W 2022 roku, w wyniku badania pracowników Pulse Check, odnotowaliśmy wzrost wiedzy na temat sposobu zgłaszania zachowań nieakceptowalnych na poziomie 8 p.p.",
                       "Liczba Przypadków": "-"
                   }
@@ -1772,6 +1786,15 @@
     
                     
                   }
+                },
+
+                "GRI 2-16": {
+                  "metrics": {
+                    "Opis":"Brak"
+                   
+    
+                    
+                  }
                 }
     
     
@@ -1798,6 +1821,19 @@
                         "Text": ""
                       }
                     },
+                    
+
+              "GRI 2-16": {
+                "metrics": {
+                    "Opis": "Pełny",
+                    "Text": "Zgłoszenia wnoszone w ramach opisanego powyżej procesu zgłaszania naruszeń są raportowane przez Departament Zapewnienia Zgodności w ramach obowiązków sprawozdawczych do Zarządu Banku, Komitetu Audytu Rady Nadzorczej oraz do Rady Nadzorczej. W roku 2022 nie zaraportowano ani jednego zgłoszenia.",
+                    "Liczba Przypadków": "0"
+                }
+            },
+
+
+                    
+
 
                     "GRI 2-12": {
                       "metrics": {
@@ -1844,6 +1880,15 @@
                             "Text": "The strategic majority shareholder of the Bank that holds 75% of shares in equity and votes at the General Shareholders Meeting, is Citibank Europe Plc, with its registered office in Dublin, Ireland - Citigroup company that holds the group's overseas investments. Additionally, the total share of funds managed by Nationale Nederlanden PTE S.A. exceeds the threshold of 5% share in equity and votes at the General Shareholders Meeting"
                           }
                         },
+
+                        "GRI 2-16": {
+                          "metrics": {
+                              "Opis": "Brak",
+                              "Text": "",
+                              "Liczba Przypadków": "-"
+                          }
+                      },
+
 
     "GRI 2-12": {
       "metrics": {
@@ -1899,6 +1944,15 @@
                               
                             },
 
+                            "GRI 2-16": {
+                              "metrics": {
+                                  "Opis": "Pełny",
+                                  "Text": "Pracownicy mogą anonimowo zgłaszać podejrzenia popełnienia przestępstwa, łamanie zasad etyki zawodowej i wątpliwości za pomocą dedykowanego formularza w intranecie, który zapewnia poufność lub pocztą tradycyjną. Zgłoszenie mogą przekazać również imiennie – i w takim przypadku zapewniamy poufność i dyskrecję, a także ochronę przed działaniami o charakterze represyjnym. Jeśli zgłoszenie się potwierdzi, podejmowane są właściwe działania naprawcze oraz zapobiegawcze na przyszłość. Co do zasady zgłoszenia przyjmuje Prezes Zarządu. Powyższe znajduje swoje odzwierciedlenie w Polityce anonimowego zgłaszania naruszeń prawa, regulacji wewnętrznych i standardów etycznych (dalej: Polityka) oraz procedurach wewnętrznych banku, które obejmują również ochronę przed działaniami odwetowymi. Alternatywnie, pracownicy banku mogą dokonać zgłoszenia naruszenia zasad etyki przy użyciu zewnętrznych kanałów raportowania obsługiwanych przez podmiot zewnętrzny, za pośrednictwem linii telefonicznej (dostępna 24/7), strony internetowej lub adresu mailowego. W 2022 roku zostały przekazane 20 zgłoszenia kwalifikujące się do rozpatrzenia w trybie określonym w Polityce, dotyczące m.in. dyskryminacji, mobbingu lub naruszenia regulacji wewnętrznych banku. Po analizie i działaniach wyjaśniających w 2 przypadkach potwierdzono nieprawidłowości i zastosowano działania naprawcze (rozmowy z pracownikami przypominające zasady postępowania w określonych przypadkach). Każdy nowy pracownik naszej grupy kapitałowej przechodzi obligatoryjne szkolenie z zakresu zgłaszania naruszeń prawa i zasad etyki zawodowej. W celu przypomnienia zasad zgłaszania zachowań niezgodnych z prawem, niewłaściwych lub nieetycznych, w III kwartale 2022 roku, w ramach przedsięwzięcia Kultura Ryzyka, odbyła się seria wydarzeń poświęcona Sygnalistom i zgłaszaniu naruszeń. Przybliżono pracownikom banku tematykę zgłaszania naruszeń oraz sygnalistów i ich znaczenia dla organizacji i społeczeństwa. Przypomniany został również sposób zgłaszania naruszeń w banku.",
+                                  "short_explainer": "Podmioty uwzględnione w ramach raportowania kwestii zrównoważonego rozwoju",
+                                  "Liczba Przypadków": "20"
+                              }
+                          },
+
                             "GRI 2-13": {
                               "metrics": {
                                 "Opis":"Brak",
@@ -1937,6 +1991,17 @@
                               }
                                   
                                 },
+
+
+                                "GRI 2-16": {
+                                  "metrics": {
+                                      "Opis": "Pełny",
+                                      "Text": "W banku istnieje możliwość zgłaszania przez pracowników lub inne osoby wykonujące czynności na rzecz banku naruszeń prawa lub etyki w banku, poprzez: <br> 1) platformę elektroniczną, będącą specjalnym, niezależnym i autonomicznym kanałem komunikacji, umożliwiającym wysłanie zgłoszenia bez podania swej tożsamości (aplikacja umieszczona w portalu wewnętrznym banku), <br> 2) w formie pisemnej, w szczególności w przypadkach braku dostępu do platformy elektronicznej, skierowanej do Prezesa Zarządu Banku albo Przewodniczącego Rady Nadzorczej, z oznaczeniem na kopercie wyrazów „anonimowe zgłoszenie naruszenia”. Pracownicy, byli pracownicy banku lub inne osoby, które wykonują lub wykonywały czynności na rzecz banku na innej podstawie niż stosunek pracy, mogą zgłaszać naruszenia przepisów z zakresu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu bezpośrednio do Generalnego Inspektora Informacji Finansowej (GIIF). Pracownicy oraz inne osoby wykonujące czynności na rzecz banku, narażone na działania o charakterze represyjnym lub wpływające na pogorszenie ich sytuacji prawnej lub faktycznej, lub polegające na kierowaniu wobec nich gróźb lub którym nie zapewniono należytej ochrony przed podejmowaniem takich działań, są uprawnieni do zgłoszenia do GIIF przypadków takich działań (w postaci elektronicznej pod wskazany przez GIIF adres poczty elektronicznej: sygnalisci.GIIF@mf.gov.pl albo w postaci papierowej pod wskazany przez GIIF adres do korespondencji). Powyższe kwestie reguluje Procedura anonimowego zgłaszania naruszeń prawa oraz obowiązujących w Banku Ochrony Środowiska S.A. procedur i standardów etycznych. Wszystkie zgłoszenia raportowane są w cyklach kwartalnych, zgodnie z obowiązującym w banku Systemem Informacji Zarządczej do Zarządu i Rady Nadzorczej.",
+                                      "Liczba Przypadków": "0"
+                                  }
+                              },
+
+
                                 "GRI 2-13": {
                                   "metrics": {
                                     "Opis":"Pełny",
@@ -1987,7 +2052,16 @@
                                         "HQ": "Warsaw",
                                         "Text": ""
                                       }
-                                    }
+                                    },
+
+                                    "GRI 2-16": {
+                                      "metrics": {
+                                          "Opis": "Brak",
+                                          "Text": "",
+                                          "Liczba Przypadków": "-"
+                                      }
+                                  }
+    
 
 
 
@@ -2014,8 +2088,10 @@
 
                                         "GRI 2-16": {
                                           "metrics": {
-                                            "Opis":"Pełny",
-                                            "Country": "Poland"
+                                            "Opis":"Cześćiowy",
+                                            "Text": "Ogromną wagę przykładamy do właściwego zorganizowania systemu zgłaszania naruszeń, czego odzwierciedleniem jest Polityka zgłaszania naruszeń i ochrony sygnalistów. Chcemy, aby pracownicy mogli łatwo i bez obaw przekazać informacje lub podzielić się wątpliwościami. Celem Polityki jest określenie zasad postępowania w przypadku zgłoszeń naruszeń wewnętrznych zgodnie z Dyrektywą Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (dalej: Dyrektywa oraz: sygnalista). Polityka określa procedury zgłaszania oraz rozpatrywania zgłoszeń nieprawidłowości w miejscu pracy oraz zapewnienia ochrony sygnalistom przed działaniami odwetowymi. Uzupełnieniem Polityki zgłaszania naruszeń i ochrony sygnalistów jest Polityka środowiska pracy wolnego od niepożądanych zachowań, w postaci Procedury postępowania dotyczącej zgłoszenia niepożądanych zachowań w Alior Bank S.A., szczegółowo regulującej postępowanie pracodawcy w przypadku otrzymania zgłoszenia występowania nieprawidłowości w środowisku pracy.",
+                                            "Liczba Przypadków": "-"
+                                    
                                           }
                                         },
 
@@ -2027,6 +2103,8 @@
                                           }
                                         },
 
+
+                                        
 
                                         "GRI 2-13": {
                                           "metrics": {
@@ -2059,6 +2137,14 @@
                                                 "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                                               }
                                             },
+
+                                            "GRI 2-16": {
+                                              "metrics": {
+                                                  "Opis": "Cześćiowy",
+                                                  "Text": "Complaint mechanisms: Mechanisms that allow anonymous complaints by groups of persons involved in promoted projects and KfW business activities. Systematic follow-up of complaints and potential associated economic, social and environmental impacts.",
+                                                  "Liczba Przypadków": "-"
+                                              }
+                                          },
 
                                             
                                         "GRI 2-12": {
@@ -2103,6 +2189,14 @@
                                                 "Text": "Bank Gospodarstwa Krajowego to podmiot funkcjonujący w formule prawnej banku państwowego . Bank prowadzi działalność także poprzez jednostki w 16  regionach Polski oraz posiada przedstawicielstwa zagraniczne (w Brukseli, Amsterdamie, Londynie, Frankfurcie nad Menem)."
                                               }
                                             },
+
+                                            "GRI 2-16": {
+                                              "metrics": {
+                                                  "Opis": "Brak",
+                                                  "Text": "",
+                                                  "Liczba Przypadków": "-"
+                                              }
+                                          },
 
                                             "GRI 2-12": {
                                               "metrics": {
@@ -2152,6 +2246,22 @@
                                                   "Text": ""
                                                   }
                                                 },
+
+                                                "GRI 2-16": {
+                                                  "metrics": {
+                                                      "Opis": "Pełny",
+                                                      "Text": "The EIB Group Complaints Mechanism Division within the Inspectorate General is responsible for the implementation of the Complaints Mechanism Policy and Procedures, including its status, authority, responsibilities, rules of conduct and relationship with the European Ombudsman and other parts of the EIB Group. The Management Committee of the EIB, the Chair of the EIB’s Audit Committee and the EIF Chief Executive receive a quarterly report prepared by the EIB Group Complaints Mechanism. An annual report, including decisions taken on recommendations by the EIB Group Complaints Mechanism or the European Ombudsman, is submitted to the EIB Management Committee and the EIF Chief Executive for them to take note of its content. The EIB Management Committee and the EIF Chief Executive submit it respectively to the EIB Board of Directors and to the EIF Board of Directors, after which it is published on the website. With the establishment of the current Complaints Mechanism policy in November 2018, semi-annual reporting to the Board of Directors was introduced. Thus, the EIB Group Complaints Mechanism provided the Boards of Directors of the EIB and EIF with two semi-annual reports respectively during 2022.",
+                                                      "Liczba Przypadków": "6"
+                                                  }
+                                              },
+
+                                              "GRI 2-29": {
+                                                "metrics": {
+                                                    "Opis": "Pełny",
+                                                    "Text": "As a public body and a bank, the EIB engages with a wide variety of stakeholders. The following list provides an overview of direct stakeholder groups engaged by the EIB Group."
+                                                    
+                                                }
+                                            },
     
                                                 "GRI 2-13": {
                                                   "metrics": {
@@ -2188,6 +2298,14 @@
                                                       "Text": ""
                                                       }
                                                     },
+
+                                                    "GRI 2-16": {
+                                                      "metrics": {
+                                                          "Opis": "Brak",
+                                                          "Text": "",
+                                                          "Liczba Przypadków": "-"
+                                                      }
+                                                  },
         
                                                     "GRI 2-13": {
                                                       "metrics": {
