@@ -1,14 +1,13 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const QRCode = require('qrcode');
-const Customer = require('./models/customer');
 const User = require('./User');
 var session = require('express-session');
 var cookieParser = require('cookie-parser');
 
 
 const app = express();
-const port = process.env.PORT || 3005;
+const port = process.env.PORT || 3010;
 
 // Set the view engine to ejs
 app.set('view engine', 'ejs');
@@ -64,20 +63,7 @@ app.get('/esg2', (req, res) => {
     res.render('esg2'); // This will render a view called 'qr.ejs' from your views folder
 });
 
-app.post('/register', async (req, res) => {
-    try {
-        const { name, email } = req.body;
-        const customer = new Customer({ name, email });
-        await customer.save();
-        res.send("Thank you for registering!");
-    } catch (error) {
-        res.status(500).send("Error registering customer");
-    }
-});
-// Route to serve the Customer Form page
-app.get('/customer-form', (req, res) => {
-    res.render('customer-form'); // This will render the customer-form.ejs from your views folder
-});
+
 
 // Route to serve the Customer Form page
 app.get('/esg', (req, res) => {
@@ -135,26 +121,7 @@ app.get('/reports', (req, res) => {
 
 
 
-app.post('/edit-customer/:id', async (req, res) => {
-    const { id } = req.params;
-    const { name, email } = req.body;
-    try {
-        await Customer.findByIdAndUpdate(id, { name, email });
-        res.json({ message: 'Customer updated successfully' });
-    } catch (error) {
-        res.status(500).json({ message: 'Error updating customer' });
-    }
-});
 
-app.delete('/delete-customer/:id', async (req, res) => {
-    const { id } = req.params;
-    try {
-        await Customer.findByIdAndDelete(id);
-        res.json({ message: 'Customer deleted successfully' });
-    } catch (error) {
-        res.status(500).json({ message: 'Error deleting customer' });
-    }
-});
 
 
 
