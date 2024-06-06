@@ -8,7 +8,7 @@
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-1",
-            "explainer": "",
+            "explainer": "The organization shall: <br> <br> a. report its legal name; <br> b. report its nature of ownership and legal form; <br> c. report the location of its headquarters; <br> d. report its countries of operation.",
             "short_explainer":"Dane Organizacji"
             
         },
@@ -204,7 +204,7 @@
         {
             "header" : "Strategia, polityki i praktyki",
             "name": "GRI 2-22",
-            "explainer": "The organization shall: <br><br> a. Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees (excluding the highest-paid individual); <br> b. Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual); <br> c. Report contextual information necessary to understand the data and how the data has been compiled.",
+            "explainer": "The company shall: <br> report a statement from the highest governance body or most senior executive of the organization about the relevance of sustainable development to the organization and its strategy for contributing to sustainable development.",
             "short_explainer": "Oświadczenie dotyczące strategii zrównoważonego rozwoju"
            
         },

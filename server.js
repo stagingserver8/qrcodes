@@ -8,7 +8,7 @@ var cookieParser = require('cookie-parser');
 
 
 const app = express();
-const port = process.env.PORT || 3003;
+const port = process.env.PORT || 3005;
 
 // Set the view engine to ejs
 app.set('view engine', 'ejs');
@@ -84,7 +84,7 @@ app.get('/esg', (req, res) => {
     // res.render('esg'); // This will render the customer-form.ejs from your views folder
     //get the active session
     if (req.session.authenticated) {
-        res.render('esg-test', { user: req.session.user });
+        res.render('esg3', { user: req.session.user });
         return
     }
     //if not authenticated, go to login page
@@ -110,6 +110,14 @@ app.post('/', (req, res) => {
     })
 
 });
+
+   
+
+app.get('/esg3', (req, res) => {
+    // res.render('esg'); // This will render the customer-form.ejs from your views folder
+    res.render('esg3'); 
+});
+
 
 app.get('/esg1', (req, res) => {
     res.render('esg'); // This will render the customer-form.ejs from your views folder

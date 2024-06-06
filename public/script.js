@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 function selectDefaultGRI() {
-    const defaultGRI = "GRI 2-2";
+    const defaultGRI = "GRI 2-1";
     populateTable(defaultGRI);
     showExplainerCard(defaultGRI);
 
@@ -538,7 +538,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 // Example to trigger table population manually for testing
-populateTable("GRI 2-2"); // Adjust this as needed based on your actual use case
+populateTable("GRI 2-1"); // Adjust this as needed based on your actual use case
 
 
 
