@@ -47,6 +47,10 @@
 
 </head>
 
+<script>
+    //set the logged in user
+    var loggedInUser = JSON.parse('<%-JSON.stringify(user) %>' )        
+ </script>
 <body>
     <div class="page">
         <!-- Start of header  -->
@@ -78,16 +82,16 @@
 
         <!-- start of body  -->
 
-        <div class="page-wrapper " >
-            <div class="page-header d-print-none mt-3 mb-0" >
+        <div class="page-wrapper ">
+            <div class="page-header d-print-none mt-3 mb-0">
                 <div class="container-xl" style="max-width:93%">
                     <div class="row g-2 align-items-center">
                         <div class="row">
                             <!-- Standard dropdown  -->
                             <div class="col-md-2 mb-2">
                                 <label for="subOptionsDropdown" class="form-label"><strong>Standard</strong></label>
-                                <div class="dropdown">
-                                    <button class="btn dropdown-toggle" id="subOptionsDropdown"
+                                <div class="dropdown ">
+                                    <button class="btn dropdown-toggle w-100  text-left"   id="subOptionsDropdown"
                                         data-bs-toggle="dropdown" aria-expanded="false">
                                         Wybierz
                                     </button>
@@ -98,18 +102,41 @@
                                 </div>
 
                             </div>
-                            <!-- End of Standard dropdown  -->
+                            <!-- End of Standard dropdown  --> 
 
                             <!-- Item dropdown  -->
-                            <div class="col-md-3 mb-2">
+                            <div class="col-md-2 mb-2">
                                 <label for="subOptionsDropdown" class="form-label"><strong>Item</strong></label>
-                                <select class="form-select" id="items"
+
+                                 
+                                <div class="dropdown" >
+                                    <button id="itemsBtn" class="btn dropdown-toggle w-100" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Item
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item"
+                                                href="javascript:updateCardTitles('Governance');">Ład
+                                                Korporacyjny</a></li>
+                                        <li><a class="dropdown-item"
+                                                href="javascript:updateCardTitles('Social');">Społeczeńśtwo</a>
+                                        </li>
+                                        <li><a class="dropdown-item"
+                                                href="javascript:updateCardTitles('Environment');">Środowisko</a>
+                                        </li>
+                                        <li><a class="dropdown-item"
+                                                href="javascript:updateCardTitles('Other');">Inne</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+
+                                <!-- <select class="form-select" id="items"
                                     onchange="updateCardTitles(this.value); clearStandardSelection();">
                                     <option value="Governance" selected>Ład Korporacyjny</option>
                                     <option value="Social">Społeczeńśtwo</option>
                                     <option value="Environment">Środowisko</option>
                                     <option value="Other">Inne</option>
-                                </select>
+                                </select> -->
 
 
 
@@ -164,7 +191,7 @@
                 </div>
             </div>
             <!-- Page body -->
-            <div class="page-body mt-1  "   >
+            <div class="page-body mt-1  ">
                 <div class="container-xl " style="max-width:93%">
                     <div class="row row-deck row-cards ">
                         <!-- Start of Table content  -->
@@ -274,6 +301,8 @@
             </div>
         </div>
     </div>
+
+    
 
     <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script> -->
     <script src="script.js"></script>
