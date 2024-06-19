@@ -20,7 +20,7 @@
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-2",
-            "explainer": " The organization shall: <br>  <br> a. list all its entities included in its sustainability reporting; <Br> <br> b. if the organization has audited consolidated financial statements or financial information filed on public record, specify the differences between the list of entities included in its financial reporting and the list included in its sustainability reporting; c.if the organization consists of multiple entities, explain the approach used for consolidating the information, including: i. whether the approach involves adjustments to information for minority interests; <br> ii.how the approach takes into account mergers acquisitions, and disposal of entities or parts of entities <br> iii. whether and how the approach differs across the disclosures in this Standard and across material topics",
+            "explainer": " The organization shall: <br>  <br> a. list all its entities included in its sustainability reporting; <Br> <br> b. if the organization has audited consolidated financial statements or financial information filed on public record, specify the differences between the list of entities included in its financial reporting and the list included in its sustainability reporting; c.if the organization consists of multiple entities, explain the approach used for consolidating the information, including: <br><br> i. whether the approach involves adjustments to information for minority interests; <br><br> ii.how the approach takes into account mergers acquisitions, and disposal of entities or parts of entities <br><br> iii. whether and how the approach differs across the disclosures in this Standard and across material topics",
             "short_explainer":"Podmioty uwzględnione w ramach raportowania kwestii zrównoważonego rozwoju"
     
 
@@ -28,7 +28,7 @@
         {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-3",
-            "explainer": "The organization shall: <br> <br>  a. specify the reporting period for, and the frequency of, its sustainability reporting; <br> <br> specify the reporting period for its financial reporting and, if it does not align with the period for its sustainability reporting, explain the reason for this; <Br> <Br> c. report the publication date of the report or reported information; <br> <br> d. specify the contact point for questions about the report or reported information. ",
+            "explainer": "The organization shall: <br> <br>  a. specify the reporting period for, and the frequency of, its sustainability reporting; <br> <br> b. specify the reporting period for its financial reporting and, if it does not align with the period for its sustainability reporting, explain the reason for this; <Br> <Br> c. report the publication date of the report or reported information; <br> <br> d. specify the contact point for questions about the report or reported information. ",
             "short_explainer": "Okres raportowania, częstotliwość i dane kontaktowe"
             
         },
@@ -60,12 +60,7 @@
 
 
 
-        {
-           
-            "name": "Board",
-            "explainer": "Hi",
-            "short_explainer": "Board Explainer"
-        },
+   
 
 
         {
@@ -326,23 +321,7 @@
         },
 
 
-
-
-
-
-        {
-            "name": "GRI 2-19",
-            "explainer": "The organization shall: <br><br> a. Describe the remuneration policies for members of the highest governance body and senior executives, including: <br> i. fixed pay and variable pay; <br> ii. sign-on bonuses or recruitment incentive payments; <br> iii. termination payments; <br> iv. clawbacks; <br> v. retirement benefits; <br><br> b. Describe how the remuneration policies for members of the highest governance body and senior executives relate to their objectives and performance in relation to the management of the organization’s impacts on the economy, environment, and people.",
-            "headers": ["Disclosing"] 
-        },
-
-        {
-            "name": "GRI 2-20",
-            "explainer": "The organization shall: <br><br> a. Describe the process for designing its remuneration policies and for determining remuneration, including: <br> i. whether independent highest governance body members or an independent remuneration committee oversees the process for determining remuneration; <br> ii. how the views of stakeholders (including shareholders) regarding remuneration are sought and taken into consideration; <br> iii. whether remuneration consultants are involved in determining remuneration and, if so, whether they are independent of the organization, its highest governance body and senior executives; <br><br> b. Report the results of votes of stakeholders (including shareholders) on remuneration policies and proposals, if applicable.",
-            "headers": ["Disclosing"] 
-        },
-
-     
+   
 
     
 
@@ -443,7 +422,7 @@
             "header":"Ocena środowiskowa dostawców",
             "name": "GRI 308-1",
             "explainer": "test test test",
-            "short_explainer":"Nowi dostawcy, którzy zostali zweryfikowani przy wykorzystaniu kryteriów środowiskowychy"
+            "short_explainer":"Nowi dostawcźy, którzy zostali zweryfikowani przy wykorzystaniu kryteriów środowiskowychy"
             
         },
 
@@ -453,7 +432,7 @@
         {
             "header":"Zatrudnienie",
             "name": "GRI 401-1",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information: <br> <br> a. Total number and rate of new employee hires during the reporting period, by age group, gender and region. <Br> <br> b. Total number and rate of employee turnover during the reporting period, by age group, gender and region.",
             "short_explainer":"Łączna liczba i odsetek nowych pracowników zatrudnionych oraz łączna liczba odejść w okresie raportowania"
             
         },
@@ -461,7 +440,7 @@
         {
             "header":"Zatrudnienie",
             "name": "GRI 401-2",
-            "explainer": "bla",
+            "explainer": " The reporting organization shall report the following information: <Br> <Br> a. Benefits which are standard for full-time employees of the organization but are not provided to temporary or part-time employees, by significant locations of operation. These include, as a minimum: <br> i. life insurance; <br> ii. health care; <br> iii. disability and invalidity coverage; <br> iv. parental leave; <br> v. retirement provision; <br> vi. stock ownership; <br> vii. others.<br> <br> b. The definition used for ‘significant locations of operation’.",
             "short_explainer":"Świadczenia dodatkowe (benefity) zapewniane pracownikom pełnoetatowym"
             
         },
@@ -470,8 +449,19 @@
         {
             "header":"Zatrudnienie",
             "name": "GRI 401-3",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information: <br> <br> a. Total number of employees that were entitled to parental leave, by gender. <br> <br> b. Total number of employees that took parental leave, by gender. <br> <br> c. Total number of employees that returned to work in the reporting period after parental leave ended, by gender. <br> <br> d. Total number of employees that returned to work after parental leave ended that were still employed 12 months after their return to work, by gender. <br> <br> e. Return to work and retention rates of employees that took parental leave, by gender.", 
             "short_explainer":"Urlopy rodzicielskie"
+            
+        },
+
+
+
+
+        {
+            "header":"Zdrowie i bezpieczeństwo",
+            "name": "GRI 403-1",
+            "explainer": "bla",
+            "short_explainer":""
             
         },
 
@@ -479,7 +469,7 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-2",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information for employees and for workers who are not employees but whose work and/or workplace is controlled by the organization: <br> <br> a) A description of the processes used to identify work-related hazards and assess risks on a routine and non-routine basis, and to apply the hierarchy of controls in order to eliminate hazards and minimize risks, including: <Br> <br> i. how the organization ensures the quality of these processes, including the competency of persons who carry them out; <br> ii. how the results of these processes are used to evaluate and continually improve the occupational health and safety management system. <br> <br> A description of the processes for workers to report work-related hazards and hazardous situations, and an explanation of how workers are protected against reprisals. <br> <br> c. A description of the policies and processes for workers to remove themselves from work situations that they believe could cause injury or ill health, and an explanation of how workers are protected against reprisals.<br><br> d. A description of the processes used to investigate work-related incidents, including the processes to identify hazards and assess risks relating to the incidents, to determine corrective actions using the hierarchy of controls, and to determine improvements needed in the occupational health and safety management system. ",
             "short_explainer":"Procesy identyfikacji zagrożeń, ocena ryzyka oraz badania wypadków"
             
         },

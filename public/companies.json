@@ -27,15 +27,27 @@
                 },
 
 
-                "Board": {
+                "KPIs": {
                   "metrics": {
-                    "Opis": "Pełny",
-                  "Text": "Wohallerks"
+                    "Opis": "Brak",
+                  "Text": "No details were provided"
 
                   }
                  
               
                 },
+
+                "Materiality": {
+                  "metrics": {
+                    "Opis": "Pełny",
+                  "Text": "Works"
+
+                  }
+                 
+              
+                },
+
+
 
              
 
@@ -583,9 +595,11 @@
                 "GRI 2-5": {
                   "metrics": {
                     "Opis":"Pełny",
-                    "Text": "Bank zlecił zewnętrzną atestację raportu zintegrowanego za 2022 r. Weryfikacja dotyczyła w szczególności: <br> <br> 1. Adekwatności, dokładności oraz jakości informacji w nim zawartych (wg standardów GRI 2021 i wytycznych IIRC). Audytor przeprowadził procedury audytowe zgodnie z ISAE 3000 <br> <br> 2. Oceny raportu pod względem istotności, uwzględnienia interesariuszy, kontekstu zrównoważonego rozwoju, przystępności zawartych informacji, przejrzystości i porównywalności, a także aktualności danych. <br> <br> 3. Weryfikacji śladu węglowego z podziałem na organizację (GRI 305-1, 305-2 zgodnie ze standardem ISAE 3410) oraz przegląd procesów BGK dotyczących zbierania i agregowania danych w tym zakresie."
+                    "Text": "Bank zlecił zewnętrzną atestację raportu zintegrowanego za 2022 r. Weryfikacja dotyczyła w szczególności: <br> <br> 1. Adekwatności, dokładności oraz jakości informacji w nim zawartych (wg standardów GRI 2021 i wytycznych IIRC). Audytor przeprowadził procedury audytowe zgodnie z ISAE 3000 <br> <br> 2. Oceny raportu pod względem istotności, uwzględnienia interesariuszy, kontekstu zrównoważonego rozwoju, przystępności zawartych informacji, przejrzystości i porównywalności, a także aktualności danych. <br> <br> 3. Weryfikacji śladu węglowego z podziałem na organizację (GRI 305-1, 305-2 zgodnie ze standardem ISAE 3410) oraz przegląd procesów BGK dotyczących zbierania i agregowania danych w tym zakresie.",
+                     "Zew Weryfikacja" : "Pełny"
 
                                 }
+                  
                 
                 },
 
@@ -687,6 +701,11 @@
                 },
 
 
+
+
+
+
+
                 "GRI 2-17": {
                   "metrics": {
                     "Opis": "Pełny",
@@ -741,7 +760,7 @@
                     "Country": "Poland",
                     "Ownership": "PZU (20%), PFR (12.80%), Other (67.20%)",
                     "HQ": "Warsaw",
-                    "Text": "Bank Polska Kasa Opieki Spółka Akcyjna (dalej: „Bank”, „Bank Pekao”) jest bankiem zorganizowanym w formie spółki akcyjnej, działającym na podstawie obowiązujących przepisów prawa, w szczególności ustawy Prawo bankowe oraz przepisów Kodeksu spółek handlowych i postanowień Statutu Banku Polska Opieki Pekao Spółka Akcyjna (dalej: „Statut Banku Pekao” – tekst jednolity dostępny na stronie.Bank działa na terytorium Rzeczypospolitej Polskiej. Główna siedziba mieści się w Warszawie, przy ul. Grzybowskiej 53/57 (kod pocztowy 00-950). Dodatkowa siedziba znajduje się przy ul. Żwirki i Wigury 31 w Warszawie (kod pocztowy 02-091). <br> <br> Na rok 2023 zaplanowane zostało przeniesienie siedzib Banku do nowej lokalizacji w Warszawie przy ul. Burakowskiej 14 (kod pocztowy 01-066). Nadzór nad działalnością Banku Pekao sprawuje Komisja Nadzoru Finansowego (dalej „KNF”). Od 1998 roku Bank Pekao jest notowany na Giełdzie Papierów Wartościowych w Warszawie. Począwszy od 2017 roku, Bank Pekao jest częścią Grupy Kapitałowej PZU S.A. (dalej: „Grupa PZU”), największej instytucji finansowej w Europie Środkowo-Wschodniej."
+                    "Text": "Bank Polska Kasa Opieki Spółka Akcyjna (dalej: „Bank”, „Bank Pekao”) jest bankiem zorganizowanym w formie spółki akcyjnej, działającym na podstawie obowiązujących przepisów prawa, w szczególności ustawy Prawo bankowe oraz przepisów Kodeksu spółek handlowych i postanowień Statutu Banku Polska Opieki Pekao Spółka Akcyjna (dalej: „Statut Banku Pekao” – tekst jednolity dostępny na stronie.Bank działa na terytorium Rzeczypospolitej Polskiej. Główna siedziba mieści się w Warszawie, przy ul. Grzybowskiej 53/57 (kod pocztowy 00-950). Dodatkowa siedziba znajduje się przy ul. Żwirki i Wigury 31 w Warszawie (kod pocztowy 02-091)."
                   },
                   "attachment_1": "images/sup/Pekao_3.png",
                   "attachment_2": "images/sup/Pekao_4.png",
@@ -1089,7 +1108,7 @@
                   "GRI 2-28": {
                     "metrics": {
                       "Opis": "Pełny",
-                      "Text": "Bank Polska Kasa Opieki S.A., założony w 1929 roku, jest jedną z największych instytucji finansowych w regionie Europy Środkowo-Wschodniej i drugim największym bankiem uniwersalnym w Polsce z ponad 200 mld zł aktywów. Bank prowadzi operacje zarówno w złotych polskich, jak i w walutach obcych oraz aktywnie uczestniczy w obrocie na krajowym i zagranicznych rynkach finansowych. Oferuje pełen zakres usług bankowych na rzecz klientów indywidualnych oraz instytucjonalnych. Jako bank korporacyjny Bank Pekao obsługuje co drugą korporację w Polsce. Bank posiada ugruntowaną pozycję lidera rynku w obszarze private banking, zarządzania aktywami i działalności maklerskiej. Zróżnicowany profil działalności Banku Pekao jest wspierany przez silną pozycję kapitałową i płynnościową przy zachowaniu najwyższych standardów w zakresie zarządzania ryzykiem. Bank oferuje konkurencyjne na rynku polskim produkty i usługi, wysoki poziom obsługi klientów oraz rozwiniętą sieć dystrybucji. Szeroka oferta produktowa, nowatorskie rozwiązania i indywidualne podejście do klienta zapewniają kompleksową obsługę finansową, a zintegrowany model obsługi dostarcza najwyższej jakości usługi klientom oraz zapewnia optymalne dopasowanie do zmieniających się potrzeb. Bank systematycznie umacnia pozycję rynkową w strategicznych obszarach działalności. Szczegółowy katalog czynności wykonywanych w obrocie krajowym i zagranicznym został ujęty w paragrafie 6 Statutu Banku. <br> Bank Pekao aktywnie działa w stowarzyszeniach i organizacjach branżowych. Zaangażowanie w tym zakresie można podzielić na cztery główne obszary: <ul><li>Związek Banków Polskich wraz z Komitetami i Radami, w tym: Komitet Bankowe Centrum Cyberbezpieczeństwa, Komitet ds. Finansowania Nieruchomości, Komitet Agentów Rozliczeniowych, Rada Wydawców Kart Bankowych, Rada Bankowości Elektronicznej,</li> <li> Stowarzyszenia i organizacje o zasięgu międzynarodowym, w tym: International Swaps and Derivatives Association (ISDA), International Project Finance Association (IPFA), United Nations Global Compact,</li> <li> Stowarzyszenia i organizacje o zasięgu ogólnopolskim, w tym: Stowarzyszenie Emitentów Giełdowych, Izba Domów Maklerskich, Polskie Stowarzyszenie Zarządzania Kadrami, Stowarzyszenie Dealerów Bankowych ACI Polska, Polskie Stowarzyszenie Inwestorów Kapitałowych</li> <li> Stowarzyszenia i organizacje o zasięgu lokalnym: Lubelski Klub Biznesu, Podkarpacki Klub Biznesu.</li> </ul>"
+                      "Text": "Bank Pekao aktywnie działa w stowarzyszeniach i organizacjach branżowych. Zaangażowanie w tym zakresie można podzielić na cztery główne obszary: <ul><li>Związek Banków Polskich wraz z Komitetami i Radami, w tym: Komitet Bankowe Centrum Cyberbezpieczeństwa, Komitet ds. Finansowania Nieruchomości, Komitet Agentów Rozliczeniowych, Rada Wydawców Kart Bankowych, Rada Bankowości Elektronicznej,</li> <li> Stowarzyszenia i organizacje o zasięgu międzynarodowym, w tym: International Swaps and Derivatives Association (ISDA), International Project Finance Association (IPFA), United Nations Global Compact,</li> <li> Stowarzyszenia i organizacje o zasięgu ogólnopolskim, w tym: Stowarzyszenie Emitentów Giełdowych, Izba Domów Maklerskich, Polskie Stowarzyszenie Zarządzania Kadrami, Stowarzyszenie Dealerów Bankowych ACI Polska, Polskie Stowarzyszenie Inwestorów Kapitałowych</li> <li> Stowarzyszenia i organizacje o zasięgu lokalnym: Lubelski Klub Biznesu, Podkarpacki Klub Biznesu.</li> </ul>"
                     },
                     "attachment_1": "images/sup/Pekao_6.png"
                   },
@@ -1421,7 +1440,7 @@
 
                 "GRI 2-27": {
                   "metrics": {
-                    "Opis":"Cześciowy",
+                    "Opis":"Cześćiowy",
                     "Liczba Przypadków": "",
               
                     "Text": "Bank w codziennej działalności mierzy się ze stale rosnącymi wyzwaniami związanym z dynamicznie zmieniającym się otoczeniem regulacyjnym. W obszarze ładu korporacyjnego kluczową aktywnością pozostaje zapobieganie naruszeniom i ochrona Banku przed wszelkim niewłaściwymi postępowaniami, w zgodzie z obowiązującym przepisami prawa, regulacjami i przyjętymi standardami etycznymi. Stosowany w Banku ład korporacyjny wynika z przepisów prawa (w szczególności z Kodeksu spółek handlowych, Prawa bankowego i przepisów regulujących funkcjonowanie rynku kapitałowego), a także z zasad ujętych w „Dobrych praktykach spółek notowanych na GPW”, „Zasadach ładu korporacyjnego dla instytucji nadzorowanych” wydanych przez Komisję Nadzoru Finansowego oraz w „Kodeksie Etyki Bankowej” Związku Banków Polskich. Podstawowym aktem regulacyjnym w zakresie etyki postępowania jest dostępny publicznie Kodeks Postępowania Grupy Pekao. <br> Bank przestrzega najwyższych standardów w zakresie postępowania z informacjami poufnymi w rozumieniu Rozporządzenia Parlamentu Europejskiego i Rady z dn. 16 kwietnia 2014 roku w sprawie nadużyć na rynku (dalej: MAR). Wdrożono precyzyjną regulację w klarowny sposób określającą zasady postępowania z informacjami poufnymi w rozumieniu MAR oraz ich ochrony przed nieuprawnionym ujawnieniem lub wykorzystaniem. Regulacja określa zasady związane z dokonywaniem transakcji na instrumentach finansowych przez pracowników Banku, w tym pracowników posiadających dostęp do informacji poufnych w rozumieniu rozporządzenia MAR. Dla Banku bardzo istotne jest przestrzeganie przez osoby pełniące obowiązki zarządcze oraz osoby blisko z nimi związane ograniczeń w dokonywaniu transakcji na instrumentach finansowych związanych z tak zwanymi okresami zamkniętymi poprzedzającymi publikację raportów okresowych Banku. Z tego powodu osoby pełniące obowiązki zarządcze poza informacjami otrzymywanymi ze względu na obowiązujące przepisy prawa, regularnie otrzymują informację o każdym zbliżającym się okresie zamkniętym oraz związanych z nim ograniczeniach w dokonywaniu transakcji na instrumentach finansowych Banku. Każda informacja o dokonaniu transakcji przez osobę pełniącą obowiązki zarządcze lub osobę blisko z nią związaną jest raportowana zgodnie z obowiązującymi przepisami prawa. Bank stale monitoruje aktywność pracowników w zakresie transakcji na instrumentach finansowych" 
@@ -1477,6 +1496,9 @@
                   }
               },
 
+
+
+
               "GRI 2-6": {
                 "metrics": {
                   "Opis": "Pełny",
@@ -1492,15 +1514,215 @@
               },
 
 
+              "GRI 2-27": {
+                "metrics": {
+                  "Opis": "Cześćiowy",
+                "Text": "Przeprowadziliśmy szereg działań, których celem była zmiana istniejących procesów i wpro- wadzenie nowych w celu weryfikacji działalności funduszy inwestycyjnych, dla których mBank pełni funkcję depozytariusza. Wdrożyliśmy procesy monitorowania aktywności rynków notowań, z których pobierane są kursy papierów wartościowych pomocne w wy- cenie aktywów funduszy inwestycyjnych. Jeżeli chodzi o fundusze sekurytyzacyjne, wska- zane w uzasadnieniu sankcji, bank jest zaangażowany w przywracanie sprawozdawczości i wznowienie prawidłowych wycen ich aktywów. W tym celu weryfikujemy czynności wykonywane przez podmioty zarządzające funduszami. Badamy, czy są zgodne z prawem i statutami tych funduszy, zarówno w odniesieniu do bieżącej działalności, jak i okresów historycznych."
+             
+
+                }
+            
+              },
+
+
+
+              "GRI 401-2": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Wynagrodzenia uzupełnia bogaty pakiet świadczeń niefinansowych dostępnych dla wszyst- kich pracowników, bez względu na wymiar współpracy z mBankiem.<br><br> W 2022 roku były to: ubezpieczenie na życie, <br> opieka zdrowotna,<br> dofinansowanie do karty Multisport,<br> dofinansowanie rozwoju i wsparcia pasji pracowników zrzeszonych w klubach, <br> dofinansowanie do wypoczynku z Zakładowego Funduszu Świadczeń Socjalnych, <br> dofinansowanie bożonarodzeniowe z Zakładowego Funduszu Świadczeń Socjalnych <br> dwa dodatkowe dni wolne opieki nad dzieckiem dla rodziców dzieci do 14. roku życia."
+             
+
+                }
+            
+              },
+
+
+              "GRI 401-3": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "W 2022 roku mBank znalazł się na liście firm najbardziej zaawansowanych w zarządzaniu róż- norodnością i inkluzją w Polsce. Listę przygotowało Forum Odpowiedzialnego Biznesu, koor- dynator Karty Różnorodności, której sygnatariuszem jesteśmy od 2018 roku. Poziom zarządza- nia różnorodnością w mBanku został oceniony w badaniu Diversity IN Check. <br> <br> W styczniu 2022 roku mBank po raz drugi znalazł się też w gronie spółek indeksu Bloomberg Gender-Equality Index (indeks równości płci). Indeks obejmuje 418 spółek z 45 krajów i 11 sekto- rów gospodarki. Wchodzące w jego skład firmy są oceniane pod kątem działań na rzecz równości kobiet i mężczyzn oraz transparentne raportowanie w tym zakresie. Eksperci Bloomberga docenili nas za zaangażowanie na rzecz przejrzystości i wyznaczanie nowego standardu w ujawnianiu danychzwiązanych z różnorodnością płci. W wynikach opublikowanych w styczniu 2023 roku uzyskaliśmy natomiast widocznie lepsze oceny w kategoriach dotyczących równe- go wynagradzania kobiet i mężczyzn, a także inkluzywnej kultury pracy.",
+                "Licz. Pracow. (M) Uprawn.":"153",
+                "Licz. Pracow. (K) Uprawn.":"444"
+
+          },
+                "attachment_1": "images/sup/mbank18.png"
+            
+              },
+
+
+
+              "GRI 308-1": {
+                "metrics": {
+                  "Opis": "Brak",
+                "Text": ""
+             
+
+                }
+            
+              },
+
+
+
 
               "GRI 2-28": {
                 "metrics": {
                   "Opis": "Pełny",
-                "Text": "Jako Grupa jesteśmy członkiem kilkudziesięciu polskich i międzynarodowych organizacji promujących najlepsze praktyki biznesowe w świecie finansów."
+                "Text": "Jako Grupa jesteśmy członkiem kilkudziesięciu polskich i międzynarodowych organizacji promujących najlepsze praktyki biznesowe w świecie finansów. <br> <br> ACI Polska Stowarzyszenie Rynków Finansowych CFA Institute, Executive Club Sp. z o.o., Fundacja Instytut Allerhanda, Institute of International Finance, International Swaps and Derivatives Association Inc, IPFA, The Project Finance Association, ITFA International Trade & Forfaiting Association, Izba Gospodarki Elektronicznej. Polska Rada Biznesu. Polska Rada Centrów Handlowych, Polski Komitet Narodowy, Międzynarodowej Izby Handlowej Polskie Stowarzyszenie Inwestorów Kapitałowych Polsko-Niemiecka, Izba Przemysłowo-Handlowa Polsko-Szwajcarska Izba Gospodarcza, The Institute of Internal Auditors, Związek Banków Polskich, Związek Pracodawców SHOKOKAI"
              
 
                 },
                 "attachment_1": "images/sup/mbank7.png"
+            
+              },
+
+
+              "GRI 2-29": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Prowadzimy szczery, transparentny i oparty na szacunku dialog z naszymi interesariusza- mi. Ich oczekiwania, potrzeby i opinie traktujemy jako cenny głos i wskazówki dotyczące naszych działań i planów. Rozmawiamy, dopasowując kanał i częstotliwość komunikacji do potrzeb najważniejszych grup interesariuszy. Odpowiedzialną komunikację uważamy za jeden z kluczowych sposobów budowania zaufania. <br> <br> Społeczeństwo: Fundacja mBanku i jej beneficjenci, przedstawiciele organizacji społecznych, WOŚP, jej beneficjenci i wolontariusze <br> <br> Klienci: klienci indywidualni, przedsiębiorstwa, w tym mikroprzedsiębiorcy, klienci korporacyjni, instytucje rynku finansowego <br> <br> Otoczenie instytucjonalne <br> <br> Komisja Nadzoru Finansowego (KNF), Narodowy Bank Polski (NBP), Rzecznik Finansowy, Urząd Ochrony Konkurencji i Konsument – w (UOKiK)  <br> <br> Inwestorzy: Commerzbank (inwestor strategiczny), inwestorzy instytucjonalni, inwestorzy indywidualni, Giełda Papierów Wartościowych w Warszawie, agencje ratingowe i domy maklerskie <br><br> Pracownicy: aktualni pracownicy, potencjalni pracownicy <br> <br> Partnerzy biznesowi: dostawcy i partnerzy biznesowi, organizacje gospodarcze, do których należy bank, w tym ZBP, konkurenci, spółki zależne, w których bank ma udziały mniejszościowe"
+             
+
+                },
+                "attachment_1": "images/sup/mbank10.png",
+                "attachment_2": "images/sup/mbank11.png"
+            
+              },
+
+
+              "GRI 2-30": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "W mBanku nie funkcjonuje układ zbiorowy pracy.",
+                "% pracowników":"0"
+             
+
+                }
+           
+              },
+
+              "GRI 2-22": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Agenda zrównoważonego rozwoju poprzez ograniczanie ryzyk środowiskowych, społecz- nych oraz tych związanych z ładem korporacyjnym staje się imperatywem biznesowym dla wielu firm. Zielona transformacja wymagana jest nie tylko przez regulatorów, lecz tak- że przez inwestorów oraz klientów. Przedsiębiorstwa obarczone wysokim ryzykiem ESG i niechętne w dostosowywaniu się do nowych wymogów i oczekiwań muszą liczyć się z tym, że będzie im coraz trudniej utrzymać się na rynku. Firmy, które będą jak najwcześniej zgodne z agendą zrównoważonego rozwoju, skorzystają najwięcej i zdobędą przewagę konkurencyjną."
+              
+                             }
+           
+              },
+
+
+              "GRI 201-2": {
+                "metrics": {
+                  "Opis": "Brak",
+                "Text": ""
+              
+                             }
+           
+              },
+
+
+              "GRI 2-23": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Wdrożenie ESG do naszego systemu zarządzania ryzykiem, w tym klimatycznym, jest odzwierciedlone w politykach i procedurach mBanku. Wśród polityk wewnętrznych mBanku, istotnych z punktu widzenia ESG, znajdują się te dotyczące relacji z pracownikami oraz z klientami, odpowiedzialnego finansowania inwestycji, bezpieczeństwa i prywatności danych, etycznego biznesu i ładu korporacyjnego. Ich szczegółowy opis jest dostępny tutaj : https://www.mbank.pl/o-nas/odpowiedzialnosc-spoleczna/standardy-odpowiedzialnego-biznesu/."
+              
+                             }
+           
+              },
+
+
+
+
+              "GRI 201-1": {
+                "metrics": {
+                  "Opis": "Brak",
+                "Text": "",
+                "% pracowników":"0"
+             
+
+                }
+           
+              },
+
+
+              "GRI 205-2": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Nasi pracownicy są cyklicznie szkoleni w zakresie przeciwdziałania korupcji i przyjmowania lub wręczania prezentów. Coroczne szkolenia są obowiązkowe dla wszystkich pracowników etatowych banku, jak również dla kontraktorów, którzy mają dostęp do danych podlegają- cych ochronie. Szkolenie zakończone jest testem wiedzy z minimalnym progiem zaliczenia. Ponadto Departament Compliance prowadzi szkolenia dla węższych grup docelowych, dopasowane do specyfiki ich działania i poziomu narażenia na ryzyko korupcji. W 2022 r. przeszkoliliśmy 98,2% pracowników i 96,7% kadry menedżerskiej.",
+                "% Pracow. szkoleni":"98.2%"
+             
+
+                },
+                "attachment_1": "images/sup/mbank14.png"
+           
+              },
+            
+
+              "GRI 401-1": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "",
+                "Liczba Procowników":"1,379",
+                "Liczba Kobiet" : "733",
+                "Liczba Mezczyzn":"646"
+
+             
+
+                },
+                "attachment_1": "images/sup/mbank16.png",
+                "attachment_2": "images/sup/mbank17.png"
+
+           
+              },
+
+
+              "GRI 205-3": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "W 2020, 2021 i 2022 roku nie stwierdziliśmy przypadków korupcji w Grupie. <Br><br> Departament Compliance prowadzi rejestr postępowań w sprawach o korupcję. Przed- stawia zarządowi i radzie nadzorczej banku okresowe raporty z realizacji polityki antyko- rupcyjnej w ramach raportów z zarządzania ryzykiem braku zgodności. Może również samodzielnie, niezależnie od zgłoszeń z jednostek organizacyjnych, podejmować kroki w celu wykrycia działań o charakterze korupcyjnym. Departament Compliance regularnie ocenia ryzyko braku zgodności (w tym korupcji) oraz przeprowadza kontrole planowe i ad hoc w obszarach banku szczególnie narażonych na ryzyko korupcji. Dotyczy to w szcze- gólności współpracy z partnerami biznesowymi banku. <br> <br> Polityka antykorupcyjna określa również zasady wręczania i przyjmowania prezentów przez pracowników mBanku. Zabronione jest m.in. przyjmowanie i wręczanie pieniędzy lub prezentów w jakiejkolwiek postaci, jeśli mogłyby być uznane za wywieranie wpływu na rzetelność wykonywania powierzonych procesów. Pracownicy mBanku nie mogą także wręczać prezentów urzędnikom w związku z pełnioną przez nich funkcją. Departament Compliance prowadzi rejestr przyjmowanych i wręczanych prezentów. Regularnie spraw- dza też, czy zasady przyjmowania i wręczania prezentów są przestrzegane.",
+                "Liczba Przypadków":"0"
+            
+                }
+           
+              },
+
+              "GRI 3-1": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "    Najbardziej istotne tematy do naszego raportu zostały zdefiniowane podczas sesji dialogo- wej dla kluczowych grup interesariuszy zorganizowanej w 2021 roku. Zbadane zostały opi- nie na temat najważniejszych tematów związanych ze zrównoważonym rozwojem Grupy mBanku zarówno pod kątem wpływu naszej organizacji na dany temat, jak i wpływu da- nego zagadnienia na naszą organizację. Przygotowując raport za rok 2022 wraz z zewnętrz- nymi konsultantami zweryfikowaliśmy listę zidentyfikowanych w 2021 roku tematów – lista została uznana za aktualną także w roku 2022."
+            
+                }
+           
+              },
+
+              "GRI 3-2": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Odpowiedzialna promocja i sprzedaż (odpowiedzialne produkty finansowe, zrozumiałe i dopasowane do potrzeb, odpowiedzialna komunikacja i marketing, brak misselingu), <br> Cyberbezpieczeństwo, <Br> Bezpieczeństwo pieniędzy klientów, <br> Bezpieczeństwo danych osobowych klientów, <br> Prawa pracownika, <br> Zrównoważone finansowanie (finansowanie inwestycji zgodnych z celami społecznymi/ środowiskowymi), <br> Edukacja i rozwój pracowników, <br> Dobrobyt pracowników (well-being), <Br> Nowe formy pracy (praca zdalna itp.) <br>, Różnorodność i równe traktowanie"
+            
+                }
+           
+              },
+
+
+              "GRI 205-1": {
+                "metrics": {
+                  "Opis": "Cześćiowy",
+                "Text": "Zidentyfikowaliśmy obszary szczególnie narażone na ryzyko korupcji (m.in. w zakresie na- wiązywania relacji z partnerami biznesowymi, zakupów towarów i usług, działań sponsorin- gowych, przyjmowania i wręczania prezentów). Przyjęty w banku system przeciwdziałania korupcji opiera się na elementach takich jak: regulacje wewnętrzne (polityka antykorupcyj- na, polityka przeciwdziałania nadużyciom), kontrole jednostek organizacyjnych, określenie zasad i weryfikacja przyjmowanych oraz wręczanych prezentów, szkolenia, weryfikacja i ocena ryzyka kontrahentów i zlecanych funkcji w szczególności w zakresie outsourcingu. Przypadki korupcji mogą być zgłaszane bezpośredniemu przełożonemu lub wprost do Departamentu Compliance. Zgłoszenie można złożyć również anonimowo przez system mSygnał. Każdorazowo wyjaśniane są okoliczności zdarzenia i zabezpieczany materiał do- wodowy. Przy podejrzeniu popełnienia przestępstwa dyrektor zaangażowanej jednostki przekazuje materiały do Departamentu Bezpieczeństwa, który – jeśli podejrzenia się po- twierdzą – powiadamia organy ścigania."
+             
+
+                }
+           
+              },
+
+
+              "GRI 206-1": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "<Br> 4 – Liczba postępowań prawnych będących w toku w raportowanym okresie dotyczących zachowań antykonkurencyjnych, których organizacja była uczestnikiem. <br> <br> 1 – Liczba postępowań prawnych zakończonych w raportowanym okresie dotyczących zachowań antykonkurencyjnych, których organizacja była uczestnikiem.<br> <br> 0 – Liczba postępowań prawnych będących w toku w raportowanym okresie dotyczących złamania regulacji antytrustowych i antymonopolowych, których organizacja była uczest- nikiem. <br> <br> 0 – Liczba postępowań prawnych zakończonych w raportowanym okresie dotyczących złamania regulacji antytrustowych i antymonopolowych, których organizacja była uczest- nikiem.",
+                "Liczb. Postępowań":"4"
+             
+
+                }
             
               },
 
@@ -1517,13 +1739,34 @@
           
               },
 
+
+              "GRI 302-1": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "",
+                "Konsumpcja Energii":""
+
+             
+
+                },
+                 "attachment_1": "images/sup/mbank15.png"
+                
+          
+              },
+
+
+
+
               "GRI 2-3": {
                 "metrics": {
                   "Opis": "Pełny",
-                "Text": "Raport został przygotowany zgodnie z wymaganiami Standardów Global Reporting Initiative (GRI Standards). Nasz raport ESG obejmuje Grupę mBanku z oddziałami w Czechach i Słowacji oraz wybrane spółki Grupy mBanku. Są to: mLeasing, mFaktoring, mBank Hipoteczny i mFinanse. Wymienione spółki wybrane zostały na podstawie kryterium wielkości zatrudnienia. Raport dotyczy okresu od 1 stycznia 2022 roku do 31 grudnia 2022 roku, chyba że w tekście wskazano inaczej. W Grupie mBanku raportujemy w cyklu rocznym. Raport za rok 2022 jest jednocześnie naszym raportem Communication on Progress wymaganym  przez UN Global Compact. Wskaźniki GRI przyporządkowaliśmy także do odpowiednich Celów Zrównoważonego Rozwoju ONZ (SDG), w oparciu o dokument pt. “Linking the SDGs and the GRI Standards” opublikowany przez Global Reporting Initiative."
-             
+                "Text": "Raport został przygotowany zgodnie z wymaganiami Standardów Global Reporting Initiative (GRI Standards). Nasz raport ESG obejmuje Grupę mBanku z oddziałami w Czechach i Słowacji oraz wybrane spółki Grupy mBanku. Są to: mLeasing, mFaktoring, mBank Hipoteczny i mFinanse. Wymienione spółki wybrane zostały na podstawie kryterium wielkości zatrudnienia. Raport dotyczy okresu od 1 stycznia 2022 roku do 31 grudnia 2022 roku, chyba że w tekście wskazano inaczej. W Grupie mBanku raportujemy w cyklu rocznym. Raport za rok 2022 jest jednocześnie naszym raportem Communication on Progress wymaganym  przez UN Global Compact. Wskaźniki GRI przyporządkowaliśmy także do odpowiednich Celów Zrównoważonego Rozwoju ONZ (SDG), w oparciu o dokument pt. “Linking the SDGs and the GRI Standards” opublikowany przez Global Reporting Initiative.",
+                    "Rok":"2022",
+                "Kontakt":  "csr@mbank.pl"
 
                 }
+            
+              
                 
           
               },
@@ -1542,7 +1785,8 @@
               "GRI 2-5": {
                 "metrics": {
                   "Opis": "Pełny",
-                "Text": "Raport za 2022 rok nie zawiera istotnych korekt danych za rok 2021. W przypadku wybranych wskaźników w rozdziałach 3 i 4 zmieniony jednak został sposób prezentacji danych. Dane przedstawiamy w podziale na Grupę mBanku oraz spółkę mBank, z oddziałami zagranicznymi. Raport nie został poddany zewnętrznej weryfikacji."
+                "Text": "Raport nie został poddany zewnętrznej weryfikacji.",
+                "Zew Weryfikacja" : "Brak"
                 }
                 
           
@@ -1637,6 +1881,51 @@
             
               },
 
+
+              "GRI 2-18": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Działania banku w zakresie zarządzania ryzykiem ESG nadzoruje rada nadzorcza mBan- ku przez powołaną przez siebie komisję ds. ryzyka. Rada nadzorcza zatwierdza strategie zarządzania poszczególnymi rodzajami ryzyka w Grupie mBanku. <br><br> Zarząd mBanku odpowiada za: opracowanie systemów zarządzania ryzykiem niefinansowym, ich wdrożenie, zapewnienie spójności ze strategią biznesową, właściwie działanie tych systemów w organizacji. Dodatkowo w Grupie funkcjonuje Forum Biznesu i Ryzyka, które jest platformą podejmo- wania decyzji oraz dialogu jednostek organizacyjnych linii biznesowych i obszaru zarzą- dzania ryzykiem w ramach Grupy. W skład Forum wchodzą: Komitet Ryzyka Bankowości Detalicznej, Komitet Ryzyka Bankowości Korporacyjnej i Inwestycyjnej, Komitet Ryzyka Rynków Finansowych."
+          
+                },
+                "attachment_1": "images/sup/mbank12.png",
+                "attachment_2": "images/sup/mbank13.png"        
+            
+              },
+
+              "GRI 2-19": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "System motywacyjny odgrywa kluczową rolę w kształtowaniu kultury korporacyjnej Grupy mBanku. Buduje przewagę konkurencyjną przez pozyskiwanie i utrzymywanie kompetentnych pracowników. Obejmuje: politykę wynagradzania pracowników, politykę wynagradzania pracowników mających istotny wpływ na profil ryzyka mBanku (tzw. risk takers), elementy niematerialne (np. możliwość rozwoju zawodowego). <br> <br> Polityki wynagradzania: określają zasady wynagradzania, określają stałe i zmienne składniki wynagradzania, wspierają prawidłowe i skuteczne zarządzanie ryzykiem, nie zachęcają do decyzji obarczonych nadmiernym ryzykiem (tj. ryzykiem wykraczają- cym poza zaakceptowaną przez radę nadzorczą mBanku skłonność do ryzyka), wspierają realizację strategii, wspierają zarządzanie kapitałem, ograniczają konflikt interesów, są neutralne pod względem płci, są zgodne z odpowiednimi przepisami ustawowymi i wykonawczymi. Najniższe wynagrodzenie w naszej organizacji jest blisko dwukrotnie wyższe od minimalnego wynagrodzenia krajowego. Decyzje o wysokości wynagrodzenia są uzasadniane i wyjaśniane pracownikom przez menedżerów. Część zmienna wynagrodzenia zależy od celów jakościowych i ilościowych osiąganych przez całą organizację i poszczególnych pracowników. Zalicza się do niej bonus przyznawany członkom zarządu i pracownikom."
+          
+                } 
+            
+              },
+
+
+              "GRI 2-20": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "W 2022 roku Grupa mBanku realizowała program motywacyjny dla członków zarządu banku i pracowników mających wpływ na profil ryzyka Grupy mBanku. Osobami uprawni- onymi do udziału w programie są osoby zajmujące stanowiska mające istotny wpływ na profil ryzyka banku, określane jako Risk taker I – członek zarządu mBanku lub Risk taker II (z wyłączeniem Risk Takers II – członków zarządu spółki mBank Hipoteczny S.A., która re- alizuje odrębny program motywacyjny) – pracownik zajmujący stanowisko mające istotny wpływ na profil ryzyka banku. Jest nim również członek zarządu spółek z Grupy mBanku. Więcej informacji o Polityce wynagrodzeń, w tym wynagrodzeń członków zarządu piszemy w Sprawozdaniu Zarządu z działalności Grupy mBanku S.A. w 2022 roku, dostępnym: https://www.mbank.pl/relacje-inwestorskie/wyniki/."
+          
+                } 
+            
+              },
+
+
+              "GRI 2-21": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Do wyliczenia wskaźnika rocznego wynagrodzenia całkowitego użyliśmy wynagrodzenia naj- lepiej opłacanej osoby, którym jest Prezes Zarządu mBanku, oraz mediany wynagrodzenia całkowitego pracowników mBanku, z wyłączeniem najlepiej opłacanej osoby. Wynagrodze- nie najlepiej opłacanej osoby stanowi sumę wartości wynagrodzenia stałego i wynagrodzenia zmiennego, wypłaconego w 2022 roku, które zostało zaraportowane w „Sprawozdaniu o wy- nagrodzeniach członków Zarządu i Rady Nadzorczej mBanku S.A. za 2022 rok”, dostępnym na stronie internetowej banku: https://www.mbank.pl/pdf/relacje-inwestorskie/zwz/2023/sprawozdanie-mbanku-sa-o-wynagrodzeniach-czlonkow-zarzadu-i-rady-nadzorczej.pdf",
+                "Highest Paid / Median":"48.7",
+                "Increase of Highest Paid / All":"-5.35"
+
+          
+                } 
+            
+              },
+
+
               "GRI 2-15": {
                 "metrics": {
                     "Opis": "Pełny",
@@ -1647,11 +1936,20 @@
             
               "GRI 2-16": {
                   "metrics": {
-                      "Opis": "Pełny",
+                      "Opis": "Cześćiowy",
                       "Text": "W mBanku mamy mSygnal – elektroniczny system, który umożliwia anonimowe zgłaszanie wszelkich nadużyć (whistleblowing). Mogą z niego korzystać zarówno pracownicy, jak i klienci, z każdego urządzenia z dostępem do internetu.<br><br>mSygnal jest dostępny w trybie ciągłym, 24/7. Gwarantuje osobie zgłaszającej anonimowość, jeśli wybierze taką opcję. Można też założyć anonimową skrzynkę, na którą przyjdą informacje zwrotne na temat działań podjętych w wyniku zgłoszenia. Umożliwi to przekazanie dodatkowych informacji.<br><br>Zabronione są jakiekolwiek formy represji, dyskryminacji lub niesprawiedliwego traktowania pracowników, którzy zgłosili podejrzenie popełnienia nadużycia, nawet wtedy, gdy informacje nie zostaną potwierdzone. Wobec zgłaszających nie mogą być podejmowane żadne działania odwetowe.<br><br>Wszystkie informacje – zarówno te przekazane w zgłoszeniu, jak i te ustalone w postępowaniu wyjaśniającym – są traktowane jako poufne i chronione. Zgłoszenia w sposób obiektywny, rzetelny i bezstronny sprawdzają i analizują upoważnione osoby z Departamentu Rozwoju Pracowników i Kultury Organizacji, oddziałów zagranicznych, zespół rzeczniczki ds. etyki oraz Departament Compliance. Do systemu mSygnal i informacji o zgłoszonych nieprawidłowościach mają również dostęp przedstawiciele zarządu.<br><br>Rozpatrzenie zgłoszenia następuje w nieprzekraczalnym terminie 30 dni kalendarzowych od daty wpłynięcia. W przypadku potwierdzonych nadużyć sprawę kontynuujemy zgodnie z przepisami prawa i regulacjami wewnętrznymi banku.<br><br>W 2022 roku, w wyniku badania pracowników Pulse Check, odnotowaliśmy wzrost wiedzy na temat sposobu zgłaszania zachowań nieakceptowalnych na poziomie 8 p.p.",
                       "Liczba Przypadków": "-"
                   }
               },
+
+"GRI 2-26": {
+                  "metrics": {
+                      "Opis": "Pełny",
+                      "Text": "W mBanku mamy mSygnal – elektroniczny system, który umożliwia anonimowe zgłaszanie wszelkich nadużyć (whistleblowing). Mogą z niego korzystać zarówno pracownicy, jak i klienci, z każdego urządzenia z dostępem do internetu.<br><br>mSygnal jest dostępny w trybie ciągłym, 24/7. Gwarantuje osobie zgłaszającej anonimowość, jeśli wybierze taką opcję. Można też założyć anonimową skrzynkę, na którą przyjdą informacje zwrotne na temat działań podjętych w wyniku zgłoszenia. Umożliwi to przekazanie dodatkowych informacji.<br><br>Zabronione są jakiekolwiek formy represji, dyskryminacji lub niesprawiedliwego traktowania pracowników, którzy zgłosili podejrzenie popełnienia nadużycia, nawet wtedy, gdy informacje nie zostaną potwierdzone. Wobec zgłaszających nie mogą być podejmowane żadne działania odwetowe.<br><br>Wszystkie informacje – zarówno te przekazane w zgłoszeniu, jak i te ustalone w postępowaniu wyjaśniającym – są traktowane jako poufne i chronione. Zgłoszenia w sposób obiektywny, rzetelny i bezstronny sprawdzają i analizują upoważnione osoby z Departamentu Rozwoju Pracowników i Kultury Organizacji, oddziałów zagranicznych, zespół rzeczniczki ds. etyki oraz Departament Compliance. Do systemu mSygnal i informacji o zgłoszonych nieprawidłowościach mają również dostęp przedstawiciele zarządu.<br><br>Rozpatrzenie zgłoszenia następuje w nieprzekraczalnym terminie 30 dni kalendarzowych od daty wpłynięcia. W przypadku potwierdzonych nadużyć sprawę kontynuujemy zgodnie z przepisami prawa i regulacjami wewnętrznymi banku.<br><br>W 2022 roku, w wyniku badania pracowników Pulse Check, odnotowaliśmy wzrost wiedzy na temat sposobu zgłaszania zachowań nieakceptowalnych na poziomie 8 p.p."
+                     
+                  }
+              },
+
 
               "GRI 2-17": {
                 "metrics": {

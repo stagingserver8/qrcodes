@@ -10,7 +10,7 @@
         },
         {
             "name": "GRI 2-3",
-            "headers": ["Opis"]
+            "headers": ["Opis", "Rok", "Kontakt"]
         },
         {
             "name": "GRI 2-4",
@@ -19,12 +19,24 @@
 
            {
             "name": "GRI 2-5",
-            "headers": ["Opis"]
+            "headers": ["Opis", "Zew Weryfikacja"]
         },
 
 
         {
-            "name": "Board",
+            "name": "KPIs",
+            "headers": ["Opis"]
+        },
+
+        {
+            "name": "Pay Gap",
+            "headers": ["Opis", "Highest Paid / Median", "Increase of Highest Paid / All" ]
+        },
+
+
+
+        {
+            "name": "Materiality",
             "headers": ["Opis"]
         },
 
@@ -393,7 +405,7 @@
             "headers": ["Opis", "Licz. Pracow. (M) Uprawn.","Licz. Pracow. (K) Uprawn."]
         },
 
-       
+    
         {
             "name": "GRI 3-2",
             "headers": ["Opis"]

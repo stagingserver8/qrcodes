@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/tabler.min.css">
-    <title>Eagle Metrics</title>
+    <title>ESG Peer Benchmarking</title>
 
     <link rel="stylesheet" href="styles.css">
 
@@ -57,7 +57,7 @@
         <header class="navbar navbar-expand-md d-print-none">
             <div class="container-xl">
                 <h1 class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3">
-                    <a href="/esg"> Eagle Metrics</a>
+                    <a href="/esg"> ESG Peer Benchmark</a>
                 </h1>
                 <div class="navbar-nav flex-row order-md-last">
 
@@ -89,7 +89,7 @@
                         <div class="row">
                             <!-- Standard dropdown  -->
                             <div class="col-md-2 mb-2">
-                                <label for="subOptionsDropdown" class="form-label"><strong>GRI</strong></label>
+                                <label for="subOptionsDropdown" class="form-label"><strong>Standard</strong></label>
                                 <div class="dropdown ">
                                     <button class="btn dropdown-toggle w-100  text-left"   id="subOptionsDropdown"
                                         data-bs-toggle="dropdown" aria-expanded="false">
@@ -101,28 +101,10 @@
                                     </ul>
                                 </div>
 
+                                
+
                             </div>
                             <!-- End of Standard dropdown  --> 
-
-
-                            <!-- CSRD dropdown  -->
-                            <div class="col-md-2 mb-2">
-                                <label for="csrdDropdown" class="form-label"><strong>CSRD</strong></label>
-                                <div class="dropdown">
-                                    <button class="btn dropdown-toggle w-100 text-left" id="csrdDropdown"
-                                        data-bs-toggle="dropdown" aria-expanded="false">
-                                        Wybierz
-                                    </button>
-                                    <ul class="dropdown-menu" aria-labelledby="csrdDropdown" id="csrdOptionsContainer">
-                                        <li><a class="dropdown-item" href="#">ESRS 1</a></li>
-                                        <li><a class="dropdown-item" href="#">ESRS 2</a></li>
-                                        <li><a class="dropdown-item" href="#">ESRS 3</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End of CSRD dropdown  -->
-
-
 
                             <!-- Item dropdown  -->
                             <div class="col-md-2 mb-2">
@@ -160,6 +142,9 @@
 
 
 
+
+
+
                             </div>
                             <!-- End of Item dropdown  -->
                             <div class="col-md-6 mb-2">
@@ -172,8 +157,13 @@
 
                                 <div id="EnvSubheadings" class="mt-5" style="display: none;">
                                     <span class="badge bg-blue-lt cursor-pointer"
-                                        onclick="loadData('Environment', 'Climate'); handleBadgeClick(event)">Emisje</span>
-                            
+                                        onclick="loadData('Environment', 'Climate'); handleBadgeClick(event)">Climate</span>
+                                    <span class="badge bg-blue-lt cursor-pointer"
+                                        onclick="loadData('Environment', 'Energy'); handleBadgeClick(event)">Energy</span>
+                                    <span class="badge bg-blue-lt cursor-pointer"
+                                        onclick="loadData('Environment', 'Emissions'); handleBadgeClick(event)">Emissions</span>
+                                    <span class="badge bg-blue-lt cursor-pointer"
+                                        onclick="loadData('Environment', 'Water'); handleBadgeClick(event)">Water</span>
                                 </div>
 
                                 <div id="socialSubheadings" class="mt-5 " style="display: none;">
@@ -187,11 +177,13 @@
 
                                 <div id="OtherSubheadings" class=" mt-5" style="display: none;">
                                     <span class="badge bg-blue-lt cursor-pointer"
-                                        onclick="loadData('Other', 'KPIs'); handleBadgeClick(event)">KPIs</span>
-                              
+                                        onclick="loadData('Other', 'About'); handleBadgeClick(event)">About</span>
                                     <span class="badge bg-blue-lt cursor-pointer"
-                                        onclick="loadData('Other', 'Materiality'); handleBadgeClick(event)">Materiality
-                                        </span>
+                                        onclick="loadData('Other', 'BusinessModel'); handleBadgeClick(event)">Business
+                                        Model</span>
+                                    <span class="badge bg-blue-lt cursor-pointer"
+                                        onclick="loadData('Other', 'MaterialityAssessment'); handleBadgeClick(event)">Materiality
+                                        Assessment</span>
                                 </div>
                             </div>
                         </div>
