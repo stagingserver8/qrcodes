@@ -477,7 +477,7 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-3",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information for employees and for workers who are not employees but whose work and/or workplace is controlled by the organization:<br><br> a. A description of the occupational health services’ functions that contribute to the identification and elimination of hazards and minimization of risks, and an explanation of how the organization ensures the quality of these services and facilitates worker access to them.",
             "short_explainer":"Jednostka (Dział) odpowiadająca za zarządzanie bezpieczeństwem pracy"
             
         },
@@ -485,7 +485,7 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-4",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information for employees and for workers who are not employees but whose work and/or workplace is controlled by the organization: <br><br> a. A description of the processes for worker participation and consultation in the development, implementation, and evaluation of the occupational health and safety management system, and for providing access to and communicating relevant information on occupational health and safety to workers. <br> b. Where formal joint management-worker health and safety committees exist, a description of their responsibilities, meeting frequency, decision-making authority, and whether and, if so, why any workers are not represented by these committees.",
             "short_explainer":"Udział pracowników, konsultacje i komunikacja w kwestiach bezpieczeństwa pracy"
             
         },
@@ -493,7 +493,7 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-5",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information for employees and for workers who are not employees but whose work and/or workplace is controlled by the organization: <br> <br> a. A description of any occupational health and safety training provided to workers, including generic training as well as training on specific work-related hazards, hazardous activities, or hazardous situations.",
             "short_explainer":"Szkolenia pracowników w zakresie bezpieczeństwa pracy"
             
         },
@@ -501,7 +501,7 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-6",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information for employees and for workers who are not employees but whose work and/or workplace is controlled by the organization: <br> a. An explanation of how the organization facilitates workers’ access to non-occupational medical and healthcare services, and the scope of access provided. <br>  b. A description of any voluntary health promotion services and programs offered to workers to address major non-work-related health risks, including the specific health risks addressed, and how the organization facilitates workers’ access to these services and programs.",
             "short_explainer":"Promocja zdrowia wśród pracowników"
             
         },
@@ -510,7 +510,7 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-7",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information: <Br><Br> a. A description of the organization’s approach to preventing or mitigating significant negative occupational health and safety impacts that are directly linked to its operations, products, or services by its business relationships, and the related hazards and risks.",
             "short_explainer":"Profilaktyka i ograniczanie zjawisk i zdarzeń zawodowych wpływających na zdrowie i bezpieczeństwo pracowników"
             
         },
@@ -521,7 +521,8 @@
         {
             "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-9",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information:<br><br>a. For all employees:<br>i. The number and rate of fatalities as a result of work-related injury;<br>ii. The number and rate of high-consequence work-related injuries (excluding fatalities);<br>iii. The number and rate of recordable work-related injuries;<br>iv. The main types of work-related injury;<br>v. The number of hours worked.<br><br>b. For all workers who are not employees but whose work and/or workplace is controlled by the organization:<br>i. The number and rate of fatalities as a result of work-related injury;<br>ii. The number and rate of high-consequence work-related injuries (excluding fatalities);<br>iii. The number and rate of recordable work-related injuries;<br>iv. The main types of work-related injury;<br>v. The number of hours worked.<br><br>c. The work-related hazards that pose a risk of high-consequence injury, including:<br>i. how these hazards have been determined;<br>ii. which of these hazards have caused or contributed to high-consequence injuries during the reporting period;<br>iii. actions taken or underway to eliminate these hazards and minimize risks using the hierarchy of controls.<br><br>d. Any actions taken or underway to eliminate other work-related hazards and minimize risks using the hierarchy of controls.<br>e. Whether the rates have been calculated based on 200,000 or 1,000,000 hours worked.<br>f. Whether and, if so, why any workers have been excluded from this disclosure, including the types of worker excluded.<br>g. Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used.",
+
             "short_explainer":"Wskaźnik urazów związanych z pracą"
             
         },  

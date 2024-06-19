@@ -1401,6 +1401,13 @@
 
 
 
+                 
+
+
+
+
+
+
 
 
 
@@ -1512,6 +1519,33 @@
                 "attachment_4": "images/sup/mbank5.png",
                 "attachment_5": "images/sup/mbank6.png"
               },
+
+
+
+              "GRI 403-2": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Ocenę ryzyka związanego z BHP aktualizujemy co dwa lata lub częściej i zapoznajemy z nią każdego nowo zatrudnionego pracownika. Ryzyka zawodowe są oceniane przez specjalistów ds. BHP w porozumieniu z pracownikami banku.  System zarządzania BHP bazuje na ogólnych przepisach Kodeksu pracy i zakłada m.in.: zaangażowanie wszystkich pracowników w ustalenie i realizację polityki BHP, identyfikację zagrożeń oraz ocenę ryzyka zawodowego, monitorowanie warunków BHP oraz analizowanie przyczyn wypadków przy pracy, okresowe przeglądy i kontrolę placówek, szkolenia wstępne i okresowe z zakresu BHP, podczas których przekazywana jest między innymi informacja o możliwości odstąpienia od wykonywania pracy w sytuacji za- grożenia zdrowia lub życia pracownika. Wypadki i zdarzenia potencjalnie wypadkowe zgłaszane są ̨ do ekspertów BHP. Ich dane kontaktowe przekazywane są wszystkim pracownikom w specjalnej zakładce poświęconej BHP w intranecie."
+             
+
+                }
+           
+              },
+
+
+              "GRI 403-3": {
+                "metrics": {
+                  "Opis": "Pełny",
+                "Text": "Ocenę ryzyka związanego z BHP aktualizujemy co dwa lata lub częściej i zapoznajemy z nią każdego nowo zatrudnionego pracownika. Ryzyka zawodowe są oceniane przez spe- cjalistów ds. BHP w porozumieniu z pracownikami banku. System zarządzania BHP bazuje na ogólnych przepisach Kodeksu pracy i zakłada m.in.: zaangażowanie wszystkich pracowników w ustalenie i realizację polityki BHP, identyfi- kację zagrożeń oraz ocenę ryzyka zawodowego, monitorowanie warunków BHP oraz analizowanie przyczyn wypadków przy pracy, okre- sowe przeglądy i kontrolę placówek, szkolenia wstępne i okresowe z zakresu BHP, podczas których przekazywana jest mię- dzy innymi informacja o możliwości odstąpienia od wykonywania pracy w sytuacji za- grożenia zdrowia lub życia pracownika. Wypadki i zdarzenia potencjalnie wypadkowe zgłaszane są ̨ do ekspertów BHP. Ich dane kontaktowe przekazywane są wszystkim pracownikom w specjalnej zakładce poświęconej BHP w intranecie."
+             
+                }
+           
+              },
+
+              
+
+
+
 
 
               "GRI 2-27": {
