@@ -1399,6 +1399,9 @@
                     
                   },
 
+               
+
+
 
 
                  
@@ -2325,12 +2328,25 @@
     "GRI 2-5": {
       "metrics": {
         "Opis": "Pełny",
-        "Text":  "Niniejsze Sprawozdanie zawiera korekty informacji opublikowanych w raporcie za 2022 r. Korekty te dotyczą zmian zużycia niektórych mediów w 2022 r. w związku z nieprawidłową prezentacją zużycia gazu, jako energii cieplnej przez jeden z oddziałów. Oświadczenie nie było poddawane zewnętrznej weryfikacji ani audytowi.<br><br>Sprawozdanie zostało opracowane w nawiązaniu do Międzynarodowego Standardu Sprawozdawczości Niefinansowej z wykorzystaniem Standardów GRI.<br><br>Wszelkie pytania odnośnie Sprawozdania należy kierować do Departamentu Relacji Inwestorskich i Nadzoru Właścicielskiego: ir@alior.pl. "
+        "Text":  "Niniejsze Sprawozdanie zawiera korekty informacji opublikowanych w raporcie za 2022 r. Korekty te dotyczą zmian zużycia niektórych mediów w 2022 r. w związku z nieprawidłową prezentacją zużycia gazu, jako energii cieplnej przez jeden z oddziałów. Oświadczenie nie było poddawane zewnętrznej weryfikacji ani audytowi.<br><br>Sprawozdanie zostało opracowane w nawiązaniu do Międzynarodowego Standardu Sprawozdawczości Niefinansowej z wykorzystaniem Standardów GRI.<br><br>Wszelkie pytania odnośnie Sprawozdania należy kierować do Departamentu Relacji Inwestorskich i Nadzoru Właścicielskiego: ir@alior.pl.",
+        "Zew Weryfikacja": "Brak"
 
       }
 
 
     },
+
+    "GRI 303-3": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text":  ""
+      
+      }
+
+    },
+
+
+
 
 
 
@@ -2340,7 +2356,7 @@
         "Text": "W Alior Banku obowiązuje zakaz dyskryminacji. Bank kieruje się wysokimi standardami etycznymi w procesie rekrutacji pracowników, gdzie zasada braku dyskryminacji jest nadrzędna. Wymagania kompetencyjne oraz oczekiwana postawa kandydata na danym stanowisku są każdorazowo jasno i precyzyjnie formułowane w ogłoszeniu o pracę. Ogłoszenia są publikowane na ogólnodostępnych portalach tak, aby wszyscy potencjalni kandydaci mogli się z nimi zapoznać i aplikować. Kandydaci są oceniani według tych samych kryteriów, z uwzględnieniem kwalifikacji oraz postaw będących wyrazem promowanych przez Bank wartości. Decyzje o zatrudnieniu zawsze podejmowane są zespołowo w oparciu o przyjęte w tym zakresie standardy.<br><br>Alior Bank zapewnia swoim pracownikom możliwość skorzystania w tym celu z wielu kanałów komunikacji. Zgłoszenie może zostać dokonane ustnie, pisemnie, telefonicznie lub mailem na specjalnie do tego przeznaczone skrzynki mailowe, w tym również bezpośrednio do Członków Zarządu lub Rady Nadzorczej. <br><br>Przyjęty system zgłaszania naruszeń daje możliwość zachowania anonimowości. Bank bezwzględnie wyklucza stosowanie wobec pracownika, który dokonał zgłoszenia naruszenia, jakichkolwiek działań o charakterze represyjnym, dyskryminacyjnym lub innego rodzaju niesprawiedliwego traktowania oraz zapewnia poufność w przypadku, gdy zgłaszający ujawnił swoją tożsamość lub jego tożsamość jest możliwa do ustalenia."
 
       }
-      
+    
 
     },
 
@@ -2348,7 +2364,29 @@
     "GRI 205-3": {
       "metrics": {
         "Opis": "Pełny",
-        "Text":  "Polityka definiuje podstawowe założenia i kompetencje w zakresie zarządzania ryzykiem korupcji oraz wprowadza Program przeciwdziałania korupcji w Alior Bank S.A. oraz wyodrębnia obszary dotyczące przeciwdziałania korupcji z innych regulacji Banku. W 2023 r. w Banku nie zostały potwierdzone żadne przypadki korupcji. "
+        "Text":  "Polityka definiuje podstawowe założenia i kompetencje w zakresie zarządzania ryzykiem korupcji oraz wprowadza Program przeciwdziałania korupcji w Alior Bank S.A. oraz wyodrębnia obszary dotyczące przeciwdziałania korupcji z innych regulacji Banku. W 2023 r. w Banku nie zostały potwierdzone żadne przypadki korupcji. ",
+        "Liczba Przypadków": "0"
+
+      }
+
+    },
+
+    "GRI 206-1": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text":  " "
+        
+
+      }
+
+    },
+
+
+    "GRI 3-1": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text":  " "
+        
 
       }
 
@@ -2378,12 +2416,150 @@
     "GRI 2-7": {
       "metrics": {
         "Opis": "Pełny",
+        "Text": "Na koniec 2023 r. w Grupie Kapitałowej Alior Banku zatrudnienie wyniosło 7 229 etatów (7 420 osób). Najwięcej spośród naszych pracowników pracuje w Alior Banku: 6 645 etatów (6 742 osób).",
+        "Licz. Pracow.": "6,742",
+        "Licz. Kob.":"4,076",
+        "Licz. Mez.":"2,458"
+
+
+      },
+      "attachment_1": "images/sup/Alior_12.png"
+
+    },
+
+    "GRI 2-8": {
+      "metrics": {
+        "Opis": "Pełny",
         "Text": "Na koniec 2023 r. w Grupie Kapitałowej Alior Banku zatrudnienie wyniosło 7 229 etatów (7 420 osób). Najwięcej spośród naszych pracowników pracuje w Alior Banku: 6 645 etatów (6 742 osób)."
 
       },
       "attachment_1": "images/sup/Alior_12.png"
 
     },
+
+    "GRI 2-9": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": ""
+
+      },
+      "attachment_1": "Images/sup/Alior_2.png",
+      "attachment_2": "Images/sup/Alior_3.png"
+    },
+
+    "GRI 2-10": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 2-11": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 2-14": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    
+    "GRI 2-21": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 2-22": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 2-30": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 205-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W 2023 r. pracownicy Banku zgłosili 238 przypadków otrzymania prezentów, zaproszeń na konferencje, upominków rzeczowych itp., które zostały odnotowane w specjalnie do tego przeznaczonym rejestrze. W wyniku aktualizacji Polityki zarządzania konfliktem interesów podniesiono dotychczas obowiązujący limit z 200 zł do 400 zł. Zdecydowana większość zgłoszonych prezentów mieściła się w dopuszczalnym limicie. W przypadkach prezentów przekraczających tę wartość zwykle rozwiązaniem jest przeznaczenie takiego przedmiotu na cele charytatywne np. na rzecz domu dziecka. W przypadku zaproszeń na konferencje lub spotkania biznesowe wydawano zgody, jeżeli tematyka tych wydarzeń była powiązana z obowiązkami służbowymi."
+
+      }
+
+    },
+
+    "GRI 205-2": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+
+    },
+
+
+
+
+    "GRI 201-2": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+
+    "GRI 201-1": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+
+    
+    "GRI 2-27": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+
+
+
+
+
+
+
 
 
     "GRI 405-1": {
@@ -2397,13 +2573,28 @@
 
     },
 
+    
+    "GRI 2-20": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
 
+      }
+
+
+    },
 
 
     "GRI 401-1": {
       "metrics": {
         "Opis": "Pełny",
-        "Text": "W 2023 r. Alior Bank ogłosił nową strategię „Bank na co dzień, Bank na przyszłość”, w ramach której zaplanowano również działania w obszarze HR w ramach filaru Nowoczesny Bank, a dokładnie w obszarze „Efektywność organizacyjna dzięki zwinnym technologiom, kompetencjom i kulturze organizacyjnej”. Efektywność organizacyjną budujemy w trzech Filarach: Personalizacja #JesteśWAŻNY, Angażujące środowisko pracy #AliortoTY i wyróżniająca się kultura organizacyjna #AliortoMY.<br><br>W obszarze wyróżniającej się kultury organizacyjnej przeprowadziliśmy wśród pracowników badanie Organizational Health Index, na bazie którego powstały nowe wartości Alior Banku wspierające kierunek rozwoju, strategię AB, które także odpowiadają na potrzeby pracowników. Są to: Innowacyjność/Odpowiedzialność/Otwartość/Zorientowanie na klienta.<br><br>Na bazie tych wartości podejmowane są projekty i inicjatywy pozwalające „zakorzenić” je w codziennym życiu pracowników i budować kulturę organizacji na silnym fundamencie.<br><br>Działania, które podjęto w 2023 r. spotkały się z licznymi wyróżnieniami m.in.: Top Employer 2023 i 2024 , Friendly Workplace, Solidny pracodawca roku - nagroda w kategorii wiedza za Alior Uniwersytet, który powstał w wyniku realizacji działań strategicznych HR."
+        "Text": "W 2023 r. Alior Bank ogłosił nową strategię „Bank na co dzień, Bank na przyszłość”, w ramach której zaplanowano również działania w obszarze HR w ramach filaru Nowoczesny Bank, a dokładnie w obszarze „Efektywność organizacyjna dzięki zwinnym technologiom, kompetencjom i kulturze organizacyjnej”. Efektywność organizacyjną budujemy w trzech Filarach: Personalizacja #JesteśWAŻNY, Angażujące środowisko pracy #AliortoTY i wyróżniająca się kultura organizacyjna #AliortoMY.<br><br>W obszarze wyróżniającej się kultury organizacyjnej przeprowadziliśmy wśród pracowników badanie Organizational Health Index, na bazie którego powstały nowe wartości Alior Banku wspierające kierunek rozwoju, strategię AB, które także odpowiadają na potrzeby pracowników. Są to: Innowacyjność/Odpowiedzialność/Otwartość/Zorientowanie na klienta.<br><br>Na bazie tych wartości podejmowane są projekty i inicjatywy pozwalające „zakorzenić” je w codziennym życiu pracowników i budować kulturę organizacji na silnym fundamencie.<br><br>Działania, które podjęto w 2023 r. spotkały się z licznymi wyróżnieniami m.in.: Top Employer 2023 i 2024 , Friendly Workplace, Solidny pracodawca roku - nagroda w kategorii wiedza za Alior Uniwersytet, który powstał w wyniku realizacji działań strategicznych HR.",
+        "Nowo.":"1,184",
+        "Odejsc":"1131",
+        "Wsk. Nowo.":"18%",
+        "Wsk. Rotacji":"17%"
+
+
 
 
       },
@@ -2475,9 +2666,6 @@
 
     },
 
-
-
-
     "GRI 302-1": {
       "metrics": {
         "Opis": "Pełny",
@@ -2487,6 +2675,15 @@
       "attachment_1": "images/sup/Alior_20.png"
 
     },
+    
+    "GRI 302-3": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    },
+
 
 "GRI 303-5": {
       "metrics": {
@@ -2498,32 +2695,93 @@
 
     },
 
+    "GRI 308-1": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+
+    },
+
 
     "GRI 2-3": {
       "metrics": {
         "Opis": "Pełny",
-        "Text": "Najważniejsze wskaźniki wyników przedstawione zostały za okres 1 stycznia – 31 grudnia 2023 roku. Raportowanie odbywa się w cyklu rocznym. W porównaniu do ostatniej publikacji z 3 marca 2023 roku nie nastąpiły istotne zmiany w obszarze i tematyce raportowania."
-
+        "Text": "Najważniejsze wskaźniki wyników przedstawione zostały za okres 1 stycznia – 31 grudnia 2023 roku. Raportowanie odbywa się w cyklu rocznym. W porównaniu do ostatniej publikacji z 3 marca 2023 roku nie nastąpiły istotne zmiany w obszarze i tematyce raportowania.",
+        "Rok":"2023",
+        "Kontakt":"ir@alior.pl"
+       
       }
 
 
     },
 
 
-
-
-
-
-
     "GRI 3-2": {
       "metrics": {
-        "Opis": "Pełny",
-        "Text": "papier jest mielony i wykorzystywany w przemyśle papierniczym,<br><br>nośniki informatyczne, meble, czy też urządzenia AGD/RTV zostają poddane recyklingowi i przygotowane do ponownego użycia jako surowiec wtórny lub jako wkład do paliw alternatywnych.<br><br>Dodatkowo od kilku lat sprawne, ale nieużywane sprzęty komputerowe oraz telefony komórkowe są cyklicznie przekazywane do odsprzedaży pracownikom. Dzięki temu zmniejsza się ilość generowanych przez Bank elektroodpadów. Co więcej, do modernizacji oddziałów wykorzystywane są materiały pochodzące z recyklingu, co stanowi kolejny przykład proekologicznych działań."
+        "Opis": "Cześćiowy",
+        "Text": "We wszystkich oddziałach, biurach i centralach od dłuższego czasu prowadzona jest segregacja śmieci. Wszystkie dokumenty, odpady wielkogabarytowe, nieużywany sprzęt komputerowy i inne elektrośmieci są utylizowane przez wyspecjalizowane w tym celu przedsiębiorstwa. Odpady odbierane są zgodnie z harmonogramem (dokumenty niearchiwalne) lub na zlecenie (sprzęt AGD, meble, nośniki danych IT)papier jest mielony i wykorzystywany w przemyśle papierniczym,<br><br>nośniki informatyczne, meble, czy też urządzenia AGD/RTV zostają poddane recyklingowi i przygotowane do ponownego użycia jako surowiec wtórny lub jako wkład do paliw alternatywnych.<br><br>Dodatkowo od kilku lat sprawne, ale nieużywane sprzęty komputerowe oraz telefony komórkowe są cyklicznie przekazywane do odsprzedaży pracownikom. Dzięki temu zmniejsza się ilość generowanych przez Bank elektroodpadów. Co więcej, do modernizacji oddziałów wykorzystywane są materiały pochodzące z recyklingu, co stanowi kolejny przykład proekologicznych działań."
 
       },
       "attachment_1": "images/sup/Alior_20.png"
 
     },
+
+    "GRI 305-1": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 305-2": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    
+  
+
+
+
+    "GRI 305-3": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+
+    "GRI 305-4": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+    "GRI 306-3": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      }
+    
+    },
+
+
+
 
 
 
@@ -2646,7 +2904,7 @@
                                         "GRI 2-4": {
                                           "metrics": {
                                             "Opis": "Pełny",
-                                            "Text": "Niniejsze Sprawozdanie zawiera korekty informacji opublikowanych w raporcie za 2022 r. Korekty te dotyczą zmian zużycia niektórych mediów w 2022 r. w związku z nieprawidłową prezentacją zużycia gazu, jako energii cieplnej przez jeden z oddziałów. Oświadczenie nie było poddawane zewnętrznej weryfikacji ani audytowi."
+                                            "Text": "Sprawozdanie prezentuje podstawy zarządcze, polityki i procedury należytej staranności jakie obowiązywały w Grupie Kapitałowej Alior Banku oraz spółkach zależnych w 2023 roku Najważniejsze wskaźniki wyników przedstawione zostały za okres 1 stycznia – 31 grudnia 2023 roku. Raportowanie odbywa się w cyklu rocznym. W porównaniu do ostatniej publikacji z 3 marca 2023 roku nie nastąpiły istotne zmiany w obszarze i tematyce raportowania. Niniejsze Sprawozdanie zawiera korekty informacji opublikowanych w raporcie za 2022 r. Korekty te dotyczą zmian zużycia niektórych mediów w 2022 r. w związku z nieprawidłową prezentacją zużycia gazu, jako energii cieplnej przez jeden z oddziałów. Oświadczenie nie było poddawane zewnętrznej weryfikacji ani audytowi. Sprawozdanie zostało opracowane w nawiązaniu do Międzynarodowego Standardu Sprawozdawczości Niefinansowej z wykorzystaniem Standardów GRI"
                       
                                           }
                       
@@ -2681,6 +2939,26 @@
     "GRI 2-28": {
       "metrics": {
         "Opis": "Pełny",
+        "Text": ""
+
+      },
+      "attachment_1": "images/sup/Alior_7.png"
+
+    },
+
+    "GRI 2-17": {
+      "metrics": {
+        "Opis": "Brak",
+        "Text": ""
+
+      },
+      "attachment_1": "images/sup/Alior_7.png"
+
+    },
+
+    "GRI 2-18": {
+      "metrics": {
+        "Opis": "Brak",
         "Text": ""
 
       },
@@ -2727,13 +3005,17 @@
 
 
 
-                                        "GRI 2-16": {
+                              "GRI 2-16": {
                                           "metrics": {
                                             "Opis":"Pełny",
                                             "Country": "Poland",
-                                            "Text": "Działanie organizacji jako instytucji zaufania publicznego opiera się na zasadach opisanych w Kodeksie Etyki Alior Banku. Zasady etyki egzekwowane są również na poziomie spółek zależnych, tj.: Alior Leasing sp. z o.o., AL Finance sp. z o.o. oraz Alior TFI S.A. Pozostałe spółki należące do Grupy kapitałowej Alior Banku zatrudniają pracowników Alior Banku, którzy są zobowiązani do postępowania zgodnie z zasadami Kodeksu obowiązującego w Banku. Kodeks Etyki Alior Bank S.A. stanowi zbiór najważniejszych zasad, norm etycznych, określających standardy postępowania Alior Banku, jakimi kierują się członkowie organów Banku, wszyscy pracownicy Banku, a także osoby za pośrednictwem których Bank wykonuje czynności bankowe. <br><br>Ogromną wagę przykładamy do właściwego zorganizowania systemu zgłaszania naruszeń, czego odzwierciedleniem jest Polityka zgłaszania naruszeń i ochrony sygnalistów. Chcemy, aby pracownicy mogli łatwo i bez obaw przekazać informacje lub podzielić się wątpliwościami. Celem Polityki jest określenie zasad postępowania w przypadku zgłoszeń naruszeń wewnętrznych zgodnie z Dyrektywą Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (dalej: Dyrektywa oraz: sygnalista). Polityka określa procedury zgłaszania oraz rozpatrywania zgłoszeń nieprawidłowości w miejscu pracy oraz zapewnienia ochrony sygnalistom przed działaniami odwetowymi. Uzupełnieniem Polityki zgłaszania naruszeń i ochrony sygnalistów jest Polityka środowiska pracy wolnego od niepożądanych zachowań, w postaci Procedury postępowania dotyczącej zgłoszenia niepożądanych zachowań w Alior Bank S.A., szczegółowo regulującej postępowanie pracodawcy w przypadku otrzymania zgłoszenia występowania nieprawidłowości w środowisku pracy.<br><br>Rzecznik Klienta Alior Banku jest jednostką niezależną od innych jednostek merytorycznych w banku, zajmujących się obsługą klientów indywidulanych i biznesowych. Takie działanie pozwala na ocenę prawidłowości działań Banku, wobec których klienci zgłaszają wątpliwości i zastrzeżenia. Ocena ta opiera się o postanowienia zawartych umów, prawa i obowiązki obu stron, ze szczególnym uwzględnieniem postępowania w duchu polityki Traktowania Klienta Sprawiedliwie (Treating Customers Fairly). Dodatkowo, Rzecznik Klienta rozpatruje odwołania klientów w przypadku odrzucenia reklamacji, zapewniając indywidualne podejście w szczególnie skomplikowanych sprawach oraz przyjmowanie uwag dotyczących funkcjonowania Banku. Rzecznik Klienta analizuje zgłoszoną sprawę kontaktując się z odpowiednimi zespołami odpowiedzialnymi za dany proces, produkt lub obsługę klienta i przy ich wsparciu stara się znaleźć rozwiązanie niestandardowego problemu klienta. Takie działanie przyczynia się do wzrostu poczucia bezpieczeństwa klientów dzięki sprawnej i obiektywnej weryfikacji zgłaszanych przez nich problemów"
+                                            "Text": "Działanie organizacji jako instytucji zaufania publicznego opiera się na zasadach opisanych w Kodeksie Etyki Alior Banku. Zasady etyki egzekwowane są również na poziomie spółek zależnych, tj.: Alior Leasing sp. z o.o., AL Finance sp. z o.o. oraz Alior TFI S.A. Pozostałe spółki należące do Grupy kapitałowej Alior Banku zatrudniają pracowników Alior Banku, którzy są zobowiązani do postępowania zgodnie z zasadami Kodeksu obowiązującego w Banku. Kodeks Etyki Alior Bank S.A. stanowi zbiór najważniejszych zasad, norm etycznych, określających standardy postępowania Alior Banku, jakimi kierują się członkowie organów Banku, wszyscy pracownicy Banku, a także osoby za pośrednictwem których Bank wykonuje czynności bankowe. <br><br>Ogromną wagę przykładamy do właściwego zorganizowania systemu zgłaszania naruszeń, czego odzwierciedleniem jest Polityka zgłaszania naruszeń i ochrony sygnalistów. Chcemy, aby pracownicy mogli łatwo i bez obaw przekazać informacje lub podzielić się wątpliwościami. Celem Polityki jest określenie zasad postępowania w przypadku zgłoszeń naruszeń wewnętrznych zgodnie z Dyrektywą Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (dalej: Dyrektywa oraz: sygnalista). Polityka określa procedury zgłaszania oraz rozpatrywania zgłoszeń nieprawidłowości w miejscu pracy oraz zapewnienia ochrony sygnalistom przed działaniami odwetowymi. Uzupełnieniem Polityki zgłaszania naruszeń i ochrony sygnalistów jest Polityka środowiska pracy wolnego od niepożądanych zachowań, w postaci Procedury postępowania dotyczącej zgłoszenia niepożądanych zachowań w Alior Bank S.A., szczegółowo regulującej postępowanie pracodawcy w przypadku otrzymania zgłoszenia występowania nieprawidłowości w środowisku pracy.<br><br>Rzecznik Klienta Alior Banku jest jednostką niezależną od innych jednostek merytorycznych w banku, zajmujących się obsługą klientów indywidulanych i biznesowych. Takie działanie pozwala na ocenę prawidłowości działań Banku, wobec których klienci zgłaszają wątpliwości i zastrzeżenia. Ocena ta opiera się o postanowienia zawartych umów, prawa i obowiązki obu stron, ze szczególnym uwzględnieniem postępowania w duchu polityki Traktowania Klienta Sprawiedliwie (Treating Customers Fairly). Dodatkowo, Rzecznik Klienta rozpatruje odwołania klientów w przypadku odrzucenia reklamacji, zapewniając indywidualne podejście w szczególnie skomplikowanych sprawach oraz przyjmowanie uwag dotyczących funkcjonowania Banku. Rzecznik Klienta analizuje zgłoszoną sprawę kontaktując się z odpowiednimi zespołami odpowiedzialnymi za dany proces, produkt lub obsługę klienta i przy ich wsparciu stara się znaleźć rozwiązanie niestandardowego problemu klienta. Takie działanie przyczynia się do wzrostu poczucia bezpieczeństwa klientów dzięki sprawnej i obiektywnej weryfikacji zgłaszanych przez nich problemów. <Br> W 2023 r. zidentyfikowano 31 spraw, które zostały uznane za rzeczywisty przypadek naruszenia obowiązujących zasad unikania konfliktu interesów.",
+                                            "Liczba Przypadków":"31"
                                           }
+                                        
                                         },
+
+
 
 
                                         "GRI 2-6": {

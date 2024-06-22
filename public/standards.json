@@ -353,11 +353,16 @@
     
         },
 
+      
 
-        {
+
+
+       
+
+{
             "header" : "Energia",
             "name": "GRI 302-3",
-            "explainer": "Energy consumption within the organization",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Energy intensity ratio for the organization.<br>Organization-specific metric (the denominator) chosen to calculate the ratio.<Br>Types of energy included in the intensity ratio; whether fuel, electricity, heating, cooling, steam, or all. <Br> Whether the ratio uses energy consumption within the organization, outside of it, or both. <Br> Compilation requirements: <Br> <Br> When compiling the information specified in Disclosure 302-3, the reporting organization shall: <br> <Br> calculate the ratio by dividing the absolute energy consumption (the numerator) by the organization-specific metric (the denominator);<br> <Br> if reporting an intensity ratio both for the energy consumed within the organization and outside of it, report these intensity ratios separately",
             "short_explainer":"Energochłonność"
 
     
@@ -373,11 +378,21 @@
     
         },
 
+        {
+            "header": "Woda i ścieki",
+            "name": "GRI 303-5",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Total water consumption from all areas in megaliters.<br> b. Total water consumption from all areas with water stress in megaliters.<br> c. Change in water storage in megaliters, if water storage has been identified as having a significant water-related impact.<br> Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used, including whether the information is calculated, estimated, modeled, or sourced from direct measurements, and the approach taken for this, such as the use of any sector-specific factors.",
+            "short_explainer": "Zużycie wody"
+        },
+        
+
+    
+
 
         {
             "header":"Emisje",
             "name": "GRI 305-1",
-            "explainer": "test test test",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Gross direct (Scope 1) GHG emissions in metric tons of CO2 equivalent.<br> b. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all.<br> c. Biogenic CO2 emissions in metric tons of CO2 equivalent.<br> Base year for the calculation, if applicable, including:<br> i. the rationale for choosing it;<br> ii. emissions in the base year;<br> iii. the context for any significant changes in emissions that triggered recalculations of base year emissions.<br> d. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source.<br> e. Consolidation approach for emissions; whether equity share, financial control, or operational control.<br> f. Standards, methodologies, assumptions, and/or calculation tools used.<br> When compiling the information specified in Disclosure 305-1, the reporting organization shall:<br> 2.1 exclude any GHG trades from the calculation of gross direct (Scope 1) GHG emissions;<br> 2.1.1 report biogenic emissions of CO2 from the combustion or biodegradation of biomass separately from the gross direct (Scope 1) GHG emissions. Exclude biogenic emissions of other types of GHG (such as CH4 and N2O), and biogenic emissions of CO2 that occur in the life cycle of biomass other than from combustion or biodegradation (such as GHG emissions from processing or transporting biomass).",
             "short_explainer":"Bezpośrednie emisje gazów cieplarnianych (zakres 1)"
             
         },
@@ -385,7 +400,7 @@
         {
             "header":"Emisje",
             "name": "GRI 305-2",
-            "explainer": "test test test",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Gross location-based energy indirect (Scope 2) GHG emissions in metric tons of CO2 equivalent.<br> b. If applicable, gross market-based energy indirect (Scope 2) GHG emissions in metric tons of CO2 equivalent.<br> c. If available, the gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all.<br> d. Base year for the calculation, if applicable, including:<br> i. the rationale for choosing it;<br> ii. emissions in the base year;<br> iii. the context for any significant changes in emissions that triggered recalculations of base year emissions.<br> e. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source.<br> f. Consolidation approach for emissions; whether equity share, financial control, or operational control.<br> g. Standards, methodologies, assumptions, and/or calculation tools used.<br> When compiling the information specified in Disclosure 305-2, the reporting organization shall:<br> 2.3 exclude any GHG trades from the calculation of gross energy indirect (Scope 2) GHG emissions;<br> 2.3.1 exclude other indirect (Scope 3) GHG emissions that are disclosed as specified in Disclosure 305-3;<br> 2.3.2 account and report energy indirect (Scope 2) GHG emissions based on the location-based method, if it has operations in markets without product or supplier-specific data;<br> 2.3.3 account and report energy indirect (Scope 2) GHG emissions based on both the location-based and market-based methods, if it has any operations in markets providing product or supplier-specific data in the form of contractual instruments.",
             "short_explainer":"Pośrednie emisje gazów cieplarnianych (zakres 2)"
             
         },
@@ -395,7 +410,7 @@
         {
             "header":"Emisje",
             "name": "GRI 305-3",
-            "explainer": "test test test",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. Gross other indirect (Scope 3) GHG emissions in metric tons of CO2 equivalent.<br> b. If available, the gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all.<br> c. Biogenic CO2 emissions in metric tons of CO2 equivalent.<br> d. Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.<br> e. Base year for the calculation, if applicable, including:<br> i. the rationale for choosing it;<br> ii. emissions in the base year;<br> iii. the context for any significant changes in emissions that triggered recalculations of base year emissions.<br> f. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source.<br> g. Standards, methodologies, assumptions, and/or calculation tools used.<br> When compiling the information specified in Disclosure 305-3, the reporting organization shall:<br> 2.5 exclude any GHG trades from the calculation of gross other indirect (Scope 3) GHG emissions;<br> 2.5.1 exclude energy indirect (Scope 2) GHG emissions from this disclosure. Energy indirect (Scope 2) GHG emissions are disclosed as specified in Disclosure 305-2;<br> 2.5.2 report biogenic emissions of CO2 from the combustion or biodegradation of biomass that occur in its value chain separately from the gross other indirect (Scope 3) GHG emissions. Exclude biogenic emissions of other types of GHG (such as CH4 and N2O), and biogenic emissions of CO2 that occur in the life cycle of biomass other than from combustion or biodegradation (such as GHG emissions from processing or transporting biomass).",
             "short_explainer":"Inne pośrednie emisje gazów cieplarnianych (zakres 3)"
             
         },
@@ -404,7 +419,7 @@
         {
             "header":"Emisje",
             "name": "GRI 305-4",
-            "explainer": "test test test",
+            "explainer": "The reporting organization shall report the following information: <br><br> a. GHG emissions intensity ratio for the organization.<br> b. Organization-specific metric (the denominator) chosen to calculate the ratio.<br> c. Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).<br> d. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all.<br> When compiling the information specified in Disclosure 305-4, the reporting organization shall:<br> 2.7 calculate the ratio by dividing the absolute GHG emissions (the numerator) by the organization-specific metric (the denominator);<br> 2.7.1 if reporting an intensity ratio for other indirect (Scope 3) GHG emissions, report this intensity ratio separately from the intensity ratios for direct (Scope 1) and energy indirect (Scope 2) emissions.",
             "short_explainer":"Intensywność emisji gazów cieplarnianych"
             
         },

@@ -53,7 +53,7 @@
 
         {
             "name": "GRI 2-7",
-            "headers": ["Opis", "Licz. Pracow.", "Licz. Kob.", "Licz. Mez.","Srd. Wiek"] 
+            "headers": ["Opis", "Licz. Pracow.", "Licz. Kob.", "Licz. Mez."] 
         },
 
         {
@@ -183,7 +183,7 @@
 
         {
             "name": "GRI 401-1",
-            "headers": ["Opis", "Liczba Procowników", "Liczba Kobiet", "Liczba Mezczyzn","Sredni Wiek"] 
+            "headers": ["Opis", "Liczba Procowników", "Liczba Kobiet", "Liczba Mezczyzn", "Nowo.", "Odejsc", "Wsk. Nowo.", "Wsk. Rotacji"] 
         },
 
 
@@ -282,14 +282,19 @@
         },
 
         {
-            "name": "GRI 303-3",
-            "headers": ["Opis", "Wody powierzchniowe"]
+            "name": "GRI 302-3",
+            "headers": ["Opis"]
         },
 
 
         {
             "name": "GRI 303-3",
             "headers": ["Opis", "Zuzycie Energii", "Zuzycie Energii / Pracow."]
+        },
+
+        {
+            "name": "GRI 303-5",
+            "headers": ["Opis"]
         },
 
 
