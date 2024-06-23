@@ -110,6 +110,7 @@
             "headers": ["Opis"] 
         },
 
+   
 
 
         {
@@ -407,7 +408,7 @@
 
         {
             "name": "GRI 401-3",
-            "headers": ["Opis", "Licz. Pracow. (M) Uprawn.","Licz. Pracow. (K) Uprawn."]
+            "headers": ["Opis", "Licz. Pracow. (M) Uprawn.","Licz. Pracow. (K) Uprawn.", "Urlop Rodzic.", "Urlop Ojcowski"]
         },
 
     

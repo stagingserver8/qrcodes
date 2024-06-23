@@ -474,15 +474,6 @@
 
         {
             "header":"Zdrowie i bezpieczeństwo",
-            "name": "GRI 403-1",
-            "explainer": "bla",
-            "short_explainer":""
-            
-        },
-
-
-        {
-            "header":"Zdrowie i bezpieczeństwo",
             "name": "GRI 403-2",
             "explainer": "The reporting organization shall report the following information for employees and for workers who are not employees but whose work and/or workplace is controlled by the organization: <br> <br> a) A description of the processes used to identify work-related hazards and assess risks on a routine and non-routine basis, and to apply the hierarchy of controls in order to eliminate hazards and minimize risks, including: <Br> <br> i. how the organization ensures the quality of these processes, including the competency of persons who carry them out; <br> ii. how the results of these processes are used to evaluate and continually improve the occupational health and safety management system. <br> <br> A description of the processes for workers to report work-related hazards and hazardous situations, and an explanation of how workers are protected against reprisals. <br> <br> c. A description of the policies and processes for workers to remove themselves from work situations that they believe could cause injury or ill health, and an explanation of how workers are protected against reprisals.<br><br> d. A description of the processes used to investigate work-related incidents, including the processes to identify hazards and assess risks relating to the incidents, to determine corrective actions using the hierarchy of controls, and to determine improvements needed in the occupational health and safety management system. ",
             "short_explainer":"Procesy identyfikacji zagrożeń, ocena ryzyka oraz badania wypadków"
@@ -545,8 +536,8 @@
 
         {
             "name": "GRI 407-1",
-            "explainer": "bla"
-            
+            "explainer": "The reporting organization shall report the following information:<br></b><br>Operations and suppliers in which workers’ rights to exercise freedom of association or collective bargaining may be violated or at significant risk either in terms of:<br>i. type of operation (such as manufacturing plant) and supplier;<br>ii. countries or geographic areas with operations and suppliers considered at risk.<br><br>a. Measures taken by the organization in the reporting period.",
+             "short_explainer":"Wskaźnik urazów związanych z pracą"
         },
 
         
@@ -556,7 +547,7 @@
         {
             "header":"Marketing i oznakowanie",
             "name": "GRI 417-2",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information:<br><br><b>Compilation requirements:</b><br>Total number of incidents of non-compliance with regulations and/or voluntary codes concerning product and service information and labeling, by:<br>i. incidents of non-compliance with regulations resulting in a fine or penalty;<br>ii. incidents of non-compliance with regulations resulting in a warning;<br>iii. incidents of non-compliance with voluntary codes.<br><br>a. If the organization has not identified any non-compliance with regulations and/or voluntary codes, a brief statement of this fact is sufficient.<br>b. When compiling the information specified in Disclosure 417-2, the reporting organization shall:<br>2.1 exclude incidents of non-compliance in which the organization was determined not to be at fault;<br>2.1.1 if applicable, identify any incidents of non-compliance that relate to events in periods prior to the reporting period.",
             "short_explainer":"Całkowita liczba przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktach i usługach"
             
         },
@@ -566,7 +557,7 @@
         {
             "header":"Marketing i oznakowanie",
             "name": "GRI 417-3",
-            "explainer": "bla",
+            "explainer": "The reporting organization shall report the following information:<br><br><b>Compilation requirements:</b><br>Total number of incidents of non-compliance with regulations and/or voluntary codes concerning marketing communications, including advertising, promotion, and sponsorship, by:<br>i. incidents of non-compliance with regulations resulting in a fine or penalty;<br>ii. incidents of non-compliance with regulations resulting in a warning;<br>iii. incidents of non-compliance with voluntary codes.<br><br>a. If the organization has not identified any non-compliance with regulations and/or voluntary codes, a brief statement of this fact is sufficient.<br>b. When compiling the information specified in Disclosure 417-3, the reporting organization shall:<br>2.2 exclude incidents of non-compliance in which the organization was determined not to be at fault;<br>2.2.1 if applicable, identify any incidents of non-compliance that relate to events in periods prior to the reporting period.",
             "short_explainer":"Całkowita liczba przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej"
             
         },
@@ -605,7 +596,7 @@
         {
             "header": "Różnorodność i równe traktowanie",
             "name": "GRI 405-1",
-            "explainer": "bla bla",
+            "explainer": "The reporting organization shall report the following information:<br><br>Percentage of individuals within the organization’s governance bodies in each of the following diversity categories:<br>i. Gender;<br>ii. Age group: under 30 years old, 30-50 years old, over 50 years old;<br>iii. Other indicators of diversity where relevant (such as minority or vulnerable groups).<br><br>a. Percentage of employees per employee category in each of the following diversity categories:<br>i. Gender;<br>ii. Age group: under 30 years old, 30-50 years old, over 50 years old;<br>iii. Other indicators of diversity where relevant (such as minority or vulnerable groups).",
             "short_explainer":"Skład ciał nadzorczych i kadry pracowniczej w podziale na kategorie pracowników według płci, wieku, przynależności do mniejszości oraz innych wskaźników różnorodności"
            
         },
@@ -614,7 +605,7 @@
         {
             "header": "Różnorodność i równe traktowanie",
             "name": "GRI 405-2",
-            "explainer": "bla bla",
+            "explainer": "The reporting organization shall report the following information:<br><br>a. Ratio of the basic salary and remuneration of women to men for each employee category, by significant locations of operation.<br><br>b. The definition used for ‘significant locations of operation’.",
             "short_explainer":"Stosunek zasadniczego i całkowitego wynagrodzenia kobiet do wynagrodzenia mężczyzn według zajmowanego stanowiska"
            
         },
@@ -629,7 +620,7 @@
         {
             "header":"Szkolenia i edukacja",
             "name": "GRI 404-1",
-            "explainer": "Liczba godzin szkolenia",
+            "explainer": "The reporting organization shall report the following information:<br><br>Average hours of training that the organization’s employees have undertaken during the reporting period, by:<br>i. gender;<br>ii. employee category.",
             "short_explainer":"Liczba godzin szkoleniowych w roku przypadających na pracownika według struktury zatrudnienia"
             
         },
@@ -647,7 +638,7 @@
         {
             "header":"Szkolenia i edukacja",
             "name": "GRI 404-3",
-            "explainer": "Liczba godzin szkolenia",
+            "explainer": "The reporting organization shall report the following information:<br></b><br>Type and scope of programs implemented and assistance provided to upgrade employee skills.<br><br>a. Transition assistance programs provided to facilitate continued employability and the management of career endings resulting from retirement or termination of employment.",
             "short_explainer":"Odsetek pracowników podlegających regularnym ocenom jakości pracy i przeglądom rozwoju kariery zawodowej, według płci i kategorii zatrudnieniah"
             
         },
