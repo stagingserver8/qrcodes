@@ -1,0 +1,42 @@
+[
+
+  
+
+                                  {
+                                    "name": "CCC",
+                                    "language": "English",
+                                    "country": "Germany",
+                                    "standards": {
+
+                                        "ESRS": {
+                                            "ESRS-1": {
+                                              "metrics": {
+                                                "Opis":"Pełny",
+                                                "Country": "Germany",
+                                          
+                                                "Text": "HELLO"
+                                              }
+                                            },
+
+                                            "ESRS-2": {
+                                              "metrics": {
+                                                "Opis":"Pełny",
+                                                "Country": "Poland",
+                                                "HQ": "Frankfurt"
+                                               
+                                              }
+                                            }
+
+
+
+
+                                                    
+                                                  }
+                                                }
+                                              }
+
+
+            
+
+
+]

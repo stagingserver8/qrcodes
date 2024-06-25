@@ -30,6 +30,14 @@
             
         },
         {
+            "header" : "testing",
+            "name": "ESRS-1",
+            "explainer": "bla ",
+            "short_explainer": "ERSR-1"
+            
+        },
+
+        {
             "header" : "Organizacja i Praktyki",
             "name": "GRI 2-4",
             "explainer": "The organization shall: <br> <Br> report restatements of information made from previous reporting periods and explain: <Br> <Br> i. the reasons for the restatements; <br> ii. the effect of the restatements. ",

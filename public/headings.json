@@ -1,4 +1,9 @@
 {
+
+
+ 
+
+
     "GRI": [
         {
             "name": "GRI 2-1",
@@ -32,6 +37,10 @@
             "name": "Pay Gap",
             "headers": ["Opis", "Highest Paid / Median", "Increase of Highest Paid / All" ]
         },
+
+ 
+
+
 
 
 
@@ -412,6 +421,12 @@
         {
             "name": "GRI 3-2",
             "headers": ["Opis"]
+        }
+    ],
+    "ESRS": [
+        {
+            "name": "ESRS-1",
+            "headers": ["Opis", "Movie"]
         }
     ]
 }

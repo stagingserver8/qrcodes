@@ -455,8 +455,12 @@ document.addEventListener('DOMContentLoaded', function () {
             // Reset the GRI dropdown
             document.getElementById('subOptionsDropdown').textContent = 'Wybierz';
 
-            // Call functions to update the table and content
-            populateTable(selectedText);
+            // Call functions to update the table and content based on ESRS selection
+            if (selectedText.startsWith('ESRS')) {
+                populateTableForESRS(selectedText);
+            } else {
+                populateTable(selectedText);
+            }
             updateTabContent(selectedText);
             showExplainerCard(selectedText);
 
@@ -464,6 +468,161 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
+
+
+function populateTableForESRS(optionText) {
+    fetch('headings.json')
+        .then(response => response.json())
+        .then(headingsData => {
+            const esrsHeaders = headingsData.ESRS.find(esrs => esrs.name === optionText);
+            if (!esrsHeaders) {
+                console.error('No header data found for:', optionText);
+                return;
+            }
+
+            const dynamicHeaders = ["Company"].concat(esrsHeaders.headers);
+            const tableHeadings = document.getElementById('table-headings');
+            tableHeadings.innerHTML = '';
+            dynamicHeaders.forEach(header => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                tableHeadings.appendChild(th);
+            });
+
+            fetch('companiesESRS.json')
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.getElementById('table-body');
+                    tableBody.innerHTML = '';
+
+                    const filteredCompanies = data.filter(company => company.standards && company.standards.ESRS && company.standards.ESRS[optionText]);
+
+                    filteredCompanies.forEach(company => {
+                        const tr = document.createElement('tr');
+
+                        const tdCompany = document.createElement('td');
+                        const link = document.createElement('a');
+                        link.href = "#";
+                        link.className = "company-name";
+                        link.textContent = company.name;
+                        tdCompany.appendChild(link);
+                        tr.appendChild(tdCompany);
+
+                        esrsHeaders.headers.forEach(header => {
+                            const td = document.createElement('td');
+                            let content = company.standards && company.standards.ESRS && company.standards.ESRS[optionText] && company.standards.ESRS[optionText].metrics && company.standards.ESRS[optionText].metrics[header] ? company.standards.ESRS[optionText].metrics[header] : "-";
+                            if (content === "Pełny" || content === "Cześćiowy" || content === "Brak") {
+                                const span = document.createElement('span');
+                                span.className = 'status-circle';
+                                span.style.display = 'inline-block';
+                                span.style.width = '10px';
+                                span.style.height = '10px';
+                                span.style.borderRadius = '50%';
+                                span.style.marginRight = '5px';
+
+                                switch (content) {
+                                    case "Pełny":
+                                        span.style.backgroundColor = '#2fb344'; // Green
+                                        break;
+                                    case "Cześćiowy":
+                                        span.style.backgroundColor = '#f59f00'; // Yellow
+                                        break;
+                                    case "Brak":
+                                        span.style.backgroundColor = '#d63939'; // Red
+                                        break;
+                                }
+                                td.appendChild(span);
+                            } else {
+                                td.textContent = content;
+                            }
+                            tr.appendChild(td);
+                        });
+
+                        tableBody.appendChild(tr);
+                    });
+
+                    tableBody.addEventListener('click', function(event) {
+                        const target = event.target;
+                        if (target.tagName === 'A' && target.classList.contains('company-name')) {
+                            event.stopPropagation();
+                            const tr = target.closest('tr');
+                            highlightRow(tr);
+                            const companyName = target.textContent;
+                            const companyData = data.find(comp => comp.name === companyName);
+                            updateCardForESRS(companyData, optionText);
+                            updateFirstTabLabel(companyName);
+                        } else if (target.tagName === 'TD') {
+                            const tr = target.closest('tr');
+                            highlightRow(tr);
+                        }
+                    });
+                })
+                .catch(error => {
+                    console.error('Error loading company data:', error);
+                    alert('Failed to load company data.');
+                });
+        })
+        .catch(error => {
+            console.error('Error loading headers data:', error);
+            alert('Failed to load header data.');
+        });
+}
+
+function updateCardForESRS(company, selectedESRS) {
+    const card = document.getElementById('tab-top-1');
+    const cardTitle = card.querySelector('.card-title');
+    const textContent = card.querySelector('.text-secondary');
+
+    textContent.innerHTML = (company.standards && company.standards.ESRS && company.standards.ESRS[selectedESRS] && company.standards.ESRS[selectedESRS].metrics)
+        ? company.standards.ESRS[selectedESRS].metrics['Text']
+        : 'No details available for this standard.';
+
+    const firstTabLink = document.querySelector('a[href="#tab-top-1"]');
+    if (firstTabLink) {
+        firstTabLink.textContent = company.name;
+    }
+
+    const dataTab = document.getElementById('tab-top-2').querySelector('.text-secondary');
+    dataTab.innerHTML = '';
+
+    if (company.standards.ESRS[selectedESRS].metrics.Text) {
+        let textParagraph = document.createElement('p');
+        textParagraph.textContent = company.standards.ESRS[selectedESRS].metrics.Text;
+        dataTab.appendChild(textParagraph);
+    }
+
+    // Show explainer card
+    showExplainerCard(selectedESRS);
+}
+
+
+
+
+function updateTableHeadings(optionText) {
+    fetch('headings.json')
+        .then(response => response.json())
+        .then(headingsData => {
+            const esrsHeaders = headingsData.ESRS ? headingsData.ESRS.find(esrs => esrs.name === optionText) : null;
+
+            if (!esrsHeaders) {
+                console.error('No header data found for:', optionText);
+                return;
+            }
+
+            const dynamicHeaders = ["Company"].concat(esrsHeaders.headers);
+            const tableHeadings = document.getElementById('table-headings');
+            tableHeadings.innerHTML = ''; // Clear existing headers
+            dynamicHeaders.forEach(header => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                tableHeadings.appendChild(th);
+            });
+        })
+        .catch(error => {
+            console.error('Error loading headers data:', error);
+            alert('Failed to load header data.');
+        });
+}
 
 
 function getShortExplainer(standards, selectedText) {
@@ -482,3 +641,6 @@ $(document).ready(function () {
         $('#dynamicHeading').text(titles[selectedKey]);
     });
 });
+
+
+
