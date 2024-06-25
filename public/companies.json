@@ -1,10 +1,12 @@
 [
     {
         "name": "Bank Gospodarstwa Krajowego",
-        "language": "English",
+        "language": "Polish",
         "country": "Poland",
         "standards": {
-            "GRI": {
+            
+          
+          "GRI": {
                 "GRI 2-1": {
                   "metrics": {
                     "Opis":"Pełny",

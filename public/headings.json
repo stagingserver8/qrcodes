@@ -75,8 +75,6 @@
         },
 
 
-
-
         {
             "name": "GRI 2-11",
             "headers": ["Opis"] 
@@ -180,8 +178,7 @@
         },
 
 
-     
-
+    
         {
             "name": "GRI 401-1",
             "headers": ["Opis", "Liczba Procowników", "Liczba Kobiet", "Liczba Mezczyzn", "Nowo.", "Odejsc", "Wsk. Nowo.", "Wsk. Rotacji"] 
