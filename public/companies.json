@@ -21,6 +21,8 @@
             
                 },
 
+                
+
                 "GRI 2-28": {
                   "metrics": {
                     "Opis": "Brak",
@@ -2012,6 +2014,9 @@
           
       }
   },
+
+
+
   {
     "name": "Santander Polska",
     "language": "English",
@@ -2024,25 +2029,665 @@
                 "Country": "Poland",
                 "Ownership": "Banco Santander (67.41%), NN OFE (5.01%), Float (27.58%)",
                 "HQ": "Warsaw",
-                "Text": ""
-              }
+                "Text": "Grupa Kapitałowa Santander Bank Polska (dalej: Grupa) jest jedną z największych grup kapitałowych działających na polskim rynku finansowym. Jednostka dominująca Grupy – Santander Bank Polska S.A. (dalej: Bank) - jest bankiem uniwersalnym świadczącym pełen zakres usług na rzecz klientów indywidualnych, małych i średnich firm oraz dużych przedsiębiorstw, korporacji i instytucji sektora publicznego. Bank ma jedną z największych w Polsce sieci oddziałów i placówek partnerskich, jak również świadczy usługi poprzez elektroniczne kanały dostępu, w tym bankowość mobilną. Bank znajduje się w trójce największych banków w polskim sektorze bankowym i jest największym prywatnym bankiem w Polsce. Jest również notowany na Giełdzie Papierów Wartościowych w Warszawie, a jego akcje wchodzą w skład indeksów WIG20, WIG-Banki, a także WIG-ESG, czyli indeksu obejmującego najbardziej odpowiedzialne społecznie spółki giełdowe "
+              },
+              "attachment_1": "images/sup/Santander_1.png"                  
             },
 
             "GRI 2-13": {
               "metrics": {
                 "Opis":"Pełny",
                 "Country": "Poland",
-                "Text": "Za planowanie naszych działań wynikających ze Strategii Odpowiedzialnej Bankowości od 2021 r. odpowiada Forum ESG. W skład Forum wchodzi 11 członków reprezentujących wszystkie piony bankowe, a przewodniczy mu Prezes Zarządu Banku."
+                "Text": "Za planowanie naszych działań wynikających ze Strategii Odpowiedzialnej Bankowości od 2021 r. odpowiada Forum ESG. W skład Forum wchodzi 11 członków reprezentujących wszystkie piony bankowe, a przewodniczy mu Prezes Zarządu Banku. Najważniejszym komitetem odpowiedzialnym za zarządzanie kwestiami zrównoważonego rozwoju i ESG w Santander Bank Polska S.A. jest Komitet ds. Odpowiedzialnej Bankowości i Kultury Organizacyjnej. Do jego zadań należy wspieranie Zarządu w wyznaczaniu strategii i standardów zarządzania odpowiedzialną bankowością i kulturą organizacyjną w Santander Bank Polska S.A. Komitet ustala i monitoruje cele z zakresu zrównoważonego rozwoju w odniesieniu do wszystkich obszarów działalności Banku. Przewodniczącym tego komitetu jest Prezes Zarządu.<br><br> W skład komitetu wchodzą:<br><br> Prezes Zarządu Santander Bank Polska S.A. – Przewodniczący Komitetu, <br><br> Wiceprezes Zarządu Banku zarządzający Pionem Bankowości Korporacyjnej i Inwestycyjnej, <br><br> Wiceprezes Zarządu Banku zarządzający Pionem Zarządzania Ryzykiem, <br><br> Wiceprezes Zarządu Banku zarządzający Pionem Wealth Management i Ubezpieczeń, <br><br> Członek Zarządu Banku zarządzający Pionem Bankowości Detalicznej, <br><br> Członek Zarządu Banku zarządzający Pionem Partnerstwa Biznesowego, <br><br> Członek Zarządu Banku zarządzający Pionem Zarządzania Finansami, <br><br> Członek Zarządu Banku zarządzający Pionem Bankowości Biznesowej i Korporacyjnej, <br><br> Członek Zarządu Banku zarządzający Pionem Transformacji Cyfrowej, <br><br> Członek Zarządu Banku zarządzający Pionem Rachunkowości i Kontroli Finansowej, <br><br> Członek Zarządu Banku zarządzający Pionem Zgodności i Przeciwdziałania Przestępczości Finansowej, <br><br> Dyrektor Departamentu Ładu Korporacyjnego, <br><br> Dyrektor Obszaru Prawnego, <br><br> Dyrektor Obszaru Komunikacji Korporacyjnej i Marketingu, <br><br> Dyrektor Departamentu Zarządzania Talentami i Transformacji Kultury Organizacyjnej, <br><br> Chief Employee Experience Officer, <br><br> Dyrektor Rozwoju Kultury Ryzyka. "
 
                 
               }
             },
 
+            "GRI 2-22": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Regulacje są nie tylko wyzwaniem, ale także szansą. Sprawiają, że monitoring postępów w realizacji strategii ESG ma charakter ciągły. Wnoszą spójność i transparentność raportowania kwestii związanych ze zrównoważonym rozwojem. Ułatwiają analizę ryzyk związanych m.in. ze zmianami klimatu i przygotowaniem się na nie. Zmiany te odczuwamy już teraz, a w dłuższej perspektywie wpłyną one na funkcjonowanie wszystkich firm na świecie "
+
+              }                 
+
+            },
+
+
+
+"GRI 2-6": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Grupa Kapitałowa Santander Bank Polska (dalej: Grupa) jest jedną z największych grup kapitałowych działających na polskim rynku finansowym. Jednostka dominująca Grupy – Santander Bank Polska S.A. (dalej: Bank) - jest bankiem uniwersalnym świadczącym pełen zakres usług na rzecz klientów indywidualnych, małych i średnich firm oraz dużych przedsiębiorstw, korporacji i instytucji sektora publicznego. Bank ma jedną z największych w Polsce sieci oddziałów i placówek partnerskich, jak również świadczy usługi poprzez elektroniczne kanały dostępu, w tym bankowość mobilną. Bank znajduje się w trójce największych banków w polskim sektorze bankowym i jest największym prywatnym bankiem w Polsce. Jest również notowany na Giełdzie Papierów Wartościowych w Warszawie, a jego akcje wchodzą w skład indeksów WIG20, WIG-Banki, a także WIG-ESG, czyli indeksu obejmującego najbardziej odpowiedzialne społecznie spółki giełdowe <br><br>W toku podejmowania decyzji uwzględniamy różne rodzaje ryzyk ESG. Zarządzanie tymi ryzykami jest elementem szerszego, kompleksowego procesu zarządzania ryzykiem w Grupie Santander Bank Polska. System ten opiera się na trzech niezależnych i uzupełniających się poziomach, tzw. liniach obrony. Wdrożone rozwiązania:<br><br> uwzględniają istotę ekspozycji Banku na ryzyko, <br><br> obejmują wszystkie istotne rodzaje ryzyka, w tym ryzyko środowiskowe, społeczne i związane z zarządzaniem, <br><br> obejmują adekwatność i skuteczność ryzyk oraz wzajemne zależności poszczególnych ich rodzajów, <br><br> umożliwiają Bankowi skuteczne podejmowanie decyzji odnośnie realizacji strategii zarządzania. <br><br> W 2023 r. miały miejsce istotne zmiany w obszarze zarządzania ryzykami ESGw Santander Bank Polska S.A. Odpowiedzialność za te ryzyka została przypisana do Pionu Zarządzania Ryzykiem, a osobą odpowiedzialną na poziomie Zarządu jest Wiceprezes zarządzający tym pionem. Ryzyka ESG zostały uwzględnione w strategii pionu (poprzez zdefiniowanie kanałów ich transmisji na tradycyjne ryzyka bankowe) oraz w regulaminie pionu (w zakresie zadań i odpowiedzialności).<br><br> Aby zapewnić odpowiednią organizację obszaru zarządzania ryzykiem ESG w ramach pionu utworzone również zostało Biuro Zarządzania Ryzykiem ESG. Biuro odpowiada między innymi za integrację podejścia do zarządzania ryzykiem ESG z dotychczasowymi, wewnętrznymi ramami zarządzania ryzykiem w Banku. Obejmuje to włączenie kwestii ESG do procesu oceny ryzyka kredytowego, wyceny zabezpieczeń i późniejszego monitoringu. Biuro ma również za zadanie wsparcie realizacji strategii Banku w zakresie ESG, szczególnie poprzez analizy emisyjności portfela kredytowego, jak również rozwój polityk i narzędzi analitycznych wspierających klientów w transformacji w kierunku gospodarki niskoemisyjnej. Działania biura mają także na celu ograniczanie ryzyka greenwashingu poprzez nadzór nad wewnętrznymi procesami, certyfikację zrównoważonego finansowania oraz bieżącą współpracę z obszarem ryzyka reputacyjnego.<br><br> Zgodnie z „Polityką odpowiedzialnej bankowości i zrównoważonego rozwoju’ w Grupie Santander Bank Polska propagujemy poszanowanie zobowiązań w zakresie ESG w całym łańcuchu dostaw.<br><br> Grupa Santander Bank Polska obsługuje osoby fizyczne, małe i średnie firmy, duże przedsiębiorstwa i korporacje oraz instytucje sektora publicznego (7,5 mln klientów na koniec 2023 roku). Dbamy o pozytywne doświadczenia bankowe wszystkich klientów poprzez:<br><br> stosowanie standardów obsługi, które odpowiadają aktualnym trendom rynkowym,<br><br> dostosowywanie oferowanych rozwiązań do oczekiwań klientów,<br><br> odpowiedzialne praktyki sprzedażowe i przeciwdziałanie sprzedaży produktów finansowych niezgodnych z potrzebami klienta (misselling),<br><br> zwiększanie świadomości klientów o cyberbezpieczeństwie, <br><br> przestrzeganie zasad etyki w komunikacji marketingowej, <br><br>rzetelne i zrozumiałe informowanie o produktach i usługach <br><br> W 2023 roku Santander Bank Polska S.A. przygotował nowe standardy obsługi klientów. Zmiany zainspirowane zostały wywiadami jakościowymi przeprowadzonymi z 24 klientami oraz badaniami ilościowymi z udziałem 467 pracowników. W 2024 roku Bank planuje wdrożenie standardów w sieci dystrybucji i szkolenia dla pracowników. <br><br> Odświeżenie swoich standardów obsługi klienta planuje na rok 2024 również Santander Leasing. <br><br>Bank przygotował dla klientów nowoczesną, kompleksową i dostosowaną do potrzeb ofertę dotyczącą rachunków bankowych, kredytów, oszczędności i inwestycji oraz produktów rozliczeniowych, ubezpieczeniowych i kartowych. Dążymy do tego, aby korzystanie z naszych usług było proste. Cały czas zwiększamy również liczbę funkcji i spraw, które klient może szybko i sprawnie załatwić w kanałach zdalnych. W zakresie obsługi klientów biznesowych Bank podejmuje działania polepszające standardy współpracy i poprawiające relacje między doradcą a klientem."
+
+              },
+              "attachment_1": "images/sup/Santander_1.png",
+              "attachment_2": "images/sup/Santander_16.png" 
+
+            },
+
+"GRI 2-23": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W latach 2021-2023 Grupa Santander Bank Polska realizowała strategię opartą o przyjętą misję i sześć kierunków strategicznych:<br><br>„Obsesja na punkcie klienta’,<br><br>„Troska o pracownika’,<br><br>„Upraszczanie’, <br><br>„Omnikanałowość’, <br><br>„Ewolucja do otwartej platformy’, <br><br>„Bezpieczeństwo i zaufanie’.<br><br> Przyjęte kierunki strategiczne były współzależne i wskazywały najważniejsze obszary, na których koncentrowała się transformacja Grupy. Szczegóły strategii na lata 2021-2023 zaprezentowane są w Raporcie ESG za rok 2022.<br><br> Istotną częścią naszej strategii biznesowej w latach 2021-2023 roku była Strategia Odpowiedzialnej Bankowości, która określała nasze podejście do kwestii ESG. Punktem wyjścia jej realizacji były działania z zakresu wzmacniania kultury organizacyjnej i zwiększania zaangażowania Grupy w zrównoważone finansowanie.<br><br> Ład korporacyjny w spółkach tworzących Grupę Santander Bank Polska określa zasady działania ich organów i kluczowych systemów oraz procesów. Kształtuje wzorcowe relacje z akcjonariuszami Banku, klientami i pozostałymi interesariuszami. Przyjęte zasady budują zaufanie rynku do Grupy Santander Bank Polska oraz pośrednio wspierają zrównoważony rozwój i wiarygodność krajowego rynku kapitałowego. Szczególny nacisk kładziemy na profesjonalizm i profil etyczny osób wchodzących w skład organów zarządzających i nadzorujących oraz na przejrzystość i najwyższą staranność w działaniu. <br><br>Ład korporacyjny w spółkach naszej Grupy kształtują przepisy prawa („Kodeks spółek handlowych’, „Prawo bankowe’), a także „Zasady ładu korporacyjnego dla instytucji nadzorowanych’ Komisji Nadzoru Finansowego. W przypadku Banku kluczowymi dokumentami z punktu widzenia ładu korporacyjnego są również „Dobre praktyki spółek notowanych na GPW’, „Rekomendacja dotycząca zasad ładu wewnętrznego w bankach’ KNF oraz „Kodeks Etyki Bankowej’ Związku Banków Polskich (istotny też dla Santander Consumer Bank S.A.).<br><br> Kwestie poszanowania i ochrony praw człowieka w Grupie Santander Bank Polska reguluje „Polityka odpowiedzialnej bankowości i zrównoważonego rozwoju’, która w październiku 2023 roku zastąpiła dwa poprzednio obowiązujące dokumenty: „Politykę zrównoważonego rozwoju’ i „Politykę praw człowieka’. Zapisy polityki podkreślają istotność naszych zobowiązań wobec interesariuszy i wyjaśniają procesy stosowania standardów społecznych, środowiskowych i dotyczących ładu korporacyjnego zgodnie z Modelem Odpowiedzialnej Bankowości. Polityka przedstawia podejście Santander Bank Polska S.A. oraz Grupy Santander Bank Polska do kwestii odpowiedzialnej bankowości i zrównoważonego rozwoju. Określa zasady, zobowiązania, cele i strategię w odniesieniu do akcjonariuszy, pracowników, klientów, dostawców, kwestii społecznych, środowiska naturalnego, różnorodności, odpowiedzialności podatkowej, poszanowania praw człowieka oraz zapobiegania korupcji i innym nielegalnym działaniom.<br><br> Najważniejszymi dokumentami dotyczącymi zarządzania wpływem środowiskowym Grupy Santander Bank Polska są: <br><br>grupowa strategia Net Zero,<br><br>Strategia Odpowiedzialnej Bankowości (obowiązująca w latach 2021-2023),<br><br>Strategia biznesowa na lata 2024-2026 „Pomagamy osiągać więcej’,<br><br>„Polityka odpowiedzialnej bankowości i zrównoważonego rozwoju’,<br><br>„Polityka zarządzania ryzykiem społecznym, środowiskowym i zmian klimatycznych’,<br><br>polityki sektorowe,<br><br>„Polityka zrównoważonego i odpowiedzialnego inwestowania’ oraz „Polityka zaangażowania w spółki notowane na rynku regulowanym oraz stosowania środków nadzoru korporacyjnego’ (kluczowe w Santander TFI S.A.),<br><br>„Globalna polityka ramowa dotycząca zrównoważonych obligacji’,<br><br>„Polityka ramowa zielonych obligacji’.<br><br> Grupa Santander Bank Polska ustanawia zasady kształtujące odpowiedzialne relacje z interesariuszami. Zgodnie ze strategią „Pomagamy osiągać więcej’ świadomie podejmujemy etyczne decyzje, dbając o wpływ na społeczność i środowisko. Dzięki zrównoważonemu modelowi biznesowemu Bank tworzy wartość dla klientów, pracowników, akcjonariuszy i lokalnych społeczności, dbając o lepsze jutro dla nas, naszych dzieci i naszej planety. Strategiczne podejście dotyczące relacji z interesariuszami uzupełniają polityki wdrożone zarówno w całej naszej Grupie, jak i w poszczególnych spółkach. W tym kontekście szczególne znaczenie ma „Polityka odpowiedzialnej bankowości i zrównoważonego rozwoju’ przyjęta w październiku 2023 roku i zastępująca wcześniejsze „Politykę zrównoważonego rozwoju’ oraz „Politykę praw człowieka’. Zgodnie z jej zapisami społecznym celem Grupy Santander Bank Polska jest wspieranie: rozwoju sprzyjającego włączeniu społecznemu w formie edukacji finansowej, nauki, przedsiębiorczości i zatrudnienia oraz tworzenia zróżnicowanych zespołów o wysokich kompetencjach."
+
+              },                  
+              "attachment_1": "images/sup/Santander_11.png"
+
+            },
+
+            "GRI 2-24": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W latach 2021-2023 Grupa Santander Bank Polska realizowała strategię opartą o przyjętą misję i sześć kierunków strategicznych:<br><br>„Obsesja na punkcie klienta’,<br><br>„Troska o pracownika’,<br><br>„Upraszczanie’, <br><br>„Omnikanałowość’, <br><br>„Ewolucja do otwartej platformy’, <br><br>„Bezpieczeństwo i zaufanie’.<br><br> Przyjęte kierunki strategiczne były współzależne i wskazywały najważniejsze obszary, na których koncentrowała się transformacja Grupy. Szczegóły strategii na lata 2021-2023 zaprezentowane są w Raporcie ESG za rok 2022.<br><br> Istotną częścią naszej strategii biznesowej w latach 2021-2023 roku była Strategia Odpowiedzialnej Bankowości, która określała nasze podejście do kwestii ESG. Punktem wyjścia jej realizacji były działania z zakresu wzmacniania kultury organizacyjnej i zwiększania zaangażowania Grupy w zrównoważone finansowanie.<br><br> Ład korporacyjny w spółkach tworzących Grupę Santander Bank Polska określa zasady działania ich organów i kluczowych systemów oraz procesów. Kształtuje wzorcowe relacje z akcjonariuszami Banku, klientami i pozostałymi interesariuszami. Przyjęte zasady budują zaufanie rynku do Grupy Santander Bank Polska oraz pośrednio wspierają zrównoważony rozwój i wiarygodność krajowego rynku kapitałowego. Szczególny nacisk kładziemy na profesjonalizm i profil etyczny osób wchodzących w skład organów zarządzających i nadzorujących oraz na przejrzystość i najwyższą staranność w działaniu. <br><br>Ład korporacyjny w spółkach naszej Grupy kształtują przepisy prawa („Kodeks spółek handlowych’, „Prawo bankowe’), a także „Zasady ładu korporacyjnego dla instytucji nadzorowanych’ Komisji Nadzoru Finansowego. W przypadku Banku kluczowymi dokumentami z punktu widzenia ładu korporacyjnego są również „Dobre praktyki spółek notowanych na GPW’, „Rekomendacja dotycząca zasad ładu wewnętrznego w bankach’ KNF oraz „Kodeks Etyki Bankowej’ Związku Banków Polskich (istotny też dla Santander Consumer Bank S.A.).<br><br> „Generalny Kodeks Postępowania’ i kanały zgłaszania naruszeń<br><br>Grupa Santander Bank Polska działa etycznie. Kluczowym, obowiązującym od 2013 roku dokumentem w tym zakresie jest publicznie dostępny „Generalny Kodeks Postępowania’. Określamy w nim szczegółowo zasady etyki pracy w naszej organizacji, prezentujemy przykłady zachowań pożądanych w konkretnych sytuacjach i jasno informujemy o konsekwencjach naruszenia standardów etycznych. Adresatami norm Kodeksu są wszystkie osoby zatrudnione w Banku na podstawie umowy o pracę lub współpracujące z Bankiem na podstawie umowy cywilnoprawnej, w tym kadra kierownicza najwyższego szczebla oraz członkowie organów zarządczych i nadzorczych Banku (dalej łącznie zwani „pracownikami’).<br><br> Wybrane aspekty, których dotyczą postanowienia Kodeksu:<br><br> Najważniejszymi dokumentami dotyczącymi zarządzania wpływem środowiskowym Grupy Santander Bank Polska są: <br><br>grupowa strategia Net Zero,<br><br>Strategia Odpowiedzialnej Bankowości (obowiązująca w latach 2021-2023),<br><br>Strategia biznesowa na lata 2024-2026 „Pomagamy osiągać więcej’,<br><br>„Polityka odpowiedzialnej bankowości i zrównoważonego rozwoju’,<br><br>„Polityka zarządzania ryzykiem społecznym, środowiskowym i zmian klimatycznych’,<br><br>polityki sektorowe,<br><br>„Polityka zrównoważonego i odpowiedzialnego inwestowania’ oraz „Polityka zaangażowania w spółki notowane na rynku regulowanym oraz stosowania środków nadzoru korporacyjnego’ (kluczowe w Santander TFI S.A.),<br><br>„Globalna polityka ramowa dotycząca zrównoważonych obligacji’,<br><br>„Polityka ramowa zielonych obligacji’.<br><br> Grupa Santander Bank Polska ustanawia zasady kształtujące odpowiedzialne relacje z interesariuszami. Zgodnie ze strategią „Pomagamy osiągać więcej’ świadomie podejmujemy etyczne decyzje, dbając o wpływ na społeczność i środowisko. Dzięki zrównoważonemu modelowi biznesowemu Bank tworzy wartość dla klientów, pracowników, akcjonariuszy i lokalnych społeczności, dbając o lepsze jutro dla nas, naszych dzieci i naszej planety. Strategiczne podejście dotyczące relacji z interesariuszami uzupełniają polityki wdrożone zarówno w całej naszej Grupie, jak i w poszczególnych spółkach. W tym kontekście szczególne znaczenie ma „Polityka odpowiedzialnej bankowości i zrównoważonego rozwoju’ przyjęta w październiku 2023 roku i zastępująca wcześniejsze „Politykę zrównoważonego rozwoju’ oraz „Politykę praw człowieka’. Zgodnie z jej zapisami społecznym celem Grupy Santander Bank Polska jest wspieranie: rozwoju sprzyjającego włączeniu społecznemu w formie edukacji finansowej, nauki, przedsiębiorczości i zatrudnienia oraz tworzenia zróżnicowanych zespołów o wysokich kompetencjach."
+
+              },
+              "attachment_1": "images/sup/Santander_4.png",
+              "attachment_2": "images/sup/Santander_5.png",
+              "attachment_3": "images/sup/Santander_11.png"
+
+            },
+
+"GRI 201-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Wskaźnik własny: Liczba punktów dostępu Banku w Polsce, w tym oddziałów w podziale na placówki prowadzone bezpośrednio przez Bank oraz placówki partnerskie"
+
+              }                  
+
+            },
+
+
+"GRI 2-29": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Angażujemy interesariuszy, aby skutecznie dostosowywać produkty i usługi do potrzeb klientów oraz własne działania do zmieniającego się rynku. Identyfikujemy poszczególne grupy interesariuszy3 i aktualizujemy ich profile. Nie tylko słuchamy interesariuszy, ale też chcemy, by głos Grupy był słyszany. Dlatego w kontaktach wykorzystujemy różne kanały komunikacji."
+
+              }                  
+
+            },
+
+"GRI 203-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Angażujemy interesariuszy, aby skutecznie dostosowywać produkty i usługi do potrzeb klientów oraz własne działania do zmieniającego się rynku. Identyfikujemy poszczególne grupy interesariuszy3 i aktualizujemy ich profile. Nie tylko słuchamy interesariuszy, ale też chcemy, by głos Grupy był słyszany. Dlatego w kontaktach wykorzystujemy różne kanały komunikacji. <br><br>Fundacja Santander powstała w 1997 roku. w ciągu ponad 26 lat działalności zainicjowała i przeprowadziła większość programów zaangażowania społecznego realizowanych w Banku. Do zadań Fundacji należą: <br><br> troska o ekologię,<br><br> wspomaganie rozwoju lokalnych społeczności,<br><br> wspieranie dzieci i młodzieży, <br><br> rozwijanie wiedzy dotyczącej bezpiecznego bankowania.W 2023 r. Fundacja Santander Bank Polska S.A. zrealizowała z partnerami społecznymi umowy darowizny o charakterze*:<br><br> edukacyjnym, budżet: 578 197,00 zł,<br><br> charytatywnym, budżet: 801 345,21 zł,<br><br> kulturalnym, budżet: 28 500,00 zł."
+
+              }                  
+
+            },
+
+"GRI 2-28": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Uczestniczymy w pracach stowarzyszeń i fundacji oraz w inicjatywach propagujących odpowiedzialne praktyki. Poniżej przedstawiamy najważniejsze partnerstwa, w których Bank brał udział w 2023 roku:<br><br> Inicjatywy społeczne i dotyczące etyki w sektorze finansowym:<br><br>Deklaracja Odpowiedzialnej Sprzedaży, <br><br>Program „Business and Human Rights’ UN Global Compact Network Poland, <br><br>Karta Różnorodności,<br><br> Partnerstwo na rzecz realizacji Celów Zrównoważonego Rozwoju (SDGs), <br><br>Business Accessibility Forum (BAF)."
+
+              }                  
+
+            },
+
+"GRI 3-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku przeprowadziliśmy analizę podwójnej istotności zgodnie z wytycznymi ESRS4 dla dyrektywy CSRD5. Celem analizy było zidentyfikowanie najbardziej istotnych tematów ESG dla Santander Bank Polska S.A. Analiza ta w kompleksowy sposób ocenia:<br><br> oddziaływanie Banku na otoczenie zewnętrzne (istotność oddziaływania), <br><br> zewnętrzne ryzyka i możliwości wpływające na Bank (istotność finansowa). <br><br>Zestawienie istotności oddziaływania i istotności finansowej pozwala na wskazanie tematów istotnych, które Bank uwzględnia następnie w swojej strategii i raportowaniu niefinansowym.<br><br> W proces analizy podwójnej istotności zaangażowani byli interesariusze wewnętrzni i zewnętrzni Banku; pracownicy, dostawcy, partnerzy biznesowi, przedstawiciele NGOs, instytucje finansowe i regulatorzy.<br><br> Badanie obejmowało między innymi: sesję dialogową z wybranymi interesariuszami zewnętrznymi oraz anonimową ankietę adresowaną do pracowników.<br><br> Badanie wśród grupy pracowników przeprowadzono online w lipcu 2023 r."
+
+              }                  
+
+            },
+
+"GRI 3-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku przeprowadziliśmy analizę podwójnej istotności zgodnie z wytycznymi ESRS4 dla dyrektywy CSRD5. Celem analizy było zidentyfikowanie najbardziej istotnych tematów ESG dla Santander Bank Polska S.A. Analiza ta w kompleksowy sposób ocenia:<br><br> oddziaływanie Banku na otoczenie zewnętrzne (istotność oddziaływania), <br><br> zewnętrzne ryzyka i możliwości wpływające na Bank (istotność finansowa). <br><br>Zestawienie istotności oddziaływania i istotności finansowej pozwala na wskazanie tematów istotnych, które Bank uwzględnia następnie w swojej strategii i raportowaniu niefinansowym.<br><br> W proces analizy podwójnej istotności zaangażowani byli interesariusze wewnętrzni i zewnętrzni Banku; pracownicy, dostawcy, partnerzy biznesowi, przedstawiciele NGOs, instytucje finansowe i regulatorzy.<br><br> Badanie obejmowało między innymi: sesję dialogową z wybranymi interesariuszami zewnętrznymi oraz anonimową ankietę adresowaną do pracowników.<br><br> Badanie wśród grupy pracowników przeprowadzono online w lipcu 2023 r"
+
+              }                  
+
+            },
+
+"GRI 302-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Zużycie energii i efektywność energetyczna Banku<br><br>W 2022 roku całkowite zużycie energii elektrycznej przez Bank wyniosło 21 670,20 MWh, przy czym 9 551,29 MWh energii pochodziło z surowców nieodnawialnych (energia kupowana przez Bank pochodzi z OZE, natomiast energia za którą Bank jest refakturowany, na podstawie umów zawartych pomiędzy dostawcami Banku a dystrybutorami energii, w części pochodzi ze źródeł nieodnawialnych). Dotychczasowe raporty nie uwzględniają danych dotyczących zużycia energii poza organizacją."
+
+              }                  
+
+            },
+
+"GRI 2-9": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W niniejszym sprawozdaniu prezentujemy strukturę zarządczą Banku. Informacje o strukturze zarządczej pozostałych spółek wchodzących w skład naszej Grupy są dostępne na ich stronach internetowych.<br><br> W skład Zarządu9 Santander Bank Polska S.A. na 31 grudnia 2023 r. wchodzili:<br><br> Procedury powoływania i odwoływania Członków Zarządu Santander Bank Polska S.A. są zgodne między innymi z: <br><br> „Kodeksem spółek handlowych’, <br><br> „Prawem bankowym’, <br><br> Statutem Santander Bank Polska S.A., <br><br> „Polityką mianowania i sukcesji Członków Zarządu Santander Bank Polska S.A.’.<br><br> Najważniejszym komitetem odpowiedzialnym za zarządzanie kwestiami zrównoważonego rozwoju i ESG w Santander Bank Polska S.A. jest Komitet ds. Odpowiedzialnej Bankowości i Kultury Organizacyjnej. Do jego zadań należy wspieranie Zarządu w wyznaczaniu strategii i standardów zarządzania odpowiedzialną bankowością i kulturą organizacyjną w Santander Bank Polska S.A. Komitet ustala i monitoruje cele z zakresu zrównoważonego rozwoju w odniesieniu do wszystkich obszarów działalności Banku. Przewodniczącym tego komitetu jest Prezes Zarządu.<br><br> W skład komitetu wchodzą:<br><br> Prezes Zarządu Santander Bank Polska S.A. – Przewodniczący Komitetu, <br><br> Wiceprezes Zarządu Banku zarządzający Pionem Bankowości Korporacyjnej i Inwestycyjnej, <br><br> Wiceprezes Zarządu Banku zarządzający Pionem Zarządzania Ryzykiem, <br><br> Wiceprezes Zarządu Banku zarządzający Pionem Wealth Management i Ubezpieczeń, <br><br> Członek Zarządu Banku zarządzający Pionem Bankowości Detalicznej, <br><br> Członek Zarządu Banku zarządzający Pionem Partnerstwa Biznesowego, <br><br> Członek Zarządu Banku zarządzający Pionem Zarządzania Finansami, <br><br> Członek Zarządu Banku zarządzający Pionem Bankowości Biznesowej i Korporacyjnej, <br><br> Członek Zarządu Banku zarządzający Pionem Transformacji Cyfrowej, <br><br> Członek Zarządu Banku zarządzający Pionem Rachunkowości i Kontroli Finansowej, <br><br> Członek Zarządu Banku zarządzający Pionem Zgodności i Przeciwdziałania Przestępczości Finansowej, <br><br> Dyrektor Departamentu Ładu Korporacyjnego, <br><br> Dyrektor Obszaru Prawnego, <br><br> Dyrektor Obszaru Komunikacji Korporacyjnej i Marketingu, <br><br> Dyrektor Departamentu Zarządzania Talentami i Transformacji Kultury Organizacyjnej, <br><br> Chief Employee Experience Officer, <br><br> Dyrektor Rozwoju Kultury Ryzyka. <br><br> W skład Rady Nadzorczej Santander Bank Polska S.A. na dzień 31 grudnia 2023 wchodzili:<br><br> Rada Nadzorcza Santander Bank Polska S.A składa się z co najmniej pięciu członków wybieranych na wspólną, trzyletnią kadencję. Członków Rady wybiera i odwołuje Walne Zgromadzenie<br><br>Mandat Członka Rady Nadzorczej wygasa najpóźniej z dniem odbycia Walnego Zgromadzenia zatwierdzającego sprawozdanie finansowe za ostatni pełny rok obrotowy pełnienia funkcji Członka Rady. Wygaśnięcie mandatu następuje również wskutek śmierci, rezygnacji albo odwołania. Mandat Członka Rady Nadzorczej, powołanego przed upływem danej kadencji Rady, wygasa równocześnie z wygaśnięciem mandatów pozostałych jej członków. Rada może powoływać komitety i wyznaczać osoby odpowiedzialne za kierowanie ich pracami. Spomiędzy swoich członków Rada powołuje składy Komitetu Audytu i Zapewnienia Zgodności, Komitetu ds. Ryzyka, Komitetu Nominacji oraz Komitetu do spraw Wynagrodzeń. Może również powołać inne komitety wspierające i usprawniające jej działalność. Szczegółowe zasady działania poszczególnych komitetów, w tym role i kompetencje ich przewodniczących i członków, ustala regulamin uchwalony przez Radę Nadzorczą.<br><br> Liczba osób zatrudnionych w Grupie Santander Bank Polska w oparciu o umowę o pracę to 12 072, z czego 67% to kobiety, a 33% to mężczyźni. Najwięcej pracowników Grupy pracuje w Warszawie i innych dużych aglomeracjach. Mniej niż 1% pracowników Grupy stanowią pracownicy zagraniczni.<br><br> Przestrzeganie szacunku dla indywidualności, równego traktowania i przeciwdziałania dyskryminacji gwarantują między innymi „Polityka szacunek i godność’ i „Polityka kultury organizacyjnej Grupy Santander Bank Polska’. Bank, jako sygnatariusz Karty Różnorodności (międzynarodowej inicjatywy wspieranej przez Komisję Europejską), przyjął na siebie zobowiązanie do szanowania i wspierania różnorodności. Ponadto zgodnie z „Polityką różnorodności w składzie zarządu’ dokładamy należytej staranności, aby zapewnić równowagę płci w składzie Zarządu i zwiększyliśmy liczbę kobiet w Zarządzie względem poprzedniego okresu sprawozdawczego. Na koniec 2023 roku w Zarządzie Santander Bank Polska S.A. zasiadało 8 mężczyzn i 3 kobiety. Rada Nadzorcza dąży do osiągnięcia poziomu co najmniej 30% kobiet w składzie Zarządu do 2025 r. oraz zwiększenia zróżnicowania pod względem wieku i pochodzenia geograficznego. Propagujemy również zróżnicowanie Członków Zarządu oraz Rady Nadzorczej pod względem doświadczenia i cech –około połowy składu tych organów stanowią cudzoziemcy.<br><br> Pracujemy jeszcze nad uzyskaniem wiarygodnych danych pozwalających na pokazanie luki płacowej na poziomie skonsolidowanym. Ujawniamy natomiast dane na poziomie Banku, w tym nieskorygowaną lukę płacową, tj. stosunek średniego podstawowego wynagrodzenia kobiet do wynagrodzenia mężczyzn zatrudnionych w poszczególnych kategoriach."
+
+              },
+              "attachment_1": "images/sup/Santander_2.png",
+              "attachment_2": "images/sup/Santander_3.png",
+              "attachment_3": "images/sup/Santander_13.png",
+              "attachment_4": "images/sup/Santander_44.png"
+            
+            },
+
+            "GRI 2-11": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": " W niniejszym sprawozdaniu prezentujemy strukturę zarządczą Banku. Informacje o strukturze zarządczej pozostałych spółek wchodzących w skład naszej Grupy są dostępne na ich stronach internetowych.<br><br> W skład Zarządu9 Santander Bank Polska S.A. na 31 grudnia 2023 r. wchodzili:"
+
+              },
+              "attachment_1": "images/sup/Santander_2.png"
+            
+            },
+
+"GRI 3-3": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Rolą Zarządu Santander Bank Polska S.A. jest między innymi:<br><br> wspólne prowadzenie spraw Banku, <br><br> reprezentowanie spraw Banku, <br><br> przygotowywanie założeń planów biznesowych, ich zatwierdzanie i monitorowanie wykonania, <br><br> przygotowywanie założeń planów finansowych, ich zatwierdzanie oraz monitorowanie ich wykonywania, <br><br> określanie misji Banku, <br><br> wyznaczanie długoterminowych planów i celów strategicznych, <br><br> powoływanie komitetów stałych i doraźnych oraz wyznaczanie osób odpowiedzialnych za kierowanie ich pracami, <br><br> wdrożenie ładu korporacyjnego w Banku oraz zapewnienie jego przestrzegania, <br><br> ocena – co najmniej dwa razy w roku – poziomu przestrzegania zasad etyki w Banku.<br><br> Zakres odpowiedzialności Zarządu to również zarządzanie ryzykami klimatycznymi, a związane z tym działania kontroluje Rada Nadzorcza. Organy te akceptują między innymi najważniejsze polityki oraz system kontroli wewnętrznej, a także uczestniczą w przeglądach i akceptacji ryzyk. Zarząd odpowiada za opracowanie strategii ESG (dotyczącej kwestii środowiskowych, społecznych i zarządczych), obejmującej kwestie ryzyk klimatycznych, oraz jej zintegrowanie ze strategią biznesową w zgodzie z grupową strategią Net Zero Grupy Banco Santander <br><br> Zarząd jest odpowiedzialny za nadzorowanie i zatwierdzanie Strategii Odpowiedzialnej Bankowości oraz integrację kryteriów ESG ze strategią biznesową (w perspektywie krótko-, średnio- lub długoterminowej) oraz w ramach procesu zarządzania ryzykiem. W ramach podziału kompetencji pomiędzy członków Zarządu został wprowadzony następujący podział zadań i obowiązków w zakresie agendy ESG: <br><br> za zarządzanie ryzykami ESG – odpowiada Wiceprezes Zarządu zarządzający Pionem Zarządzania Ryzykiem, <br><br> za kwestie związane z zielonym finansowaniem – odpowiada Członek Zarządu zarządzający Pionem Bankowości Biznesowej i Korporacyjnej, <br><br> za koordynację działań Grupy Banku związanych z odpowiedzialną bankowością, w tym za raportowanie jakościowe ESG – odpowiada kierujący Obszarem Komunikacji Korporacyjnej i Marketingu funkcjonującym poza strukturą pionów, <br><br> za kwestie związane z raportowaniem ilościowym ESG – odpowiada Członek Zarządu zarządzający Pionem Rachunkowości i Kontroli Finansowej. <br><br> Rada Nadzorcza sprawuje stały nadzór nad działalnością Banku, wykonuje uprawnienia przewidziane w Kodeksie spółek handlowych i Statucie, a także zatwierdza opracowane przez Zarząd roczne i wieloletnie plany rozwoju Banku i finansowe plany działalności Banku, strategie działania Banku oraz zasady ostrożnego i stabilnego zarządzania Bankiem. Rada Nadzorcza, zgodnie ze swoim regulaminem, sprawuje nadzór nad procesem opracowywania, wdrożenia i realizacji programu odpowiedzialnej bankowości oraz wypełnianiem wymogów regulacyjnych dotyczących obszaru ESG. Od 2024 roku zostały także rozszerzone kompetencje Komitetów Rady Nadzorczej, tj. Komitetu ds. Ryzyka oraz Komitetu Audytu i Zapewnienia Zgodności. Ustalono, że w ramach weryfikowania profilu ryzyka Grupy brane są pod uwagę również ryzyka ESG, podobnie jak w przypadku przeglądu i rekomendowania Radzie Nadzorczej do zatwierdzenia polityk odnoszących się do ogólnych ram zarządzania ryzykiem obowiązujących w organizacji. Komitet Audytu i Zapewnienia Zgodności będzie dokonywał przeglądu Raportu ESG oraz przyznanych Bankowi i Grupie ratingów ESG.<br><br> „Generalny Kodeks Postępowania’ i kanały zgłaszania naruszeń<br><br>Grupa Santander Bank Polska działa etycznie. Kluczowym, obowiązującym od 2013 roku dokumentem w tym zakresie jest publicznie dostępny „Generalny Kodeks Postępowania’. Określamy w nim szczegółowo zasady etyki pracy w naszej organizacji, prezentujemy przykłady zachowań pożądanych w konkretnych sytuacjach i jasno informujemy o konsekwencjach naruszenia standardów etycznych. Adresatami norm Kodeksu są wszystkie osoby zatrudnione w Banku na podstawie umowy o pracę lub współpracujące z Bankiem na podstawie umowy cywilnoprawnej, w tym kadra kierownicza najwyższego szczebla oraz członkowie organów zarządczych i nadzorczych Banku (dalej łącznie zwani „pracownikami’).<br><br> Wybrane aspekty, których dotyczą postanowienia Kodeksu:<br><br> W toku podejmowania decyzji uwzględniamy różne rodzaje ryzyk ESG. Zarządzanie tymi ryzykami jest elementem szerszego, kompleksowego procesu zarządzania ryzykiem w Grupie Santander Bank Polska. System ten opiera się na trzech niezależnych i uzupełniających się poziomach, tzw. liniach obrony. Wdrożone rozwiązania:<br><br> uwzględniają istotę ekspozycji Banku na ryzyko, <br><br> obejmują wszystkie istotne rodzaje ryzyka, w tym ryzyko środowiskowe, społeczne i związane z zarządzaniem, <br><br> obejmują adekwatność i skuteczność ryzyk oraz wzajemne zależności poszczególnych ich rodzajów, <br><br> umożliwiają Bankowi skuteczne podejmowanie decyzji odnośnie realizacji strategii zarządzania.<br><br> W 2023 r. miały miejsce istotne zmiany w obszarze zarządzania ryzykami ESGw Santander Bank Polska S.A. Odpowiedzialność za te ryzyka została przypisana do Pionu Zarządzania Ryzykiem, a osobą odpowiedzialną na poziomie Zarządu jest Wiceprezes zarządzający tym pionem. Ryzyka ESG zostały uwzględnione w strategii pionu (poprzez zdefiniowanie kanałów ich transmisji na tradycyjne ryzyka bankowe) oraz w regulaminie pionu (w zakresie zadań i odpowiedzialności).<br><br> Aby zapewnić odpowiednią organizację obszaru zarządzania ryzykiem ESG w ramach pionu utworzone również zostało Biuro Zarządzania Ryzykiem ESG. Biuro odpowiada między innymi za integrację podejścia do zarządzania ryzykiem ESG z dotychczasowymi, wewnętrznymi ramami zarządzania ryzykiem w Banku. Obejmuje to włączenie kwestii ESG do procesu oceny ryzyka kredytowego, wyceny zabezpieczeń i późniejszego monitoringu. Biuro ma również za zadanie wsparcie realizacji strategii Banku w zakresie ESG, szczególnie poprzez analizy emisyjności portfela kredytowego, jak również rozwój polityk i narzędzi analitycznych wspierających klientów w transformacji w kierunku gospodarki niskoemisyjnej. Działania biura mają także na celu ograniczanie ryzyka greenwashingu poprzez nadzór nad wewnętrznymi procesami, certyfikację zrównoważonego finansowania oraz bieżącą współpracę z obszarem ryzyka reputacyjnego.<br><br> Dla potrzeb świadczenia usług finansowych w Grupie Santander Bank Polska przetwarzamy znaczne ilości danych osobowych klientów oraz innych danych poufnych i wrażliwych. W 2023 r. Bank miał 3 497 tys. klientówdigital. Spełniamy najwyższe standardy krajowe i unijne dotyczące ochrony danych przed cyberzagrożeniami. Nasz kompleksowy system bezpieczeństwa informatycznego opiera się na najlepszych praktykach i najnowocześniejszych rozwiązaniach technologicznych. Nasz system zarządzania bezpieczeństwem informacji posiada certyfikat zgodności z normą ISO/IEC 27001:2013 i obejmuje nadzór nad bezpieczeństwem informacji w środowisku biznesowym Grupy Santander Bank Polska oraz ocenę konkretnych wymagań dotyczących bezpieczeństwa informacji i systemów informatycznych. <br><br> Monitorujemy regulacje oraz technologie dotyczące bezpieczeństwa informatycznego i na bieżąco dostosowujemy nasze systemy do zmieniających się warunków. Umożliwia nam to ciągłe doskonalenie wewnętrznych systemów transakcyjnych oraz narzędzi wykorzystywanych chętnie na co dzień przez klientów.<br><br> W Grupie Santander Bank Polska oferujemy zrównoważone produkty finansowe. Kwestie środowiska naturalnego i klimatu są uwzględniane w procesie tworzenia produktów i usług oraz przy analizie kredytowej. Punktem odniesienia w tym zakresie jest obowiązujący od 2022 roku w Grupie Santander Bank Polska S.A.<br><br> W celu ograniczenia ryzyka greenwashingu Bank powołał międzydepartamentowy panel ekspertów (Panel ESG). Jego zadaniem jest wspierać segmenty biznesowe Grupy Santander Bank Polska S.A. w poprawnej identyfikacji i klasyfikacji transakcji kredytowychi produktów zrównoważonych, zarówno pod kątem zgodności z kryteriami wewnętrznego Systemu Klasyfikacji Zrównoważonego Finansowania (SFCS), jak i Taksonomii UE. Przewodniczącym Panelu jest Dyrektor ds. Ryzyk ESG (Pion Zarządzania Ryzykiem), a jego działalność nadzoruje Komitet Kontroli Ryzyka na poziomie Zarządu Banku. <br><br> Regulaminy odnoszące się do wdrażania nowych produktów i usług zapewniają, że w przypadku wszystkich produktów i usług powiązanych z ESG, również tych niekredytowych, wymagana jest konsultacja z Obszarem Zapewniania Zgodności i z Zespołem Zrównoważonego Rozwoju i ESG.<br><br> W odniesieniu do ryzyka greenwashingu stopniowo definiowane są kolejne polityki, procedury i wytyczne, które dotyczą tego rozproszonego w działalności Banku ryzyka. Do tej pory:<br><br>uspójniono podejście do definiowania transakcji i produktów zrównoważonych dzięki Systemowi Klasyfikacji Zrównoważonego Finansowania (SFCS),<br><br>zdefiniowano wytyczne „Komunikacja i reklama w obszarze zrównoważonego rozwoju’, obowiązujące pracowników przygotowujących przekazy marketingowe i wizerunkowe,<br><br>ryzyko greenwashingu zostało wskazane w „Wytycznych Obszaru Zapewnienia Zgodności dotyczących współpracy z partnerami’.<br><br> W Grupie dostosowujemy ofertę, obsługę i system przekazywania informacji do potrzeb wszystkich klientów. Usługi oferujemy w tradycyjnych placówkach, kanałach cyfrowych, a dodatkowo posiadamy sieć urządzeń samoobsługowych. Dostępność zwiększamy między innymi poprzez program „Obsługa bez barier’, realizowany w Santander Bank Polska S.A. konsekwentnie od 2010 roku. Celem tego programu jest zapewnienie dostępu do oferty Banku klientom z różnymi potrzebami, między innymi osobom z niepełnosprawnościami i seniorom. Dzięki nowoczesnym technologiom systematycznie zwiększamy możliwość zdalnego korzystania z produktów i usług w całej Grupie. Dbamy jednocześnie o zapewnienie odpowiednich warunków dla klientów w tradycyjnych placówkach. "
+
+              },
+              "attachment_1": "images/sup/Santander_4.png",
+              "attachment_2": "images/sup/Santander_5.png",
+              "attachment_3": "images/sup/Santander_7.png"
+
+            },
+
+"GRI 2-10": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": " Procedury powoływania i odwoływania Członków Zarządu Santander Bank Polska S.A. są zgodne między innymi z: <br><br> „Kodeksem spółek handlowych’, <br><br> „Prawem bankowym’, <br><br> Statutem Santander Bank Polska S.A., <br><br> „Polityką mianowania i sukcesji Członków Zarządu Santander Bank Polska S.A.’.<br><br> Rada Nadzorcza Santander Bank Polska S.A składa się z co najmniej pięciu członków wybieranych na wspólną, trzyletnią kadencję. Członków Rady wybiera i odwołuje Walne Zgromadzenie <br><br>Mandat Członka Rady Nadzorczej wygasa najpóźniej z dniem odbycia Walnego Zgromadzenia zatwierdzającego sprawozdanie finansowe za ostatni pełny rok obrotowy pełnienia funkcji Członka Rady. Wygaśnięcie mandatu następuje również wskutek śmierci, rezygnacji albo odwołania. Mandat Członka Rady Nadzorczej, powołanego przed upływem danej kadencji Rady, wygasa równocześnie z wygaśnięciem mandatów pozostałych jej członków. Rada może powoływać komitety i wyznaczać osoby odpowiedzialne za kierowanie ich pracami. Spomiędzy swoich członków Rada powołuje składy Komitetu Audytu i Zapewnienia Zgodności, Komitetu ds. Ryzyka, Komitetu Nominacji oraz Komitetu do spraw Wynagrodzeń. Może również powołać inne komitety wspierające i usprawniające jej działalność. Szczegółowe zasady działania poszczególnych komitetów, w tym role i kompetencje ich przewodniczących i członków, ustala regulamin uchwalony przez Radę Nadzorczą"
+
+              }                  
+
+            },
+
+"GRI 2-17": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": " Procedury powoływania i odwoływania Członków Zarządu Santander Bank Polska S.A. są zgodne między innymi z: <br><br> „Kodeksem spółek handlowych’, <br><br> „Prawem bankowym’, <br><br>Statutem Santander Bank Polska S.A., <br><br> „Polityką mianowania i sukcesji Członków Zarządu Santander Bank Polska S.A.’."
+
+              }                  
+
+            },
+
+"GRI 2-18": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": " Procedury powoływania i odwoływania Członków Zarządu Santander Bank Polska S.A. są zgodne między innymi z: <br><br> „Kodeksem spółek handlowych’, <br><br> „Prawem bankowym’, <br><br> Statutem Santander Bank Polska S.A., <br><br> „Polityką mianowania i sukcesji Członków Zarządu Santander Bank Polska S.A.’."
+
+              }                  
+
+            },
+
+"GRI 2-19": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Polityki wynagradzania osób zarządzających Santander Bank Polska S.A. zapewniają odpowiedni poziom wynagrodzenia Zarządu i Rady Nadzorczej oraz najważniejszych członków kadry kierowniczej. Przyjęte zasady umożliwiają pozyskanie, zatrzymanie i odpowiednie motywowanie osób posiadających kompetencje niezbędne do właściwego kierowania Bankiem i sprawowania nadzoru.<br><br> Kwestie wynagradzania Zarządu i Rady Nadzorczej regulują dwa dokumenty – „Polityka wynagrodzeń Członków Zarządu Santander Bank Polska S.A.’ oraz „Polityka wynagrodzeń Członków Rady Nadzorczej Santander Bank Polska S.A.’.<br><br> Członkowie Zarządu otrzymują wynagrodzenie, na które składają się część stała i zmienna uzależniona od oceny efektywności pracy. Wynagrodzenie Członków Rady Nadzorczej nie jest uzależnione od opcji czy innych instrumentów pochodnych ani od jakichkolwiek innych zmiennych lub wyników osiąganych przez Bank."
+
+              }                  
+
+            },
+
+"GRI 2-20": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Polityki wynagradzania osób zarządzających Santander Bank Polska S.A. zapewniają odpowiedni poziom wynagrodzenia Zarządu i Rady Nadzorczej oraz najważniejszych członków kadry kierowniczej. Przyjęte zasady umożliwiają pozyskanie, zatrzymanie i odpowiednie motywowanie osób posiadających kompetencje niezbędne do właściwego kierowania Bankiem i sprawowania nadzoru.<br><br> Kwestie wynagradzania Zarządu i Rady Nadzorczej regulują dwa dokumenty – „Polityka wynagrodzeń Członków Zarządu Santander Bank Polska S.A.’ oraz „Polityka wynagrodzeń Członków Rady Nadzorczej Santander Bank Polska S.A.’.<br><br> Członkowie Zarządu otrzymują wynagrodzenie, na które składają się część stała i zmienna uzależniona od oceny efektywności pracy. Wynagrodzenie Członków Rady Nadzorczej nie jest uzależnione od opcji czy innych instrumentów pochodnych ani od jakichkolwiek innych zmiennych lub wyników osiąganych przez Bank.<br><br> „Polityka wynagrodzeń Grupy Santander Bank Polska’ umożliwia nam pozyskiwanie i utrzymywanie najlepiej wykwalifikowanych specjalistów. Jej zakres podmiotowy obejmuje pracowników Banku i spółek zależnych, w tym pracowników zidentyfikowanych (inaczej Material Risk Takers/MRT), tj. takich pracowników, których działalność zawodowa ma istotny wpływ na profil ryzyka organizacji z wyłączeniem Członków Zarządu i Rady Nadzorczej. Oferujemy konkurencyjny rynkowo pakiet świadczeń, na który składają się wynagrodzenie zasadnicze, schematy premiowe oraz świadczenia dodatkowe. Wdrożone w Grupie regulaminy propagują wśród pracowników unikanie nadmiernego ryzyka.<br><br> Właścicielem polityki jest Zarząd Santander Bank Polska S.A., który jest odpowiedzialny za jej istotne aktualizacje oraz przegląd co najmniej raz w roku. W tym procesie Zarząd wspomaga jednostka organizacyjna Banku odpowiedzialna za wynagrodzenia. Rada Nadzorcza odpowiedzialna jest za nadzór nad polityką, zatwierdza ją i minimum raz w roku dokonuje przeglądu zasad wynagradzania oraz oceny ich wpływu na zarządzanie Bankiem.<br><br> „Politykę wynagrodzeń Grupy Santander Bank Polska’ przygotowano we współpracy z jednostkami ds. ryzyka, Pionem zgodności i przeciwdziałania przestępczości finansowej oraz Departamentem Prawnym. Ustalając wynagrodzenie korzystamy z raportów oferowanych przez niezależną firmę konsultingową. Stosowane zasady wynagradzania podlegają niezależnemu wewnętrznemu przeglądowi okonywanemu przez Obszar Audytu Wewnętrznego w Santander Bank Polska S.A. nie rzadziej niż raz w roku. Raport z przeglądu przedstawia się Radzie Nadzorczej i jej Komitetowi Wynagrodzeń.<br><br> Przy ustalaniu limitu proporcji zmiennych do stałych składników wynagrodzenia Santander Bank Polska S.A. uwzględnia opinie akcjonariuszy (co do zasady konieczne jest wówczas uzyskanie zgody Walnego Zgromadzenia Akcjonariuszy wyrażonej większością 2/3 głosów w obecności osób reprezentujących co najmniej połowę kapitału zakładowego).<br><br> Zasady wynagrodzeń członków Rady Nadzorczej oraz Zarządu opisujemy w podrozdziale „Zasady wynagradzania zarządzających’"
+
+              }                  
+
+            },
+
+"GRI 2-21": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Polityki wynagradzania osób zarządzających Santander Bank Polska S.A. zapewniają odpowiedni poziom wynagrodzenia Zarządu i Rady Nadzorczej oraz najważniejszych członków kadry kierowniczej. Przyjęte zasady umożliwiają pozyskanie, zatrzymanie i odpowiednie motywowanie osób posiadających kompetencje niezbędne do właściwego kierowania Bankiem i sprawowania nadzoru.<br><br> Kwestie wynagradzania Zarządu i Rady Nadzorczej regulują dwa dokumenty – „Polityka wynagrodzeń Członków Zarządu Santander Bank Polska S.A.’ oraz „Polityka wynagrodzeń Członków Rady Nadzorczej Santander Bank Polska S.A.’.<br><br> Członkowie Zarządu otrzymują wynagrodzenie, na które składają się część stała i zmienna uzależniona od oceny efektywności pracy. Wynagrodzenie Członków Rady Nadzorczej nie jest uzależnione od opcji czy innych instrumentów pochodnych ani od jakichkolwiek innych zmiennych lub wyników osiąganych przez Bank. <br><br> Roczny wskaźnik całkowitego wynagrodzenia. Dane dotyczą Santander Bank Polska S.A. <br><br> Stosunek całkowitego rocznego wynagrodzenia najwyżej opłacanej osoby w organizacji do mediany rocznego, całkowitego wynagrodzenia obejmującego wszystkich pracowników (z wyłączeniem najwyżej opłacanej jednostki/osoby) wynosi 1:34,35 (w ujawnieniu uwzględniono wypłaconą nieodroczoną część wynagrodzenia zmiennego w formie gotówki w roku 2023 za rok 2022). W przypadku uwzględnienia pełnej kwoty przyznanego wynagrodzenia zmiennego w 2023 roku za rok 2022 wskaźnik wyniósłby 1:63,77. <br><br> W 2022 r. stosunek ten wynosił 1:50 i był o 13,7 p.p niższy. "
+
+              }                  
+
+            },
+
+"GRI 2-16": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "„Generalny Kodeks Postępowania’ i kanały zgłaszania naruszeń<br><br>Grupa Santander Bank Polska działa etycznie. Kluczowym, obowiązującym od 2013 roku dokumentem w tym zakresie jest publicznie dostępny „Generalny Kodeks Postępowania’. Określamy w nim szczegółowo zasady etyki pracy w naszej organizacji, prezentujemy przykłady zachowań pożądanych w konkretnych sytuacjach i jasno informujemy o konsekwencjach naruszenia standardów etycznych. Adresatami norm Kodeksu są wszystkie osoby zatrudnione w Banku na podstawie umowy o pracę lub współpracujące z Bankiem na podstawie umowy cywilnoprawnej, w tym kadra kierownicza najwyższego szczebla oraz członkowie organów zarządczych i nadzorczych Banku (dalej łącznie zwani „pracownikami’).<br><br> Wybrane aspekty, których dotyczą postanowienia Kodeksu:"
+
+              },
+              "attachment_1": "images/sup/Santander_4.png",
+              "attachment_2": "images/sup/Santander_5.png"
+
+            },
+
+"GRI 2-25": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "„Generalny Kodeks Postępowania’ i kanały zgłaszania naruszeń<br><br>Grupa Santander Bank Polska działa etycznie. Kluczowym, obowiązującym od 2013 roku dokumentem w tym zakresie jest publicznie dostępny „Generalny Kodeks Postępowania’. Określamy w nim szczegółowo zasady etyki pracy w naszej organizacji, prezentujemy przykłady zachowań pożądanych w konkretnych sytuacjach i jasno informujemy o konsekwencjach naruszenia standardów etycznych. Adresatami norm Kodeksu są wszystkie osoby zatrudnione w Banku na podstawie umowy o pracę lub współpracujące z Bankiem na podstawie umowy cywilnoprawnej, w tym kadra kierownicza najwyższego szczebla oraz członkowie organów zarządczych i nadzorczych Banku (dalej łącznie zwani „pracownikami’).<br><br> Wybrane aspekty, których dotyczą postanowienia Kodeksu:<br><br> W toku podejmowania decyzji uwzględniamy różne rodzaje ryzyk ESG. Zarządzanie tymi ryzykami jest elementem szerszego, kompleksowego procesu zarządzania ryzykiem w Grupie Santander Bank Polska. System ten opiera się na trzech niezależnych i uzupełniających się poziomach, tzw. liniach obrony. Wdrożone rozwiązania:<br><br> uwzględniają istotę ekspozycji Banku na ryzyko, <br><br> obejmują wszystkie istotne rodzaje ryzyka, w tym ryzyko środowiskowe, społeczne i związane z zarządzaniem, <br><br> obejmują adekwatność i skuteczność ryzyk oraz wzajemne zależności poszczególnych ich rodzajów, <br><br> umożliwiają Bankowi skuteczne podejmowanie decyzji odnośnie realizacji strategii zarządzania.<br><br> W 2023 r. miały miejsce istotne zmiany w obszarze zarządzania ryzykami ESGw Santander Bank Polska S.A. Odpowiedzialność za te ryzyka została przypisana do Pionu Zarządzania Ryzykiem, a osobą odpowiedzialną na poziomie Zarządu jest Wiceprezes zarządzający tym pionem. Ryzyka ESG zostały uwzględnione w strategii pionu (poprzez zdefiniowanie kanałów ich transmisji na tradycyjne ryzyka bankowe) oraz w regulaminie pionu (w zakresie zadań i odpowiedzialności).<br><br> Aby zapewnić odpowiednią organizację obszaru zarządzania ryzykiem ESG w ramach pionu utworzone również zostało Biuro Zarządzania Ryzykiem ESG. Biuro odpowiada między innymi za integrację podejścia do zarządzania ryzykiem ESG z dotychczasowymi, wewnętrznymi ramami zarządzania ryzykiem w Banku. Obejmuje to włączenie kwestii ESG do procesu oceny ryzyka kredytowego, wyceny zabezpieczeń i późniejszego monitoringu. Biuro ma również za zadanie wsparcie realizacji strategii Banku w zakresie ESG, szczególnie poprzez analizy emisyjności portfela kredytowego, jak również rozwój polityk i narzędzi analitycznych wspierających klientów w transformacji w kierunku gospodarki niskoemisyjnej. Działania biura mają także na celu ograniczanie ryzyka greenwashingu poprzez nadzór nad wewnętrznymi procesami, certyfikację zrównoważonego finansowania oraz bieżącą współpracę z obszarem ryzyka reputacyjnego <br><br> Grupa Santander Bank Polska obsługuje osoby fizyczne, małe i średnie firmy, duże przedsiębiorstwa i korporacje oraz instytucje sektora publicznego (7,5 mln klientów na koniec 2023 roku). Dbamy o pozytywne doświadczenia bankowe wszystkich klientów poprzez:<br><br> stosowanie standardów obsługi, które odpowiadają aktualnym trendom rynkowym,<br><br> dostosowywanie oferowanych rozwiązań do oczekiwań klientów,<br><br> odpowiedzialne praktyki sprzedażowe i przeciwdziałanie sprzedaży produktów finansowych niezgodnych z potrzebami klienta (misselling),<br><br> zwiększanie świadomości klientów o cyberbezpieczeństwie, <br><br> przestrzeganie zasad etyki w komunikacji marketingowej, <br><br>rzetelne i zrozumiałe informowanie o produktach i usługach <br><br> W 2023 roku Santander Bank Polska S.A. przygotował nowe standardy obsługi klientów. Zmiany zainspirowane zostały wywiadami jakościowymi przeprowadzonymi z 24 klientami oraz badaniami ilościowymi z udziałem 467 pracowników. W 2024 roku Bank planuje wdrożenie standardów w sieci dystrybucji i szkolenia dla pracowników. <br><br> Odświeżenie swoich standardów obsługi klienta planuje na rok 2024 również Santander Leasing. <br><br>Bank przygotował dla klientów nowoczesną, kompleksową i dostosowaną do potrzeb ofertę dotyczącą rachunków bankowych, kredytów, oszczędności i inwestycji oraz produktów rozliczeniowych, ubezpieczeniowych i kartowych. Dążymy do tego, aby korzystanie z naszych usług było proste. Cały czas zwiększamy również liczbę funkcji i spraw, które klient może szybko i sprawnie załatwić w kanałach zdalnych. W zakresie obsługi klientów biznesowych Bank podejmuje działania polepszające standardy współpracy i poprawiające relacje między doradcą a klientem."
+
+              },
+              "attachment_1": "images/sup/Santander_4.png",
+              "attachment_2": "images/sup/Santander_5.png",
+              "attachment_3": "images/sup/Santander_6.png",
+              "attachment_4": "images/sup/Santander_16.png"
+
+
+            },
+
+"GRI 2-26": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "„Generalny Kodeks Postępowania’ i kanały zgłaszania naruszeń<br><br>Grupa Santander Bank Polska działa etycznie. Kluczowym, obowiązującym od 2013 roku dokumentem w tym zakresie jest publicznie dostępny „Generalny Kodeks Postępowania’. Określamy w nim szczegółowo zasady etyki pracy w naszej organizacji, prezentujemy przykłady zachowań pożądanych w konkretnych sytuacjach i jasno informujemy o konsekwencjach naruszenia standardów etycznych. Adresatami norm Kodeksu są wszystkie osoby zatrudnione w Banku na podstawie umowy o pracę lub współpracujące z Bankiem na podstawie umowy cywilnoprawnej, w tym kadra kierownicza najwyższego szczebla oraz członkowie organów zarządczych i nadzorczych Banku (dalej łącznie zwani „pracownikami’).<br><br> Wybrane aspekty, których dotyczą postanowienia Kodeksu:"
+
+              },
+              "attachment_1": "images/sup/Santander_4.png",
+              "attachment_2": "images/sup/Santander_5.png"
+
+            },
+
+
+            "GRI 2-15": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Polityki przeciwdziałania konfliktom interesów obowiązujące w Grupie Santander Bank Polska oparte są na regulacjach wdrożonych w jednostce dominującej. „Polityka przeciwdziałania konfliktom interesów w Santander Bank Polska S.A.’ precyzuje zapisy „Generalnego Kodeksu Postępowania’ nakładając na wszystkich pracowników obowiązek priorytetowego traktowania interesów Grupy, klientów i innych interesariuszy, których w żadnym wypadku nie mogą podporządkowywać swoim interesom prywatnym. <br><br>Zgodnie z Kodeksem pracowników oraz kierownictwo firmy obowiązują między innymi:<br><br> zakaz specjalnego traktowania lub oferowania specjalnych warunków zatrudnienia ze względu na powiązania osobiste lub rodzinne, <br><br> zakaz czerpania dodatkowych korzyści ze stanowiska zajmowanego w Grupie Santander Bank Polska, z wyjątkiem przypadków jednoznacznie dopuszczalnych, <br><br> zakaz uczestnictwa w zatwierdzaniu transakcji lub wpływania na transakcje z osobami powiązanymi ekonomicznie lub rodzinnie, występującymi w charakterze beneficjentów lub gwarantów"
+
+              }                  
+
+            },
+
+"GRI 205-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Kwestie zapobiegania korupcji opisane są w obowiązującym w całej Grupie „Generalnym Kodeksie Postępowania’. Jej uzupełnieniem był „Program antykorupcyjny’, który w grudniu 2023 r. został zastąpiony przez „Politykę przeciwdziałania łapownictwu i korupcji (ABC)’ aktualizującą m.in. kwestie szkoleń w tym zakresie. Wszystkie spółki naszej Grupy działają zgodnie z zasadą „zero tolerancji dla korupcji’, a wdrożone regulacje dotyczą m.in.:<br><br> wręczania upominków i zaproszeń urzędnikom publicznym, <br><br> upominków i zaproszeń wręczanych pracownikom, <br><br> relacji ze stronami trzecimi, <br><br> stosowania dodatkowych mechanizmów kontrolnych, <br><br> kanałów do zgłaszania przypadków naruszenia zasad. "
+
+              },     
+              "attachment_1": "images/sup/Santander_17.png"   
+
+            },
+
+"GRI 205-3": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Kwestie zapobiegania korupcji opisane są w obowiązującym w całej Grupie „Generalnym Kodeksie Postępowania’. Jej uzupełnieniem był „Program antykorupcyjny’, który w grudniu 2023 r. został zastąpiony przez „Politykę przeciwdziałania łapownictwu i korupcji (ABC)’ aktualizującą m.in. kwestie szkoleń w tym zakresie. Wszystkie spółki naszej Grupy działają zgodnie z zasadą „zero tolerancji dla korupcji’, a wdrożone regulacje dotyczą m.in.:<br><br> wręczania upominków i zaproszeń urzędnikom publicznym, <br><br> upominków i zaproszeń wręczanych pracownikom, <br><br> relacji ze stronami trzecimi, <br><br> stosowania dodatkowych mechanizmów kontrolnych, <br><br> kanałów do zgłaszania przypadków naruszenia zasad. "
+
+              }                  
+
+            },
+
+"GRI 418-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Dla potrzeb świadczenia usług finansowych w Grupie Santander Bank Polska przetwarzamy znaczne ilości danych osobowych klientów oraz innych danych poufnych i wrażliwych. W 2023 r. Bank miał 3 497 tys. klientówdigital. Spełniamy najwyższe standardy krajowe i unijne dotyczące ochrony danych przed cyberzagrożeniami. Nasz kompleksowy system bezpieczeństwa informatycznego opiera się na najlepszych praktykach i najnowocześniejszych rozwiązaniach technologicznych. Nasz system zarządzania bezpieczeństwem informacji posiada certyfikat zgodności z normą ISO/IEC 27001:2013 i obejmuje nadzór nad bezpieczeństwem informacji w środowisku biznesowym Grupy Santander Bank Polska oraz ocenę konkretnych wymagań dotyczących bezpieczeństwa informacji i systemów informatycznych.<br><br> Monitorujemy regulacje oraz technologie dotyczące bezpieczeństwa informatycznego i na bieżąco dostosowujemy nasze systemy do zmieniających się warunków. Umożliwia nam to ciągłe doskonalenie wewnętrznych systemów transakcyjnych oraz narzędzi wykorzystywanych chętnie na co dzień przez klientów."
+
+              },
+              "attachment_1": "images/sup/Santander_7.png"
+            
+            },
+
+"GRI 308-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Zgodnie z „Polityką odpowiedzialnej bankowości i zrównoważonego rozwoju’ w Grupie Santander Bank Polska propagujemy poszanowanie zobowiązań w zakresie ESG w całym łańcuchu dostaw."
+
+              },       
+              "attachment_1": "images/sup/Santander_18.png" 
+
+            },
+
+"GRI 414-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Zgodnie z „Polityką odpowiedzialnej bankowości i zrównoważonego rozwoju’ w Grupie Santander Bank Polska propagujemy poszanowanie zobowiązań w zakresie ESG w całym łańcuchu dostaw."
+
+              },   
+              "attachment_1": "images/sup/Santander_18.png"        
+
+            },
+
+"GRI 305-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Od 2020 r. Bank jest neutralny w zakresie własnych emisji CO2. Kupujemy wyłącznie energię ze źródeł odnawialnych, a pozostałe emisje równoważymy certyfikatami kompensacyjnymi, tzw. kredytami węglowymi. Ich zakupu dla wszystkich spółek zależnych dokonuje Grupa Banco Santander. Redukujemy emisje gazów cieplarnianych pochodzących z działań wewnętrznych – m.in. zużycia prądu, podróży służbowych czy eksploatacji floty. Od 2022 roku nasze biura są zasilane energią elektryczną z OZE w ramach kontraktu sieciowego z Tauron, co potwierdza certyfikat akcesyjny produktu ECO Premium Grupy Tauron. Kupowana przez nas energia elektryczna uczestniczy w całości w systemie Gwarancji Sprzedaży Energii Ekologicznej i pochodzi głównie z elektrowni wodnych. "
+
+              },
+              "attachment_1": "images/sup/Santander_8.png",
+              "attachment_2": "images/sup/Santander_19.png"                  
+
+            },
+
+"GRI 305-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Od 2020 r. Bank jest neutralny w zakresie własnych emisji CO2. Kupujemy wyłącznie energię ze źródeł odnawialnych, a pozostałe emisje równoważymy certyfikatami kompensacyjnymi, tzw. kredytami węglowymi. Ich zakupu dla wszystkich spółek zależnych dokonuje Grupa Banco Santander. Redukujemy emisje gazów cieplarnianych pochodzących z działań wewnętrznych – m.in. zużycia prądu, podróży służbowych czy eksploatacji floty. Od 2022 roku nasze biura są zasilane energią elektryczną z OZE w ramach kontraktu sieciowego z Tauron, co potwierdza certyfikat akcesyjny produktu ECO Premium Grupy Tauron. Kupowana przez nas energia elektryczna uczestniczy w całości w systemie Gwarancji Sprzedaży Energii Ekologicznej i pochodzi głównie z elektrowni wodnych. "
+
+              },
+              "attachment_1": "images/sup/Santander_8.png",    
+              "attachment_2": "images/sup/Santander_19.png" 
+
+            },
+
+"GRI 305-3": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Od 2020 r. Bank jest neutralny w zakresie własnych emisji CO2. Kupujemy wyłącznie energię ze źródeł odnawialnych, a pozostałe emisje równoważymy certyfikatami kompensacyjnymi, tzw. kredytami węglowymi. Ich zakupu dla wszystkich spółek zależnych dokonuje Grupa Banco Santander. Redukujemy emisje gazów cieplarnianych pochodzących z działań wewnętrznych – m.in. zużycia prądu, podróży służbowych czy eksploatacji floty. Od 2022 roku nasze biura są zasilane energią elektryczną z OZE w ramach kontraktu sieciowego z Tauron, co potwierdza certyfikat akcesyjny produktu ECO Premium Grupy Tauron. Kupowana przez nas energia elektryczna uczestniczy w całości w systemie Gwarancji Sprzedaży Energii Ekologicznej i pochodzi głównie z elektrowni wodnych. "
+
+              },
+              "attachment_1": "images/sup/Santander_8.png",     
+              "attachment_2": "images/sup/Santander_19.png"	             
+
+            },
+
+"GRI 302-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": ""
+
+              },
+              "attachment_1": "images/sup/Santander_9.png",  
+              "attachment_2": "images/sup/Santander_20.png",  
+              "attachment_3": "images/sup/Santander_21.png"
+
+            },
+
+
+"GRI 301-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": ""
+
+              },
+              "attachment_1": "images/sup/Santander_10.png",
+              "attachment_2": "images/sup/Santander_22.png",
+              "attachment_3": "images/sup/Santander_23.png"
+
+            },
+
+"GRI 2-7": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Grupie Kapitałowej Santander Bank Polska na koniec 2023 roku było zatrudnionych 12 072 osób na umowie o pracę18, z czego najwięcej w Banku (84%). Ponadto 2 660 osób świadczyło pracę na rzecz Grupy. "
+
+              },
+              "attachment_1": "images/sup/Santander_12.png", 
+              "attachment_2": "images/sup/Santander_24.png",
+              "attachment_3": "images/sup/Santander_24.png",
+              "attachment_4": "images/sup/Santander_25.png",
+              "attachment_5": "images/sup/Santander_26.png",
+              "attachment_6": "images/sup/Santander_27.png",
+              "attachment_7": "images/sup/Santander_28.png",
+              "attachment_8": "images/sup/Santander_29.png",
+              "attachment_9": "images/sup/Santander_30.png",
+              "attachment_10": "images/sup/Santander_31.png"
+
+            },
+
+"GRI 2-8": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Grupie Kapitałowej Santander Bank Polska na koniec 2023 roku było zatrudnionych 12 072 osób na umowie o pracę18, z czego najwięcej w Banku (84%). Ponadto 2 660 osób świadczyło pracę na rzecz Grupy. "
+
+              },
+              "attachment_1": "images/sup/Santander_12.png", 
+              "attachment_2": "images/sup/Santander_32.png",
+              "attachment_3": "images/sup/Santander_33.png"
+
+            },
+
+"GRI 2-30": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Grupie Kapitałowej Santander Bank Polska na koniec 2023 roku było zatrudnionych 12 072 osób na umowie o pracę18, z czego najwięcej w Banku (84%). Ponadto 2 660 osób świadczyło pracę na rzecz Grupy. "
+
+              },
+              "attachment_1": "images/sup/Santander_12.png"                  
+
+            },
+
+"GRI 401-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Grupie Kapitałowej Santander Bank Polska na koniec 2023 roku było zatrudnionych 12 072 osób na umowie o pracę18, z czego najwięcej w Banku (84%). Ponadto 2 660 osób świadczyło pracę na rzecz Grupy. "
+
+              },
+              "attachment_1": "images/sup/Santander_12.png",
+              "attachment_2": "images/sup/Santander_35.png",
+              "attachment_3": "images/sup/Santander_36.png",
+              "attachment_4": "images/sup/Santander_37.png",
+              "attachment_5": "images/sup/Santander_38.png"             
+
+            },
+
+"GRI 405-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Liczba osób zatrudnionych w Grupie Santander Bank Polska w oparciu o umowę o pracę to 12 072, z czego 67% to kobiety, a 33% to mężczyźni. Najwięcej pracowników Grupy pracuje w Warszawie i innych dużych aglomeracjach. Mniej niż 1% pracowników Grupy stanowią pracownicy zagraniczni.<br><br> Przestrzeganie szacunku dla indywidualności, równego traktowania i przeciwdziałania dyskryminacji gwarantują między innymi „Polityka szacunek i godność’ i „Polityka kultury organizacyjnej Grupy Santander Bank Polska’. Bank, jako sygnatariusz Karty Różnorodności (międzynarodowej inicjatywy wspieranej przez Komisję Europejską), przyjął na siebie zobowiązanie do szanowania i wspierania różnorodności. Ponadto zgodnie z „Polityką różnorodności w składzie zarządu’ dokładamy należytej staranności, aby zapewnić równowagę płci w składzie Zarządu i zwiększyliśmy liczbę kobiet w Zarządzie względem poprzedniego okresu sprawozdawczego. Na koniec 2023 roku w Zarządzie Santander Bank Polska S.A. zasiadało 8 mężczyzn i 3 kobiety. Rada Nadzorcza dąży do osiągnięcia poziomu co najmniej 30% kobiet w składzie Zarządu do 2025 r. oraz zwiększenia zróżnicowania pod względem wieku i pochodzenia geograficznego. Propagujemy również zróżnicowanie Członków Zarządu oraz Rady Nadzorczej pod względem doświadczenia i cech –około połowy składu tych organów stanowią cudzoziemcy.<br><br> Pracujemy jeszcze nad uzyskaniem wiarygodnych danych pozwalających na pokazanie luki płacowej na poziomie skonsolidowanym. Ujawniamy natomiast dane na poziomie Banku, w tym nieskorygowaną lukę płacową, tj. stosunek średniego podstawowego wynagrodzenia kobiet do wynagrodzenia mężczyzn zatrudnionych w poszczególnych kategoriach."
+
+              },
+              "attachment_1": "images/sup/Santander_13.png",
+              "attachment_2": "images/sup/Santander_42.png",
+              "attachment_3": "images/sup/Santander_43.png", 
+              "attachment_4": "images/sup/Santander_44.png"     
+
+            },
+
+            "GRI 405-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Liczba osób zatrudnionych w Grupie Santander Bank Polska w oparciu o umowę o pracę to 12 072, z czego 67% to kobiety, a 33% to mężczyźni. Najwięcej pracowników Grupy pracuje w Warszawie i innych dużych aglomeracjach. Mniej niż 1% pracowników Grupy stanowią pracownicy zagraniczni.<br><br> Przestrzeganie szacunku dla indywidualności, równego traktowania i przeciwdziałania dyskryminacji gwarantują między innymi „Polityka szacunek i godność’ i „Polityka kultury organizacyjnej Grupy Santander Bank Polska’. Bank, jako sygnatariusz Karty Różnorodności (międzynarodowej inicjatywy wspieranej przez Komisję Europejską), przyjął na siebie zobowiązanie do szanowania i wspierania różnorodności. Ponadto zgodnie z „Polityką różnorodności w składzie zarządu’ dokładamy należytej staranności, aby zapewnić równowagę płci w składzie Zarządu i zwiększyliśmy liczbę kobiet w Zarządzie względem poprzedniego okresu sprawozdawczego. Na koniec 2023 roku w Zarządzie Santander Bank Polska S.A. zasiadało 8 mężczyzn i 3 kobiety. Rada Nadzorcza dąży do osiągnięcia poziomu co najmniej 30% kobiet w składzie Zarządu do 2025 r. oraz zwiększenia zróżnicowania pod względem wieku i pochodzenia geograficznego. Propagujemy również zróżnicowanie Członków Zarządu oraz Rady Nadzorczej pod względem doświadczenia i cech –około połowy składu tych organów stanowią cudzoziemcy.<br><br> Pracujemy jeszcze nad uzyskaniem wiarygodnych danych pozwalających na pokazanie luki płacowej na poziomie skonsolidowanym. Ujawniamy natomiast dane na poziomie Banku, w tym nieskorygowaną lukę płacową, tj. stosunek średniego podstawowego wynagrodzenia kobiet do wynagrodzenia mężczyzn zatrudnionych w poszczególnych kategoriach."
+
+              },
+              "attachment_1": "images/sup/Santander_13.png", 
+              "attachment_2": "images/sup/Santander_45.png", 
+              "attachment_3": "images/sup/Santander_46.png"
+
+            },
+
+"GRI 202-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Liczba osób zatrudnionych w Grupie Santander Bank Polska w oparciu o umowę o pracę to 12 072, z czego 67% to kobiety, a 33% to mężczyźni. Najwięcej pracowników Grupy pracuje w Warszawie i innych dużych aglomeracjach. Mniej niż 1% pracowników Grupy stanowią pracownicy zagraniczni.<br><br> Przestrzeganie szacunku dla indywidualności, równego traktowania i przeciwdziałania dyskryminacji gwarantują między innymi „Polityka szacunek i godność’ i „Polityka kultury organizacyjnej Grupy Santander Bank Polska’. Bank, jako sygnatariusz Karty Różnorodności (międzynarodowej inicjatywy wspieranej przez Komisję Europejską), przyjął na siebie zobowiązanie do szanowania i wspierania różnorodności. Ponadto zgodnie z „Polityką różnorodności w składzie zarządu’ dokładamy należytej staranności, aby zapewnić równowagę płci w składzie Zarządu i zwiększyliśmy liczbę kobiet w Zarządzie względem poprzedniego okresu sprawozdawczego. Na koniec 2023 roku w Zarządzie Santander Bank Polska S.A. zasiadało 8 mężczyzn i 3 kobiety. Rada Nadzorcza dąży do osiągnięcia poziomu co najmniej 30% kobiet w składzie Zarządu do 2025 r. oraz zwiększenia zróżnicowania pod względem wieku i pochodzenia geograficznego. Propagujemy również zróżnicowanie Członków Zarządu oraz Rady Nadzorczej pod względem doświadczenia i cech –około połowy składu tych organów stanowią cudzoziemcy.<br><br> Pracujemy jeszcze nad uzyskaniem wiarygodnych danych pozwalających na pokazanie luki płacowej na poziomie skonsolidowanym. Ujawniamy natomiast dane na poziomie Banku, w tym nieskorygowaną lukę płacową, tj. stosunek średniego podstawowego wynagrodzenia kobiet do wynagrodzenia mężczyzn zatrudnionych w poszczególnych kategoriach."
+
+              },
+              "attachment_1": "images/sup/Santander_13.png", 
+              "attachment_2": "images/sup/Santander_34.png"
+
+            },
+
+"GRI 401-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Grupa Santander Bank Polska uważa rozwój pracowników za niezbędny warunek swojego sukcesu rynkowego. W każdej spółce Grupy przygotowaliśmy „szyte na miarę’ szkolenia dopasowane do jej charakterystyki biznesowej i potrzeb organizacji. <br><br>Niezależnie od wymiaru etatu pracownicy Grupy Santander Bank Polska zatrudnieni w oparciu o umowę o pracę otrzymują świadczenia pozapłacowe. Poniżej przedstawiamy świadczenia oferowane przez poszczególne spółki Grupy: "
+
+              },
+              "attachment_1": "images/sup/Santander_14.png",
+              "attachment_2": "images/sup/Santander_15.png"
+            
+            },
+
+"GRI 404-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Grupa Santander Bank Polska uważa rozwój pracowników za niezbędny warunek swojego sukcesu rynkowego. W każdej spółce Grupy przygotowaliśmy „szyte na miarę’ szkolenia dopasowane do jej charakterystyki biznesowej i potrzeb organizacji. "
+
+              },
+              "attachment_1": "images/sup/Santander_14.png",
+              "attachment_2": "images/sup/Santander_39.png",
+              "attachment_3": "images/sup/Santander_40.png"
+            
+            },
+
+"GRI 404-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Grupa Santander Bank Polska uważa rozwój pracowników za niezbędny warunek swojego sukcesu rynkowego. W każdej spółce Grupy przygotowaliśmy „szyte na miarę’ szkolenia dopasowane do jej charakterystyki biznesowej i potrzeb organizacji. "
+
+              },
+              "attachment_1": "images/sup/Santander_14.png"
+            
+            },
+
+"GRI 404-3": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Grupa Santander Bank Polska uważa rozwój pracowników za niezbędny warunek swojego sukcesu rynkowego. W każdej spółce Grupy przygotowaliśmy „szyte na miarę’ szkolenia dopasowane do jej charakterystyki biznesowej i potrzeb organizacji."
+
+              },
+              "attachment_1": "images/sup/Santander_14.png",
+              "attachment_2": "images/sup/Santander_41.png"
+            
+            },
+
+"GRI 403-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Banku obowiązuje „Polityka BHP i wellbeingu’. Określa wytyczne i standardy, jakich należy przestrzegać w celu ochrony zdrowia i życia oraz zapewniania najwyższego poziomu bezpieczeństwa i dobrego samopoczucia pracowników. Obejmuje ona też promowanie zdrowego stylu życia oraz tworzenie długoterminowej wartości dla pracowników i lokalnych społeczności. <br><br>Kwestie czasu pracy i work-life balance normuje też „Regulamin pracy’."
+
+              }
+            
+            },
+
+"GRI 403-5": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Banku obowiązuje „Polityka BHP i wellbeingu’. Określa wytyczne i standardy, jakich należy przestrzegać w celu ochrony zdrowia i życia oraz zapewniania najwyższego poziomu bezpieczeństwa i dobrego samopoczucia pracowników. Obejmuje ona też promowanie zdrowego stylu życia oraz tworzenie długoterminowej wartości dla pracowników i lokalnych społeczności.<br><br> Kwestie czasu pracy i work-life balance normuje też „Regulamin pracy’."
+
+              }
+            
+            },
+
+"GRI 403-6": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Banku obowiązuje „Polityka BHP i wellbeingu’. Określa wytyczne i standardy, jakich należy przestrzegać w celu ochrony zdrowia i życia oraz zapewniania najwyższego poziomu bezpieczeństwa i dobrego samopoczucia pracowników. Obejmuje ona też promowanie zdrowego stylu życia oraz tworzenie długoterminowej wartości dla pracowników i lokalnych społeczności.<br><br> Kwestie czasu pracy i work-life balance normuje też „Regulamin pracy’."
+
+              }
+            
+            },
+
+"GRI 403-9": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W Banku obowiązuje „Polityka BHP i wellbeingu’. Określa wytyczne i standardy, jakich należy przestrzegać w celu ochrony zdrowia i życia oraz zapewniania najwyższego poziomu bezpieczeństwa i dobrego samopoczucia pracowników. Obejmuje ona też promowanie zdrowego stylu życia oraz tworzenie długoterminowej wartości dla pracowników i lokalnych społeczności.<br><br> Kwestie czasu pracy i work-life balance normuje też „Regulamin pracy’."
+
+              },
+              "attachment_1": "images/sup/Santander_47.png"
+            
+            },
+
+"GRI 2-27": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku w Grupie Santander Bank Polska odnotowaliśmy:<br><br> 0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktachi usługach,<br><br>0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej,<br><br> 0 istotnych kar i sankcji z tytułu niezgodności z prawem i regulacjami,<br><br> 0 przypadków dyskryminacji,<br><br> 12 istotnych przypadków fraudów pracowniczych, w wyniku których Bank rozwiązał umowę o pracę z uzasadnieniem art. 52 Kodeksu Pracy,<br><br> 0 zł darowizn na rzecz partii politycznych, polityków i instytucji o podobnym charakterze.<br><br> 17 859 pozwów dotyczących kredytów indeksowanych lub denominowanych do waluty CHF o wartości przedmiotu sporu 6,2 mld zł (wobec 12 225 spraw o wartości przedmiotu sporu 3,6 mld zł wg stanu na 31 grudnia 2022 r.), w tym zawierają się 2 pozwy zbiorowe objęte ustawą o dochodzeniu roszczeń w postępowaniu grupowym.<br><br> W Banku identyfikacja niezgodności z przepisami prawa i regulacjami jest ciągłym procesem nadzorowanym przez komórkę ds. zgodności Banku. Na proces składa się: informowanie o istotnych zmianach w przepisach prawa i wytycznych, monitorowanie wdrażania projektów regulacyjnych, akceptacja nowych produktów i istotnych zmian w produktach, weryfikacja bieżąca wzorców umownych, komunikacji i reklamy, procedur i szkoleń, oraz cykliczny monitoring procesów i produktów."
+
+              }                  
+
+            },
+
+"GRI 417-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku w Grupie Santander Bank Polska odnotowaliśmy:<br><br> 0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktachi usługach,<br><br>0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej,<br><br> 0 istotnych kar i sankcji z tytułu niezgodności z prawem i regulacjami,<br><br> 0 przypadków dyskryminacji,<br><br> 12 istotnych przypadków fraudów pracowniczych, w wyniku których Bank rozwiązał umowę o pracę z uzasadnieniem art. 52 Kodeksu Pracy,<br><br> 0 zł darowizn na rzecz partii politycznych, polityków i instytucji o podobnym charakterze.<br><br> 17 859 pozwów dotyczących kredytów indeksowanych lub denominowanych do waluty CHF o wartości przedmiotu sporu 6,2 mld zł (wobec 12 225 spraw o wartości przedmiotu sporu 3,6 mld zł wg stanu na 31 grudnia 2022 r.), w tym zawierają się 2 pozwy zbiorowe objęte ustawą o dochodzeniu roszczeń w postępowaniu grupowym.<br><br> W Banku identyfikacja niezgodności z przepisami prawa i regulacjami jest ciągłym procesem nadzorowanym przez komórkę ds. zgodności Banku. Na proces składa się: informowanie o istotnych zmianach w przepisach prawa i wytycznych, monitorowanie wdrażania projektów regulacyjnych, akceptacja nowych produktów i istotnych zmian w produktach, weryfikacja bieżąca wzorców umownych, komunikacji i reklamy, procedur i szkoleń, oraz cykliczny monitoring procesów i produktów."
+
+              }                  
+
+            },
+
+"GRI 417-3": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku w Grupie Santander Bank Polska odnotowaliśmy:<br><br> 0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktachi usługach,<br><br>0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej,<br><br> 0 istotnych kar i sankcji z tytułu niezgodności z prawem i regulacjami,<br><br> 0 przypadków dyskryminacji,<br><br> 12 istotnych przypadków fraudów pracowniczych, w wyniku których Bank rozwiązał umowę o pracę z uzasadnieniem art. 52 Kodeksu Pracy,<br><br> 0 zł darowizn na rzecz partii politycznych, polityków i instytucji o podobnym charakterze.<br><br> 17 859 pozwów dotyczących kredytów indeksowanych lub denominowanych do waluty CHF o wartości przedmiotu sporu 6,2 mld zł (wobec 12 225 spraw o wartości przedmiotu sporu 3,6 mld zł wg stanu na 31 grudnia 2022 r.), w tym zawierają się 2 pozwy zbiorowe objęte ustawą o dochodzeniu roszczeń w postępowaniu grupowym.<br><br> W Banku identyfikacja niezgodności z przepisami prawa i regulacjami jest ciągłym procesem nadzorowanym przez komórkę ds. zgodności Banku. Na proces składa się: informowanie o istotnych zmianach w przepisach prawa i wytycznych, monitorowanie wdrażania projektów regulacyjnych, akceptacja nowych produktów i istotnych zmian w produktach, weryfikacja bieżąca wzorców umownych, komunikacji i reklamy, procedur i szkoleń, oraz cykliczny monitoring procesów i produktów."
+
+              }                  
+
+            },
+
+"GRI 406-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku w Grupie Santander Bank Polska odnotowaliśmy:<br><br> 0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktachi usługach,<br><br>0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej,<br><br> 0 istotnych kar i sankcji z tytułu niezgodności z prawem i regulacjami,<br><br> 0 przypadków dyskryminacji,<br><br> 12 istotnych przypadków fraudów pracowniczych, w wyniku których Bank rozwiązał umowę o pracę z uzasadnieniem art. 52 Kodeksu Pracy,<br><br> 0 zł darowizn na rzecz partii politycznych, polityków i instytucji o podobnym charakterze.<br><br> 17 859 pozwów dotyczących kredytów indeksowanych lub denominowanych do waluty CHF o wartości przedmiotu sporu 6,2 mld zł (wobec 12 225 spraw o wartości przedmiotu sporu 3,6 mld zł wg stanu na 31 grudnia 2022 r.), w tym zawierają się 2 pozwy zbiorowe objęte ustawą o dochodzeniu roszczeń w postępowaniu grupowym.<br><br> W Banku identyfikacja niezgodności z przepisami prawa i regulacjami jest ciągłym procesem nadzorowanym przez komórkę ds. zgodności Banku. Na proces składa się: informowanie o istotnych zmianach w przepisach prawa i wytycznych, monitorowanie wdrażania projektów regulacyjnych, akceptacja nowych produktów i istotnych zmian w produktach, weryfikacja bieżąca wzorców umownych, komunikacji i reklamy, procedur i szkoleń, oraz cykliczny monitoring procesów i produktów."
+
+              }                  
+
+            },
+
+"GRI 415-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "W 2023 roku w Grupie Santander Bank Polska odnotowaliśmy:<br><br> 0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami dotyczącymi oznakowania i informacji o produktachi usługach,<br><br>0 przypadków niezgodności z regulacjami i dobrowolnym kodeksami regulującymi kwestie komunikacji marketingowej,<br><br> 0 istotnych kar i sankcji z tytułu niezgodności z prawem i regulacjami,<br><br> 0 przypadków dyskryminacji,<br><br> 12 istotnych przypadków fraudów pracowniczych, w wyniku których Bank rozwiązał umowę o pracę z uzasadnieniem art. 52 Kodeksu Pracy,<br><br> 0 zł darowizn na rzecz partii politycznych, polityków i instytucji o podobnym charakterze.<br><br> 17 859 pozwów dotyczących kredytów indeksowanych lub denominowanych do waluty CHF o wartości przedmiotu sporu 6,2 mld zł (wobec 12 225 spraw o wartości przedmiotu sporu 3,6 mld zł wg stanu na 31 grudnia 2022 r.), w tym zawierają się 2 pozwy zbiorowe objęte ustawą o dochodzeniu roszczeń w postępowaniu grupowym.<br><br> W Banku identyfikacja niezgodności z przepisami prawa i regulacjami jest ciągłym procesem nadzorowanym przez komórkę ds. zgodności Banku. Na proces składa się: informowanie o istotnych zmianach w przepisach prawa i wytycznych, monitorowanie wdrażania projektów regulacyjnych, akceptacja nowych produktów i istotnych zmian w produktach, weryfikacja bieżąca wzorców umownych, komunikacji i reklamy, procedur i szkoleń, oraz cykliczny monitoring procesów i produktów."
+
+              }                  
+
+            },
+
+"GRI 2-2": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Niniejszy Raport ESG 2023 zawiera dane i opis praktyk stosowanych w ramach Grupy Kapitałowej Santander Bank Polska, z wyodrębnieniem Santander Bank Polska S.A. jako spółki dominującej. Podane informacje dotyczą Grupy Kapitałowej Santander Bank Polska, chyba że w treści wskazano, że informacja dotyczy konkretnej spółki. Ujawnienia TCFD dotyczą wyłącznie Santander Bank Polska S.A.<br><br> Jeśli w raporcie mowa o Banku, rozumie się przez to Santander Bank Polska S.A. Jeśli w raporcie mowa o Santander Consumer Bank S.A. rozumie się przez to Santander Consumer Bank S.A. oraz spółki zależne Santander Consumer Multirent Sp. z o.o. oraz Santander Consumer Financial Solutions Sp. z o.o. Jeśli w raporcie mowa o Santander Leasing S.A. rozumie się przez to Santander Leasing S.A. oraz Santander Finanse Sp. z o. o. i Santander F24 S.A.<br><br> W poprzednim roku nasz raport ESG dotyczył Santander Bank Polska S.A., a więc porównywalność wskaźników jest w niektórych przypadkach ograniczona do Banku. <br><br>Publikacja dotyczy okresu od 1 stycznia 2023 roku do 31 grudnia 2023 roku, chyba że w treści zaznaczono inaczej. <br><br>Raport zawiera jedną korektę raportowanych wcześniej przez Santander Bank Polska S.A. informacji niefinansowych, tj. dotyczącą błędu rachunkowego w wyliczeniu średniego zużycia paliwa w przeliczeniu na jednego pracownika, wyjaśnioną w rozdziale Wyniki w obszarze środowiskowym <br><br>Podstawą niniejszej publikacji jest zaktualizowana wersja międzynarodowego standardu Global Reporting Initiative (GRI). W tabeli zatytułowanej ‘Tabela GRI’ wskazano miejsca, w których ujawniono poszczególne informacje dotyczące Grupy Santander Bank Polska. <br><br>Raport odnosi się do międzynarodowych wytycznych i celów istotnych z punktu widzenia organizacji i sektora finansowego. Są to: <br><br> wytyczne Komisji Europejskiej dotyczące ujawniania informacji niefinansowych związanych z oddziaływaniem na klimat, <br><br>Zasady odpowiedzialnej bankowości UNEP FI (Principles for Responsible Banking). <br><br>Dodatkowo publikacja uwzględnia wybrane założenia i wskaźniki zdefiniowane przez „Wytyczne do raportowania ESG – Przewodnik dla spółek’. W raporcie uwzględniono także wskaźniki własne, stanowiące specyficzne dla Banku wskaźniki efektywności. <br><br>Częścią niniejszej publikacji są ujawnienia klimatyczne opracowane z wykorzystaniem rekomendacji TCFD. Zgodnie z ich założeniami Santander Bank Polska S.A. integruje informacje na temat oddziaływania na klimat z resztą ujawnień dotyczących zrównoważonego rozwoju. <br><br>Istotne tematy ujęte w raporcie opracowano z wykorzystaniem matrycy istotności aspektów ESG przeprowadzonej w 2023 roku zgodnie z analizą podwójnej istotności opisanej w dyrektywie CSRD. <br><br>W prace związane z raportowaniem kwestii zrównoważonego rozwoju aktywnie zaangażowane jest Zarząd jednostki dominującej Santander Bank Polska S.A. Zarząd Santander Bank Polska S.A. odpowiada m.in. za włączenie w proces raportowania odpowiednich jednostek i komitetów, zapewnienie przestrzegania procesów należytej staranności oraz ostateczną akceptację treści raportu ESG. W Banku nie powołano osobnych komitetów zajmujących się raportowaniem ESG, jednak w proces raportowania włączono następujące jednostki mające na celu zapewnienie odpowiedniej dbałości o informacje niefinansowe publikowane przez Bank: <br><br> Komitet ds. Ujawnień,<br><br> Komitet Audytu i Zapewnienia Zgodności,<br><br> Zarząd Santander Bank Polska S.A.,<br><br> Radę Nadzorczą Santander Bank Polska S.A."
+
+              }
+            
+
+            },
+
+"GRI 2-3": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Niniejszy Raport ESG 2023 zawiera dane i opis praktyk stosowanych w ramach Grupy Kapitałowej Santander Bank Polska, z wyodrębnieniem Santander Bank Polska S.A. jako spółki dominującej. Podane informacje dotyczą Grupy Kapitałowej Santander Bank Polska, chyba że w treści wskazano, że informacja dotyczy konkretnej spółki. Ujawnienia TCFD dotyczą wyłącznie Santander Bank Polska S.A.<br><br> Jeśli w raporcie mowa o Banku, rozumie się przez to Santander Bank Polska S.A. Jeśli w raporcie mowa o Santander Consumer Bank S.A. rozumie się przez to Santander Consumer Bank S.A. oraz spółki zależne Santander Consumer Multirent Sp. z o.o. oraz Santander Consumer Financial Solutions Sp. z o.o. Jeśli w raporcie mowa o Santander Leasing S.A. rozumie się przez to Santander Leasing S.A. oraz Santander Finanse Sp. z o. o. i Santander F24 S.A.<br><br> W poprzednim roku nasz raport ESG dotyczył Santander Bank Polska S.A., a więc porównywalność wskaźników jest w niektórych przypadkach ograniczona do Banku. <br><br>Publikacja dotyczy okresu od 1 stycznia 2023 roku do 31 grudnia 2023 roku, chyba że w treści zaznaczono inaczej. <br><br>Raport zawiera jedną korektę raportowanych wcześniej przez Santander Bank Polska S.A. informacji niefinansowych, tj. dotyczącą błędu rachunkowego w wyliczeniu średniego zużycia paliwa w przeliczeniu na jednego pracownika, wyjaśnioną w rozdziale Wyniki w obszarze środowiskowym <br><br>Podstawą niniejszej publikacji jest zaktualizowana wersja międzynarodowego standardu Global Reporting Initiative (GRI). W tabeli zatytułowanej ‘Tabela GRI’ wskazano miejsca, w których ujawniono poszczególne informacje dotyczące Grupy Santander Bank Polska. <br><br>Raport odnosi się do międzynarodowych wytycznych i celów istotnych z punktu widzenia organizacji i sektora finansowego. Są to:<br><br> wytyczne Komisji Europejskiej dotyczące ujawniania informacji niefinansowych związanych z oddziaływaniem na klimat, <br><br>Zasady odpowiedzialnej bankowości UNEP FI (Principles for Responsible Banking). <br><br>Dodatkowo publikacja uwzględnia wybrane założenia i wskaźniki zdefiniowane przez „Wytyczne do raportowania ESG – Przewodnik dla spółek’. W raporcie uwzględniono także wskaźniki własne, stanowiące specyficzne dla Banku wskaźniki efektywności. <br><br>Częścią niniejszej publikacji są ujawnienia klimatyczne opracowane z wykorzystaniem rekomendacji TCFD. Zgodnie z ich założeniami Santander Bank Polska S.A. integruje informacje na temat oddziaływania na klimat z resztą ujawnień dotyczących zrównoważonego rozwoju. <br><br>Istotne tematy ujęte w raporcie opracowano z wykorzystaniem matrycy istotności aspektów ESG przeprowadzonej w 2023 roku zgodnie z analizą podwójnej istotności opisanej w dyrektywie CSRD. <br><br>W prace związane z raportowaniem kwestii zrównoważonego rozwoju aktywnie zaangażowane jest Zarząd jednostki dominującej Santander Bank Polska S.A. Zarząd Santander Bank Polska S.A. odpowiada m.in. za włączenie w proces raportowania odpowiednich jednostek i komitetów, zapewnienie przestrzegania procesów należytej staranności oraz ostateczną akceptację treści raportu ESG. W Banku nie powołano osobnych komitetów zajmujących się raportowaniem ESG, jednak w proces raportowania włączono następujące jednostki mające na celu zapewnienie odpowiedniej dbałości o informacje niefinansowe publikowane przez Bank: <br><br> Komitet ds. Ujawnień,<br><br> Komitet Audytu i Zapewnienia Zgodności,<br><br> Zarząd Santander Bank Polska S.A.,<br><br> Radę Nadzorczą Santander Bank Polska S.A."
+
+              }                  
+
+            },
+
+"GRI 2-4": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Niniejszy Raport ESG 2023 zawiera dane i opis praktyk stosowanych w ramach Grupy Kapitałowej Santander Bank Polska, z wyodrębnieniem Santander Bank Polska S.A. jako spółki dominującej. Podane informacje dotyczą Grupy Kapitałowej Santander Bank Polska, chyba że w treści wskazano, że informacja dotyczy konkretnej spółki. Ujawnienia TCFD dotyczą wyłącznie Santander Bank Polska S.A.<br><br> Jeśli w raporcie mowa o Banku, rozumie się przez to Santander Bank Polska S.A. Jeśli w raporcie mowa o Santander Consumer Bank S.A. rozumie się przez to Santander Consumer Bank S.A. oraz spółki zależne Santander Consumer Multirent Sp. z o.o. oraz Santander Consumer Financial Solutions Sp. z o.o. Jeśli w raporcie mowa o Santander Leasing S.A. rozumie się przez to Santander Leasing S.A. oraz Santander Finanse Sp. z o. o. i Santander F24 S.A.<br><br> W poprzednim roku nasz raport ESG dotyczył Santander Bank Polska S.A., a więc porównywalność wskaźników jest w niektórych przypadkach ograniczona do Banku. <br><br>Publikacja dotyczy okresu od 1 stycznia 2023 roku do 31 grudnia 2023 roku, chyba że w treści zaznaczono inaczej. <br><br>Raport zawiera jedną korektę raportowanych wcześniej przez Santander Bank Polska S.A. informacji niefinansowych, tj. dotyczącą błędu rachunkowego w wyliczeniu średniego zużycia paliwa w przeliczeniu na jednego pracownika, wyjaśnioną w rozdziale Wyniki w obszarze środowiskowym <br><br>Podstawą niniejszej publikacji jest zaktualizowana wersja międzynarodowego standardu Global Reporting Initiative (GRI). W tabeli zatytułowanej ‘Tabela GRI’ wskazano miejsca, w których ujawniono poszczególne informacje dotyczące Grupy Santander Bank Polska. <br><br>Raport odnosi się do międzynarodowych wytycznych i celów istotnych z punktu widzenia organizacji i sektora finansowego. Są to:<br><br> wytyczne Komisji Europejskiej dotyczące ujawniania informacji niefinansowych związanych z oddziaływaniem na klimat, <br><br>Zasady odpowiedzialnej bankowości UNEP FI (Principles for Responsible Banking). <br><br>Dodatkowo publikacja uwzględnia wybrane założenia i wskaźniki zdefiniowane przez „Wytyczne do raportowania ESG – Przewodnik dla spółek’. W raporcie uwzględniono także wskaźniki własne, stanowiące specyficzne dla Banku wskaźniki efektywności. <br><br>Częścią niniejszej publikacji są ujawnienia klimatyczne opracowane z wykorzystaniem rekomendacji TCFD. Zgodnie z ich założeniami Santander Bank Polska S.A. integruje informacje na temat oddziaływania na klimat z resztą ujawnień dotyczących zrównoważonego rozwoju. <br><br>Istotne tematy ujęte w raporcie opracowano z wykorzystaniem matrycy istotności aspektów ESG przeprowadzonej w 2023 roku zgodnie z analizą podwójnej istotności opisanej w dyrektywie CSRD. <br><br>W prace związane z raportowaniem kwestii zrównoważonego rozwoju aktywnie zaangażowane jest Zarząd jednostki dominującej Santander Bank Polska S.A. Zarząd Santander Bank Polska S.A. odpowiada m.in. za włączenie w proces raportowania odpowiednich jednostek i komitetów, zapewnienie przestrzegania procesów należytej staranności oraz ostateczną akceptację treści raportu ESG. W Banku nie powołano osobnych komitetów zajmujących się raportowaniem ESG, jednak w proces raportowania włączono następujące jednostki mające na celu zapewnienie odpowiedniej dbałości o informacje niefinansowe publikowane przez Bank: <br><br> Komitet ds. Ujawnień,<br><br> Komitet Audytu i Zapewnienia Zgodności,<br><br> Zarząd Santander Bank Polska S.A.,<br><br> Radę Nadzorczą Santander Bank Polska S.A."
+
+              }                  
+
+            },
+
+"GRI 2-14": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Niniejszy Raport ESG 2023 zawiera dane i opis praktyk stosowanych w ramach Grupy Kapitałowej Santander Bank Polska, z wyodrębnieniem Santander Bank Polska S.A. jako spółki dominującej. Podane informacje dotyczą Grupy Kapitałowej Santander Bank Polska, chyba że w treści wskazano, że informacja dotyczy konkretnej spółki. Ujawnienia TCFD dotyczą wyłącznie Santander Bank Polska S.A.<br><br> Jeśli w raporcie mowa o Banku, rozumie się przez to Santander Bank Polska S.A. Jeśli w raporcie mowa o Santander Consumer Bank S.A. rozumie się przez to Santander Consumer Bank S.A. oraz spółki zależne Santander Consumer Multirent Sp. z o.o. oraz Santander Consumer Financial Solutions Sp. z o.o. Jeśli w raporcie mowa o Santander Leasing S.A. rozumie się przez to Santander Leasing S.A. oraz Santander Finanse Sp. z o. o. i Santander F24 S.A.<br><br> W poprzednim roku nasz raport ESG dotyczył Santander Bank Polska S.A., a więc porównywalność wskaźników jest w niektórych przypadkach ograniczona do Banku. <br><br>Publikacja dotyczy okresu od 1 stycznia 2023 roku do 31 grudnia 2023 roku, chyba że w treści zaznaczono inaczej. <br><br>Raport zawiera jedną korektę raportowanych wcześniej przez Santander Bank Polska S.A. informacji niefinansowych, tj. dotyczącą błędu rachunkowego w wyliczeniu średniego zużycia paliwa w przeliczeniu na jednego pracownika, wyjaśnioną w rozdziale Wyniki w obszarze środowiskowym <br><br>Podstawą niniejszej publikacji jest zaktualizowana wersja międzynarodowego standardu Global Reporting Initiative (GRI). W tabeli zatytułowanej ‘Tabela GRI’ wskazano miejsca, w których ujawniono poszczególne informacje dotyczące Grupy Santander Bank Polska. <br><br>Raport odnosi się do międzynarodowych wytycznych i celów istotnych z punktu widzenia organizacji i sektora finansowego. Są to:<br><br> wytyczne Komisji Europejskiej dotyczące ujawniania informacji niefinansowych związanych z oddziaływaniem na klimat, <br><br>Zasady odpowiedzialnej bankowości UNEP FI (Principles for Responsible Banking). <br><br>Dodatkowo publikacja uwzględnia wybrane założenia i wskaźniki zdefiniowane przez „Wytyczne do raportowania ESG – Przewodnik dla spółek’. W raporcie uwzględniono także wskaźniki własne, stanowiące specyficzne dla Banku wskaźniki efektywności. <br><br>Częścią niniejszej publikacji są ujawnienia klimatyczne opracowane z wykorzystaniem rekomendacji TCFD. Zgodnie z ich założeniami Santander Bank Polska S.A. integruje informacje na temat oddziaływania na klimat z resztą ujawnień dotyczących zrównoważonego rozwoju. <br><br>Istotne tematy ujęte w raporcie opracowano z wykorzystaniem matrycy istotności aspektów ESG przeprowadzonej w 2023 roku zgodnie z analizą podwójnej istotności opisanej w dyrektywie CSRD. <br><br>W prace związane z raportowaniem kwestii zrównoważonego rozwoju aktywnie zaangażowane jest Zarząd jednostki dominującej Santander Bank Polska S.A. Zarząd Santander Bank Polska S.A. odpowiada m.in. za włączenie w proces raportowania odpowiednich jednostek i komitetów, zapewnienie przestrzegania procesów należytej staranności oraz ostateczną akceptację treści raportu ESG. W Banku nie powołano osobnych komitetów zajmujących się raportowaniem ESG, jednak w proces raportowania włączono następujące jednostki mające na celu zapewnienie odpowiedniej dbałości o informacje niefinansowe publikowane przez Bank: <br><br> Komitet ds. Ujawnień,<br><br> Komitet Audytu i Zapewnienia Zgodności,<br><br> Zarząd Santander Bank Polska S.A.,<br><br> Radę Nadzorczą Santander Bank Polska S.A."
+
+              }                  
+
+            },
+
+"GRI 2-5": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "Grupa Santander Bank Polska w ramach zapewnienia należytej staranności w procesie raportowania kwestii związanych ze zrównoważonym rozwojem dobrowolnie poddaje wybrane ze swoich ujawnień niezależnej atestacji. Daje ona ograniczoną pewność i jest przeprowadzona zgodnie z Krajowym Standardem Usług Atestacyjnych Innych niż Badanie i Przegląd 3000 (Z) w brzmieniu Międzynarodowego Standardu Usług Atestacyjnych 3000 (zmienionego) – „Usługi atestacyjne inne niż badania i przeglądy historycznych informacji finansowych’ („KSUA 3000 (Z)’). Proces atestacji wybranych danych niefinansowych koordynowany jest przez Zespół Zrównoważonego Rozwoju i ESG przy wsparciu Zarządu Santander Bank Polska S.A. Rada Nadzorcza nie uczestniczy aktywnie w tym procesie. <br><br>Atestacji poddano następujące ujawnienia GRI: <br><br>Ujawnienia profilowe GRI 2-1 – GRI 2-30,<br><br> Wartości i etyka: GRI 418-1,<br><br> Bezpieczeństwo usług, transakcji i danych klientów: GRI 205-2 – GRI 205-3, GRI 417-2, GRI 417-3,<br><br> Dostosowywanie portfela do celów strategii Net Zero do 2050 r., Zielone finanse, Bezpośredni wpływ na środowisko,<br><br> GRI 305-1 – GRI 305-2,<br><br> Procesy stosowane w celu ustalania i oceny ryzyk związanych z klimatem, główne rodzaje ryzyka, oraz sposób zarządzania tym ryzykiem,<br><br> Inne: GRI 401-1, GRI 405-1 – GRI 405-2, GRI 406-1. <br><br> W związku z nadchodzącymi wymogami regulacyjnymi została podjęta decyzja o weryfikacji Raportu ESG za 2023 r. przez audytora Grupy Santander Bank Polska tj. PricewaterhouseCoopers Polska spółka z ograniczoną odpowiedzialnością Audyt sp.k. (PwC) – podmiot zewnętrzny, z którym nie mamy relacji, które mogłyby wpłynąć na niezależność poświadczenia. Jest to krok w kierunku docelowego raportowania kwestii ESG w ścisłym związku z raportowaniem finansowym. Zgodnie z zapisami Ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym firma audytorska i biegły rewident są zobowiązani do zachowania niezależności wobec Banku i Grupy. Ponadto w oparciu o wymogi Rekomendacji H Bank cyklicznie dokonuje weryfikacji niezależności firmy audytorskiej i jej pracowników. W tej ocenie brana jest również pod uwagę możliwość świadczenia usług niebędących badaniem sprawozdań finansowych. "
+
+              }                 
+
+            },
+
+
+"GRI 303-1": {
+              "metrics": {
+                "Opis": "Pełny",
+                "Text": "We wszystkich lokalizacjach, w których działa nasza Grupa, korzystamy z wody dostarczanej z sieci wodociągowych. Używamy jej do celów spożywczych i sanitarnych, po czym odprowadzamy do miejskich sieci kanalizacyjnych. <>Jak oszczędzamy wodę? <><br><br> Przy każdej modernizacji oddziału montujemy zmywarki do naczyń.<br><br> W biurze Atrium w Warszawie wykorzystywany jest system wody szarej (system podczyszczania wody spod prysznicy i umywalek do ponownego jej użycia do spłukiwania toalet), wydajna armatura łazienkowa oraz bezwodne pisuary pozwalają zaoszczędzić 10 mln litrów wody rocznie.<br><br> W biurze Centrum Wsparcia Biznesu „Business Garden” w Poznaniu woda deszczowa gromadzona jest na dachach budynków, przechowywana i następnie używana do podlewania terenów zielonych. Zastosowane w budynku toalety i krany z niskim przepływem wody i suche pisuary pozwalają zredukować zużycie wody i uzyskać w skali roku oszczędności ok. 6,8 mln litrów wody.<br><br> W biurowcu Centrum Wsparcia Biznesu we Wrocławiu zredukowaliśmy zużycie wody o ok. połowę (w porównaniu z budynkiem referencyjnym) dzięki toaletom i kranom z niskim przepływem wody"
+
+              }                  
+
+            },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+          
+
             "GRI 2-12": {
               "metrics": {
                 "Opis":"Pełny",
                 "Country": "Poland",
-                "Text": "Za planowanie naszych działań wynikających ze Strategii Odpowiedzialnej Bankowości od 2021 r. odpowiada Forum ESG. W skład Forum wchodzi 11 członków reprezentujących wszystkie piony bankowe, a przewodniczy mu Prezes Zarządu Banku."
+                "Text": "Rolą Zarządu Santander Bank Polska S.A. jest między innymi:<br><br> wspólne prowadzenie spraw Banku, <br><br> reprezentowanie spraw Banku, <br><br> przygotowywanie założeń planów biznesowych, ich zatwierdzanie i monitorowanie wykonania, <br><br> przygotowywanie założeń planów finansowych, ich zatwierdzanie oraz monitorowanie ich wykonywania, <br><br> określanie misji Banku, <br><br> wyznaczanie długoterminowych planów i celów strategicznych, <br><br> powoływanie komitetów stałych i doraźnych oraz wyznaczanie osób odpowiedzialnych za kierowanie ich pracami, <br><br> wdrożenie ładu korporacyjnego w Banku oraz zapewnienie jego przestrzegania, <br><br> ocena – co najmniej dwa razy w roku – poziomu przestrzegania zasad etyki w Banku.<br><br> Zakres odpowiedzialności Zarządu to również zarządzanie ryzykami klimatycznymi, a związane z tym działania kontroluje Rada Nadzorcza. Organy te akceptują między innymi najważniejsze polityki oraz system kontroli wewnętrznej, a także uczestniczą w przeglądach i akceptacji ryzyk. Zarząd odpowiada za opracowanie strategii ESG (dotyczącej kwestii środowiskowych, społecznych i zarządczych), obejmującej kwestie ryzyk klimatycznych, oraz jej zintegrowanie ze strategią biznesową w zgodzie z grupową strategią Net Zero Grupy Banco Santander <br><br> Zarząd jest odpowiedzialny za nadzorowanie i zatwierdzanie Strategii Odpowiedzialnej Bankowości oraz integrację kryteriów ESG ze strategią biznesową (w perspektywie krótko-, średnio- lub długoterminowej) oraz w ramach procesu zarządzania ryzykiem. W ramach podziału kompetencji pomiędzy członków Zarządu został wprowadzony następujący podział zadań i obowiązków w zakresie agendy ESG: <br><br> za zarządzanie ryzykami ESG – odpowiada Wiceprezes Zarządu zarządzający Pionem Zarządzania Ryzykiem, <br><br> za kwestie związane z zielonym finansowaniem – odpowiada Członek Zarządu zarządzający Pionem Bankowości Biznesowej i Korporacyjnej, <br><br> za koordynację działań Grupy Banku związanych z odpowiedzialną bankowością, w tym za raportowanie jakościowe ESG – odpowiada kierujący Obszarem Komunikacji Korporacyjnej i Marketingu funkcjonującym poza strukturą pionów, <br><br> za kwestie związane z raportowaniem ilościowym ESG – odpowiada Członek Zarządu zarządzający Pionem Rachunkowości i Kontroli Finansowej. <br><br> Rada Nadzorcza sprawuje stały nadzór nad działalnością Banku, wykonuje uprawnienia przewidziane w Kodeksie spółek handlowych i Statucie, a także zatwierdza opracowane przez Zarząd roczne i wieloletnie plany rozwoju Banku i finansowe plany działalności Banku, strategie działania Banku oraz zasady ostrożnego i stabilnego zarządzania Bankiem. Rada Nadzorcza, zgodnie ze swoim regulaminem, sprawuje nadzór nad procesem opracowywania, wdrożenia i realizacji programu odpowiedzialnej bankowości oraz wypełnianiem wymogów regulacyjnych dotyczących obszaru ESG. Od 2024 roku zostały także rozszerzone kompetencje Komitetów Rady Nadzorczej, tj. Komitetu ds. Ryzyka oraz Komitetu Audytu i Zapewnienia Zgodności. Ustalono, że w ramach weryfikowania profilu ryzyka Grupy brane są pod uwagę również ryzyka ESG, podobnie jak w przypadku przeglądu i rekomendowania Radzie Nadzorczej do zatwierdzenia polityk odnoszących się do ogólnych ram zarządzania ryzykiem obowiązujących w organizacji. Komitet Audytu i Zapewnienia Zgodności będzie dokonywał przeglądu Raportu ESG oraz przyznanych Bankowi i Grupie ratingów ESG"
 
                 
               }
@@ -2052,6 +2697,9 @@
           }
         }
       },
+
+
+
 
 
       {

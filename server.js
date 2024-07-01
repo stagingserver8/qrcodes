@@ -29,7 +29,6 @@ app.use(session({
     saveUninitialized: true
 }));
 
-
 // Connect to MongoDB
 mongoose.connect('mongodb://localhost/my-crm-db')
     .then(() => {
