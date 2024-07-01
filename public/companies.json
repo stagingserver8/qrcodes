@@ -2714,35 +2714,729 @@
                     "Country": "Poland",
                     "Ownership": "State Treasury (29.43%), NN OFE (9.25%), Allianz OFE (8.14%), Float (53.18%)",
                     "HQ": "Warsaw",
-                    "Text": ""
+                    "Text": "Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna (PKO Bank Polski S.A. lub Bank) jest powszechnie rozpoznawalną marką. Od 2004 roku Bank jest notowany na Giełdzie Papierów Wartościowych w Warszawie (GPW). Bank jest spółką akcyjną zarejestrowaną w Krajowym Rejestrze Sądowym pod numerem KRS 0000026438. Struktura akcjonariatu jest przedstawiona w Tabeli 27. Siedziba Banku znajduje się w Warszawie. <br><br> Bank wraz z podmiotami zależnymi tworzy Grupę Kapitałową Powszechnej Kasy Oszczędności Banku Polskiego Spółki Akcyjnej (Grupa PKO Banku Polskiego S.A. lub Grupa Kapitałowa Banku). Na koniec 2022 roku w skład Grupy Kapitałowej Banku wchodził podmiot dominujący (Bank), 12 podmiotów zależnych bezpośrednio oraz podmioty zależne pośrednio (zob. rozdział Grupa). <br><br> Grupa Kapitałowa Banku prowadzi działalność na terytorium Rzeczypospolitej Polskiej oraz poprzez podmioty zależne: na terytorium Ukrainy, Szwecji i Irlandii, a także w formie oddziału w Republice Federalnej Niemiec, Republice Czeskiej i Republice Słowackiej."
                   }
                 },
+                
+    "GRI 2-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Grupa Kapitałowa Powszechnej Kasy Oszczędności Banku Polskiego Spółki Akcyjnej (Grupa PKO Banku Polskiego S.A. lub Grupa Kapitałowa Banku) oraz Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna (PKO Bank Polski S.A. lub Bank) przygotowały Oświadczenie na temat informacji niefinansowych (Oświadczenie), które stanowi odrębną część Sprawozdania Zarządu z działalności. W Oświadczeniu poszczególne kwestie zostały przedstawione w ujęciu Grupy Kapitałowej Banku z wyszczególnieniem Banku. Bank i Grupa Kapitałowa Banku spełniają kryteria podmiotu zobligowanego do sporządzania Oświadczenia. <br><br>Bank i Grupa Kapitałowa Banku raportują za okres od 1 stycznia do 31 grudnia 2022 roku zgodnie ze Standardami GRI (revised Universal Standards 2021, które weszły w życie 1 stycznia 2023 roku) oraz zgodnie z wymogami raportowania niefinansowego określonymi w ustawie o rachunkowości.<br><br>W skład Grupy Kapitałowej Banku na 31 grudnia 2022 roku, zgodnie z Międzynarodowymi Standardami Sprawozdawczości Finansowej (MSSF), wchodził PKO Bank Polski S.A. jako jednostka dominująca oraz 36 jednostek (podmiotów) zależnych bezpośrednio lub pośrednio (wszystkich szczebli). Wszystkie jednostki zależne zostały ujęte w skonsolidowanych danych finansowych zgodnie z MSSF 10 „Skonsolidowane sprawozdania finansowe’. <br><br>W wykazie prezentowany jest udział PKO Banku Polskiego S.A. w kapitale zakładowym spółki, a w przypadku funduszy –  udział  posiadanych  certyfikatów  inwestycyjnych  funduszu.  Wszystkie  wykazane  jednostki  zależne w Skonsolidowanym sprawozdaniu finansowym Grupy Kapitałowej PKO Banku Polskiego S.A. za rok zakończony 31 grudnia 2022 roku (dalej: sprawozdanie finansowe Grupy Kapitałowej Banku za 2022 rok) ujmowane są metodą pełną. <br><br>Pełny wykaz jednostek zależnych Banku oraz jednostek stowarzyszonych i wspólnych przedsięwzięć prezentowany jest w sprawozdaniu finansowym Grupy Kapitałowej Banku za 2022 rok "
+
+      },
+      "attachment_1": "images/sup/PKO_1.png"                  
+
+    },
+
+
+"GRI 2-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Grupa Kapitałowa Banku publikuje Oświadczenia i raporty finansowe w cyklu rocznym. Oświadczenie prezentuje działalność Grupy PKO Banku Polskiego S.A. za okres od 1 stycznia do 31 grudnia 2022 roku. Poprzednie oświadczenie zostało sporządzone za rok 2021 i opublikowane 24 lutego 2022 roku. Kontakt w sprawach tematów związanych z Oświadczeniem jest następujący: esg@pkobp.pl."
+
+      }                  
+
+    },
+
     
-                "GRI 2-13": {
-                  "metrics": {
-                    "Opis":"Pełny",
-                    "Country": "Poland",
-                    "Text": "Bank stopniowo wdraża procesy i poszerza strukturę organizacyjną (governance), które mają zapewnić zintegrowane zarządzanie obszarem ESG. Część nowych zadań związanych z ESG została przypisana do istniejących jednostek, a tam, gdzie było to uzasadnione, powołano nowe jednostki, których zadania koncentrują się wyłącznie na kwestiach ESG. <br> <br> W lipcu 2023 roku w obszarze bankowości korporacyjnej i przedsiębiorstw powołano Departament Programów Publicznych ESG, do którego celów należy wspieranie rozwoju oferty dla klientów w zakresie produktów i usług powiązanych z programami publicznymi i unijnymi, w tym wspierającymi zrównoważony rozwój ESG, w szczególności transformację klimatyczną. <br> <br> W obszarze Operacji i Bankowości Międzynarodowej powołane zostało Biuro Wsparcia Operacji ESG, którego celem jest wsparcie operacyjne w pozyskiwaniu i budowie bazy danych w zakresie obsługiwanych klientów na potrzeby finansowania przez bank zrównoważonego rozwoju tych klientów oraz udział w usprawnianiu działań Banku dotyczących tego finansowania."
+    "GRI 2-5": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Oświadczenie na temat informacji niefinansowych za 2022 rok nie jest poddawane audytowi zewnętrznemu."
+
+      }                  
+
+    },
+
+
+"GRI 2-14": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Oświadczenie zostało przyjęte przez Zarząd i Radę Nadzorczą Banku."
+
+      }                  
+
+    },
+
+
+"GRI 2-6": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Bank tworząc wartość współpracuje z dostawcami towarów i usług (upstream). Odbiorcami wartości wytworzonej przez Bank są jego klienci (dowstream). Bank świadczy usługi 11 648,6 tys. klientom detalicznym i 17,7 tys. klientom korporacyjnym. W procesie tworzenia wartości Bank współpracuje z agentami i pośrednikami oraz z podmiotami do których deleguje część zadań (outsourcing)."
+
+      }                  
+
+    },
+
+
+"GRI 3-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Bank na bieżąco monitoruje wpływ swojej działalności na otoczenie. Do oceny wykorzystuje: <br><br>badania opinii interesariuszy,<br><br>analizę tematów podejmowanych na Walnych Zgromadzeniach Akcjonariuszy, <br><br>kontakty z inwestorami, <br><br>komunikację z agencjami ratingowymi, <br><br>komunikację z mediami i organizacjami pozarządowymi, <br><br>opinie analityków sektorowych, <br><br>badania opinii klientów i pracowników, <br><br>analizę zgłoszeń nieprawidłowości, <br><br>analizę reklamacji,<br><br>współpracę z podmiotami zależnymi, <br><br>narzędzia analizy <br><br>W 2022 roku nie odnotowano istotnych zmian w rodzajach prowadzonej działalności, relacjach biznesowych, oraz sposobie prowadzenia działalności operacyjnej. Nie zmieniła się również lista istotnych interesariuszy. <br><br>W wyniku przeprowadzonych analiz zidentyfikowano 13 tematów, w których Grupa Kapitałowa Banku ma istotny wpływ na otoczenie i interesariuszy. Kierując się standardem GRI, kryterium wyboru tematów był wpływ na gospodarkę, środowisko oraz ludzi, w tym na prawa człowieka. Lista tematów nie uległa zmianie w porównaniu do poprzedniego roku. Nowym elementem analizy jest ocena siły wpływu Grupy Kapitałowej Banku w każdym temacie oraz uporządkowanie tematów w kolejności wywieranego wpływu – od największego do najmniejszego wpływu. Wyodrębniono trzy grupy tematów według siły wpływu: <br><br>tematy krytyczne, które niosą ze sobą ryzyko znacznego naruszenia interesów klientów w sposób, który może zagrozić możliwości prowadzenia biznesu w przyszłości, <br><br>tematy, które stwarzają poważne ryzyka dla otoczenia, ale nie naruszają stabilności biznesu,<br><br>tematy, które uwzględniają wpływ na interesariuszy, ale ograniczający się do wybranej"
+
+      }                  
+
+    },
+
+
+"GRI 2-29": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Istotne grupy interesariuszy<br><br>1) Klienci<br><br>2) Partnerzy biznesowi w łańcuchu wartości<br><br>3) Akcjonariusze i inwestorzy <br><br>4) Społeczności lokalne<br><br>5) Pracownicy <br><br>Wybuch wojny w Ukrainie oraz wywołany w związku z tym kryzys energetyczny w Europie zdominował zainteresowanie inwestorów kwestiami niefinansowymi w 2022 roku. Kwestia bezpieczeństwa energetycznego kraju, ryzyka recesji w wyniku braków w dostawach energii dla podmiotów gospodarczych oraz skutki masowej migracji ukraińskich uchodźców do Polski były przez szereg miesięcy jednymi z częściej poruszanych tematów. W świetle dramatyzmu zdarzeń dziejących się na naszych oczach inwestorzy istotnie zmniejszyli częstotliwość pytań dotyczących kwestii środowiskowych. Komunikacja w większym stopniu skupiła się na kwestiach społecznych, w tym w szczególności na działaniach Banku na rzecz wspierania uchodźców. Bank zorganizował ewakuację do Polski oraz zapewnił utrzymanie pracownic oraz rodzin pracowników działającej na Ukrainie spółki zależnej KREDOBANK S.A. oraz wspierał uchodźców materialnie, jak i poprzez pracę swoich woluntariuszy. <br><br>Bank ocenia zaangażowanie interesariuszy w regularnych badaniach satysfakcji klienta. <br><br>Bank w trybie ciągłym bada podejście interesariuszy do prowadzonych działań charytatywnych i sponsoringowych. Bank należy do grupy najlepiej rozpoznawanych sponsorów na rynku, a w branży bankowej jest najlepiej rozpoznawaną firmą wspierającą różne działania i wydarzenia. Szczególnie doceniane jest sponsorowanie wydarzeń kulturalnych. Największy odsetek klientów bankowości kojarzy wsparcie Banku udzielane akcji PKO Bieg Charytatywny."
+
+      }                  
+
+    },
+
+    "GRI 3-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Wpływ krytyczny<br><br>1) Bezpieczeństwo klientów i ich środków<br><br>2) Etyka<br><br>3) Zgodność produktów<br><br>4) Korupcja<br><br>5) Komunikacja<br><br>Wpływ istotny<br><br>6) Środowisko <br><br>7) Klimat<br><br>8) Zrównoważony rozwój<br><br> Wpływ ograniczony<br><br>9) Pracownicy <br><br>10) Otoczenie społeczne <br><br>11) Prawa człowieka<br><br>12) Łańcuch dostaw<br><br>13) Bezpieczeństwo i higiena pracy"
+
+      }                  
+
+    },
+
+
+"GRI 2-8": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Główną formą zatrudnienia w Banku, jak również w Grupie Kapitałowej Banku jest umowa o pracę. Bank zatrudnia również w oparciu o umowy cywilnoprawne. W 2022 roku z tytułu umowy o dzieło, umowy zlecenia oraz stażu studenckiego dokonano wypłat 1 632 osobom w tym: 1 umowa o dzieło, 1 383 umowy zlecenia oraz 248 staży studenckich. Odsetek osób pracujących w oparciu o umowy cywilnoprawne stanowi 7% umów o prace i umów cywilnoprawnych łącznie."
+
+      },
+      "attachment_1": "images/sup/PKO_2.png"                 
+
+    },
+
+
+"GRI 2-7": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Zatrudnienie według grup stanowisk, wieku, wymiaru etatu, rodzaju umowy, lokalizacji i płci"
+
+      },
+      "attachment_1": "images/sup/PKO_3.png",
+      "attachment_2": "images/sup/PKO_4.png",
+      "attachment_3": "images/sup/PKO_5.png",
+      "attachment_4": "images/sup/PKO_6.png",
+      "attachment_5": "images/sup/PKO_7.png",
+      "attachment_6": "images/sup/PKO_8.png"                  
+
+    },
+
+
+"GRI 405-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Zatrudnienie według grup stanowisk, wieku, wymiaru etatu, rodzaju umowy, lokalizacji i płci <br><br> Różnorodność według płci, wieku i doświadczenia - statystyka według stanu na 31 grudnia 2022 roku"
+
+      },
+      "attachment_1": "images/sup/PKO_3.png",
+      "attachment_2": "images/sup/PKO_4.png",
+      "attachment_3": "images/sup/PKO_5.png",
+      "attachment_4": "images/sup/PKO_6.png",
+      "attachment_5": "images/sup/PKO_7.png",
+      "attachment_6": "images/sup/PKO_8.png",
+      "attachment_7": "images/sup/PKO_15.png",
+      "attachment_8": "images/sup/PKO_16.png"               
+
+    },
+
+
+"GRI 401-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Pracownicy nowozatrudnieni i rotacja w Banku i Grupie Kapitałowej Banku według grup wiekowych i płci"
+
+      },
+      "attachment_1": "images/sup/PKO_9.png"
+
+    },
+
+
+"GRI 401-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Powroty do pracy po urlopie rodzicielskim 2022 roku"
+
+      },
+      "attachment_1": "images/sup/PKO_10.png"
+
+
+    },
+
+
+"GRI 405-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Globalny wskaźnik relacji wynagrodzenia kobiet do mężczyzn liczony jako średnie ważone wynagrodzenie całkowite kobiet do mężczyzn wynosił 96% w Banku i 93% w Grupie Kapitałowej Banku. <br><br>Kalkulacja wskaźnika relacji wynagrodzeń kobiet do mężczyzn opiera się na średnich wynagrodzeniach ważonych liczebnością wyodrębnionych grup homogenicznych. Grupy te koncentrują pracowników o takich samych poziomach wartościowania (wycena wartości pracy na poszczególnych stanowiskach), rodzin stanowisk oraz takiej samej lokalizacji geograficznej. <br><br>Luka płacowa pomiędzy kobietami i mężczyznami liczona na postawie średniego ważonego wynagrodzenia wynosiła 4% dla Banku i 7% dla Grupy Kapitałowej Banku. Luka płacowa według płci dla Banku na podstawie mediany wynosiła 3,5%. <br><br>Prezentowany poziom luki płacowej nie wskazuje na nieuzasadnione nierówności w zakresie kształcenia wysokości wynagrodzeń kobiet i mężczyzn, a przyczyny niewielkich odchyleń ze względu na płeć wynikają z charakteru organizacji, gdzie w stanie zatrudnienia przeważają kobiety."
+
+      }
+
+    },
+
+
+"GRI 2-21": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Stosunek najwyższego całkowitego wynagrodzenia wypłaconego w 2022 roku do mediany rocznego całkowitego wynagrodzenia wszystkich pracowników (z wyłączeniem najwyższego wynagrodzenia) wynosi 15,55. <br><br>Stosunek procentowego wzrostu najwyższego całkowitego wynagrodzenia wypłaconego w 2022 roku w organizacji do ediany  procentowego  wzrostu  całkowitego  rocznego  wynagrodzenia  dla  wszystkich  pracowników (z wyłączeniem najwyższego wynagrodzenia) wynosi 0,90. <br><br>Powyższe wskaźniki zostały wyliczone w oparciu o wynagrodzenie całkowite wypłacone w 2022 roku pracownikom zatrudnionym na umowę o pracę, tj. z wyłączeniem całkowitego wynagrodzenia wypłaconego Członkom Zarządu z tytułu zawartych kontraktów menadżerskich."
+
+      }                  
+
+    },
+
+
+"GRI 2-30": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W Banku obowiązuje Zakładowy Układ Zbiorowy Pracy (ZUZP), zawarty z zakładowymi organizacjami związków zawodowych. Układ reguluje m.in. kwestie wynagrodzeń. Zgodnie z ZUZP pracownikom Banku przysługują następujące składniki wynagrodzeń: (i) wynagrodzenie zasadnicze, (ii) dodatki za pracę w godzinach nadliczbowych i w porze nocnej oraz w warunkach szczególnie uciążliwych i szkodliwych dla zdrowia, (iii) premie i nagrody za szczególne osiągnięcia w pracy zawodowej. <br><br>Podstawą kształtowania wynagrodzeń zasadniczych oraz przyznawania pracownikom świadczeń dodatkowych jest wartościowanie stanowisk z uwzględnieniem analizy wynagrodzeń rynkowych. <br><br>W Banku funkcjonuje system premiowania, w którym wysokość premii jest powiązana z realizacją postawionych celów. Cele premiowe pracowników są powiązane z kluczowymi wskaźnikami zarządczymi Banku."
+
+      }
     
-                    
-                  }
-                },
+    },
+
+
+"GRI 401-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Najważniejsze świadczenia pozapłacowe dla pracowników <br><br>Wszystkie świadczenia pozapłacowe są dostępne dla pracowników niezależnie od typu umowy lub wymiaru pracy."
+
+      },
+      "attachment_1": "images/sup/PKO_11.png",
+      "attachment_2": "images/sup/PKO_12.png"
     
-                "GRI 2-12": {
-                  "metrics": {
-                    "Opis":"Pełny",
-                    "Country": "Poland",
-                    "Text": "Bank stopniowo wdraża procesy i poszerza strukturę organizacyjną (governance), które mają zapewnić zintegrowane zarządzanie obszarem ESG. Część nowych zadań związanych z ESG została przypisana do istniejących jednostek, a tam, gdzie było to uzasadnione, powołano nowe jednostki, których zadania koncentrują się wyłącznie na kwestiach ESG. <br> <br> W lipcu 2023 roku w obszarze bankowości korporacyjnej i przedsiębiorstw powołano Departament Programów Publicznych ESG, do którego celów należy wspieranie rozwoju oferty dla klientów w zakresie produktów i usług powiązanych z programami publicznymi i unijnymi, w tym wspierającymi zrównoważony rozwój ESG, w szczególności transformację klimatyczną. <br> <br> W obszarze Operacji i Bankowości Międzynarodowej powołane zostało Biuro Wsparcia Operacji ESG, którego celem jest wsparcie operacyjne w pozyskiwaniu i budowie bazy danych w zakresie obsługiwanych klientów na potrzeby finansowania przez bank zrównoważonego rozwoju tych klientów oraz udział w usprawnianiu działań Banku dotyczących tego finansowania."
+    },
+
+
+"GRI 402-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Najczęściej dyskutowanymi kwestiami w 2022 roku były zagadnienia związane z wynagrodzeniami pracowników. <br><br>Członkowie związków zawodowych w Banku są Społecznymi Inspektorami Pracy. Społeczna inspekcja pracy jest służbą społeczną pełnioną przez pracowników. Jej celem jest zapewnienie przez zakład pracy bezpiecznych i higienicznych warunków pracy oraz ochrona uprawnień pracowniczych określonych w przepisach prawa pracy. Bank zapewnia przestrzeń do wykonywania zadań w ramach Społecznej Inspekcji Pracy."
+
+      },
+      "attachment_1": "images/sup/PKO_13.png"
     
-                    
-                  }
-                }
+
+    },
+
+
+"GRI 407-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W 2022 roku w Banku nie zidentyfikowano operacji i dostawców o wysokim poziomie ryzyka ograniczenia wolności zrzeszania się i układów zbiorowych."
+
+      }
     
+
+    },
+
+
+"GRI 404-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Podstawowe dane o szkoleniach w Banku w 2022 roku"
+
+      },
+      "attachment_1": "images/sup/PKO_14.png"
     
-              }
-            }
-          },
+
+    },
+
+"GRI 404-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Podstawowe dane o szkoleniach w Banku w 2022 roku"
+
+      },
+      "attachment_1": "images/sup/PKO_14.png"
     
+
+    },
+
+    "GRI 404-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Działania rozwojowe są dostosowane do specyfiki Banku i poszczególnych podmiotów Grupy Kapitałowej Banku i określone w przepisach wewnętrznych. To gwarantuje elastyczne podejście do polityki rozwojowej."
+
+      }                 
+
+    },
+
+
+"GRI 403-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "SYSTEM ZARZĄDZANIA BEZPIECZEŃSTWEM I HIGIENĄ PRACY <br><br>Służba BHP w Banku została zorganizowana jako Biuro Bezpieczeństwa i Higieny Pracy (BBH) i wchodzi w skład struktur Centrum Administracji. Jednostka podzielona jest na zespoły zamiejscowe, obsługujące wszystkie obiekty Banku na terenie kraju. Pracownicy Biura na co dzień realizują zalecenia określone w „Rozporządzeniu Rady Ministrów(…) w sprawie służby BHP…’ m.in. w zakresie: <br><br>okresowej oceny ryzyka zawodowego, <br><br>analizy dotychczasowych zdarzeń wypadkowych, incydentów, oraz monitorowaniu zdarzeń potencjalnie wypadkowych,<br><br>bieżącej i okresowej kontroli BHP we wszystkich placówkach i jednostkach Banku,<br><br>realizacji szkoleń wstępnych oraz okresowych BHP,<br><br>przestrzegania zasad BHP w związku z zagrożeniem SARS-CoV-2 <br><br>Wszystkie podmioty zależne Banku wykonują zadania BHP zgodnie z obowiązującymi przepisami prawa. Przepisy te są na tyle jednoznaczne, że de facto oznacza to stosowanie tych samych zasad BHP w całej Grupie Kapitałowej Banku. Podmioty zlokalizowane poza granicami Rzeczypospolitej działają na zasadach właściwych dla państwa, w którym są zarejestrowane. <br><br>Ponadto Biuro BHP dąży do ciągłej poprawy bezpieczeństwa i higieny pracy propagując działania prewencyjne, dobre praktyki, oraz stosując szeroko pojętą profilaktykę. Tym samym Biuro spełnia wymagania prawne decydujące o wypełnieniu obowiązków pracodawcy wobec pracownika."
+
+      }
+    
+
+    },
+
+
+"GRI 403-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "IDENTYFIKACJA ZAGROŻEŃ, OCENA RYZYKA I BADANIE INCYDENTÓW <br><br>Bank zidentyfikował zagrożenia na stanowiskach pracy i nie rozpoznano stanowisk z ryzykiem kwalifikowanym jako wysokie (tzn. nie ma stanowisk, które wymagałyby działań, aby zmniejszyć poziom ryzyka). Oceny ryzyka zawodowego Bank dokonał metodą Risk Score i objęto nią 100% stanowisk. Każda ocena podlega bieżącemu monitoringowi i okresowej weryfikacji. Podstawowe zagrożenia to: <br><br>upadki na tym samym poziomie (poślizgnięcia, potknięcia), <br><br>upadki na niższy poziom (schody),<br><br>nieodpowiednie oświetlenie lub zjawisko olśnienia przykrego, <br><br>uderzenie o nieruchome przedmioty,<br><br>przeciążenie układu ruchu, narządu wzroku (praca przy komputerze),<br><br>porażenie prądem elektrycznym (obsługa urządzeń zasilanych prądem elektrycznym),<br><br>wypadki komunikacyjne (podróże służbowe),<br><br>obciążenia psychiczne związane z narażeniem na Covid-19."
+
+      }
+    
+
+    },
+
+
+"GRI 403-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "USŁUGI MEDYCYNY PRACY <br><br>Bank posiada umowę o świadczenie usług medycyny pracy z firmą Luxmed. Pracownicy wykonują badania wstępne i okresowe w oddziałach Luxmedu lub placówkach współpracujących. Każdy pracownik może również bezpłatnie korzystać z określonego zakresu opieki medycznej wykraczającej poza medycynę pracy. Umowa ta przewiduje również możliwość rozszerzenia zakresu usług medycznych dla pracownika i jego rodziny. <br><br>Pozostałe podmioty Grupy Kapitałowej Banku (działające na terenie Polski) zapewniają pracownikom opiekę medyczną na warunkach wynegocjowanych z dostawcą usług przez Bank, na podstawie odrębnych umów."
+
+      }
+    
+
+    },
+
+
+"GRI 403-4": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "UDZIAŁ PRACOWNIKÓW, KONSULTACJE I KOMUNIKACJA USŁUG MEDYCYNY PRACY <br><br>Komunikacja między pracownikami a pracodawcą ma charakter otwartego dialogu za pośrednictwem Związków Zawodowych. Związki działają w Banku w sposób prężny i reprezentatywny. Przedstawiciel pracowników każdorazowo uczestniczy w cyklicznych Komisjach Bezpieczeństwa i Higieny Pracy i może się bezpośrednio komunikować z przedstawicielem medycyny pracy."
+
+      }
+    
+
+    },
+
+
+"GRI 403-5": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "SZKOLENIA PRACOWNIKÓW DOT. BEZPIECZEŃSTWA I HIGIENY PRACY <br><br>Szkolenia z zakresu Bezpieczeństwa i Higieny Pracy w Banku realizuje wewnętrzna służba BHP. Szkolenia wstępne prowadzone są na bieżąco na terenie całego kraju z wykorzystaniem autorskich materiałów i pomocy dydaktycznych w sposób stacjonarny lub zdalnie z użyciem technik teleinformatycznych. <br><br>Szkolenia okresowe BHP w myśl przepisów ustawy z dnia 2 marca 2020 roku o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, zostały wstrzymane z uwagi na przedłużenie terminu ich ważności do 60 dnia od dnia odwołania stanu zagrożenia epidemicznego. Jednak z uwagi na znaczną i stale rosnącą ilość osób, którym ważność szkolenia zakończy się po w/w terminie, proces szkoleń okresowych został uruchomiony w październiku 2022 roku. Szkolenie to pracownicy odbywają w formie e-learningu, natomiast egzamin odbierany jest przez komisję złożoną z dwóch pracowników służby bhp za pośrednictwem elektronicznych źródeł komunikacji. <br><br>Dynamika oraz liczebność służby BHP pozwala niezmiennie utrzymać 100% wskaźnik przeszkolenia osób nowozatrudnionych. Ponadto wśród kadry Biura BHP są wykwalifikowani ratownicy medyczni, którzy sukcesywnie szkolą pracowników z zakresu pierwszej pomocy przedmedycznej (proces szkoleń PP w 2022 roku został częściowo zawieszony z uwagi na ograniczenia związane z pandemią, realizowane były tylko szkolenia zgodnie ze zgłaszanym zapotrzebowaniem jednostek)."
+
+      }
+    
+
+    },
+
+
+"GRI 403-6": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "PROMOCJA ZDROWIA PRACOWNIKÓW <br><br>Wszystkie podmioty Grupy Kapitałowej Banku, w tym Bank podejmują niewymuszone prawem działania na rzecz zdrowia pracowników. Popularyzowanie korzyści prozdrowotnych przekłada się na rosnące zainteresowanie oferowanymi przez pracodawców Grupy Kapitałowej Banku: <br><br>bezpłatnymi badaniami profilaktycznymi (np. coroczny pakiet kontrolny zdrowia, mammografia, szczepienia przeciwko grypie lub Covid19), <br><br>szkoleniami promującymi zdrowy styl życia (np. instrukcje ćwiczeń dla pracowników biurowych, także w trakcie pracy zdalnej), <br><br>dostępem do wielu obiektów sportowych i rekreacyjnych w ramach benefitów dla pracowników, <br><br>organizacją sekcji sportowych, zawodów oraz eventów wspierających aktywność fizyczną oraz dbałość o środowisko, <br><br>organizacją akcji prozdrowotnych np. „Zdrowie jak w banku’, „#FokusNaCiebie’ – propagujących zdrowy styl życia, zwracając uwagę na aspekty związane z: dietą, aktywnością ruchową (joga, taniec, spersonalizowane ćwiczenia), jak również równowagą pomiędzy pracą, a czasem prywatnym. <br><br>Ponadto Bank był aktywny w zewnętrznych wydarzeniach sportowych w charakterze: organizatora, patrona czy sponsora, co buduje prozdrowotny wizerunek przedsiębiorcy."
+
+      }
+    
+
+    },
+
+
+"GRI 403-7": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "PREWENCJA I ŁAGODZENIE SKUTKÓW BEZPIECZEŃSTWA I HIGIENY PRACY, KTÓRE BEZPOŚREDNIO WYNIKAJĄ Z RELACJI PRACY <br><br>Działania prewencyjne w Banku na rzecz poprawy bezpieczeństwa i warunków wynikających z relacji pracy: <br><br>wsparcie oraz określenie sposobu postępowania w przypadku wystąpienia zagrożeń psychospołecznych takich jak: stres czy mobbing. <br><br>kampanie informacyjne dotyczące ergonomii i bezpieczeństwa w pracy (instrukcje, broszury, tematyczne strony intranetowe), <br><br>dodatkowe nieobligatoryjne szkolenia z udzielania pierwszej pomocy przedmedycznej, kursy bezpiecznej jazdy samochodem dla pracowników użytkujących pojazdy służbowe, <br><br>profilaktyka wzroku: dostęp do badań okulistycznych, refundacja zakupu okularów i szkieł korygujących wzrok, <br><br>profilaktyka wypadkowa – realizowana przez służby BHP w ramach szkoleń wstępnych i okresowych, a także w ramach konsultacji z pracownikami polityka przeciwdziałania wypadkom związanych z pracą, <br><br>zapewnienie przez pracodawcę środków ochrony indywidualnej dla stanowisk pracy narażonych na czynniki zewnętrzne, <br><br>zapewnienie ciągłości działań w zapobieganiu i kontroli warunków pracy w obliczu zagrożenia Covid-19"
+
+      }
+
+
+    },
+
+
+"GRI 403-8": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "PRACOWNICY OBJĘCI SYSTEMEM BEZPIECZEŃSTWA I HIGIENY PRACY <br><br>Podstawowy system zarządzania bezpieczeństwem i higieną pracy wynikający z ogólnych przepisów prawa obejmuje 100% pracowników."
+
+      }
+    
+
+    },
+
+
+"GRI 403-9": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "URAZY ZWIĄZANE Z PRACĄ<br><br>W 2022 roku zgłoszono 68 zdarzeń wypadkowych (69 w 2021 roku). W drodze postępowania 7 z nich nie zostało uznanych za wypadek przy pracy, a 10 postępowań trwa. Do najczęstszych skutków wypadków przy pracy należą: stłuczenia, skręcenia oraz zwichnięcia, a także urazy powłok ciała <br><br> W 2022 roku w pozostałych podmiotach Grupy Kapitałowej Banku zgłoszono łącznie 6 zdarzeń wypadkowych (13 w 2021 roku), z czego jeden z nich dotyczył pracownika zatrudnionego na umowę inną niż umowa o pracę. Wszystkie postępowania zostały zakończone, a dwa z nich nie zostały uznane za wypadek przy pracy."
+
+      }
+    
+
+    },
+
+
+"GRI 403-10": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "CHOROBY ZAWODOWE<br><br>W 2022 roku zgłoszono 9 podejrzeń chorób zawodowych u 7 osób i wszystkie z nich dotyczą byłych pracowników Banku (w roku 2021 było 5 zgłoszeń). W tym samym roku organ orzekający wydał 4 decyzje, w których stwierdzono brak podstaw do zakwalifikowania schorzenia do grupy chorób zawodowych (2 decyzje dotyczą zgłoszeń z lat ubiegłych, oraz 2 dotyczą postępowań rozpoczętych w 2022 roku). Pozostałe postępowania trwają."
+
+      }
+    
+
+    },
+
+"GRI 2-20": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Kierując się ostrożnym i stabilnym zarządzaniem ryzykiem, kapitałem i płynnością oraz szczególną dbałością o długoterminowe dobro PKO Banku Polskiego S.A. i interes akcjonariuszy oraz mając na względzie regulacje zewnętrzne z obszaru wynagrodzeń, Bank wprowadził adekwatne przepisy wewnętrzne regulujące kwestię zasad wynagradzania, dotyczące między innymi, osób zajmujących stanowiska kierownicze, w tym członków organów Banku. Wprowadzone przepisy z zakresu wynagrodzeń mają na celu wspieranie realizacji strategii oraz długoterminowych interesów Banku, a także przyczyniać się do prawidłowego i skutecznego zarządzania ryzykiem. <br><br>W Banku obowiązuje polityka wynagrodzeń członków Rady Nadzorczej oraz Zarządu przyjęta przez Zwyczajne Walne Zgromadzenie Banku w 2020 roku. <br><br>Zgodnie z treścią tej polityki wynagrodzenie całkowite członka Zarządu składa się z części stałej oraz części zmiennej. Wynagrodzenie zmienne jest uzależnione od poziomu realizacji celów zarządczych takich jak: osiągnięcie wyniku finansowego netto Banku i Grupy Kapitałowej Banku, osiągnięcie wskazanych wskaźników ekonomiczno- finansowych, w tym wskaźnika zadowolenia klientów, realizacja strategii Banku oraz Grupy Kapitałowej Banku oraz utrzymanie pozycji rynkowej Banku. Rada Nadzorcza ustala cele dla poszczególnych członków Zarządu, przy czym powinny one uwzględniać również kryteria takie, jak dbałość Banku o uwzględnienie interesu społecznego oraz przyczynianie się Banku do ochrony środowiska i zapobiegania ewentualnym negatywnym skutkom społecznym działalności Banku. Łączna wysokość wynagrodzenia stałego i zmiennego każdego z członków Zarządu Banku jest zgodna z zasadą neutralności pod względem płci. <br><br>W PKO Banku Polskim S.A. przyjęte są również zasady wynagradzania pracowników, których działalność ma istotny wpływ na profil ryzyka Banku (Material Risk Takers dalej: MRT). Wynagrodzenia zmienne MRT są bezpośrednio uzależnione od sytuacji finansowej Banku oraz wzrostu jego wartości, z zastrzeżeniem, że kierownicy komórki audytu wewnętrznego, komórki do spraw zgodności, komórki prawnej, komórek organizacyjnych odpowiedzialnych za zarządzanie ryzykiem na drugim poziomie oraz za sprawy kadrowe, są wynagradzani w zakresie wynagrodzenia zmiennego za osiągnięcie celów wynikających z pełnionych przez nich funkcji, a ich wynagrodzenie nie może być uzależnione od wyników finansowych uzyskiwanych w kontrolowanych przez nich obszarach działalności Banku. <br><br>Wynagrodzenie zmienne pracowników, których działalność ma istotny wpływ na profil ryzyka Banku uzależnione jest od poziomu realizacji celów premiowych, które w zależności od powierzanych zadań, mogą obejmować m.in. wskaźnik zadowolenia klientów, czy stopień realizacji działań służących wykonaniu strategii Banku. <br><br>Wypłata wynagrodzeń zmiennych zarówno dla członków Zarządu Banku, jak i pozostałych MRT jest poprzedzana każdorazowo oceną sytuacji ekonomicznej Banku, jak i długookresową oceną tych osób w aspekcie prawidłowego wywiązywania się z powierzonych obowiązków. <br><br>Maksymalny stosunek średniego całkowitego wynagrodzenia brutto członków Zarządu Banku w ujęciu rocznym do średniego całkowitego wynagrodzenia brutto pozostałych pracowników Banku w ujęciu rocznym został ustalony na poziomie 1:22. <br><br>Poziom wynagrodzeń członków organów Banku i MRT jest adekwatny do powierzonego poszczególnym osobom zakresu zadań. Praca w komitetach Rady Nadzorczej Banku uwzględniana jest w wysokości wynagrodzenia członków tych komitetów. Wysokość wynagrodzenia członków Rady Nadzorczej nie jest uzależniona od krótkoterminowych wyników Banku. <br><br> Opiniowanie i bieżące monitorowanie zasad wynagradzania w ramach przyjętej w Banku Polityki Wynagradzania oraz wspieranie organów Banku w zakresie kształtowania i realizacji Polityki Wynagradzania. <br><br> Komitet odpowiada w szczególności za realizację poniższych zadań: <br><br>opiniowanie, podlegających zatwierdzeniu przez Radę Nadzorczą, ogólnych zasad polityki wynagrodzeń osób, których działalność zawodowa ma istotny wpływ na profil ryzyka Banku, <br><br>dokonywanie okresowego przeglądu Polityki Wynagradzania oraz przedstawianie wyników z przeglądu Radzie Nadzorczej, <br><br>przedstawianie Radzie Nadzorczej propozycji zasad zatrudniania i wynagradzania członków Zarządu,<br><br>przedstawianie lub opiniowanie decyzji dotyczących wynagradzania, które mają być podjęte przez Radę Nadzorczą – w szczególności dotyczących wynagradzania członków Zarządu, w tym odpraw dla członków Zarządu, <br><br>dokonywanie oceny celów MbO stawianych członkom Zarządu i przez nich realizowanych, ich wartości oraz wagi i przedstawianie Radzie Nadzorczej opinii w tym zakresie, <br><br>dokonywanie oceny narzędzi i systemów przyjętych w celu zagwarantowania, by system wynagrodzeń w Grupie Kapitałowej Banku należycie uwzględniał wszystkie rodzaje ryzyka, poziomy płynności i kapitału oraz aby Polityka Wynagradzania była zgodna z zasadami należytego i skutecznego zarządzania ryzykiem oraz wspierała takie zarządzanie i była zbieżna ze strategią biznesową, celami, kulturą i wartościami korporacyjnymi oraz długofalowymi interesami Grupy Kapitałowej Banku, <br><br>nadzorowanie wynagrodzenia stałego kierujących komórkami wykonującymi niezależne funkcje kontrolne, w tym komórkami do spraw: zgodności, audytu wewnętrznego i zarządzania ryzykiem, <br><br>opiniowanie i monitorowanie zmiennych składników wynagrodzeń kierujących komórkami ds.: zgodności, audytu wewnętrznego i zarządzania ryzykiem, <br><br> przedstawianie Radzie Nadzorczej opinii w przedmiocie zatwierdzanego przez Radę Nadzorczą rozliczenia celów MbO dla członków Zarządu za dany okres oceny, <br><br>zapoznawanie się z raportem z prowadzonego przez komórkę do spraw audytu wewnętrznego przeglądu wdrożenia polityki wynagrodzeń, <br><br>przygotowywanie projektu raportu z oceny funkcjonowania polityki wynagrodzeń w Banku, który jest przedstawiany Walnemu Zgromadzeniu przez Radę Nadzorczą. <br><br>Ponadto do zadań Komitetu należy: <br><br>opiniowanie polityki różnorodności w składzie Zarządu,<br><br>dokonywanie  oceny  odpowiedniości  i rekomendowanie  Radzie  Nadzorczej  kandydatów  do  Zarządu,  w  tym z uwzględnieniem niezbędnej wiedzy, kompetencji i doświadczenia Zarządu jako całości, koniecznych do zarządzania Bankiem oraz z uwzględnieniem różnorodności w składzie Zarządu,<br><br>rekomendowanie, określanego przez Radę Nadzorczą, zakresu obowiązków dla kandydata do Zarządu, a także określanie wymagań m.in. w zakresie wiedzy i kompetencji oraz przewidywanego zaangażowania pod względem poświęcanego czasu, niezbędnych do pełnienia funkcji członka Zarządu, <br><br> rekomendowanie, określanej przez Radę Nadzorczą, wartości docelowej reprezentacji niedostatecznie reprezentowanej płci w Zarządzie, <br><br>dokonywanie okresowej oceny, co najmniej raz w roku, struktury, wielkości, składu i skuteczności działania Zarządu oraz rekomendowanie Radzie Nadzorczej zmian w tym zakresie, <br><br>dokonywanie, co najmniej raz w roku, okresowej oceny odpowiedniości, w tym oceny wiedzy, kompetencji i doświadczenia Zarządu jako całości i poszczególnych członków Zarządu oraz informowanie Zarządu o wynikach tej oceny, <br><br>dokonywanie okresowego przeglądu polityki Zarządu w odniesieniu do doboru i powoływania osób, które zajmują stanowiska kierownicze w Banku mające istotny wpływ na profil ryzyka Banku i przedstawianie Zarządowi zaleceń w tym zakresie, <br><br>opiniowanie, w tym dokonywanie corocznego przeglądu polityki dotyczącej odpowiedniości członków Zarządu i osób pełniących najważniejsze funkcje w Banku oraz oceny odpowiedniości w spółkach Grupy Kapitałowej Banku oraz rekomendowanie Radzie Nadzorczej zmian w tej polityce, <br><br>opiniowanie polityki dotyczącej oceny odpowiedniości kandydatów na członków i członków Rady Nadzorczej Banku w ramach jej przeglądu dokonywanego przez Radę Nadzorczą."
+
+      }
+    
+
+    },
+
+"GRI 2-10": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Zarząd PKO Banku Polskiego S.A. składa się z 3 do 9 członków. Członków Zarządu, w tym prezesa i wiceprezesów, powołuje i odwołuje Rada Nadzorcza. Członkowie Zarządu są powoływani na wspólną trzyletnią kadencję. <br><br>Rada Nadzorcza posiada także kompetencje do zawieszania, z ważnych powodów, w czynnościach poszczególnych lub wszystkich członków Zarządu oraz delegowania członków Rady Nadzorczej, na okres nie dłuższy niż trzy miesiące, do czasowego wykonywania czynności członków Zarządu, którzy zostali odwołani, złożyli rezygnację albo z innych przyczyn nie mogą sprawować swoich czynności.<br><br>Członkowie Zarządu powinni m.in. spełniać wymogi art. 22aa ustawy Prawo bankowe, posiadać wykształcenie wyższe, co najmniej 5-letni okres zatrudnienia lub wykonywania działalności gospodarczej na własny rachunek i co najmniej 3-letnie doświadczenie na stanowisku kierowniczym lub samodzielnym albo wynikające z prowadzenia działalności gospodarczej na własny rachunek. <br><br>Kandydatów na członków Rady Nadzorczej w liczbie określonej zgodnie ze wzorem opisanym poniżej ma prawo zgłaszać jedynie akcjonariusz, który samodzielnie i we własnym imieniu jest uprawniony na Walnym Zgromadzeniu,  którego  przedmiotem  jest  wybór  członków  Rady  Nadzorczej  do  wykonywania  prawa  głosu z największej liczby akcji w kapitale zakładowym Banku, zwany dalej „Uprawnionym Akcjonariuszem’. Kandydatów na pozostałych członków Rady Nadzorczej mają prawo zgłaszać wszyscy akcjonariusze, w tym Uprawniony Akcjonariusz. "
+      }            
+
+    },
+
+"GRI 2-9": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Rada Nadzorcza PKO Banku Polskiego S.A. składa się z 5 do 13 członków powoływanych na wspólną trzyletnią kadencję.<br><br>Liczbę członków Rady Nadzorczej ustala Uprawniony Akcjonariusz (zgodnie z definicją poniżej), w tym w przypadku zgłoszenia wniosku o wybór Rady Nadzorczej w drodze głosowania oddzielnymi grupami. <br><br>Skarb Państwa, jako Uprawniony Akcjonariusz, na podstawie § 11 ust. 1 Statutu Banku, ustalił liczbę członków Rady Nadzorczej na 11 osób. <br><br> Zarząd PKO Banku Polskiego S.A. składa się z 3 do 9 członków. Członkowie Zarządu są powoływani przez Radę Nadzorczą na wspólną trzyletnią kadencję."
+      }                  
+
+    },
+
+"GRI 2-11": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Powołanie prezesa Zarządu oraz członka Zarządu, który nadzoruje zarządzanie ryzykiem istotnym w działalności Banku wymaga zgody KNF. <br><br> Obecna kadencja Zarządu rozpoczęła się 30 lipca 2020 roku.<>Przewodniczącego oraz Wiceprzewodniczącego Rady Nadzorczej wyznacza Uprawniony Akcjonariusz spośród powołanych członków Rady Nadzorczej, w tym także w przypadku wyboru Rady Nadzorczej oddzielnymi grupami. <br><br>Obecna kadencja Rady Nadzorczej rozpoczęła się 26 sierpnia 2020 roku."
+
+      }                  
+
+    },
+
+"GRI 2-12": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Prezesowi Zarządu (Wiceprezesowi Zarządu kierującemu pracami Zarządu oczekującemu na zgodę Komisji Nadzoru Finansowego na powołanie na Prezesa Zarządu) podlegają w szczególności sprawy z zakresu nadzoru nad obsługą funkcjonowania organów Banku, nadzoru nad obsługą funkcjonowania stałych komitetów Banku, audytu wewnętrznego, bezpieczeństwa, ryzyka braku zgodności, ryzyka postępowania, ryzyka utraty reputacji, obsługi prawnej, komunikacji i promocji, analiz makroekonomicznych, strategii, zarządzania zasobami ludzkimi oraz koordynacji działań z zakresu ESG,"
+
+      }                  
+
+    },
+
+
+"GRI 2-18": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Bank jako jeden z największych pracodawców w Polsce zobowiązuje się do prowadzenia i promowania etycznego biznesu, budowy etycznej kultury organizacyjnej oraz przestrzegania zasad społecznej odpowiedzialności. <br><br> Bank przyjął Kodeks Etyki uchwałą Zarządu Banku w 2014 roku. Kodeks stanowi zbiór najważniejszych wartości, zasad, norm postępowania, postaw etycznych, które określają sposób kształtowania wzajemnych relacji w biznesie oraz w relacjach Banku z otoczeniem. W wymiarze praktycznym Kodeks jest narzędziem, które wspiera upowszechnianie oraz wdrażanie wartości etycznych w Banku. Jego zapisy dotyczą pracowników jak również wszystkich osób, które wykonują na rzecz lub w imieniu Banku działania biznesowe lub pośredniczą w działalności Banku. O obowiązku przestrzegania Kodeksu Etyki przez każdego pracownika Banku stanowi Regulamin Pracy Banku. <br><br>Realizacja zadań organów Banku w zakresie zrównoważonego rozwoju następuje m.in.poprzez: <br><br>wprowadzanie/nowelizacje przepisów wewnętrznych Banku odnoszących się do podejmowania przez Bank działań w obszarze ESG,<br><br>wyznaczania przez Bank wskaźników i celów niefinansowych oraz ich realizację,<br><br>kształtowanie strategii Banku ukierunkowanej na realizację celów ESG i zrównoważony rozwój, <br><br>wyznaczanie celów zarządczych członkom Zarządu Banku obejmujących obszar ESG w tym in. wskaźniki zadowolenia klientów i pracowników oraz realizację strategii Banku. <br><br>Ocena wyników Zarządu i Rady Nadzorczej Banku w zakresie wywiązywania się z powierzanych obowiązków, w tym w zakresie nadzorowania zarządzania oddziaływaniem organizacji na kwestie ESG dokonywana jest wieloaspektowo, w tym m.in. poprzez okresowe monitorowanie: <br><br>realizacji wskaźników i celów niefinansowych związanych z obszarem ESG, <br><br>realizacji celów zarządczych członków Zarządu Banku, w tym realizacji strategii Banku<br><br>wpływu organizacji na interesariuszy i otoczenie społeczne i stanowi m.in. element:<br><br> mechanizmów kontrolnych/przeglądów w zakresie przestrzegania ładu korporacyjnego, <br><br>procesu udzielania absolutorium,<br><br>mechanizmów sprawozdawczych i oceny odpowiedniości członków organu, <br><br>mechanizmu rozliczania celów zarządczych członków Zarządu Banku, a także<br><br>nadawanych Bankowi ratingów ESG, które utrzymują się na średnim"
+
+      }                  
+
+    },
+
+"GRI 2-16": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W obszarze pracowniczym istnieją mechanizmy promowania i monitorowania przestrzegania w Banku zasad etyki w tym mechanizmy monitorowania sytuacji naruszających te zasady, w szczególności mogących wiązać się z negatywnym wpływem organizacji na interesariuszy jak również sposobu postępowania w relacjach biznesowych oraz z otoczeniem społecznym oparte m.in. o wprowadzone wewnętrznymi przepisami procedury skargowe, Kodeks etyki oraz obowiązki sprawozdawcze wobec Zarządu i Rady Nadzorczej. W ramach tych mechanizmów: <br><br>Członkowie Zarządu Banku kwartalnie otrzymują informacje nt. wystąpienia naruszeń w obszarach im podległych <br><br>Zarząd i Rada Nadzorcza Banku w ramach corocznego sprawozdania na temat zasad przestrzegania etyki w Banku otrzymują kompleksową informację"
+
+      },
+      "attachment_1": "images/sup/PKO_17.png"                  
+
+    },
+
+"GRI 2-17": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Ocena wiedzy, umiejętności i doświadczenia członków Zarządu i Rady Nadzorczej Banku na temat zrównoważonego rozwoju, w tym w zakresie zdolności do zarządzania ryzykiem ESG i wpływem czynników ryzyka ESG na działalność Banku stanowi jeden z kryteriów weryfikacji w ramach wstępnych i okresowych (corocznych) ocen odpowiedniości indywidualnej (członków organów) i zbiorowej (organów Banku)."
+
+      }                  
+
+    },
+
+"GRI 2-15": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Zasady zarządzania konfliktami interesów są przyjmowane przez Zarząd Banku i zatwierdzane przez Radę Nadzorczą.<br><br> Członkowie Rady Nadzorczej mają obowiązek niezwłocznie informować Radę Nadzorczą o okolicznościach, które mogą powodować potencjalny konflikt interesów wpływający na ich relacje z Grupą Kapitałową Banku, w tym na ich działalność w Radzie Nadzorczej. Przewodniczący Rady Nadzorczej podejmuje decyzję o nieprzekazaniu członkowi Rady Nadzorczej, w odniesieniu do którego występują okoliczności powodujące potencjalny konflikt interesów, dokumentów i informacji związanych z planowanymi do rozpatrzenia przez Radę Nadzorczą sprawami, których ten konflikt dotyczy. Ponadto członek Rady Nadzorczej obowiązany jest poinformować stałych uczestników posiedzenia Rady Nadzorczej o zaistniałym konflikcie interesów lub możliwości jego powstania i powstrzymać się od zabierania głosu w dyskusji oraz nie brać udziału w głosowaniu nad przyjęciem uchwały w sprawie, której taki konflikt dotyczy. <br><br>Członek Zarządu zobowiązany jest powstrzymywać się od podejmowania aktywności zawodowej lub pozazawodowej, która mogłaby prowadzić do powstania konfliktu interesów lub w inny sposób wpływać negatywnie na jego reputację jako członka organu zarządzającego Bankiem. Członek Zarządu zobowiązany jest najpóźniej w dniu wyboru złożyć Radzie Nadzorczej pisemne oświadczenie o wszelkich innych aktywnościach zawodowych, członkostwie w organach zarządzających lub nadzorczych oraz posiadaniu akcji lub udziałów, jeżeli w wyniku ich posiadania członek Zarządu jest uprawniony do wykonywania co najmniej 5% głosów na walnym zgromadzeniu (zgromadzeniu wspólników). Członek Zarządu nie może bez zgody Rady Nadzorczej zajmować się interesami konkurencyjnymi w stosunku do Banku lub podmiotów Grupy Kapitałowej Banku ani też uczestniczyć w spółkach prowadzących działalność konkurencyjną w stosunku do Banku lub podmiotów Grupy Kapitałowej Banku jako wspólnik (akcjonariusz) lub członek organów zarządzających lub nadzorczych, a także nie może, bez zgody Rady Nadzorczej, w żadnej formie świadczyć pracy lub innych usług na rzecz podmiotów prowadzących działalność konkurencyjną w stosunku do Banku lub podmiotów Grupy Kapitałowej Banku. <br><br>Prezes Zarządu Banku w cyklach miesięcznych informowany jest o konfliktach interesów dotyczących wszystkich pracowników Banku. Ponadto Zarząd Banku oraz Rada Nadzorcza w cyklach kwartalnych informowana jest o liczbie i tematyce zgłoszeń konfliktów interesów dotyczących wszystkich pracowników Banku."
+
+      }                  
+
+    },
+
+"GRI 2-19": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "System wynagradzania członków Zarządu Banku reguluje: <br><br>a. Polityka wynagrodzeń członków Rady Nadzorczej oraz Zarządu Banku, przyjęta uchwałą nr 35/2020 Zwyczajnego Walnego Zgromadzania Banku z 26 sierpnia 2020 roku,<br><br>b. Polityka wynagradzania pracowników Banku i Grupy Kapitałowej PKO Banku Polskiego A., zatwierdzona uchwałą nr 195/2022 Rady Nadzorczej Banku z 30 grudnia 2022 roku,<br><br>c. Zasady zatrudnienia i wynagradzania członków Zarządu Banku, zatwierdzone uchwałą nr 196/2022 Rady Nadzorczej Banku z 30 grudnia 2022 roku. <br><br>Miesięczne wynagrodzenie członków Rady Nadzorczej Banku określa Polityka wynagrodzeń członków Rady Nadzorczej oraz Zarządu Banku. Miesięczne wynagrodzenie członków Rady Nadzorczej jest ustalone jako iloczyn podstawy wymiaru, o której mowa w art. 1 ust. 3 pkt 11 ustawy z 9 czerwca 2016 roku o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami, oraz mnożnika: <br><br>dla Przewodniczącego Rady Nadzorczej – 2,75,<br><br>dla Wiceprzewodniczącego Rady Nadzorczej – 2,5,<br><br>dla Sekretarza Rady Nadzorczej – 2,25,<br><br>dla pozostałych członków Rady Nadzorczej – 2 <br><br>Wynagrodzenie zostaje podwyższone o 10% w przypadku, gdy członek Rady Nadzorczej uczestniczy, w co najmniej jednym stałym komitecie Rady Nadzorczej.<br><br> Członkowi Rady Nadzorczej, niezależnie od wynagrodzenia, przysługuje zwrot kosztów poniesionych w związku z wykonywaniem funkcji. Dotyczy to w szczególności kosztów przejazdu z miejsca zamieszkania do miejsca posiedzenia Rady Nadzorczej i z powrotem, kosztów zakwaterowania i wyżywienia."
+      }                  
+
+    },
+
+"GRI 2-22": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Szanowni Państwo, <br><br>Rok 2022 był czasem szczególnym, pełnym wyjątkowych i trudnych wyzwań. Kluczowy wpływ na naszą rzeczywistość miały najpierw pandemia, która wymusiła zmianę priorytetów, na pierwszym miejscu stawiając zdrowie i bezpieczeństwo, a od 24 lutego wojna przy naszej wschodniej granicy. Były to doświadczenia, które miały fundamentalny wpływ na kształt prowadzenia działalności przez instytucje finansowe i które oddziaływały na całą społeczną, gospodarczą i polityczną rzeczywistość. <br><br> Najbardziej brzemiennym efektem wojny w Ukrainie w zakresie gospodarczym było spotęgowanie czynników inflacyjnych. Dotyczyło to zarówno Polski, jak i niemal całego świata. W reakcji na to zjawisko banki centralne podnosiły stopy procentowe. To z kolei miało przełożenie na sytuację całego krajowego sektora bankowego. Obserwowaliśmy osłabienie popytu na kredyty, w tym zwłaszcza hipoteczne. Wyzwaniem były także pozycje nadzwyczajne w bilansie.<br><br>Sprostaliśmy tym wyzwaniom. Ubiegły rok potwierdził jednoznacznie, że PKO Bank Polski jest filarem polskiego systemu bankowego i instytucją znakomicie przygotowaną także na trudniejsze czasy. Nasze doświadczenie oraz skala działalności, wsparte profesjonalizmem pracowników pozwalały dostosowywać działania do aktualnych potrzeb klientów i całej krajowej gospodarki. Po zaabsorbowaniu efektów zdarzeń nadzwyczajnych zanotowaliśmy wynik na poziomie 3 mld 333 mln zł. Było to możliwe m.in. dzięki mocnemu wzrostowi dochodów z działalności podstawowej oraz kontroli kosztów i ryzyka.<br><br>Dziś na początku marca 2023 r. sytuacja zaczyna wyglądać bardziej optymistycznie. Coraz więcej danych wskazuje na to, że po szoku inflacyjnym nadchodzi czas dezinflacji i powrotu do większej stabilności. Udało nam się również uniknąć czarnego scenariusza rozwoju kryzysu energetycznego, choć to dopiero wygrana bitwa, a nie wojna. W rok 2023 PKO Bank Polski wkracza więc odważnie, z nadzieją i z solidnym zyskiem. Zgodnie z hasłem ogłoszonej w grudniu 2022 roku nowej strategii na lata 2023-2025 jesteśmy „Przygotowani do wyzwań, nastawieni na przyszłość’. W jej centrum stawiamy potrzeby ludzi – naszych klientów i pracowników. Kierując się ich oczekiwaniami w dalszym ciągu będziemy dążyć do udoskonalania naszej oferty i obsługi wdrażając rozwiązania oparte na innowacjach, technologii i zrównoważonym rozwoju.<br><br>Nowa strategia to także zdecydowanie mocniejszy nacisk PKO Banku Polskiego na realizację celów ESG – zarówno w aspektach związanych ze zrównoważonym finansowaniem i ograniczaniem emisji własnych, jak i aspektem społecznym oraz ładem wewnątrzorganizacyjnym. Bank zamierza wdrożyć unikalne rozwiązania z zakresu finansowania transformacji energetycznej, aby wpierać konkurencyjność polskich firm w obliczu wysokich cen energii, wymagań biznesowych i regulacyjnych. Bank będzie nadal angażować się w działania prospołeczne oraz wspierać różnorodność i równe traktowanie pracowników, bez względu na ich wiek, płeć i pochodzenie. Nie zapominamy oczywiście o umacnianiu pozycji Grupy Kapitałowej PKO Banku Polskiego na rynku. Naszym priorytetem jest rozwój organiczny i utrzymanie polityki dywidendowej, będziemy jednak aktywnie przyglądać się możliwościom dokonywania przejęć. Do 2025 roku zakładamy osiągnięcie ROE powyżej 12 proc., wskaźnika C/I poniżej 45 proc. oraz utrzymanie kosztu ryzyka w przedziale 0,7-0,9 proc.<br><br>Miniony rok, to także czas dalszego rozwijania przez PKO Bank Polski nowoczesnych usług i produktów, w tym oferowanych przez kanały zdalne. Dzięki odpowiednio obranych celom i konsekwencji w działaniu bank wiedzie dziś prym w udostępnianiu nowoczesnych rozwiązań. Liczba aktywnych aplikacji IKO na koniec 2022 roku przekroczyła, rekordowe na polskim rynku bankowym, 7,2 mln. Asystent głosowy IKO wykonał ponad 2,5 mln rozmów z klientami. Liczba rozmów przeprowadzonych za pośrednictwem wszystkich voicebotów wyniosła łącznie ponad 18 mln, a w samym 2022 roku było ich 10,4 mln.<br><br>Kolejnym, ważnym od strony nowoczesnych i unikalnych rozwiązań na rynku wydarzeniem, było uruchomienie warszawskiej PKO Rotundy w metaświecie. Dla PKO Banku Polskiego obecność w Metaverse to możliwość zdobywania doświadczenia i testowania rozwiązań technologicznych, które posłużą do rozwoju nowego kanału komunikacji z klientami oraz jego wykorzystania biznesowego w dalszej przyszłości.<br><br>Nie da się ukryć, że 2022 rok był trudnym czasem – zarówno dla sektora bankowego, jak i dla Polaków. Jednak mimo wielu zawirowań Polska ma bardzo dobre fundamenty, aby 2023 rok przejść ze wzrostem gospodarczym. W ślad za mam nadzieję już wkrótce spadającymi stopami procentowymi będzie się odwracał efekt ujemnej wyceny portfela papierów wartościowych. Zakładamy wzrost wartości kapitałów własnych o 60 proc. do 2025 r., co wynika — oprócz wspomnianego efektu — z akumulacji przyszłych zysków. Naszym priorytetem jest takie zarządzanie kapitałem i osiąganie odpowiedniej rentowności, abyśmy mogli dzielić się wypracowanymi profitami. Chcielibyśmy mieć taką nadwyżkę kapitałową, która pozwoli myśleć „w szczodry sposób’ o akcjonariuszach, a przypomnę, że w 2022 r. trafiło do nich 50 proc. zysku z 2021 r. <br><br> Jako bank jesteśmy dobrze przygotowani na trudne czasy i widzimy w 2023 roku możliwości dalszego, stabilnego rozwoju. Pozostajemy wierni swojej misji i stale podsycamy nasz apetyt na kolejne sukcesy, których beneficjentami będą zarówno nasi akcjonariusze, klienci, pracownicy, jak i cała polska gospodarka. <br><br>Z poważaniem"
+
+      },
+      "attachment_1": "images/sup/PKO_18.png"
+    
+
+    },
+
+    "GRI 2-23": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Kwestię bezpieczeństwa określają przepisy wewnętrzne Banku, w tym Polityka Bezpieczeństwa w PKO Banku Polskim S.A. oraz, szczegółowo, przepisy dotyczące konkretnych obszarów bezpieczeństwa: (i) ochrony osób i mienia, (ii) bezpieczeństwa systemu informatycznego, (iii) zarządzania incydentami bezpieczeństwa.<br><br> Bezpieczeństwo środków Klientów <br><br>Bezpieczeństwo inwestowanych środków <br><br>Bank dokłada wszelkiej staranności, aby jego produkty nie generowały ryzyka utraty środków przez klientów. Ma to szczególne znaczenie w przypadku produktów inwestycyjnych. Dlatego też Bank w ramach obowiązków nałożonych przez Dyrektywę MiFID, informuje klientów przed transakcją czy dany produkt jest dla nich odpowiedni. <br><br>Bezpieczeństwo powierzonych depozytów: <br><br>Podstawowym mechanizmem gwarancji bezpieczeństwa środków klientów środków jest stabilność wyniku finansowego Banku i pozostałych podmiotów Grupy Kapitałowej Banku. Dodatkowym mechanizmem jest uczestnictwo Banku w obowiązkowym systemie gwarantowania wkładów, który funkcjonuje na podstawie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji. <br><br>Podmioty Grupy Kapitałowej Banku, w procesie tworzenia przepisów, procedur i polityk, które odnoszą się do praw człowieka, czerpią z dorobku organizacji międzynarodowych i respektują fundamentalne zasady określone w Międzynarodowej Karcie Praw Człowieka, którą tworzą:<br><br>Powszechna Deklaracja Praw Człowieka,<br><br>Konwencja ONZ: Międzynarodowy Pakt Praw Osobistych i Politycznych, <br><br>Konwencja ONZ: Międzynarodowa Konwencja Praw Gospodarczych, Społecznych i Kulturalnych. <br><br>Dla każdego tematu zaprezentowano istniejące polityki lub inne regulacje wewnętrzne, sposób ich implementacji oraz rezultaty."
+
+      }                  
+
+    },
+
+"GRI 3-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W powyższych rozdziałach przedstawiono sposób zarządzania istotnymi tematami z uwzględnieniem ryzyk ESG."
+
+      }
+
+    },
+
+"GRI 2-24": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Dla każdego tematu zaprezentowano istniejące polityki lub inne regulacje wewnętrzne, sposób ich implementacji oraz rezultaty."
+
+      }                  
+
+    },
+
+"GRI 2-25": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Przedstawiono również istniejące procesy naprawy negatywnych wpływów."
+
+      }
+
+    },
+
+"GRI 2-26": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "PKO Bank Polski S.A. nie toleruje korupcji i przeciwdziała wszelkim praktykom korupcyjnym. Zjawiska takie, jak nepotyzm oraz przyjmowanie lub oferowanie jakichkolwiek dóbr materialnych w celu wywarcia wpływu na podejmowane decyzje lub działania, są sprzeczne z wyznawanymi przez Bank wartościami: wiarygodnością i zaufaniem. <br><br>W Banku obowiązują przepisy wewnętrzne dotyczące zapobiegania korupcji, w tym przyjmowania korzyści, prezentów lub upominków, w szczególności: <br><br>Kodeks etyki PKO Banku Polskiego S.A.,<br><br>Kodeks Etyki Bankowej (Zasady Dobrej Praktyki Bankowej) Związku Banków Polskich,<br><br>Zasady zapewnienia zgodności i zarządzania ryzykiem braku zgodności oraz ryzykiem postępowania w Banku.<br><br> System zgłaszania naruszeń I raportowania <br><br> Zgłoszenia jawne <br><br>Pracownicy Banku mają możliwość jawnego zgłaszania nieprawidłowości. Zgłoszenie jawne powinno być kierowane do Departamentu Zgodności lub do innej jednostki bądź jednostki organizacyjnej centrali Banku z użyciem następujących kanałów komunikacji: elektroniczny, listowny, telefoniczny i osobisty (w dowolnie wybranym miejscu, również poza Bankiem). Zgłaszający podlega pełnej ochronie z wyłączeniem przypadków podlegających ujawnieniom sądom i organom ścigania w związku z prowadzonym postępowaniem karnym. W przypadku doświadczenia jakichkolwiek represji istnieje możliwość uzyskania pomocy ze strony Prezesa Zarządu. Zgłaszającemu przekazywana jest informacja zwrotna jeśli nie powoduje to szkody dla interesu Banku lub osób trzecich. <br><br> Zgłoszenia anonimowe <br><br> Bank wprowadził uchwałą Zarządu i Rady Nadzorczej system anonimowego zgłaszania naruszeń (instytucja sygnalisty odnosi się do wszystkich działań nieetycznych, niezgodnych z prawem lub przepisami wewnętrznymi Banku i do naruszeń rekomendacji organów nadzoru i kontroli). Dodatkowo, Bank zobowiązał pracowników do zgłaszania każdego przypadku podejrzenia popełnienia przestępstwa związanego z działalnością Banku. Zgłoszenia takie na zasadach ogólnych mogą być składane także przez inne osoby. Zgłoszenie dotyczące członka Zarządu jest kierowane do Przewodniczącego Rady Nadzorczej, w pozostałych przypadkach – do Prezesa Zarządu Banku. Bank posiada wewnętrzne przepisy, które określają sposób procedowania takich spraw. <br><br> Anonimowe zgłoszenia można przekazywać elektronicznie, telefonicznie lub listownie, a także od 2.01.2023 za pośrednictwem dedykowanego do zgłoszeń, niezależnego i szyfrowanego kanału komunikacji. Osobom dokonującym zgłoszeń anonimowych gwarantowana jest pełna poufność ich danych oraz przekazanych informacji. Jeśli na podstawie treści zgłoszenia możliwe jest ustalenie tożsamości zgłaszającego, informacje te są usuwane przez odbiorcę zgłoszenia przed podjęciem dalszych czynności. Pracownicy dokonujący zgłoszeń, nawet jeżeli stawiane przez nich zarzuty nie zostaną potwierdzone, są chronieni w szczególności przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania. W przypadku doświadczenia jakichkolwiek represji istnieje możliwość pomocy ze strony Prezesa Zarządu Banku. <br><br> W Banku obowiązują również szczegółowe procedury w zakresie czynności weryfikacyjnych i naprawczych w następstwie dokonanych zgłoszeń. Zgłoszenia są weryfikowane przez ograniczoną liczbę osób, które wskazuje Prezes Zarządu Banku.<br><br>Ponieważ tożsamość zgłaszającego jest nieznana, dlatego w większości przypadków nie ma możliwości przekazywania informacji zwrotnej do zgłaszającego.<br><br> Gdy pracownik naruszy przepisy prawa lub przepisy wewnętrzne Banku (w tym dotyczące korupcji), Bank stosuje rozwiązania określone przepisami prawa pracy. Gdy konkretny przypadek kwalifikuje się do wszczęcia postępowania dyscyplinarnego, Bank przeprowadza takie postępowanie i w zależności od jego efektów, korzysta z przewidzianego w tych przepisach katalogu konsekwencji, w tym z prawa rozwiązania z takim pracownikiem umowy o pracę.<br><br>Bank przeprowadza wstępne i regularne szkolenia pracowników Banku obejmujące swoim zakresem zgłaszanie naruszeń i przypadków braku zgodności. Bank umożliwia pracownikom dostęp do niezbędnych informacji i przepisów wewnętrznych w tym zakresie, także w formie elektronicznej w intranecie. Każdy z pracowników Banku ma obowiązek odbycia szkoleń z zasad przeciwdziałania wszelkim praktykom korupcyjnym.<br><br>Informacje o zgłoszeniach nieprawidłowości, w tym polegających na działaniach korupcyjnych oraz wynikach ich weryfikacji są cyklicznie raportowane do Zarządu i Rady Nadzorczej Banku.<br><br>Zbieżne rozwiązania są stosowane w wybranych Spółkach Grupy Kapitałowej Banku w sposób adekwatny do skali i zakresu ich działalności.<br><br>W 2022 roku do Banku trafiło kilkadziesiąt anonimowych zgłoszeń. Ich tematyka dotyczyła przede wszystkim relacji pomiędzy pracownikami a przełożonymi. Jedynie w nielicznych przypadkach nieprawidłowości zostały potwierdzone."
+
+      }
+
+    },
+
+"GRI 205-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W Grupie Kapitałowej Banku, w tym w Banku, ryzyka związane z korupcją identyfikowane są w szczególności: <br><br>w obszarach obsługi klientów (indywidualnych i biznesowych),<br><br>w obszarze dostaw dóbr i usług dla podmiotów Grupy Kapitałowej Banku, w tym Banku przez podmioty zewnętrzne,<br><br>w związku z dokonywanymi darowiznami i umowami sponsorskimi."
+
+      }                  
+
+    },
+
+"GRI 205-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W 2022 roku nie stwierdzono żadnych przypadków korupcji, podobnie jak w 2021 roku."
+
+      }
+
+    },
+
+"GRI 417-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W 2022 roku w zakresie prowadzonej przez Grupę Kapitałową Banku i Bank działalności marketingowej nie prowadzono żadnych postępowań administracyjnych związanych z naruszeniem regulacji dotyczących etyki w komunikacji marketingowej i nie odnotowano żadnych przypadków niezgodności w komunikacji marketingowej."
+
+      }
+
+    },
+
+"GRI 414-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W 2022 roku Bank sprawdził pod względem kryteriów społecznych wszystkich nowych dostawców (268)"
+
+      }
+
+    },
+
+
+"GRI 414-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W 2022 roku Bank nie odnotował żadnych negatywnych efektów społecznych w łańcuchu dostaw"
+
+      }
+
+    },
+
+"GRI 2-27": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "PKO Bank Polski S.A. i Grupa PKO Banku Polskiego S.A. w zakresie oferowanych produktów prowadzą politykę, która ma zapewnić zgodność produktów z przepisami oraz ich właściwe oznakowanie. Zakres tej polityki obejmuje w Banku i Grupie Kapitałowej Banku zarówno etap formułowania oferty produktu, jego prezentacji klientowi, nabycia (tj. podpisania umowy), jak też etap korzystania z produktu przez klienta. Zasady i mechanizmy prowadzenia polityki zgodności i właściwego oznakowania produktów w Banku obowiązują w całej Grupie Kapitałowej Banku. <br><br>W 2022 roku nie odnotowano w Banku znaczących przypadków niezgodności z przepisami prawa, nie zostały też nałożone na Bank żadne karty z tytułu nieprzestrzegania prawa."
+
+      }
+
+    },
+
+"GRI 417-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Grupa Kapitałowa Banku, w tym Bank, realizuje wymogi w zakresie właściwego oznakowania produktów bankowych i inwestycyjnych poprzez dostarczenie klientom wszelkich niezbędnych informacji na ich temat, szczególnie na etapie przedkontraktowym. <br><br>Zakres przekazywanych informacji o produktach wyznaczają przepisy prawa i rekomendacje KNF. Ogólną zasadą jest, iż najwyższy poziom ochrony przysługuje klientom detalicznym – konsumentom. Informacje te są sformułowane w taki sposób, aby były zrozumiałe dla tzw. „przeciętnego konsumenta’ w rozumieniu ustawy o przeciwdziałaniu nieuczciwym  praktykom  rynkowym,  to  jest  konsumenta  dostatecznie  dobrze  poinformowanego,  uważnego i ostrożnego. Natomiast zakres informacji przekazywanych instytucjom finansowym i innym profesjonalnym odbiorcom produktów i usług finansowych jest węższy.<br><br>Właściwe oznakowanie produktów obejmuje również przekazy reklamowe Banku, które wspierają działania sprzedażowe oraz kształtują wizerunek jego marki. Wszystkie publikowane przez Bank materiały o charakterze marketingowym uwzględniają specyficzne obowiązki, które wynikają z przepisów prawa (np. ustawy o kredycie konsumenckim – w zakresie reklamy tego rodzaju kredytów), jak również standardy rynkowe i wytyczne KNF sformułowane w uchwalonych „Zasadach reklamowania usług bankowych’."
+
+      }
+
+    },
+
+"GRI 2-28": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Bank jest członkiem licznych organizacji branżowych i regionalnych (np. Związku Banków Polskich, CFA Institute) oraz wielu organizacji biznesowych takich jak izby gospodarczo-handlowe i organizacje zrzeszające przedsiębiorców (np. Stowarzyszenie Emitentów Giełdowych, Związek Przedsiębiorców i Pracodawców). Według stanu na koniec 2022 roku Bank należał do 76 organizacji, a w trakcie roku przystąpił do Polskiego Stowarzyszenia Inwestorów Kapitałowych oraz Stowarzyszenia Inicjatywa Firm Rodzinnych."
+
+      }
+
+    },
+
+"GRI 307-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "W Grupie nie toczyły się postępowania administracyjne związane z naruszeniem przepisów ochrony środowiska, które zakończyły się nałożeniem kar finansowych."
+
+      }                  
+
+    },
+
+"GRI 303-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Według dokonanych szacunków zużycie wody w Banku w 2022 roku wyniosło ok. 223,5 mega litrów (216,9 mega litrów w 2021 roku), a w pozostałych podmiotach Grupy 45,5 mega litrów (41,7 mega litrów w 2021 roku). Wzrost zużycia wody w Banku (o 3% r/r) wynika z większej obecności pracowników w biurze (56% w 2022 roku vs 51% w 2021 roku)."
+
+      }                  
+
+    },
+
+"GRI 302-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": ""
+
+      },
+      "attachment_1": "images/sup/PKO_19.png" 
+
+    },
+
+"GRI 305-4": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Wskaźniki intensywności emisji gazów cieplarnianych w Grupie Kapitałowej Banku"
+
+      },
+      "attachment_1": "images/sup/PKO_20.png" 
+
+    },
+
+"GRI 305-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Emisje w podziale na metodę w MgCO2e <br><br>Emisje bezpośrednie Grupy Kapitałowej Banku powstałe w wyniku spalania paliw w źródłach będących jej własnością i zakupu czynników chłodniczych <br><br>Emisje w podziale na źródła w MgCO2e według metody market based"
+
+      },
+      "attachment_1": "images/sup/PKO_21.png",     
+      "attachment_2": "images/sup/PKO_27.png",
+      "attachment_3": "images/sup/PKO_28.png"             
+
+    },
+
+"GRI 305-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Emisje w podziale na metodę w MgCO2e <br><br>Emisje pośrednie Grupy Kapitałowej Banku powstałe w wyniku używania zakupionej energii elektrycznej i cieplnej <br><br> Emisje w podziale na źródła w MgCO2e według metody market based"
+
+      },
+      "attachment_1": "images/sup/PKO_22.png", 
+      "attachment_2": "images/sup/PKO_27.png",
+      "attachment_3": "images/sup/PKO_28.png"                 
+
+    },
+
+"GRI 305-3": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Emisje w podziale na metodę w MgCO2e <br><br>Emisje pośrednie Grupy Kapitałowej Banku powstałe w wyniku podróży służbowych, dojazdów pracowników do pracy, WTT i wynajmu powierzchni<br><br> Emisje w podziale na źródła w MgCO2e według metody market based "
+
+      },
+      "attachment_1": "images/sup/PKO_23.png",   
+      "attachment_2": "images/sup/PKO_27.png",
+      "attachment_3": "images/sup/PKO_28.png"               
+
+    },
+
+"GRI 306-2": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Niebezpieczne odpady elektryczne i elektroniczne Bank przekazuje wyspecjalizowanej firmie, która je przetwarza i recykluje (w 100%)."
+
+      }                  
+
+    },
+
+"GRI 305-5": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": " Emisje w podziale na źródła w MgCO2e według metody market based"
+
+      },
+      "attachment_1": "images/sup/PKO_24.png",
+      "attachment_2": "images/sup/PKO_27.png",
+      "attachment_3": "images/sup/PKO_28.png"
+
+
+    },
+
+"GRI 302-1": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Zużycie energii w organizacji (w MWh)"
+
+      },
+      "attachment_1": "images/sup/PKO_25.png",
+      "attachment_2": "images/sup/PKO_26.png"
+
+    },
+
+
+"GRI 302-4": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Zużycie energii w organizacji (w MWh) <> Całkowite zużycie energii w 2022 roku w stosunku do 2021 roku dla Grupy spadło o 1%, przy spadku dla Banku o 2,6% i wzroście dla pozostałych podmiotów Grupy o 7,5% (wzrost zużycia paliw wykorzystywanych w pojazdach głównie w Grupie Kapitałowej PKO Leasing S.A. oraz oleju napędowego do agregatów prądotwórczych przez spółki zależne w Ukrainie). <br><br>Bank kontynuuje działania zmierzające do wdrożenia Systemu Zarządzania Energią zgodnie z ISO50001. Celem jest optymalizacja wykorzystania energii w przedsiębiorstwie, wprowadzenie jednego systemu kontroli jej zużycia oraz zintensyfikowanie działań w celu redukcji zużycia nośników energii."
+
+      },
+      "attachment_1": "images/sup/PKO_25.png",
+      "attachment_2": "images/sup/PKO_26.png"
+
+    },
+
+
+
+"GRI 2-4": {
+      "metrics": {
+        "Opis": "Pełny",
+        "Text": "Bank zgłasza korektę danych do Oświadczenia na temat informacji niefinansowych za 2021 rok: w tabeli 45 wartość łącznych emisji (Zakres 1+2+3) dla Grupy Kapitałowej Banku w 2021 roku powinna wynosić 54 228 MgCO2e zamiast 41 637 MgCO2e."
+
+      }                  
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+            }}},
+
+
+
+    
+           
 
 
 
@@ -4219,7 +4913,7 @@
                                 "Country": "Poland",
                                 "Ownership": "ING Bank (75%), Alliaz Polska (9.30%), Float (15.70%)",
                                 "HQ": "Warsaw",
-                                "Text": "ING Bank N.V. is a member of ING Group – a global group of financial institutions offering retail and corporate banking services. ING Group companies pursue business in over 40 countries in Europe, North and South Americas, in the Near East as well as in Asia and Australia. ING Group pursues business in four areas: Market Leaders, Challengers, Growth Markets – including Poland as a well as through a global corporate banking network dedicated to strategic clients – Wholesale Banking. A Dutch financial institution, ING Groep N.V., is the ING Group’s parent company. It was incorporated in 1991 through the merger of a Dutch insurance company, Nationale-Nederlanden, with a Dutch bank, NMB Postbank Groep."
+                                "Text": "Kim jesteśmy<br><br> Nasza historia sięga do 1988 roku. W tym właśnie roku, dokładnie 11 kwietnia, Rada Ministrów wydała rozporządzenie w sprawie utworzenia Banku Śląskiego w Katowicach i tu po dziś mieści się nasza siedziba. Niespełna rok później, z początkiem lutego 1989 roku, Bank Śląski rozpoczął swoją działalność. W 1992 nastąpiło przekształcenie naszego banku z banku państwowego w spółkę akcyjną. W 1993 roku otrzymaliśmy od Komisji Papierów Wartościowych zgodę na wprowadzenie akcji do obrotu publicznego. W styczniu 1994 roku ING nabyło 2,4 mln akcji naszego banku co odpowiadało 25,9% kapitału akcyjnego. 25 stycznia 1994 roku akcje Banku Śląskiego zadebiutowały na Warszawskiej Giełdzie Papierów Wartościowych. <br><br>Od 6 września 2001 roku – po połączeniu Banku Śląskiego z oddziałem ING – funkcjonujemy pod obecną nazwą ING Bank Śląski S.A. Wtedy też Grupa ING N.V. została większościowym udziałowcem w naszym banku (z udziałem 87,77%, który został zredukowany do poziomu 75,00% w marcu 2005 roku). <br><br>Bank skutecznie rozwija się w sposób organiczny. Misją banku jest inspirowanie i wspomaganie klientów w podejmowaniu trafnych decyzji życiowych. Osiągnięcie tego wymaga zaangażowanych i wrażliwych pracowników. Realizujemy tę misję poprzez nasz bank, jego spółki zależne, a przede wszystkim przez grupę ponad 8 tys. naszych pracowników.  <br><br>Po ponad 30 latach nieustannego rozwoju, zajmujemy obecnie 4 miejsce pod względem wielkości aktywów ogółem i salda komercyjnego (sumy depozytów i kredytów) w polskim sektorze banków komercyjnych. Nasza skala działania przyczynia się do rozwoju polskiej gospodarki, ale niesie też ze sobą świadomość ogromnej odpowiedzialności za naszych pracowników, klientów, społeczeństwo i środowisko. <br><br>Jesteśmy bankiem uniwersalnym, który obsługuje zarówno klientów detalicznych, jak i podmioty gospodarcze. Podstawowym kanałem komunikacji z blisko 5 mln naszych klientów jest Internet, z silnie rosnącą rolą bankowości mobilnej. Naszych klientów obsługujemy również poprzez sieć 205 punktów spotkań. Są to miejsca, w których nasi klienci mogą spytać o poradę i porozmawiać. <br><br> W 2023 roku ING kolejny rok z rzędu zajmuje pozycje lidera w zakresie siły marki (Demand Power) wśród banków (w oparciu o badanie Kantar Polska). Wysoki poziom wskaźnika wskazuje na rolę wizerunku marki w zwiększaniu udziałów rynkowych, a w szczególności dopasowaniu banku do potrzeb klientów, wyróżnialność marki na tle konkurencji oraz rozpoznawalność ING wśród banków. W 2023 roku ING był marką cieszącą się największym zaufaniem wśród konsumentów i bankiem, który stale podnosi jakość produktów i usług odpowiadając na zmieniające się potrzeby i oczekiwania klientów. Silny wizerunek przełożył się na najwyższe preferencje ING wśród banków w sytuacji wyboru przez konsumentów: konta oszczędnościowego, pożyczki oraz II miejsce dla: hipotek, kont osobistych i aplikacji mobilnej. Marka posiada aspiracyjny wizerunek: banku dla osób przedsiębiorczych i marki zaangażowanej społecznie. <br><br> Akcje i kapitał zakładowy <br><br> Zgodnie ze statutem, kapitał zakładowy ING Banku Śląskiego S.A. dzieli się na 130 100 000 akcji o wartości nominalnej 1 zł każda. Akcje banku są akcjami zwykłymi na okaziciela. Z akcjami banku nie są związane żadne specjalne uprawnienia kontrolne. Statut ING Banku Śląskiego nie wprowadza także jakichkolwiek ograniczeń odnośnie przenoszenia prawa własności akcji wyemitowanych przez bank, wykonywania prawa głosu, jak również nie zawiera postanowień, zgodnie z którymi prawa kapitałowe związane z papierami wartościowymi są oddzielone od posiadania papierów wartościowych. <br><br>Statut upoważnia ponadto Zarząd do podwyższenia kapitału zakładowego o kwotę nie wyższą niż 26 mln zł (czyli emisji maksymalnie 26 mln akcji) w terminie do 26 kwietnia 2026 roku (kapitał docelowy) oraz do wyłączenia prawa poboru przy emisji akcji w ramach kapitału docelowego. Decyzje Zarządu w sprawie ustalenia ceny emisyjnej akcji i wyłączenia prawa poboru wymagają zgody Rady Nadzorczej. Upoważnienie do emisji kapitału docelowego umożliwi Zarządowi podjęcie, w razie wystąpienia takiej potrzeby, szybkich działań zmierzających do kapitałowego wzmocnienia banku. Pełne uzasadnienie w tym zakresie zostało dołączone do projektu uchwały Walnego Zgromadzenia w tej sprawie (s. 13 tego dokumentu)"
                               }
                             },
 
